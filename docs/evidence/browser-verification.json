@@ -1,0 +1,5 @@
+{
+  "V03": "passed: same PNG for direct/sequential frame 390",
+  "ui": "real API, canvas preview, no browser page errors",
+  "png_sha256": "74525c26ba446ffc74023f942496ff17582f7882946bdb94b70ae5b6efcdd874"
+}

@@ -1,0 +1,50 @@
+{
+  "additionalProperties": false,
+  "properties": {
+    "expected_revision": {
+      "minimum": 0,
+      "title": "Expected Revision",
+      "type": "integer"
+    },
+    "actor": {
+      "default": "ui",
+      "title": "Actor",
+      "type": "string"
+    },
+    "change_reason": {
+      "minLength": 1,
+      "title": "Change Reason",
+      "type": "string"
+    },
+    "idempotency_key": {
+      "maxLength": 160,
+      "minLength": 1,
+      "title": "Idempotency Key",
+      "type": "string"
+    },
+    "lease_token": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Lease Token"
+    },
+    "data": {
+      "additionalProperties": true,
+      "title": "Data",
+      "type": "object"
+    }
+  },
+  "required": [
+    "expected_revision",
+    "change_reason",
+    "idempotency_key"
+  ],
+  "title": "Mutation",
+  "type": "object"
+}

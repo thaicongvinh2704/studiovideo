@@ -1,0 +1,18 @@
+{
+  "project_id": "project_1f83876febe14668",
+  "TTS": {
+    "job_id": "job_d8a7a2f7aba047a8",
+    "duration_seconds": 16.99,
+    "profile": "VieNeu Turbo CPU/ONNX fp32",
+    "audio_path": "<workspace>\\data\\projects\\project_1f83876febe14668\\reports\\job_d8a7a2f7aba047a8\\tts.wav",
+    "automatic_quality_retries": 0
+  },
+  "ASR": {
+    "job_id": "job_c8b38f5febd6440b",
+    "profile": "Whisper medium CPU int8",
+    "segments": 4,
+    "issues": []
+  },
+  "alignment": "Not run: default vi weights are CC-BY-NC-4.0; sentence/manual anchors remain available",
+  "observation": "Inference and file probe verified; no claim of having listened to full audio"
+}

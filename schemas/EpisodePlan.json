@@ -1,0 +1,716 @@
+{
+  "$defs": {
+    "Anchor": {
+      "additionalProperties": false,
+      "properties": {
+        "audio_revision": {
+          "title": "Audio Revision",
+          "type": "string"
+        },
+        "word_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Word Id"
+        },
+        "utterance_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Utterance Id"
+        },
+        "manual_sample": {
+          "anyOf": [
+            {
+              "minimum": 0,
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Manual Sample"
+        },
+        "evidence": {
+          "default": "",
+          "title": "Evidence",
+          "type": "string"
+        },
+        "edge": {
+          "default": "start",
+          "enum": [
+            "start",
+            "end"
+          ],
+          "title": "Edge",
+          "type": "string"
+        },
+        "offset_samples": {
+          "default": 0,
+          "title": "Offset Samples",
+          "type": "integer"
+        },
+        "quantization": {
+          "default": "not_before",
+          "enum": [
+            "not_before",
+            "nearest"
+          ],
+          "title": "Quantization",
+          "type": "string"
+        }
+      },
+      "required": [
+        "audio_revision"
+      ],
+      "title": "Anchor",
+      "type": "object"
+    },
+    "AssetRequest": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "scene_refs": {
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1,
+          "title": "Scene Refs",
+          "type": "array"
+        },
+        "role": {
+          "minLength": 1,
+          "title": "Role",
+          "type": "string"
+        },
+        "exact_details": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Exact Details",
+          "type": "array"
+        },
+        "forbidden_details": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Forbidden Details",
+          "type": "array"
+        },
+        "references": {
+          "items": {
+            "type": "string"
+          },
+          "title": "References",
+          "type": "array"
+        },
+        "prompt": {
+          "minLength": 1,
+          "title": "Prompt",
+          "type": "string"
+        },
+        "prompt_vi": {
+          "minLength": 1,
+          "title": "Prompt Vi",
+          "type": "string"
+        },
+        "negative_prompt": {
+          "default": "",
+          "title": "Negative Prompt",
+          "type": "string"
+        },
+        "workflow_profile": {
+          "title": "Workflow Profile",
+          "type": "string"
+        },
+        "parameters": {
+          "additionalProperties": true,
+          "title": "Parameters",
+          "type": "object"
+        },
+        "layer_requirements": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Layer Requirements",
+          "type": "array"
+        },
+        "output": {
+          "additionalProperties": true,
+          "title": "Output",
+          "type": "object"
+        }
+      },
+      "required": [
+        "id",
+        "scene_refs",
+        "role",
+        "exact_details",
+        "forbidden_details",
+        "references",
+        "prompt",
+        "prompt_vi",
+        "workflow_profile",
+        "parameters",
+        "layer_requirements",
+        "output"
+      ],
+      "title": "AssetRequest",
+      "type": "object"
+    },
+    "Event": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "scene_id": {
+          "title": "Scene Id",
+          "type": "string"
+        },
+        "target_id": {
+          "title": "Target Id",
+          "type": "string"
+        },
+        "action": {
+          "enum": [
+            "pose_swap",
+            "expression_swap",
+            "reveal",
+            "point_at",
+            "look_at",
+            "attach",
+            "text_highlight"
+          ],
+          "title": "Action",
+          "type": "string"
+        },
+        "anchor": {
+          "$ref": "#/$defs/Anchor"
+        },
+        "duration_samples": {
+          "default": 1600,
+          "minimum": 0,
+          "title": "Duration Samples",
+          "type": "integer"
+        },
+        "parameters": {
+          "additionalProperties": true,
+          "title": "Parameters",
+          "type": "object"
+        },
+        "dependency_ids": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Dependency Ids",
+          "type": "array"
+        }
+      },
+      "required": [
+        "id",
+        "scene_id",
+        "target_id",
+        "action",
+        "anchor"
+      ],
+      "title": "Event",
+      "type": "object"
+    },
+    "Keyframe": {
+      "additionalProperties": false,
+      "properties": {
+        "sample": {
+          "minimum": 0,
+          "title": "Sample",
+          "type": "integer"
+        },
+        "value": {
+          "title": "Value",
+          "type": "number"
+        },
+        "easing": {
+          "default": "linear",
+          "enum": [
+            "linear",
+            "smooth",
+            "hold"
+          ],
+          "title": "Easing",
+          "type": "string"
+        }
+      },
+      "required": [
+        "sample",
+        "value"
+      ],
+      "title": "Keyframe",
+      "type": "object"
+    },
+    "Node": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "kind": {
+          "enum": [
+            "character",
+            "prop",
+            "text",
+            "image",
+            "arrow",
+            "path"
+          ],
+          "title": "Kind",
+          "type": "string"
+        },
+        "parent_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Parent Id"
+        },
+        "attachment": {
+          "anyOf": [
+            {
+              "enum": [
+                "hand_left",
+                "hand_right"
+              ],
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Attachment"
+        },
+        "asset_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Asset Id"
+        },
+        "text": {
+          "default": "",
+          "title": "Text",
+          "type": "string"
+        },
+        "shape": {
+          "default": "box",
+          "enum": [
+            "box",
+            "stone",
+            "rope",
+            "circle"
+          ],
+          "title": "Shape",
+          "type": "string"
+        },
+        "x": {
+          "default": 0,
+          "title": "X",
+          "type": "number"
+        },
+        "y": {
+          "default": 0,
+          "title": "Y",
+          "type": "number"
+        },
+        "scale": {
+          "default": 1,
+          "title": "Scale",
+          "type": "number"
+        },
+        "rotation": {
+          "default": 0,
+          "title": "Rotation",
+          "type": "number"
+        },
+        "opacity": {
+          "default": 1,
+          "maximum": 1,
+          "minimum": 0,
+          "title": "Opacity",
+          "type": "number"
+        },
+        "pivot_x": {
+          "default": 0,
+          "title": "Pivot X",
+          "type": "number"
+        },
+        "pivot_y": {
+          "default": 0,
+          "title": "Pivot Y",
+          "type": "number"
+        },
+        "z": {
+          "default": 0,
+          "title": "Z",
+          "type": "integer"
+        },
+        "width": {
+          "default": 200,
+          "title": "Width",
+          "type": "number"
+        },
+        "height": {
+          "default": 100,
+          "title": "Height",
+          "type": "number"
+        },
+        "color": {
+          "default": "#14b8a6",
+          "title": "Color",
+          "type": "string"
+        },
+        "font_size": {
+          "default": 48,
+          "title": "Font Size",
+          "type": "number"
+        },
+        "pose": {
+          "default": "neutral",
+          "enum": [
+            "neutral",
+            "present",
+            "point_left",
+            "point_right",
+            "think",
+            "hold",
+            "pull"
+          ],
+          "title": "Pose",
+          "type": "string"
+        },
+        "expression": {
+          "default": "neutral",
+          "enum": [
+            "neutral",
+            "curious",
+            "surprised",
+            "skeptical",
+            "happy"
+          ],
+          "title": "Expression",
+          "type": "string"
+        },
+        "visible_from": {
+          "default": 0,
+          "title": "Visible From",
+          "type": "integer"
+        },
+        "visible_until": {
+          "anyOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Visible Until"
+        },
+        "points": {
+          "items": {
+            "items": {
+              "type": "number"
+            },
+            "type": "array"
+          },
+          "title": "Points",
+          "type": "array"
+        },
+        "keyframes": {
+          "additionalProperties": {
+            "items": {
+              "$ref": "#/$defs/Keyframe"
+            },
+            "type": "array"
+          },
+          "propertyNames": {
+            "enum": [
+              "x",
+              "y",
+              "scale",
+              "rotation",
+              "opacity",
+              "reveal",
+              "highlight"
+            ]
+          },
+          "title": "Keyframes",
+          "type": "object"
+        }
+      },
+      "required": [
+        "id",
+        "kind"
+      ],
+      "title": "Node",
+      "type": "object"
+    },
+    "Scene": {
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "start_sample": {
+          "minimum": 0,
+          "title": "Start Sample",
+          "type": "integer"
+        },
+        "end_sample": {
+          "exclusiveMinimum": 0,
+          "title": "End Sample",
+          "type": "integer"
+        },
+        "purpose": {
+          "minLength": 1,
+          "title": "Purpose",
+          "type": "string"
+        },
+        "utterance_ids": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Utterance Ids",
+          "type": "array"
+        },
+        "knowledge_before": {
+          "minLength": 1,
+          "title": "Knowledge Before",
+          "type": "string"
+        },
+        "reveal_rules": {
+          "minLength": 1,
+          "title": "Reveal Rules",
+          "type": "string"
+        },
+        "emotional_intent": {
+          "minLength": 1,
+          "title": "Emotional Intent",
+          "type": "string"
+        },
+        "visual_strategy": {
+          "minLength": 1,
+          "title": "Visual Strategy",
+          "type": "string"
+        },
+        "requirements": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Requirements",
+          "type": "array"
+        },
+        "background": {
+          "default": "#f5f0e7",
+          "title": "Background",
+          "type": "string"
+        },
+        "transition": {
+          "default": "cut",
+          "enum": [
+            "cut",
+            "dissolve"
+          ],
+          "title": "Transition",
+          "type": "string"
+        },
+        "transition_samples": {
+          "default": 0,
+          "minimum": 0,
+          "title": "Transition Samples",
+          "type": "integer"
+        },
+        "camera": {
+          "additionalProperties": {
+            "items": {
+              "$ref": "#/$defs/Keyframe"
+            },
+            "type": "array"
+          },
+          "propertyNames": {
+            "enum": [
+              "x",
+              "y",
+              "scale"
+            ]
+          },
+          "title": "Camera",
+          "type": "object"
+        },
+        "nodes": {
+          "items": {
+            "$ref": "#/$defs/Node"
+          },
+          "title": "Nodes",
+          "type": "array"
+        }
+      },
+      "required": [
+        "id",
+        "start_sample",
+        "end_sample",
+        "purpose",
+        "utterance_ids",
+        "knowledge_before",
+        "reveal_rules",
+        "emotional_intent",
+        "visual_strategy",
+        "requirements",
+        "nodes"
+      ],
+      "title": "Scene",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "1.0",
+      "default": "1.0",
+      "title": "Schema Version",
+      "type": "string"
+    },
+    "audio_revision": {
+      "title": "Audio Revision",
+      "type": "string"
+    },
+    "outline": {
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "title": "Outline",
+      "type": "array"
+    },
+    "open_questions": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Open Questions",
+      "type": "array"
+    },
+    "payoff": {
+      "minLength": 1,
+      "title": "Payoff",
+      "type": "string"
+    },
+    "narrative_approach": {
+      "minLength": 1,
+      "title": "Narrative Approach",
+      "type": "string"
+    },
+    "distinctiveness_notes": {
+      "minLength": 1,
+      "title": "Distinctiveness Notes",
+      "type": "string"
+    },
+    "tone": {
+      "default": "giải thích",
+      "title": "Tone",
+      "type": "string"
+    },
+    "opening_promise": {
+      "default": "",
+      "title": "Opening Promise",
+      "type": "string"
+    },
+    "visual_balance": {
+      "default": "",
+      "title": "Visual Balance",
+      "type": "string"
+    },
+    "pacing_notes": {
+      "default": "",
+      "title": "Pacing Notes",
+      "type": "string"
+    },
+    "scenes": {
+      "items": {
+        "$ref": "#/$defs/Scene"
+      },
+      "minItems": 1,
+      "title": "Scenes",
+      "type": "array"
+    },
+    "events": {
+      "items": {
+        "$ref": "#/$defs/Event"
+      },
+      "title": "Events",
+      "type": "array"
+    },
+    "asset_requests": {
+      "items": {
+        "$ref": "#/$defs/AssetRequest"
+      },
+      "title": "Asset Requests",
+      "type": "array"
+    },
+    "claims": {
+      "items": {
+        "additionalProperties": true,
+        "type": "object"
+      },
+      "title": "Claims",
+      "type": "array"
+    },
+    "entities": {
+      "items": {
+        "additionalProperties": true,
+        "type": "object"
+      },
+      "title": "Entities",
+      "type": "array"
+    }
+  },
+  "required": [
+    "audio_revision",
+    "outline",
+    "open_questions",
+    "payoff",
+    "narrative_approach",
+    "distinctiveness_notes",
+    "scenes"
+  ],
+  "title": "EpisodePlan",
+  "type": "object"
+}

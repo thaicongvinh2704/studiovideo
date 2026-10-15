@@ -1,0 +1,13 @@
+{
+  "transport": "real STDIO through Python MCP ClientSession",
+  "tool_count": 41,
+  "tested": [
+    "initialize",
+    "list_tools",
+    "studio_capabilities",
+    "project_summary",
+    "plan_preflight"
+  ],
+  "Codex_client": "configuration generated, not connected",
+  "Antigravity_client": "configuration generated, not connected"
+}

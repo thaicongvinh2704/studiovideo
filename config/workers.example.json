@@ -1,0 +1,146 @@
+{
+  "whisper-medium": {
+    "kind": "audio_analyze",
+    "python": "",
+    "model_path": "",
+    "source": "https://github.com/SYSTRAN/faster-whisper",
+    "license_record": null,
+    "min_ram_mb": 2500,
+    "device": "cuda",
+    "compute_type": "int8_float16",
+    "language": "vi",
+    "status": "not_installed",
+    "model_hash": ""
+  },
+  "whisper-small-cpu": {
+    "kind": "audio_analyze",
+    "python": "",
+    "model_path": "",
+    "source": "https://github.com/SYSTRAN/faster-whisper",
+    "license_record": null,
+    "min_ram_mb": 1800,
+    "device": "cpu",
+    "compute_type": "int8",
+    "language": "vi",
+    "status": "not_installed",
+    "model_hash": ""
+  },
+  "whisperx-vi": {
+    "kind": "audio_align",
+    "python": "",
+    "model_path": "",
+    "source": "https://github.com/m-bain/whisperX",
+    "license_record": {
+      "spdx": "CC-BY-NC-4.0",
+      "commercial_use": false,
+      "source": "https://huggingface.co/nguyenvulebinh/wav2vec2-base-vi-vlsp2020",
+      "verified_date": "2026-10-14"
+    },
+    "min_ram_mb": 2500,
+    "language": "vi",
+    "status": "license_restricted_not_installed",
+    "model_hash": ""
+  },
+  "vieneu-turbo-cpu": {
+    "kind": "tts_generate",
+    "python": "",
+    "model_path": "",
+    "source": "https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo",
+    "license_record": {
+      "spdx": "Apache-2.0",
+      "source": "https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo",
+      "commercial_use": true,
+      "artifact_revisions": {
+        "pnnbao-ump/VieNeu-TTS-v3-Turbo": "61b85e3d937fbbacb387714180e8182823512523",
+        "OpenMOSS-Team/MOSS-Audio-Tokenizer-Nano-ONNX": "ceff0d0749bfb3fa2d61149794ec6feef0d1e1ae"
+      },
+      "verified_date": "2026-10-14"
+    },
+    "min_ram_mb": 3000,
+    "precision": "fp32",
+    "voice": "Minh Quân",
+    "status": "not_installed",
+    "artifact_manifest": "",
+    "backbone_path": "",
+    "codec_path": "",
+    "voices": [
+      "Minh Đức",
+      "Phạm Tuyên",
+      "Thái Sơn",
+      "Xuân Vĩnh",
+      "Thanh Bình",
+      "Trúc Ly",
+      "Ngọc Linh",
+      "Đoan Trang",
+      "Mai Anh",
+      "Thục Đoan",
+      "Minh Triết",
+      "Thùy Dung",
+      "Quang Sơn",
+      "Ngọc Trân",
+      "Mỹ Duyên",
+      "Quỳnh Anh",
+      "Đức Trí",
+      "Kim Thanh",
+      "Ngọc Huyền",
+      "Adam",
+      "Mạnh Dũng",
+      "Minh Quân",
+      "Anh Khôi"
+    ],
+    "model_hash": ""
+  },
+  "sd15-local": {
+    "kind": "asset_generate",
+    "python": "",
+    "model_path": "",
+    "source": "https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5",
+    "license_record": {
+      "spdx": "CreativeML-OpenRAIL-M",
+      "commercial_use": true,
+      "source": "https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5",
+      "revision": "451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
+      "conditions": "OpenRAIL usage restrictions apply; retain notices",
+      "verified_date": "2026-10-14"
+    },
+    "min_ram_mb": 6144,
+    "endpoint": "http://127.0.0.1:8189",
+    "workflow_path": "",
+    "status": "not_installed",
+    "engine_python": "",
+    "engine_script": "",
+    "engine_commit": "e0a32bce84f4603f2b61b16b50f8958e68fd6171",
+    "port": 8189,
+    "min_vram_mb": 2800,
+    "nodes": {
+      "positive": "6",
+      "negative": "7",
+      "latent": "5",
+      "sampler": "3"
+    },
+    "reserve_after_engine_mb": 2300,
+    "model_hash": ""
+  },
+  "whisper-medium-cpu": {
+    "kind": "audio_analyze",
+    "python": "",
+    "model_path": "",
+    "source": "https://github.com/SYSTRAN/faster-whisper",
+    "license_record": {
+      "spdx": "MIT",
+      "source": "https://github.com/SYSTRAN/faster-whisper",
+      "commercial_use": true,
+      "artifact_revisions": {
+        "Systran/faster-whisper-medium": "08e178d48790749d25932bbc082711ddcfdfbc4f"
+      },
+      "verified_date": "2026-10-14"
+    },
+    "min_ram_mb": 3500,
+    "device": "cpu",
+    "compute_type": "int8",
+    "language": "vi",
+    "status": "not_installed",
+    "artifact_manifest": "",
+    "model_hash": ""
+  }
+}
