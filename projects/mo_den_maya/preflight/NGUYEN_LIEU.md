@@ -1,5 +1,10 @@
 # Maya — kiểm tra nguyên liệu trước khi dựng
 
+**Cập nhật 21/10/2026:** đã nhận lại và nhập đủ 198 PNG của hai bộ vào
+`assets/reusable/mo_den/`. Các đường dẫn `C:\Users\ADMIN\Downloads` trong hồ sơ
+kiểm kê cũ là lịch sử. Kiểm tra nhập mới ở `../director_v2/import_audit.json`;
+project dựng mới và thông tin bàn giao ở `../director_v2/README.md`.
+
 ## Kết luận
 
 Đủ để bắt đầu lập phân cảnh và dựng nháp. Chưa đủ gói tư liệu cuối cho cách dựng

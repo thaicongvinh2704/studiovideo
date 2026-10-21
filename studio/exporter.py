@@ -14,7 +14,7 @@ from .animation import ENGINE_VERSION
 from PySide6.QtCore import Qt
 from PySide6.QtGui import QFont, QFontInfo
 
-EXPORT_VERSION='explainer-3.1'
+EXPORT_VERSION='explainer-3.2-photo-orientation'
 PROFILES={'draft':dict(crf=23,preset='veryfast'),'balanced':dict(crf=20,preset='fast'),'final':dict(crf=18,preset='medium')}
 
 FLAGS = getattr(subprocess,'CREATE_NO_WINDOW',0)
@@ -212,7 +212,7 @@ def export_cached(project,root,output,width=None,height=None,fps=None,burn=True,
             try:validate_output(path,width,height,fps,render_length);valid=True
             except Exception:pass
         if not valid:
-            export_video(project,root,path,width,height,fps,render_start,render_length,burn,
+            export_video(local,root,path,width,height,fps,render_start,render_length,burn,
                          lambda a,b,offset=done:progress(offset+a,total),cancel)
             if i not in manifest['completed']:manifest['completed'].append(i)
             manifest['scene_keys'][str(i)]=fingerprint
@@ -223,10 +223,16 @@ def export_cached(project,root,output,width=None,height=None,fps=None,burn=True,
         video=Path(tmp)/'video.mp4'
         checked_run([binary('ffmpeg'),'-y','-v','error','-f','concat','-safe','1','-i',str(concat),
                      '-map','0:v:0','-an','-c:v','copy','-movflags','+faststart',str(video)],cancel)
+        # The concat demuxer can carry the first scene's AAC priming into the
+        # video timestamps even when its audio stream is discarded. Normalize
+        # that single global offset before combining with the full audio mix.
+        start_probe=json.loads(subprocess.check_output([binary('ffprobe'),'-v','error','-select_streams','v:0',
+            '-show_entries','stream=start_time','-of','json',str(video)],creationflags=FLAGS))
+        video_start=float(start_probe['streams'][0].get('start_time',0) or 0)
         # One full-length audio mix avoids per-scene AAC priming accumulating over long videos.
         mixed=Path(tmp)/'audio.wav';mix_audio(project,root,mixed,0,duration(project),cancel)
         final=Path(tmp)/'final.mp4'
-        checked_run([binary('ffmpeg'),'-y','-v','error','-i',str(video),'-i',str(mixed),'-map','0:v:0','-map','1:a:0',
+        checked_run([binary('ffmpeg'),'-y','-v','error','-itsoffset',f'{-video_start:.9f}','-i',str(video),'-i',str(mixed),'-map','0:v:0','-map','1:a:0',
                      '-c:v','copy','-c:a','aac','-b:a','192k','-t',str(duration(project)),'-movflags','+faststart',str(final)],cancel)
         validate_output(final,width,height,fps,duration(project))
         if cancel.is_set():raise Cancelled('Đã hủy xuất video.')

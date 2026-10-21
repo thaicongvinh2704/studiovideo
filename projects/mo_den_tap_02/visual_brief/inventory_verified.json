@@ -1,0 +1,2180 @@
+[
+  {
+    "id": "001",
+    "name": "Bình gốm đựng nước",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/001_doi_song_binh_gom_dung_nuoc.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "002",
+    "name": "Bát đất nung",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/002_doi_song_bat_dat_nung.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "003",
+    "name": "Giỏ có quai",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/003_doi_song_gio_co_quai.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "004",
+    "name": "Túi đeo vai",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/004_doi_song_tui_deo_vai.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "005",
+    "name": "Ghế đẩu",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/005_doi_song_ghe_dau.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "006",
+    "name": "Bàn gỗ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/006_doi_song_ban_go.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "007",
+    "name": "Giường gỗ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/007_doi_song_giuong_go.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "008",
+    "name": "Bếp củi",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/008_doi_song_bep_cui.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "009",
+    "name": "Nồi có nắp",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/009_doi_song_noi_co_nap.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "010",
+    "name": "Muôi gỗ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/010_doi_song_muoi_go.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "011",
+    "name": "Cốc có quai",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/011_doi_song_coc_co_quai.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "012",
+    "name": "Đĩa",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/012_doi_song_dia.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "013",
+    "name": "Chiếu cuộn",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/013_doi_song_chieu_cuon.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "014",
+    "name": "Chăn gấp",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/014_doi_song_chan_gap.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "015",
+    "name": "Xô gỗ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/015_doi_song_xo_go.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "016",
+    "name": "Chổi",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/016_doi_song_choi.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "017",
+    "name": "Con suốt kéo sợi",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/017_doi_song_con_suot_keo_soi.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "018",
+    "name": "Cối và chày",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/018_doi_song_coi_va_chay.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "019",
+    "name": "Kính thiên văn",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/019_nghien_cuu_kinh_thien_van.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "020",
+    "name": "Kính hiển vi",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/020_nghien_cuu_kinh_hien_vi.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "021",
+    "name": "Quả địa cầu minh họa",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/021_nghien_cuu_qua_dia_cau_minh_hoa.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "022",
+    "name": "Hộp lưu mẫu",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/022_nghien_cuu_hop_luu_mau.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "023",
+    "name": "Bảng kẹp giấy",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/023_nghien_cuu_bang_kep_giay.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "024",
+    "name": "Thước cặp",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/024_nghien_cuu_thuoc_cap.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "025",
+    "name": "Thước gỗ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/025_nghien_cuu_thuoc_go.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "026",
+    "name": "Đồng hồ mặt trời",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/026_nghien_cuu_dong_ho_mat_troi.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "027",
+    "name": "Kính lục phân",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/027_nghien_cuu_kinh_luc_phan.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "028",
+    "name": "Ống nhòm",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/028_nghien_cuu_ong_nhom.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "029",
+    "name": "Đèn bàn",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/029_nghien_cuu_den_ban.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "030",
+    "name": "Bộ đàm",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/030_nghien_cuu_bo_dam.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "031",
+    "name": "Ống đựng mẫu",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/031_nghien_cuu_ong_dung_mau.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "032",
+    "name": "Lam kính",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/032_nghien_cuu_lam_kinh.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "033",
+    "name": "Nhiệt kế",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/033_nghien_cuu_nhiet_ke.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "034",
+    "name": "Thước khảo cổ hình chữ L",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/034_nghien_cuu_thuoc_khao_co_hinh_chu_l.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "035",
+    "name": "Vòm đá",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/035_kien_truc_vom_da.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "036",
+    "name": "Đoạn tường đá",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/036_kien_truc_doan_tuong_da.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "037",
+    "name": "Cột đá",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/037_kien_truc_cot_da.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "038",
+    "name": "Bậc thang đá",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/038_kien_truc_bac_thang_da.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "039",
+    "name": "Cửa sổ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/039_kien_truc_cua_so.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "040",
+    "name": "Giếng đá",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/040_kien_truc_gieng_da.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "041",
+    "name": "Cầu gỗ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/041_kien_truc_cau_go.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "042",
+    "name": "Tháp canh",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/042_kien_truc_thap_canh.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "043",
+    "name": "Móng công trình",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/043_kien_truc_mong_cong_trinh.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "044",
+    "name": "Nhà đá",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/044_kien_truc_nha_da.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "045",
+    "name": "Khung cửa đá",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/045_kien_truc_khung_cua_da.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "046",
+    "name": "Vì kèo mái gỗ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/046_kien_truc_vi_keo_mai_go.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "047",
+    "name": "Mái tranh",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/047_kien_truc_mai_tranh.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "048",
+    "name": "Mái ngói",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/048_kien_truc_mai_ngoi.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "049",
+    "name": "Ống khói",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/049_kien_truc_ong_khoi.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "050",
+    "name": "Đài phun nước",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/050_kien_truc_dai_phun_nuoc.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "051",
+    "name": "Hàng rào gỗ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/051_kien_truc_hang_rao_go.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "052",
+    "name": "Nhịp cầu dẫn nước",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/052_kien_truc_nhip_cau_dan_nuoc.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "053",
+    "name": "Khối đá đẽo",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/053_vat_lieu_khoi_da_deo.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "054",
+    "name": "Chồng gạch",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/054_vat_lieu_chong_gach.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "055",
+    "name": "Khúc gỗ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/055_vat_lieu_khuc_go.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "056",
+    "name": "Chồng ván gỗ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/056_vat_lieu_chong_van_go.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "057",
+    "name": "Cuộn dây thừng",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/057_vat_lieu_cuon_day_thung.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "058",
+    "name": "Mảnh gốm vỡ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/058_vat_lieu_manh_gom_vo.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "059",
+    "name": "Phiến đá nứt",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/059_vat_lieu_phien_da_nut.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "060",
+    "name": "Gỗ cháy",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/060_vat_lieu_go_chay.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "061",
+    "name": "Dấu bánh xe trên đất",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/061_vat_lieu_dau_banh_xe_tren_dat.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "062",
+    "name": "Gạch đất",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/062_vat_lieu_gach_dat.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "063",
+    "name": "Bó sậy",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/063_vat_lieu_bo_say.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "064",
+    "name": "Cuộn vải",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/064_vat_lieu_cuon_vai.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "065",
+    "name": "Thỏi đồng minh họa",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/065_vat_lieu_thoi_dong_minh_hoa.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "066",
+    "name": "Mảnh đá",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/066_vat_lieu_manh_da.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "067",
+    "name": "Túi tiền",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/067_kinh_te_tui_tien.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "068",
+    "name": "Chồng tiền xu minh họa",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/068_kinh_te_chong_tien_xu_minh_hoa.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "069",
+    "name": "Thỏi kim loại",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/069_kinh_te_thoi_kim_loai.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "070",
+    "name": "Thùng hàng gỗ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/070_kinh_te_thung_hang_go.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "071",
+    "name": "Quầy hàng",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/071_kinh_te_quay_hang.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "072",
+    "name": "Bao hạt",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/072_kinh_te_bao_hat.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "073",
+    "name": "Bình chứa hai quai",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/073_kinh_te_binh_chua_hai_quai.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "074",
+    "name": "Xe đẩy gỗ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/074_kinh_te_xe_day_go.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "075",
+    "name": "Kiện hàng buộc dây",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/075_kinh_te_kien_hang_buoc_day.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "076",
+    "name": "Cân đòn",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/076_kinh_te_can_don.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "077",
+    "name": "Thẻ đất sét",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/077_kinh_te_the_dat_set.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "078",
+    "name": "Thùng gỗ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/078_kinh_te_thung_go.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "079",
+    "name": "Mẹt đan",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/079_kinh_te_met_dan.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "080",
+    "name": "Kệ hàng",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/080_kinh_te_ke_hang.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "081",
+    "name": "Vách đá",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/081_dia_hinh_vach_da.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "082",
+    "name": "Thung lũng",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/082_dia_hinh_thung_lung.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "083",
+    "name": "Đảo đá",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/083_dia_hinh_dao_da.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "084",
+    "name": "Bờ biển",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/084_dia_hinh_bo_bien.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "085",
+    "name": "Đầm lầy",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/085_dia_hinh_dam_lay.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "086",
+    "name": "Cửa hang",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/086_dia_hinh_cua_hang.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "087",
+    "name": "Núi lửa ngủ yên",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/087_dia_hinh_nui_lua_ngu_yen.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "088",
+    "name": "Sông băng",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/088_dia_hinh_song_bang.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "089",
+    "name": "Thác nước",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/089_dia_hinh_thac_nuoc.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "090",
+    "name": "Núi bàn",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/090_dia_hinh_nui_ban.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "091",
+    "name": "Hẻm núi",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/091_dia_hinh_hem_nui.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "092",
+    "name": "Ốc đảo",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/092_dia_hinh_oc_dao.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "093",
+    "name": "Đụn cát",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/093_dia_hinh_dun_cat.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "094",
+    "name": "Cụm cây rừng",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/094_dia_hinh_cum_cay_rung.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "095",
+    "name": "Châu thổ minh họa",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/095_dia_hinh_chau_tho_minh_hoa.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "096",
+    "name": "Đỉnh núi tuyết",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/096_dia_hinh_dinh_nui_tuyet.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "097",
+    "name": "Cây cọ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/097_sinh_vat_cay_co.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "098",
+    "name": "Cây tán rộng",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/098_sinh_vat_cay_tan_rong.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "099",
+    "name": "Cây lá kim",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/099_sinh_vat_cay_la_kim.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "100",
+    "name": "Dương xỉ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/100_sinh_vat_duong_xi.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "101",
+    "name": "Bụi cỏ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/101_sinh_vat_bui_co.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "102",
+    "name": "Bông lúa mì",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/102_sinh_vat_bong_lua_mi.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "103",
+    "name": "Bắp ngô",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/103_sinh_vat_bap_ngo.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "104",
+    "name": "Ngựa",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/104_sinh_vat_ngua.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "105",
+    "name": "Lừa",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/105_sinh_vat_lua.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "106",
+    "name": "Lạc đà một bướu",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/106_sinh_vat_lac_da_mot_buou.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "107",
+    "name": "Chó",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/107_sinh_vat_cho.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "108",
+    "name": "Quạ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/108_sinh_vat_qua.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "109",
+    "name": "Cá",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/109_sinh_vat_ca.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "110",
+    "name": "Bọ cánh cứng",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/110_sinh_vat_bo_canh_cung.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "111",
+    "name": "Gió cuốn lá",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/111_bien_co_gio_cuon_la.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "112",
+    "name": "Mây giông và sét",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/112_bien_co_may_giong_va_set.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "113",
+    "name": "Ngập lụt",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/113_bien_co_ngap_lut.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "114",
+    "name": "Đất hạn và cây héo",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/114_bien_co_dat_han_va_cay_heo.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "115",
+    "name": "Cháy rừng",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/115_bien_co_chay_rung.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "116",
+    "name": "Mây tuyết",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/116_bien_co_may_tuyet.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "117",
+    "name": "Khe nứt đất",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/117_bien_co_khe_nut_dat.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "118",
+    "name": "Sạt lở",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/118_bien_co_sat_lo.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "119",
+    "name": "Bão cát",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/119_bien_co_bao_cat.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "120",
+    "name": "Núi lửa phun trào",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/120_bien_co_nui_lua_phun_trao.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "121",
+    "name": "Mây mưa",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/121_bien_co_may_mua.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "122",
+    "name": "Cây đổ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/122_bien_co_cay_do.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "123",
+    "name": "Bong bóng lời thoại",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/123_suy_luan_bong_bong_loi_thoai.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "124",
+    "name": "Thẻ manh mối liên kết",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/124_suy_luan_the_manh_moi_lien_ket.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "125",
+    "name": "Mảnh ghép còn thiếu",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/125_suy_luan_manh_ghep_con_thieu.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "126",
+    "name": "Chồng thẻ tài liệu",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/126_suy_luan_chong_the_tai_lieu.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "127",
+    "name": "Rào chắn đường",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/127_suy_luan_rao_chan_duong.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "128",
+    "name": "Đường phân nhánh",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/128_suy_luan_duong_phan_nhanh.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "129",
+    "name": "Chuỗi domino",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/129_suy_luan_chuoi_domino.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "130",
+    "name": "Liên kết nét đứt",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/130_suy_luan_lien_ket_net_dut.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "131",
+    "name": "Đường cụt",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/131_suy_luan_duong_cut.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "132",
+    "name": "Mảnh gốm ghép lại",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/132_suy_luan_manh_gom_ghep_lai.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "133",
+    "name": "Tài liệu hội tụ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/133_suy_luan_tai_lieu_hoi_tu.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "134",
+    "name": "Tờ giấy lộ lớp bên dưới",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/134_suy_luan_to_giay_lo_lop_ben_duoi.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "135",
+    "name": "Khối đá với mũi tên xoay",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/135_suy_luan_khoi_da_voi_mui_ten_xoay.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "136",
+    "name": "Thẻ có dấu kiểm",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/136_suy_luan_the_co_dau_kiem.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "137",
+    "name": "Khu khai quật",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/137_boi_canh_khu_khai_quat.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "138",
+    "name": "Đường làng",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/138_boi_canh_duong_lang.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "139",
+    "name": "Quảng trường chợ",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/139_boi_canh_quang_truong_cho.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "140",
+    "name": "Bến nước",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/140_boi_canh_ben_nuoc.png",
+    "size": [
+      1672,
+      940
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "141",
+    "name": "Kho chứa hàng",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/141_boi_canh_kho_chua_hang.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "142",
+    "name": "Xưởng thủ công",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/142_boi_canh_xuong_thu_cong.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "143",
+    "name": "Tàn tích",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/143_boi_canh_tan_tich.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "144",
+    "name": "Đường qua núi",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/144_boi_canh_duong_qua_nui.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "145",
+    "name": "Khoảng trống trong rừng",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/145_boi_canh_khoang_trong_trong_rung.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "146",
+    "name": "Lòng sông cạn",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/146_boi_canh_long_song_can.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "147",
+    "name": "Điểm nghỉ ven biển",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/147_boi_canh_diem_nghi_ven_bien.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "148",
+    "name": "Hành lang đá",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/148_boi_canh_hanh_lang_da.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "149",
+    "name": "Phòng nghiên cứu có bảng trống",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/149_boi_canh_phong_nghien_cuu_co_bang_trong.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "150",
+    "name": "Sân lúc chạng vạng",
+    "path": "assets/reusable/mo_den/generic_150/Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/150_boi_canh_san_luc_chang_vang.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "151",
+    "name": "Đô thị Maya được duy trì",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/do_thi/151_do_thi_duoc_duy_tri.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "152",
+    "name": "Đô thị Maya xuống cấp",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/do_thi/152_do_thi_xuong_cap.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "153",
+    "name": "Đô thị Maya có cây mọc lấn",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/do_thi/153_do_thi_cay_moc_lan.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "154",
+    "name": "Chợ có nhiều hàng hóa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/cho/154_cho_du_hang.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "155",
+    "name": "Chợ còn ít hàng hóa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/cho/155_cho_it_hang.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "156",
+    "name": "Chợ bỏ trống",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/cho/156_cho_bo_trong.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "157",
+    "name": "Hồ chứa đầy nước",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ho_chua/157_ho_chua_day_nuoc.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "158",
+    "name": "Hồ chứa có mực nước thấp",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ho_chua/158_ho_chua_nuoc_thap.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "159",
+    "name": "Hồ chứa gần cạn",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ho_chua/159_ho_chua_gan_can.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "160",
+    "name": "Hồ tự nhiên",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ho_tram_tich/160_ho_tram_tich_nguyen_ven.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "161",
+    "name": "Hồ và mặt cắt trầm tích minh họa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ho_tram_tich/161_ho_tram_tich_mat_cat_minh_hoa.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "162",
+    "name": "Vị trí lấy mẫu trầm tích minh họa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ho_tram_tich/162_ho_tram_tich_vi_tri_lay_mau.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "163",
+    "name": "Ruộng ngô xanh tốt",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ruong_ngo/163_ruong_ngo_xanh_tot.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "164",
+    "name": "Ruộng ngô héo",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ruong_ngo/164_ruong_ngo_heo.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "165",
+    "name": "Ruộng ngô thất mùa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ruong_ngo/165_ruong_ngo_that_mua.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "166",
+    "name": "Kho lương đầy",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/kho_luong/166_kho_luong_day.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "167",
+    "name": "Kho lương còn ít",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/kho_luong/167_kho_luong_con_it.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "168",
+    "name": "Kho lương gần trống",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/kho_luong/168_kho_luong_gan_trong.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "169",
+    "name": "Đường nối khu dân cư thông suốt",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/duong_noi/169_duong_noi_thong_suot.png",
+    "size": [
+      1671,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "170",
+    "name": "Đường nối khu dân cư hư hại",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/duong_noi/170_duong_noi_hu_hai.png",
+    "size": [
+      1671,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "171",
+    "name": "Đường nối khu dân cư bị chặn",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/duong_noi/171_duong_noi_bi_chan.png",
+    "size": [
+      1671,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "172",
+    "name": "Nhà và sân đang có sinh hoạt",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/nha_san/172_nha_va_san_sinh_hoat.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "173",
+    "name": "Nhà và sân chuẩn bị rời đi",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/nha_san/173_nha_va_san_chuan_bi_roi_di.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "174",
+    "name": "Nhà và sân bỏ trống",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/nha_san/174_nha_va_san_bo_trong.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "175",
+    "name": "Khu công trình trước hỏa hoạn",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/khu_chay/175_khu_chay_nguyen_ven.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "176",
+    "name": "Khu công trình đang cháy",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/khu_chay/176_khu_chay_chay_hu_hai.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "177",
+    "name": "Dấu tích sau hỏa hoạn",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/khu_chay/177_khu_chay_dau_tich.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "178",
+    "name": "Cung điện và khu dân cư được duy trì",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/quyen_luc/178_quyen_luc_duoc_duy_tri.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "179",
+    "name": "Cung điện xuống cấp, khu dân cư còn sinh hoạt",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/quyen_luc/179_quyen_luc_suy_yeu.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "180",
+    "name": "Cung điện xuống cấp, khu dân cư thưa dần",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/quyen_luc/180_quyen_luc_dan_cu_thua_dan.png",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "sha256_matches": true
+  },
+  {
+    "id": "181",
+    "name": "Đoạn kênh đá hở",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/ha_tang_nuoc/181_kenh_da_ho.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "182",
+    "name": "Đập đất đá nhỏ minh họa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/ha_tang_nuoc/182_dap_dat_da_nho.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "183",
+    "name": "Miệng dẫn nước bằng đá",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/ha_tang_nuoc/183_cua_dan_nuoc_da.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "184",
+    "name": "Thạch anh minh họa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/khoang_vat/184_thach_anh_minh_hoa.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "185",
+    "name": "Đá chứa zeolit minh họa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/khoang_vat/185_da_chua_zeolit_minh_hoa.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "186",
+    "name": "Chu sa và bột sắc tố minh họa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/khoang_vat/186_chu_sa_minh_hoa.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "187",
+    "name": "Lõi trầm tích phân lớp minh họa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/bang_chung/187_loi_tram_tich.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "188",
+    "name": "Măng đá minh họa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/bang_chung/188_mang_da.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "189",
+    "name": "Thạch cao dạng selenit minh họa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/bang_chung/189_thach_cao_minh_hoa.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "190",
+    "name": "Cây ngô khỏe",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/nong_nghiep/190_cay_ngo_khoe.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "191",
+    "name": "Cây ngô héo",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/nong_nghiep/191_cay_ngo_heo.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "192",
+    "name": "Hạt ngô để giống",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/nong_nghiep/192_hat_ngo_de_giong.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "193",
+    "name": "Mảng nở hoa vi khuẩn lam minh họa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/nuoc_moi_truong/193_mang_no_hoa_vi_khuan_lam.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "194",
+    "name": "Dòng chảy mang bùn và sắc tố minh họa",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/nuoc_moi_truong/194_dong_chay_mang_bun_sac_to.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "195",
+    "name": "Giọt nước",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/nuoc_moi_truong/195_giot_nuoc.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "196",
+    "name": "Điện thoại màn hình trống — ví von hiện đại",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/vi_von_hien_dai/196_dien_thoai_man_hinh_trong.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "197",
+    "name": "Bồn nước xem mức nước — ví von hiện đại",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/vi_von_hien_dai/197_bon_nuoc_xem_muc.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  },
+  {
+    "id": "198",
+    "name": "Lịch bàn trống — ví von hiện đại",
+    "path": "assets/reusable/mo_den/maya_48/Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/vi_von_hien_dai/198_lich_ban_trang.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "sha256_matches": true
+  }
+]

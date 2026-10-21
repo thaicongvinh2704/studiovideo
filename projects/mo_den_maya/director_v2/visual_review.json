@@ -1,0 +1,196 @@
+{
+  "reviewer": "Codex visual inspection",
+  "scope": "Composition and identity on rendered contact sheets, with enlarged checks of changed frames.",
+  "internal_review_only": true,
+  "user_approval": false,
+  "boards": [
+    {
+      "board": "board_01.jpg",
+      "sha256": "c1cfde43e73f4bae291e1ea8d32d73cd10fb22db848444a01a72746fa8842dbc",
+      "shots": "001–016",
+      "observations": "Mỏ Đen giữ nhận diện; các cảnh nhà/hồ/chợ đổi theo nội dung. Ảnh R06 đã sửa hướng EXIF; chân mèo trong cảnh hồ không còn bị thanh chú thích che."
+    },
+    {
+      "board": "board_02.jpg",
+      "sha256": "3e5b14c838a69f22385926b7e020343dbcfb19d2e0d839108fa77c5a0469a3bd",
+      "shots": "017–032",
+      "observations": "Ảnh đền đứng giữ tỷ lệ; bản đồ và timeline đọc được ở bản 1080p. Sơ đồ thành bang dùng nhà/cung điện minh họa, không nhân vật người bị loại."
+    },
+    {
+      "board": "board_03.jpg",
+      "sha256": "1089fc9b44f823186491d2507fae751ebbc3ff557d1955a72830bde516b5fcd4",
+      "shots": "033–048",
+      "observations": "Kênh/đập/khoáng vật tách nền rõ. Sơ đồ nước tách khỏi figure nghiên cứu. Hình cấu tạo bộ lọc có ghi là giả thuyết."
+    },
+    {
+      "board": "board_04.jpg",
+      "sha256": "544b8d4dd9bed4ae745d71f66f885d23943bdbc253163ac551c9b8855d4ce701",
+      "shots": "049–064",
+      "observations": "Ví von bồn hiện đại có nhãn; thước mức nằm ngoài ảnh gốc. Figure ô nhiễm có cả toàn hình và cửa sổ Temple/Palace; nguồn nằm ngoài dữ liệu."
+    },
+    {
+      "board": "board_05.jpg",
+      "sha256": "51e73ebe40a50f9074eb21378d9a1f190573a4f600d3ebc18d0bcbb0ffabe4db",
+      "shots": "065–080",
+      "observations": "Lượng nước/chất lượng được phân biệt bằng bố cục. Cảnh tiếp cận nguồn nước ghi tình huống giả định; không biểu diễn tuyến đi thật."
+    },
+    {
+      "board": "board_06.jpg",
+      "sha256": "6dbcbab0347575ba1f056e3beecfeecabfd3f56df98e431ea328e334ae109aa7",
+      "shots": "081–096",
+      "observations": "Khoảng 41–54% và phạm vi nghiên cứu còn nguyên. Đủ 13 ô thời lượng và sai số niên đại. Cảnh ruộng/kho thay trạng thái; lịch hiện đại được ghi là ví von."
+    },
+    {
+      "board": "board_07.jpg",
+      "sha256": "c49745bf744682456abc18bf7b5018c04054309d273f9eac483f27b1503e37a9",
+      "shots": "097–112",
+      "observations": "Itzan có figure toàn vẹn cạnh chi tiết; không vẽ lại đường số liệu. Kiện hàng và chướng ngại là sơ đồ giả định."
+    },
+    {
+      "board": "board_08.jpg",
+      "sha256": "4b3bc00e034d28cd7c4572296893912e7a4090d5094112e640faebdb7ce5f593",
+      "shots": "113–128",
+      "observations": "Dấu cháy và ảnh lõi có nguồn riêng; ảnh cháy minh họa không nhận là phục dựng Witzna. Timeline đánh dấu 697."
+    },
+    {
+      "board": "board_09.jpg",
+      "sha256": "c34ba8137e10b11cfe23b8cf13d717796d1f82af03fa5664b7cb5b502ab0200b",
+      "shots": "129–144",
+      "observations": "Phân biệt công trình/quyền lực với sinh hoạt. Bia Tikal được gọi đúng địa điểm, không thay cho văn khắc Witzna."
+    },
+    {
+      "board": "board_10.jpg",
+      "sha256": "7d3cb4904eb528682a704e503a9bbeb91f5f932bc8229b320385d589bbaea8f9",
+      "shots": "145–160",
+      "observations": "Túi đồ là lớp tách khỏi nền nhà. Chichén Itzá và panorama Mayapán dùng ảnh thật có credit."
+    },
+    {
+      "board": "board_11.jpg",
+      "sha256": "4c147b7401a9595dbcc3667874dfaeaf9a6416797d51661026ad16757d3c2b2e",
+      "shots": "161–176",
+      "observations": "Khoảng thời gian Mayapán và thuộc địa được tách. Ảnh R06 đứng đúng chiều; người và bối cảnh ảnh không bị thay hành động."
+    },
+    {
+      "board": "board_12.jpg",
+      "sha256": "12d499a42b1457f9a58938050e3785df1765f610effb290f125f7a807629d4c0",
+      "shots": "177–192",
+      "observations": "Lịch dùng số hiện đại, không bịa chữ Maya. Tổng hợp ba địa điểm theo loại bằng chứng; các điều kiện sống dùng sơ đồ khái niệm."
+    },
+    {
+      "board": "board_13.jpg",
+      "sha256": "e5f8be6eae62b55f34a26e4ef9345264e99f6e9a7f4216f63483dfce87f808af",
+      "shots": "193–208",
+      "observations": "Ở lại/rời đi đổi cỡ cảnh và điểm nhìn. Mỏ Đen giữ thiết kế và tỷ lệ; ảnh đời sống kết thúc đã đúng hướng EXIF."
+    },
+    {
+      "board": "board_14.jpg",
+      "sha256": "8c995c9d2a98d1e9fe7a3bcaa507d7dd0a59185ec2a47560d8fde514133f35dd",
+      "shots": "209–213",
+      "observations": "Ba trang credit đọc được trên bản 1080p; URL và giấy phép ở tệp kèm. Phần ghi nguồn không có lời đọc mới."
+    }
+  ],
+  "remaining_final_boards": [],
+  "audio_listening": "Not certified; original user-selected H narration preserved.",
+  "fixed_findings": [
+    "Source EXIF orientation",
+    "Lower caption strip occluding cat feet",
+    "Scientific figure detail size"
+  ],
+  "project_sha256": "65dd4603c4a1c037bd0419109638ff9c1af968db61a1016545eaee3df961011c",
+  "status": "USER_REJECTED_REPETITIVE_EMPTY_BACKGROUNDS",
+  "decoded_motion_review": [
+    {
+      "shot": 10,
+      "note": "Mỏ Đen còn đủ chân/tai/đuôi; bình nước hiện theo lớp, chú thích không đè lên nhân vật."
+    },
+    {
+      "shot": 12,
+      "note": "Túi đồ đi từ phía nhà sang phải; người dẫn giữ nguyên PNG."
+    },
+    {
+      "shot": 41,
+      "note": "Mây/kênh/hồ xuất hiện theo lớp; giọt nước thay vị trí dọc sơ đồ trong file MP4."
+    },
+    {
+      "shot": 63,
+      "note": "Hạt sắc tố đi qua sơ đồ dòng chảy; ghi rõ đây là giải thích được đề xuất."
+    },
+    {
+      "shot": 70,
+      "note": "Bình nước dịch chuyển theo sơ đồ lựa chọn, không coi đây là tuyến thật."
+    },
+    {
+      "shot": 109,
+      "note": "Kiện hàng đi từ khu A sang B trên đường nối."
+    },
+    {
+      "shot": 111,
+      "note": "Chướng ngại xuất hiện và kiện hàng dừng ở phía trước; không xuyên qua sang khu B."
+    },
+    {
+      "shot": 183,
+      "note": "Chỉ số trên lịch thay từ 12 sang 1; lịch là ví von hiện đại, không glyph Maya."
+    },
+    {
+      "shot": 208,
+      "note": "Mỏ Đen và bong bóng lời thoại đặt rõ trên nền sáng; giữ vùng phụ đề phía dưới."
+    }
+  ],
+  "known_limits": [
+    "PNG mascot là tư thế tĩnh, không rig/lip sync mới.",
+    "Phụ đề ước lượng theo cụm ý trong từng đơn vị lời đọc, chưa căn từng từ.",
+    "QC nghe phát âm toàn bài không được chứng nhận lại."
+  ],
+  "decoded_evidence": [
+    {
+      "file": "review/decoded/motion_001.jpg",
+      "sha256": "c7cf54e8c3f49cf76e1e1e99bc39beb7b73ef8e3015e707745e9d451afafff72"
+    },
+    {
+      "file": "review/decoded/motion_010.jpg",
+      "sha256": "7f77fb8a7d30476135e47ed55001217eccbba7527f926dec70c99e24a3746e6b"
+    },
+    {
+      "file": "review/decoded/motion_012.jpg",
+      "sha256": "67df9091b802794f35906b23224c0111a1142e39522f3b56033ac12ab5c4a493"
+    },
+    {
+      "file": "review/decoded/motion_041.jpg",
+      "sha256": "730cf1bde988a9ce8b0926e960209fd042b02381bc29b7a3c85400f2ad4f464b"
+    },
+    {
+      "file": "review/decoded/motion_063.jpg",
+      "sha256": "2956329532ca4a47c611222b51cda0ed47a22a9948555343ccbf5e6a098e3fcd"
+    },
+    {
+      "file": "review/decoded/motion_070.jpg",
+      "sha256": "7d65fbabbe97a4ee87fe930643df01d017a9a7d314d41810d4d209c28ea07252"
+    },
+    {
+      "file": "review/decoded/motion_086.jpg",
+      "sha256": "08167961a4e5463d81370868029830b01ef5294edef6d9505a05a4ecbe4106ec"
+    },
+    {
+      "file": "review/decoded/motion_109.jpg",
+      "sha256": "938741aa558e774b37fbb2f14d62bbe111134b4510da6dd6575c5e7f11040709"
+    },
+    {
+      "file": "review/decoded/motion_111.jpg",
+      "sha256": "9dcc495b2b8ef6ee68aa29e5b445764e0eed8decba505b3dd2203fa6dda860a1"
+    },
+    {
+      "file": "review/decoded/motion_183.jpg",
+      "sha256": "2722f1778d70644d0c755f1addb521e54ebbad64f876a0c1f00a1cf1edbf4a25"
+    },
+    {
+      "file": "review/decoded/motion_208.jpg",
+      "sha256": "1e22054c45a1750acfa9ab70e99b7c8b1ff36fa0e4ce51477486b2038213fd5e"
+    }
+  ],
+  "user_feedback_20261021": {
+    "issue": "Nhiều cảnh rộng trống và bố cục lặp lại thiếu ý nghĩa; cần dàn dựng Mỏ Đen tham gia cảnh và giới hạn họ bối cảnh.",
+    "reference": "../../../qc/editorial_feedback/20261021_repeated_empty_wide.png",
+    "standard": "../../../QUY_DINH_DAO_DIEN_HINH_ANH.md",
+    "video_revised": false
+  }
+}

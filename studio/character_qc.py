@@ -259,6 +259,9 @@ def drawing_issues(doc, root):
 
 def object_issues(obj, root):
     from .drawing import svg
+    if obj.get('character_library') == 'mo_den':
+        from .supplied_character import source_issues
+        return source_issues(obj, root)
     if obj.get('kind') == 'character':
         return ['Người dẫn/nhân vật rig cũ chưa qua chuẩn QC tĩnh reference-v1. Thay bằng bản vẽ đã QC.']
     doc = obj.get('drawing_doc')
@@ -279,6 +282,10 @@ def project_issues(project, root):
         for obj in scene['objects']:
             for message in object_issues(obj, root):
                 problems.append(dict(level='error', code='character_qc', scene=scene['name'], object_id=obj['id'], message=obj.get('name', 'Nhân vật') + ': ' + message))
+            if obj.get('character_library') == 'mo_den':
+                from .supplied_character import framing_issues
+                for message in framing_issues(obj, scene):
+                    problems.append(dict(level='error', code='cat_framing', scene=scene['name'], object_id=obj['id'], message=message))
     return problems
 
 

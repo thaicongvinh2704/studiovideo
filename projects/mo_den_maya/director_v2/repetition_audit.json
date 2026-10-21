@@ -1,0 +1,809 @@
+{
+  "scope": "Dominant background setups tagged editorial.layout=world; includes broad crops and variants.",
+  "limits_source": "QUY_DINH_DAO_DIEN_HINH_ANH.md",
+  "dominant_background_shots": 70,
+  "dominant_background_seconds": 267.707,
+  "families": [
+    {
+      "count": 14,
+      "seconds": 45.375,
+      "shots": [
+        {
+          "number": 10,
+          "id": "maya_v2_010",
+          "start": 36.125,
+          "duration": 2.9166666666666643,
+          "source": "158",
+          "title": "Nước bắt đầu thiếu",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 32,
+          "id": "maya_v2_032",
+          "start": 130.58333333333334,
+          "duration": 4.041666666666657,
+          "source": "157",
+          "title": "…xuống nơi lấy nước",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 35,
+          "id": "maya_v2_035",
+          "start": 139.75,
+          "duration": 2.291666666666657,
+          "source": "158",
+          "title": "Giữ nước qua mùa khô",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 40,
+          "id": "maya_v2_040",
+          "start": 154.66666666666666,
+          "duration": 4.291666666666686,
+          "source": "157",
+          "title": "Thu nước khi mưa đến",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 50,
+          "id": "maya_v2_050",
+          "start": 194.33333333333334,
+          "duration": 3.75,
+          "source": "158",
+          "title": "Năm sau vẫn thiếu mưa",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 52,
+          "id": "maya_v2_052",
+          "start": 201.5,
+          "duration": 3.583333333333343,
+          "source": "158",
+          "title": "Hồ vẫn còn đó",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 54,
+          "id": "maya_v2_054",
+          "start": 208.625,
+          "duration": 1.625,
+          "source": "159",
+          "title": "Nhưng nước không còn đủ",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 57,
+          "id": "maya_v2_057",
+          "start": 218.0,
+          "duration": 4.583333333333343,
+          "source": "158",
+          "title": "Hồ chưa cạn, chưa chắc đã yên tâm",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 67,
+          "id": "maya_v2_067",
+          "start": 253.625,
+          "duration": 2.8333333333333144,
+          "source": "158",
+          "title": "Một số nguồn nước bị đe dọa",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 68,
+          "id": "maya_v2_068",
+          "start": 256.4583333333333,
+          "duration": 3.0833333333333712,
+          "source": "159",
+          "title": "Nước ít hơn, xoay xở khó hơn",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 73,
+          "id": "maya_v2_073",
+          "start": 280.0833333333333,
+          "duration": 2.2083333333333712,
+          "source": "157",
+          "title": "Khi đủ dùng",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 74,
+          "id": "maya_v2_074",
+          "start": 282.2916666666667,
+          "duration": 2.2083333333333144,
+          "source": "159",
+          "title": "Khi nguồn nước ít lại",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 132,
+          "id": "maya_v2_132",
+          "start": 517.6666666666666,
+          "duration": 4.125,
+          "source": "157",
+          "title": "Thành phố cần người duy trì",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 162,
+          "id": "maya_v2_162",
+          "start": 640.8333333333334,
+          "duration": 3.8333333333332575,
+          "source": "158",
+          "title": "Sức ép môi trường",
+          "new_information": "",
+          "repetition_reason": ""
+        }
+      ],
+      "family": "Hồ chứa",
+      "default_limit": 3,
+      "exceeds_default_budget": true
+    },
+    {
+      "count": 12,
+      "seconds": 51.708,
+      "shots": [
+        {
+          "number": 9,
+          "id": "maya_v2_009",
+          "start": 33.25,
+          "duration": 2.875,
+          "source": "172",
+          "title": "Nếu đó là khu bạn sống?",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 12,
+          "id": "maya_v2_012",
+          "start": 41.916666666666664,
+          "duration": 3.2083333333333357,
+          "source": "173",
+          "title": "Khi nào bạn sẽ dọn đi?",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 13,
+          "id": "maya_v2_013",
+          "start": 45.125,
+          "duration": 4.541666666666664,
+          "source": "174",
+          "title": "Nhìn từ phía người phải sống ở đó",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 113,
+          "id": "maya_v2_113",
+          "start": 436.5,
+          "duration": 6.166666666666686,
+          "source": "173",
+          "title": "Rời đi trước khi hồ cuối cùng cạn",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 142,
+          "id": "maya_v2_142",
+          "start": 555.0,
+          "duration": 3.9166666666666288,
+          "source": "172",
+          "title": "Cuộc sống có thể tiếp tục",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 147,
+          "id": "maya_v2_147",
+          "start": 573.7083333333334,
+          "duration": 5.916666666666629,
+          "source": "172",
+          "title": "Tìm dấu vết bên ngoài cung điện",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 148,
+          "id": "maya_v2_148",
+          "start": 579.625,
+          "duration": 2.7083333333333712,
+          "source": "173",
+          "title": "Một gia đình rời đi",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 150,
+          "id": "maya_v2_150",
+          "start": 585.2916666666666,
+          "duration": 5.2916666666667425,
+          "source": "174",
+          "title": "Một cuộc ra đi, hai phía nhìn",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 177,
+          "id": "maya_v2_177",
+          "start": 698.2083333333334,
+          "duration": 2.7916666666666288,
+          "source": "173",
+          "title": "Họ đã thay đổi cuộc sống thế nào?",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 192,
+          "id": "maya_v2_192",
+          "start": 751.9166666666666,
+          "duration": 5.25,
+          "source": "172",
+          "title": "Có nhận ra bước ngoặt?",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 198,
+          "id": "maya_v2_198",
+          "start": 773.3333333333334,
+          "duration": 4.916666666666629,
+          "source": "172",
+          "title": "Ở lại: những gì đã gây dựng",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 199,
+          "id": "maya_v2_199",
+          "start": 778.25,
+          "duration": 4.125,
+          "source": "173",
+          "title": "Rời đi: hy vọng và đánh đổi",
+          "new_information": "",
+          "repetition_reason": ""
+        }
+      ],
+      "family": "Nhà/sân",
+      "default_limit": 3,
+      "exceeds_default_budget": true
+    },
+    {
+      "count": 9,
+      "seconds": 39.542,
+      "shots": [
+        {
+          "number": 2,
+          "id": "maya_v2_002",
+          "start": 4.25,
+          "duration": 4.291666666666666,
+          "source": "151",
+          "title": "Biết trữ nước. Biết lọc nước.",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 5,
+          "id": "maya_v2_005",
+          "start": 16.041666666666668,
+          "duration": 5.833333333333332,
+          "source": "152",
+          "title": "Thành phố đổi khác",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 16,
+          "id": "maya_v2_016",
+          "start": 56.375,
+          "duration": 4.583333333333336,
+          "source": "153",
+          "title": "Thành phố vắng dần",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 20,
+          "id": "maya_v2_020",
+          "start": 76.58333333333333,
+          "duration": 5.75,
+          "source": "151",
+          "title": "Không cùng sụp đổ trong một ngày",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 22,
+          "id": "maya_v2_022",
+          "start": 87.29166666666667,
+          "duration": 4.958333333333329,
+          "source": "152",
+          "title": "Những nhịp suy giảm khác nhau",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 25,
+          "id": "maya_v2_025",
+          "start": 100.58333333333333,
+          "duration": 5.625,
+          "source": "151",
+          "title": "Thành tựu không xóa mọi giới hạn",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 43,
+          "id": "maya_v2_043",
+          "start": 167.54166666666666,
+          "duration": 2.458333333333343,
+          "source": "151",
+          "title": "Tính toán và tổ chức",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 154,
+          "id": "maya_v2_154",
+          "start": 605.7916666666666,
+          "duration": 3.0,
+          "source": "151",
+          "title": "Đời sống vẫn tiếp diễn",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 194,
+          "id": "maya_v2_194",
+          "start": 762.4583333333334,
+          "duration": 3.0416666666666288,
+          "source": "153",
+          "title": "Ta nhìn lại một quãng dài",
+          "new_information": "",
+          "repetition_reason": ""
+        }
+      ],
+      "family": "Đô thị",
+      "default_limit": 3,
+      "exceeds_default_budget": true
+    },
+    {
+      "count": 7,
+      "seconds": 22.75,
+      "shots": [
+        {
+          "number": 7,
+          "id": "maya_v2_007",
+          "start": 27.708333333333332,
+          "duration": 2.791666666666668,
+          "source": "176",
+          "title": "Một thành phố từng cháy",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 115,
+          "id": "maya_v2_115",
+          "start": 448.875,
+          "duration": 3.5,
+          "source": "176",
+          "title": "Một dấu vết rất khác",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 120,
+          "id": "maya_v2_120",
+          "start": 470.4583333333333,
+          "duration": 3.5833333333333712,
+          "source": "176",
+          "title": "Naranjo · Witzna",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 121,
+          "id": "maya_v2_121",
+          "start": 474.0416666666667,
+          "duration": 3.5833333333333144,
+          "source": "177",
+          "title": "Đời sống thay đổi sau sự kiện",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 126,
+          "id": "maya_v2_126",
+          "start": 494.375,
+          "duration": 3.3333333333333144,
+          "source": "175",
+          "title": "Công trình còn dùng tốt…",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 127,
+          "id": "maya_v2_127",
+          "start": 497.7083333333333,
+          "duration": 3.3333333333333712,
+          "source": "177",
+          "title": "…vẫn có thể bị phá hủy",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 128,
+          "id": "maya_v2_128",
+          "start": 501.0416666666667,
+          "duration": 2.625,
+          "source": "177",
+          "title": "Tác động còn kéo dài",
+          "new_information": "",
+          "repetition_reason": ""
+        }
+      ],
+      "family": "Khu công trình/cháy",
+      "default_limit": 3,
+      "exceeds_default_budget": true
+    },
+    {
+      "count": 7,
+      "seconds": 27.708,
+      "shots": [
+        {
+          "number": 30,
+          "id": "maya_v2_030",
+          "start": 121.875,
+          "duration": 4.708333333333329,
+          "source": "178",
+          "title": "Kỹ thuật và quyền lực",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 135,
+          "id": "maya_v2_135",
+          "start": 529.625,
+          "duration": 3.75,
+          "source": "179",
+          "title": "Những thương lượng khó nhìn thấy",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 138,
+          "id": "maya_v2_138",
+          "start": 539.7083333333334,
+          "duration": 3.8333333333332575,
+          "source": "179",
+          "title": "Cung điện im tiếng…",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 141,
+          "id": "maya_v2_141",
+          "start": 551.0833333333334,
+          "duration": 3.9166666666666288,
+          "source": "179",
+          "title": "Trật tự cũ suy yếu",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 144,
+          "id": "maya_v2_144",
+          "start": 562.2916666666666,
+          "duration": 3.7083333333333712,
+          "source": "178",
+          "title": "Từ phía cung điện…",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 146,
+          "id": "maya_v2_146",
+          "start": 569.75,
+          "duration": 3.9583333333333712,
+          "source": "179",
+          "title": "Im tiếng không có nghĩa mọi thứ ngừng lại",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 164,
+          "id": "maya_v2_164",
+          "start": 648.5,
+          "duration": 3.8333333333333712,
+          "source": "179",
+          "title": "Một bối cảnh khủng hoảng riêng",
+          "new_information": "",
+          "repetition_reason": ""
+        }
+      ],
+      "family": "Cung điện",
+      "default_limit": 3,
+      "exceeds_default_budget": true
+    },
+    {
+      "count": 6,
+      "seconds": 22.833,
+      "shots": [
+        {
+          "number": 11,
+          "id": "maya_v2_011",
+          "start": 39.041666666666664,
+          "duration": 2.875,
+          "source": "155",
+          "title": "Thực phẩm khó kiếm hơn",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 112,
+          "id": "maya_v2_112",
+          "start": 434.0833333333333,
+          "duration": 2.4166666666666856,
+          "source": "155",
+          "title": "Nước còn, cuộc sống khó hơn",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 133,
+          "id": "maya_v2_133",
+          "start": 521.7916666666666,
+          "duration": 4.083333333333371,
+          "source": "154",
+          "title": "Công việc cần sự phối hợp",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 145,
+          "id": "maya_v2_145",
+          "start": 566.0,
+          "duration": 3.75,
+          "source": "154",
+          "title": "…đến người làm ruộng, đổi hàng",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 159,
+          "id": "maya_v2_159",
+          "start": 625.875,
+          "duration": 5.083333333333371,
+          "source": "154",
+          "title": "Cộng đồng và những quan hệ mới",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 190,
+          "id": "maya_v2_190",
+          "start": 744.8333333333334,
+          "duration": 4.625,
+          "source": "154",
+          "title": "Một thành phố tiếp tục sống",
+          "new_information": "",
+          "repetition_reason": ""
+        }
+      ],
+      "family": "Chợ",
+      "default_limit": 3,
+      "exceeds_default_budget": true
+    },
+    {
+      "count": 5,
+      "seconds": 17.458,
+      "shots": [
+        {
+          "number": 84,
+          "id": "maya_v2_084",
+          "start": 319.4583333333333,
+          "duration": 6.541666666666686,
+          "source": "164",
+          "title": "Một sức ép lớn lên cuộc sống",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 88,
+          "id": "maya_v2_088",
+          "start": 338.25,
+          "duration": 2.3333333333333144,
+          "source": "164",
+          "title": "Qua hết mùa vụ này…",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 89,
+          "id": "maya_v2_089",
+          "start": 340.5833333333333,
+          "duration": 2.3333333333333712,
+          "source": "165",
+          "title": "…đến mùa vụ khác",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 91,
+          "id": "maya_v2_091",
+          "start": 345.7916666666667,
+          "duration": 2.7916666666666288,
+          "source": "163",
+          "title": "Mỗi năm phải tính lại",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 94,
+          "id": "maya_v2_094",
+          "start": 357.375,
+          "duration": 3.4583333333333144,
+          "source": "164",
+          "title": "Chu kỳ quen thuộc, thời tiết đổi khác",
+          "new_information": "",
+          "repetition_reason": ""
+        }
+      ],
+      "family": "Ruộng ngô",
+      "default_limit": 3,
+      "exceeds_default_budget": true
+    },
+    {
+      "count": 3,
+      "seconds": 12.292,
+      "shots": [
+        {
+          "number": 59,
+          "id": "maya_v2_059",
+          "start": 224.95833333333334,
+          "duration": 2.791666666666657,
+          "source": "161",
+          "title": "Dấu vết dưới đáy hồ",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 77,
+          "id": "maya_v2_077",
+          "start": 290.2083333333333,
+          "duration": 5.041666666666686,
+          "source": "162",
+          "title": "Đọc dấu vết trong trầm tích",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 99,
+          "id": "maya_v2_099",
+          "start": 374.7083333333333,
+          "duration": 4.458333333333371,
+          "source": "160",
+          "title": "Itzan · một câu hỏi chưa khớp",
+          "new_information": "",
+          "repetition_reason": ""
+        }
+      ],
+      "family": "Hồ/trầm tích",
+      "default_limit": 3,
+      "exceeds_default_budget": false
+    },
+    {
+      "count": 3,
+      "seconds": 9.083,
+      "shots": [
+        {
+          "number": 97,
+          "id": "maya_v2_097",
+          "start": 365.9166666666667,
+          "duration": 4.333333333333314,
+          "source": "167",
+          "title": "Sức ép lên từng gia đình",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 191,
+          "id": "maya_v2_191",
+          "start": 749.4583333333334,
+          "duration": 2.4583333333332575,
+          "source": "168",
+          "title": "Nhiều thứ cùng suy yếu",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 195,
+          "id": "maya_v2_195",
+          "start": 765.5,
+          "duration": 2.2916666666666288,
+          "source": "167",
+          "title": "Họ phải giải quyết từng ngày",
+          "new_information": "",
+          "repetition_reason": ""
+        }
+      ],
+      "family": "Kho lương",
+      "default_limit": 3,
+      "exceeds_default_budget": false
+    },
+    {
+      "count": 3,
+      "seconds": 13.625,
+      "shots": [
+        {
+          "number": 108,
+          "id": "maya_v2_108",
+          "start": 417.5833333333333,
+          "duration": 4.125,
+          "source": "169",
+          "title": "Nhìn ra ngoài thành phố",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 110,
+          "id": "maya_v2_110",
+          "start": 424.4166666666667,
+          "duration": 4.541666666666629,
+          "source": "170",
+          "title": "Đường bất ổn, hàng đến ít dần",
+          "new_information": "",
+          "repetition_reason": ""
+        },
+        {
+          "number": 129,
+          "id": "maya_v2_129",
+          "start": 503.6666666666667,
+          "duration": 4.958333333333314,
+          "source": "171",
+          "title": "Đường đi nguy hiểm",
+          "new_information": "",
+          "repetition_reason": ""
+        }
+      ],
+      "family": "Đường nối",
+      "default_limit": 3,
+      "exceeds_default_budget": false
+    },
+    {
+      "count": 1,
+      "seconds": 5.333,
+      "shots": [
+        {
+          "number": 71,
+          "id": "maya_v2_071",
+          "start": 271.1666666666667,
+          "duration": 5.333333333333314,
+          "source": "140",
+          "title": "Cùng chờ một nguồn nước",
+          "new_information": "",
+          "repetition_reason": ""
+        }
+      ],
+      "family": "Tài sản 140",
+      "default_limit": 3,
+      "exceeds_default_budget": false
+    }
+  ],
+  "editorial_status": "REVIEW_REQUIRED",
+  "limits": "Counts flag repetition; they do not establish whether a shot has meaningful action or whether it is aesthetically successful. Untagged layouts require separate review."
+}

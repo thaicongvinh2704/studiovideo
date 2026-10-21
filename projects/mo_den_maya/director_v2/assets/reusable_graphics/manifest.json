@@ -1,0 +1,784 @@
+{
+  "version": "1.0-review",
+  "status": "Awaiting visual style approval by user",
+  "asset_count": 24,
+  "renderer": "Inkscape",
+  "style": {
+    "outline": "#30241F",
+    "cream": "#F0D4A7",
+    "brown": "#8D6249",
+    "blue_gray": "#899DA8",
+    "rust": "#B97957",
+    "note": "Proposed supporting graphic palette inspired by the previously reviewed Mo Den reference. Not a measured color match."
+  },
+  "assets": [
+    {
+      "id": "01_arrow_straight",
+      "name_vi": "Mũi tên thẳng",
+      "group": "01_chi_dan",
+      "use_vi": "Chỉ một chi tiết hoặc hướng thay đổi; xoay/lật tùy bố cục.",
+      "svg": "SVG/01_arrow_straight.svg",
+      "png": "PNG/01_arrow_straight.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        280,
+        424,
+        2264,
+        1016
+      ]
+    },
+    {
+      "id": "02_arrow_curved",
+      "name_vi": "Mũi tên cong",
+      "group": "01_chi_dan",
+      "use_vi": "Nối hai chi tiết ở vị trí lệch nhau.",
+      "svg": "SVG/02_arrow_curved.svg",
+      "png": "PNG/02_arrow_curved.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        332,
+        304,
+        2248,
+        1128
+      ]
+    },
+    {
+      "id": "03_arrow_double",
+      "name_vi": "Mũi tên hai chiều",
+      "group": "01_chi_dan",
+      "use_vi": "So sánh hoặc chỉ khoảng cách; thêm số đo riêng khi có nguồn.",
+      "svg": "SVG/03_arrow_double.svg",
+      "png": "PNG/03_arrow_double.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        240,
+        408,
+        2320,
+        1032
+      ]
+    },
+    {
+      "id": "04_route_dashed",
+      "name_vi": "Đường dẫn đứt đoạn",
+      "group": "01_chi_dan",
+      "use_vi": "Minh họa đường đi mang tính sơ đồ; không thay thế bản đồ chính xác.",
+      "svg": "SVG/04_route_dashed.svg",
+      "png": "PNG/04_route_dashed.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        296,
+        354,
+        2253,
+        1096
+      ]
+    },
+    {
+      "id": "05_focus_oval",
+      "name_vi": "Vòng khoanh chi tiết",
+      "group": "01_chi_dan",
+      "use_vi": "Khoanh vùng đáng chú ý trên ảnh tư liệu; phần giữa trong suốt.",
+      "svg": "SVG/05_focus_oval.svg",
+      "png": "PNG/05_focus_oval.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        330,
+        237,
+        2239,
+        1114
+      ]
+    },
+    {
+      "id": "06_focus_corners",
+      "name_vi": "Bốn góc đánh dấu",
+      "group": "01_chi_dan",
+      "use_vi": "Đánh dấu một vùng chữ nhật mà không che nội dung.",
+      "svg": "SVG/06_focus_corners.svg",
+      "png": "PNG/06_focus_corners.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        402,
+        338,
+        2158,
+        1102
+      ]
+    },
+    {
+      "id": "07_group_bracket",
+      "name_vi": "Ngoặc nhóm",
+      "group": "01_chi_dan",
+      "use_vi": "Gom nhiều hình vào một nhóm khái niệm.",
+      "svg": "SVG/07_group_bracket.svg",
+      "png": "PNG/07_group_bracket.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        307,
+        275,
+        2253,
+        1165
+      ]
+    },
+    {
+      "id": "08_detail_connector",
+      "name_vi": "Đường nối chi tiết",
+      "group": "01_chi_dan",
+      "use_vi": "Nối điểm trên ảnh với ô giải thích; thêm ô và chữ riêng.",
+      "svg": "SVG/08_detail_connector.svg",
+      "png": "PNG/08_detail_connector.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        321,
+        356,
+        2220,
+        1103
+      ]
+    },
+    {
+      "id": "09_emphasis_rays",
+      "name_vi": "Nét nhấn phát hiện",
+      "group": "01_chi_dan",
+      "use_vi": "Đặt quanh chủ thể để nhấn khoảnh khắc nhận ra hoặc bất ngờ.",
+      "svg": "SVG/09_emphasis_rays.svg",
+      "png": "PNG/09_emphasis_rays.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        329,
+        153,
+        2231,
+        1007
+      ]
+    },
+    {
+      "id": "10_underline",
+      "name_vi": "Gạch chân mềm",
+      "group": "01_chi_dan",
+      "use_vi": "Gạch dưới tiêu đề hoặc một cụm từ; chữ đặt riêng.",
+      "svg": "SVG/10_underline.svg",
+      "png": "PNG/10_underline.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        352,
+        654,
+        2208,
+        832
+      ]
+    },
+    {
+      "id": "11_evidence_frame",
+      "name_vi": "Khung ảnh tư liệu",
+      "group": "02_khung",
+      "use_vi": "Đặt ảnh thực tế bên dưới khung. Nhãn kem dành cho tiêu đề ngắn.",
+      "svg": "SVG/11_evidence_frame.svg",
+      "png": "PNG/11_evidence_frame.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [
+        [
+          185,
+          195,
+          1230,
+          535
+        ]
+      ],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        248,
+        160,
+        2316,
+        1228
+      ]
+    },
+    {
+      "id": "12_comparison_pair",
+      "name_vi": "So sánh hai bên",
+      "group": "02_khung",
+      "use_vi": "Đặt hai ảnh hoặc hai cách giải thích cạnh nhau.",
+      "svg": "SVG/12_comparison_pair.svg",
+      "png": "PNG/12_comparison_pair.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [
+        [
+          125,
+          210,
+          600,
+          500
+        ],
+        [
+          875,
+          210,
+          600,
+          500
+        ]
+      ],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        152,
+        184,
+        2408,
+        1192
+      ]
+    },
+    {
+      "id": "13_detail_inset",
+      "name_vi": "Khung phóng to chi tiết",
+      "group": "02_khung",
+      "use_vi": "Đặt ảnh tổng thể bên trái, ảnh cắt cận bên phải. Đường nối minh họa có thể chỉnh SVG.",
+      "svg": "SVG/13_detail_inset.svg",
+      "png": "PNG/13_detail_inset.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [
+        [
+          125,
+          195,
+          800,
+          510
+        ],
+        [
+          1125,
+          315,
+          350,
+          260
+        ]
+      ],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        152,
+        264,
+        2408,
+        1176
+      ]
+    },
+    {
+      "id": "14_quotation_frame",
+      "name_vi": "Khung trích dẫn",
+      "group": "02_khung",
+      "use_vi": "Nhập trích dẫn ở giữa và nguồn ở góc dưới; không tự coi câu kể là trích dẫn.",
+      "svg": "SVG/14_quotation_frame.svg",
+      "png": "PNG/14_quotation_frame.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [
+        [
+          470,
+          240,
+          830,
+          350
+        ],
+        [
+          900,
+          660,
+          410,
+          45
+        ]
+      ],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        280,
+        248,
+        2280,
+        1192
+      ]
+    },
+    {
+      "id": "15_note_card",
+      "name_vi": "Thẻ ghi chú",
+      "group": "02_khung",
+      "use_vi": "Thẻ nền đặc để đặt lời giải thích ngắn.",
+      "svg": "SVG/15_note_card.svg",
+      "png": "PNG/15_note_card.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [
+        [
+          330,
+          320,
+          900,
+          300
+        ]
+      ],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        408,
+        248,
+        2120,
+        1192
+      ]
+    },
+    {
+      "id": "16_hypothesis_cards",
+      "name_vi": "Ba thẻ giả thuyết",
+      "group": "02_khung",
+      "use_vi": "Đặt ba khả năng hoặc ba nhóm chứng cứ. Các thẻ cùng kích thước không thể hiện xác suất.",
+      "svg": "SVG/16_hypothesis_cards.svg",
+      "png": "PNG/16_hypothesis_cards.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [
+        [
+          120,
+          285,
+          380,
+          310
+        ],
+        [
+          610,
+          285,
+          380,
+          310
+        ],
+        [
+          1100,
+          285,
+          380,
+          310
+        ]
+      ],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        144,
+        276,
+        2416,
+        1112
+      ]
+    },
+    {
+      "id": "17_source_caption",
+      "name_vi": "Thẻ nguồn tư liệu",
+      "group": "02_khung",
+      "use_vi": "Đặt nguồn ảnh, bảo tàng, tác giả hoặc chú thích. Thay chữ riêng theo từng tư liệu.",
+      "svg": "SVG/17_source_caption.svg",
+      "png": "PNG/17_source_caption.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [
+        [
+          340,
+          370,
+          1010,
+          160
+        ]
+      ],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        280,
+        520,
+        2280,
+        920
+      ]
+    },
+    {
+      "id": "18_callout_bubble",
+      "name_vi": "Ô giải thích có đuôi",
+      "group": "02_khung",
+      "use_vi": "Đặt một ý giải thích hoặc lời dẫn ngắn của Mỏ Đen.",
+      "svg": "SVG/18_callout_bubble.svg",
+      "png": "PNG/18_callout_bubble.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [
+        [
+          270,
+          230,
+          1060,
+          340
+        ]
+      ],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        312,
+        248,
+        2248,
+        1240
+      ]
+    },
+    {
+      "id": "19_timeline_four",
+      "name_vi": "Trục thời gian bốn mốc",
+      "group": "03_thoi_gian",
+      "use_vi": "Sơ đồ thứ tự bốn mốc. Khoảng cách mặc định không biểu diễn số năm.",
+      "svg": "SVG/19_timeline_four.svg",
+      "png": "PNG/19_timeline_four.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [
+        [
+          170,
+          240,
+          220,
+          70
+        ],
+        [
+          510,
+          240,
+          220,
+          70
+        ],
+        [
+          850,
+          240,
+          220,
+          70
+        ],
+        [
+          1190,
+          240,
+          220,
+          70
+        ]
+      ],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        214,
+        352,
+        2346,
+        773
+      ]
+    },
+    {
+      "id": "20_timeline_gap",
+      "name_vi": "Khoảng trống tư liệu",
+      "group": "03_thoi_gian",
+      "use_vi": "Đánh dấu vùng thiếu dữ liệu hoặc thời gian chưa rõ; phải giải thích bằng chữ, không mặc định là sự kiện bí ẩn.",
+      "svg": "SVG/20_timeline_gap.svg",
+      "png": "PNG/20_timeline_gap.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [
+        [
+          640,
+          220,
+          310,
+          60
+        ]
+      ],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        230,
+        312,
+        2330,
+        904
+      ]
+    },
+    {
+      "id": "21_sequence_three",
+      "name_vi": "Ba bước nối tiếp",
+      "group": "03_thoi_gian",
+      "use_vi": "Đặt ba hình minh họa theo trình tự. Không tự suy ra quan hệ nguyên nhân.",
+      "svg": "SVG/21_sequence_three.svg",
+      "png": "PNG/21_sequence_three.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [
+        [
+          125,
+          320,
+          320,
+          290
+        ],
+        [
+          640,
+          320,
+          320,
+          290
+        ],
+        [
+          1155,
+          320,
+          320,
+          290
+        ]
+      ],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        152,
+        347,
+        2408,
+        1032
+      ]
+    },
+    {
+      "id": "22_timeline_parallel",
+      "name_vi": "Hai dòng thời gian",
+      "group": "03_thoi_gian",
+      "use_vi": "So sánh hai chuỗi sự kiện; vị trí mốc cần chỉnh nếu thể hiện thời gian thực.",
+      "svg": "SVG/22_timeline_parallel.svg",
+      "png": "PNG/22_timeline_parallel.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        214,
+        475,
+        2346,
+        1093
+      ]
+    },
+    {
+      "id": "23_branch_diagram",
+      "name_vi": "Sơ đồ phân nhánh",
+      "group": "03_thoi_gian",
+      "use_vi": "Sơ đồ khái niệm ba nhánh; không phải cây tiến hóa có căn cứ. Khi minh họa tiến hóa phải sửa cấu trúc theo nguồn.",
+      "svg": "SVG/23_branch_diagram.svg",
+      "png": "PNG/23_branch_diagram.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        307,
+        211,
+        2205,
+        1229
+      ]
+    },
+    {
+      "id": "24_duration_span",
+      "name_vi": "Dấu khoảng thời gian",
+      "group": "03_thoi_gian",
+      "use_vi": "Gom một giai đoạn; nhập nhãn khoảng thời gian vào thẻ bên dưới.",
+      "svg": "SVG/24_duration_span.svg",
+      "png": "PNG/24_duration_span.png",
+      "canvas_px": [
+        2560,
+        1440
+      ],
+      "viewBox": [
+        0,
+        0,
+        1600,
+        900
+      ],
+      "content_regions": [
+        [
+          610,
+          670,
+          380,
+          70
+        ]
+      ],
+      "notes": "Không có chữ hoặc niên đại trong ảnh.",
+      "alpha_bbox_px": [
+        308,
+        500,
+        2252,
+        1224
+      ]
+    }
+  ]
+}

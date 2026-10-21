@@ -1,0 +1,386 @@
+[
+  {
+    "id": 151,
+    "file": "01_boi_canh/do_thi/151_do_thi_duoc_duy_tri.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  WIDE LANDSCAPE 16:9 full bleed opaque background, foreground space for a later narrator overlay. Historically informed generic pre-Columbian LOWLAND MAYA illustration, NOT an exact reconstruction of any named site. Architecture uses limestone/stucco platforms, steep stepped temple bases and rectangular doorways with lintels; a temple roof comb, if present, must be one plain solid upright stone slab, NO castellated/notched battlements. Domestic buildings have wood poles, earth plaster and palm-thatch roofs. Avoid Roman arches/aqueducts, European towers/castles, tiled roofs, chimneys, glass, columns with classical capitals, metal pipes/machinery, carts, horses, wheat, banana plants, Egyptian pyramids, Aztec sun stones and fabricated inscriptions. A wide overview of a modest Classic lowland Maya ceremonial-residential center at forest edge. Central open stucco plaza; on rear-right ONE steep stepped temple with a small plain upper shrine and SOLID unnotched roof comb; on rear-left a low long rectangular limestone palace with rectangular lintelled doorways and flat roof; tiny thatch domestic roofs beyond. Maintained cream stucco with restrained red bands, NOT exposed ruin stones everywhere. Large simple shapes, empty lower foreground. No pyramid with four staircases. Do not copy a specific famous site.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 152,
+    "file": "01_boi_canh/do_thi/152_do_thi_xuong_cap.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Show moderate neglect of SAME city: small patches of peeling stucco exposing limestone, a few cracked stair edges, sparse weeds at margins, faded red paint. All buildings still standing. Keep exact footprints, camera, forest and sky.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 153,
+    "file": "01_boi_canh/do_thi/153_do_thi_cay_moc_lan.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Show SAME city long after abandonment: vines and broadleaf shrubs growing along palace and temple edges, small saplings in plaza cracks, some fallen stucco and localized roof damage. Keep recognizable original temple, palace, positions, forest horizon and camera; no new buildings, not wholesale jungle hiding everything.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 154,
+    "file": "01_boi_canh/cho/154_cho_du_hang.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  WIDE LANDSCAPE 16:9 full bleed opaque background, foreground space for a later narrator overlay. Historically informed generic pre-Columbian LOWLAND MAYA illustration, NOT an exact reconstruction of any named site. Architecture uses limestone/stucco platforms, steep stepped temple bases and rectangular doorways with lintels; a temple roof comb, if present, must be one plain solid upright stone slab, NO castellated/notched battlements. Domestic buildings have wood poles, earth plaster and palm-thatch roofs. Avoid Roman arches/aqueducts, European towers/castles, tiled roofs, chimneys, glass, columns with classical capitals, metal pipes/machinery, carts, horses, wheat, banana plants, Egyptian pyramids, Aztec sun stones and fabricated inscriptions. An open small lowland Maya exchange plaza at ground level. Four simple wooden-pole stands with PALM THATCH covers along sides, goods on reed mats and low platforms, plain round pottery jars, baskets of maize and folded unpatterned cotton cloth. Low cream stucco platform at far back and forest beyond, no temples needed. No coins, barrels, wooden crates, European counter stalls, wheels, animals or people. Broad empty center. All four stands are stocked.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 155,
+    "file": "01_boi_canh/cho/155_cho_it_hang.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Keep same four palm-thatch stands in exactly same positions. Remove about three quarters of goods, leaving only a few plain jars, ONE small maize basket and ONE folded cloth on the stands. Keep stands maintained and intact, empty plaza center, camera and background identical. No people.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 156,
+    "file": "01_boi_canh/cho/156_cho_bo_trong.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Keep same four stands/positions but empty all goods, baskets, jars and cloth. Slightly weathered thatch and a few weeds at their bases, all stands still recognizable and open center. Same camera/background.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 157,
+    "file": "01_boi_canh/ho_chua/157_ho_chua_day_nuoc.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Raise water in SAME reservoir to normal FULL supply, broad continuous blue surface reaching the upper retaining edges and covering most exposed basin shoreline. Preserve near-bank foreground, sky, forest, camera, channel location and architecture. No flooding above reservoir bank; no buildings. This is the full reservoir counterpart to low water.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 158,
+    "file": "01_boi_canh/ho_chua/158_ho_chua_nuoc_thap.png",
+    "method": "built-in image_gen",
+    "prompt": "Edit the reservoir scene. Remove ONLY the distant stepped temple at upper right, filling its entire silhouette with the same continuous tropical broadleaf forest canopy behind it. Keep the entire reservoir, low waterline, small inflow channel, banks, foreground, sky, camera angle and cartoon style identical. No buildings or text.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 159,
+    "file": "01_boi_canh/ho_chua/159_ho_chua_gan_can.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Lower SAME reservoir to NEARLY DRY: only one small shallow blue puddle far center, exposed tan clay basin with a few broad cracks. Inflow channel now empty/dry. Preserve banks, forest green canopy, sky/camera and foreground layout. Do not replace rainforest with desert or dead trees; no buildings.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 160,
+    "file": "01_boi_canh/ho_tram_tich/160_ho_tram_tich_nguyen_ven.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  WIDE LANDSCAPE 16:9 full bleed opaque background, foreground space for a later narrator overlay. A wide quiet tropical freshwater lake with forested low banks and reeds only at the sides. Frontal viewpoint with water surface occupying middle, simple tan near bank occupying bottom quarter. No buildings or mountains. An ordinary untouched natural lake above ground; no cross-section yet. This scene will later reveal sediment underneath with exactly the same outline. Flat uncomplicated forms, clean visual room.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 161,
+    "file": "01_boi_canh/ho_tram_tich/161_ho_tram_tich_mat_cat_minh_hoa.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Turn lower part of SAME lake into a clean illustrative cutaway: keep sky, tree line and far shore in exact positions in upper half; reveal beneath foreground lake a bowl-shaped blue water section resting on a clear continuous curved lake bottom, then four broad gently curved tan/brown sediment layers UNDER the bottom, extending to lower frame. Geologically coherent illustrative layers, NO numbers, measured depths, dates, labels, grid or arrows, no samples yet. This is a conceptual educational illustration, not measured data. Simple shapes and flat fills.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 162,
+    "file": "01_boi_canh/ho_tram_tich/162_ho_tram_tich_vi_tri_lay_mau.png",
+    "method": "built-in image_gen",
+    "prompt": "Edit this lake cutaway illustration. Keep every existing element and the same wide 16:9 camera and flat cartoon style. Add ONE slim dark gray vertical sediment coring tube in the CENTER, descending straight from just above water surface, through the water column, and continuing a short distance into the upper sediment layers under lake bottom. Tube must visibly cross the water-sediment interface; a small tan/brown core plug is visible inside its lowest portion. No boat, humans, dates, numbers, labels, arrows or scale marks. This is a simplified conceptual sampling-position illustration, not an exact instrument or measured cross-section.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 163,
+    "file": "01_boi_canh/ruong_ngo/163_ruong_ngo_xanh_tot.png",
+    "method": "built-in image_gen",
+    "prompt": "Create a wide 16:9 simple flat 2D cartoon background matching reference outline and palette. An ancient lowland Mesoamerican maize field at the forest edge, healthy mature GREEN MAIZE PLANTS with broad arching leaves, tassels and green husked ears, irregular modest planting beds. Composition: field fills middle/right, narrow simple earth footpath curves from open bottom-left to a tiny plain pole-and-thatch shelter far-left. Tropical broadleaf forest on horizon. No people, cattle, ploughs, fences, vehicles, text or modern machinery. Very few plants individually drawn, broad simple shapes, thick dark-brown outlines, muted colors, one flat shadow, no gradients or detailed textures. Open left foreground for narrator. Simple educational illustration rather than a named archaeological reconstruction.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 164,
+    "file": "01_boi_canh/ruong_ngo/164_ruong_ngo_heo.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Same maize field with SAME plant positions, path and shelter. Plants are water-stressed: sagging curled leaves, dull olive with some yellow-brown edges, ears small. A few earth cracks. Preserve healthy green forest beyond, sky, same camera and planting beds. No flames, people or new structures.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 165,
+    "file": "01_boi_canh/ruong_ngo/165_ruong_ngo_that_mua.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Same maize field after crop failure: most plants withered brown and collapsed or short dry stalks, no harvestable ears, sparse stalks remaining in exact same beds. Keep path and shelter, tree-line and sky. No harvested bundles suggesting a successful harvest, no fire.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 166,
+    "file": "01_boi_canh/kho_luong/166_kho_luong_day.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  WIDE LANDSCAPE 16:9 full bleed opaque background, foreground space for a later narrator overlay. Historically informed generic pre-Columbian LOWLAND MAYA illustration, NOT an exact reconstruction of any named site. Architecture uses limestone/stucco platforms, steep stepped temple bases and rectangular doorways with lintels; a temple roof comb, if present, must be one plain solid upright stone slab, NO castellated/notched battlements. Domestic buildings have wood poles, earth plaster and palm-thatch roofs. Avoid Roman arches/aqueducts, European towers/castles, tiled roofs, chimneys, glass, columns with classical capitals, metal pipes/machinery, carts, horses, wheat, banana plants, Egyptian pyramids, Aztec sun stones and fabricated inscriptions. Interior of a modest lowland Maya palm-thatch and pole storage building. Simple exposed supporting poles/rafters, earth plaster rear wall, low stone base and dry earthen floor. Left/right low wood platforms support many woven baskets of dried maize ears and plain clay storage jars, all FULL; maize is the only crop pictured. Small rectangular back doorway with light from outside. Open central floor. No barrels, crates, wheat sacks, metal fasteners, glass windows, printed bags, or European shelves. Readable uncluttered flat cartoon.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 167,
+    "file": "01_boi_canh/kho_luong/167_kho_luong_con_it.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Same storage room, same architecture, camera and platforms. Remove most baskets and jars, leave TWO small baskets with a little maize at back-left and ONE plain jar at back-right. Long stretches of platforms empty. No people, text or extra objects.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 168,
+    "file": "01_boi_canh/kho_luong/168_kho_luong_gan_trong.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Same storage room but almost empty: all platform surfaces empty except ONE small empty woven basket at rear-left and TWO loose maize ears on the floor nearby. Preserve all walls, roof supports, doorway, floor/camera. No new furniture.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 169,
+    "file": "01_boi_canh/duong_noi/169_duong_noi_thong_suot.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  WIDE LANDSCAPE 16:9 full bleed opaque background, foreground space for a later narrator overlay. Historically informed generic pre-Columbian LOWLAND MAYA illustration, NOT an exact reconstruction of any named site. Architecture uses limestone/stucco platforms, steep stepped temple bases and rectangular doorways with lintels; a temple roof comb, if present, must be one plain solid upright stone slab, NO castellated/notched battlements. Domestic buildings have wood poles, earth plaster and palm-thatch roofs. Avoid Roman arches/aqueducts, European towers/castles, tiled roofs, chimneys, glass, columns with classical capitals, metal pipes/machinery, carts, horses, wheat, banana plants, Egyptian pyramids, Aztec sun stones and fabricated inscriptions. A broad simple packed-earth footpath curves from foreground toward two small separated clusters of low thatched houses on low limestone platforms in middle distance at left and right, through broadleaf tropical vegetation. A very small low stone retaining edge on one part of the path. Road continuous and maintained, no bridge, no waterways. Clear open foreground, dry but green landscape. NO wheel ruts, carts, beasts of burden, road signs or cobblestone European street.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 170,
+    "file": "01_boi_canh/duong_noi/170_duong_noi_hu_hai.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Same connecting footpath and villages, but eroded path segment in midground: shallow irregular washout across path and some loose stones from the low retaining edge. Footpath still partly passable. Keep buildings, trees, sky/camera identical. No deep canyon, no bridges, no vehicles.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 171,
+    "file": "01_boi_canh/duong_noi/171_duong_noi_bi_chan.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Same connecting footpath and villages. Path now blocked across its middle width by ONE fallen broadleaf tree trunk and branches plus a few fallen retaining stones, clearly prevents easy passage. No fence, soldiers, arrows or warning sign. Keep houses, temple, forest and camera unchanged. It is a generic illustration of interruption, not a documented specific Maya event.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 172,
+    "file": "01_boi_canh/nha_san/172_nha_va_san_sinh_hoat.png",
+    "method": "built-in image_gen",
+    "prompt": "Create a wide 16:9 SIMPLE flat 2D cartoon background matching reference linework. An illustrative pre-Columbian lowland Maya household courtyard: one modest low rectangular house at back-right, rounded hip thatched roof of palm leaves on wood poles, simple earth-plastered walls, low limestone foundation, plain dark rectangular doorway with wooden lintel, NO arches/windows/glass/chimney/tile roof. A broad simple open earth yard at front-left, tropical broadleaf trees at edges. Domestic items: one plain round clay water jar with no handle/spout, a woven basket, folded cotton cloth and a sleeping mat arranged neatly under the eaves. No people, no furniture resembling European tables or chairs, no text/glyphs. Thick warm dark-brown outlines, muted flat tan/olive/terracotta, few interior lines, one flat shadow, NO texture/gradients/realism. Clear readable shapes, comparable simplicity to existing Mo Den props. This is a generic historically informed domestic illustration, not an exact excavated house.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 173,
+    "file": "01_boi_canh/nha_san/173_nha_va_san_chuan_bi_roi_di.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Same home and yard, unchanged building/camera. Domestic items now ready for relocation: roll sleeping mat and tie it with plain fiber cord, bundle folded cotton cloth, group these beside basket and water jar close to doorway. Keep house intact, no new objects like suitcases/carts, no people. Clear open yard.",
+    "final_revision_prompt": "Edit this exact image. Change ONLY the household belongings on the porch to clearly communicate preparing to migrate. Roll up the flat woven sleeping mat into a thick cylindrical roll secured with two simple fiber ties. Replace the folded white cloth with one bulging tied cream cotton bundle. Group the rolled mat, bundle, basket and pottery jar closely together immediately beside the doorway, between the doorway and nearest right wooden post; they can extend a little forward onto the porch. Leave the old far-right sleeping-mat area completely empty. Keep the entire house, roof, yard, all vegetation, sky, exact camera and wide 16:9 composition unchanged. Maintain thick dark brown outlines and simple flat cartoon fills. No people, text or modern luggage.",
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 174,
+    "file": "01_boi_canh/nha_san/174_nha_va_san_bo_trong.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Same house and yard, but household objects removed completely (jar, basket, cloth and mat all gone), dark empty doorway, only a small patch of weeds at foundation. Building still standing, very minor weathering. Preserve camera/forest/roof and yard.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 175,
+    "file": "01_boi_canh/khu_chay/175_khu_chay_nguyen_ven.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  WIDE LANDSCAPE 16:9 full bleed opaque background, foreground space for a later narrator overlay. Historically informed generic pre-Columbian LOWLAND MAYA illustration, NOT an exact reconstruction of any named site. Architecture uses limestone/stucco platforms, steep stepped temple bases and rectangular doorways with lintels; a temple roof comb, if present, must be one plain solid upright stone slab, NO castellated/notched battlements. Domestic buildings have wood poles, earth plaster and palm-thatch roofs. Avoid Roman arches/aqueducts, European towers/castles, tiled roofs, chimneys, glass, columns with classical capitals, metal pipes/machinery, carts, horses, wheat, banana plants, Egyptian pyramids, Aztec sun stones and fabricated inscriptions. A small lowland Maya compound of ONE low rectangular limestone/stucco building at back-left with plain flat masonry roof and wood lintel, and TWO simple thatched pole houses at back-right, surrounding an open compact earth courtyard. In this first state everything intact, maintained, unburned. Broadleaf forest behind. Sparse plain round clay jars near entrances. No temple, no arches, no tiled roofs, no fireplaces or chimneys. Generic hypothetical settlement to illustrate a fire sequence, never a literal Witzna reconstruction.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 176,
+    "file": "01_boi_canh/khu_chay/176_khu_chay_chay_hu_hai.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Same three-building compound DURING a destructive fire, still daylight: simple orange flames on the TWO thatched roofs at right, charcoal-gray smoke rising from them, some roof edges collapsing, the LEFT masonry building still standing with soot around wooden doorway/lintel. Clear open courtyard with sparse charred fragments. No people, weapons, corpses or gore; stones themselves do not burn. Preserve positions, perspective, background forest. Fire is generic illustrative, not a reconstruction of a recorded Witzna battle.",
+    "final_revision_prompt": "Edit this exact image. Simplify ONLY the fire and smoke into the same basic flat cartoon style as the architecture. Replace finely textured smoke with large smooth rounded cartoon cloud lobes using only two flat dark gray fills and a dark outline. Replace tiny detailed tongues of flame and sparks with a few broad readable orange flame shapes with small flat yellow centers. Simplify the mottled soot on walls into a few flat dark brown patches. Preserve every building's location, shape, damage, roof beams, all ground, trees, sky and exact 16:9 camera. No realistic smoke texture, gradients, embers or fine particles. No text or people.",
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 177,
+    "file": "01_boi_canh/khu_chay/177_khu_chay_dau_tich.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: Same compound AFTER fire is long extinguished: two right houses now charred pole frames with collapsed thatch remnants and ash around their original footprints; left masonry building still standing with soot, missing burned wooden lintel and chipped plaster. No flames or fresh smoke. Same camera and open yard with discreet ash/charcoal traces; no people.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 178,
+    "file": "01_boi_canh/quyen_luc/178_quyen_luc_duoc_duy_tri.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  WIDE LANDSCAPE 16:9 full bleed opaque background, foreground space for a later narrator overlay. Historically informed generic pre-Columbian LOWLAND MAYA illustration, NOT an exact reconstruction of any named site. Architecture uses limestone/stucco platforms, steep stepped temple bases and rectangular doorways with lintels; a temple roof comb, if present, must be one plain solid upright stone slab, NO castellated/notched battlements. Domestic buildings have wood poles, earth plaster and palm-thatch roofs. Avoid Roman arches/aqueducts, European towers/castles, tiled roofs, chimneys, glass, columns with classical capitals, metal pipes/machinery, carts, horses, wheat, banana plants, Egyptian pyramids, Aztec sun stones and fabricated inscriptions. A wide staged lowland Maya composition contrasting an elite precinct and domestic homes: on LEFT one low cream-stucco palace on a broad two-step limestone platform, three plain rectangular doorways and a flat roof, a small plain uninscribed stone stela stands near it. On RIGHT middle distance three modest pole-and-thatch homes on low foundations with tiny tidy household maize baskets and jars. Forest behind, broad empty foreground. In this initial state palace and houses are all maintained. NO thrones/crowns, castles, arches, tile roofs, glyphs, or people.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 179,
+    "file": "01_boi_canh/quyen_luc/179_quyen_luc_suy_yeu.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: SAME palace-and-homes scene. ONLY left elite palace neglected: faded stucco, small cracks, weeds on steps and at plain stela base. Palace still standing. RIGHT three domestic homes remain MAINTAINED, neat thatch, pottery and maize basket still present, paths clear. Preserve exactly positions, sky/camera. Do not make homes abandoned. This illustrates different trajectories, no people.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 180,
+    "file": "01_boi_canh/quyen_luc/180_quyen_luc_dan_cu_thua_dan.png",
+    "method": "built-in image_gen",
+    "prompt": "EDIT the provided image; it is the exact scene to preserve, not just a style reference. Keep its wide 16:9 framing, simple cartoon style, line weight, palette, lighting, perspective and all elements not explicitly changed. One scene only, no text/numbers/labels or collage. CHANGE: SAME palace-and-homes composition. Palace left still neglected. Rightmost TWO domestic homes now unused with thin thatch gaps and household objects gone; farthest SMALL home remains maintained with ONE jar by door and clear little path. A few weeds in unused paths, no wholesale destruction. Keep the original three home positions and palace, camera and forest. Do not depict extinction or disappearance of all people.",
+    "final_revision_prompt": "Edit this exact image to show later partial abandonment. Change ONLY the TWO RIGHTMOST thatched houses: remove their jars and maize basket, put a few small holes in their thatched roofs and modest weeds by their steps. The third small house to their left must stay intact with its existing jar. CRITICAL: preserve the entire LEFT PALACE and stela EXACTLY AS THEY ARE, including all current cracks, discoloration, weeds, worn steps and neglect. Do not repair, clean, redraw or simplify the palace. Preserve same vegetation, sky, yard, camera and 16:9 framing. Same simple 2D cartoon outlines and fills. No text or people.",
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 181,
+    "file": "02_vat_the/ha_tang_nuoc/181_kenh_da_ho.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One short straight open U-shaped water channel lined with rough simple limestone blocks, shallow blue water inside, oblique three-quarter view; standalone whole segment including base. Low ancient masonry, no Roman arch, pipe, valve, metal or machinery.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 182,
+    "file": "02_vat_the/ha_tang_nuoc/182_dap_dat_da_nho.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One small low earthen embankment dam reinforced with limestone blocks, shown as a compact isolated vignette with a tiny blue upstream water patch behind and a shallow open side overflow channel. Simple plausible gravity flow, no modern concrete, gates, pipes, turbines, arches or labels. Generic ancient water management concept, not archaeological reconstruction.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 183,
+    "file": "02_vat_the/ha_tang_nuoc/183_cua_dan_nuoc_da.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One low simple rectangular opening between two limestone retaining cheeks, open at the top, with a narrow shallow water stream flowing through into a short stone-lined channel. Whole compact standalone architectural segment. No medieval gateway, no circular arch, metal gate, modern tap or wheel. Generic open water inlet, no claim about specific historical gate mechanisms.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 184,
+    "file": "02_vat_the/khoang_vat/184_thach_anh_minh_hoa.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One small modest cluster of milky off-white quartz crystals on a gray-beige rock base; few recognizable six-sided prismatic crystals with pyramidal points, softened cartoon facets, no glitter, glass refraction, jewelry or magical glow. Whole specimen, educational schematic appearance, not an identified actual sample.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 185,
+    "file": "02_vat_the/khoang_vat/185_da_chua_zeolit_minh_hoa.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One small rough beige-gray tuff rock specimen with a sparse patch of tiny cream flat tabular crystalline grains, simplified solid aggregate; do NOT draw large sponge holes, honeycomb pores, quartz spikes or magical gemstones. Zeolite-bearing rock illustrative sample, microscopic porosity is not visible as huge holes. Keep mineral shape modest, rounded cartoon; no labels.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 186,
+    "file": "02_vat_the/khoang_vat/186_chu_sa_minh_hoa.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One gray-brown rock specimen with distinct dull vermilion cinnabar red mineral patches embedded in it, with a small red powder pinch beside same specimen. Flat muted red, simple polygon forms, no liquid mercury droplet, no glossy ruby jewel, no glowing crystals. Whole isolated mineral-and-powder coherent set; illustrative only.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 187,
+    "file": "02_vat_the/bang_chung/187_loi_tram_tich.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One upright narrow cylindrical lake sediment core, split lengthwise to show a flat face with 5 broad horizontal tan/brown sediment strata. Rounded back and clean straight sample face; layers continuous and visibly distinct, no dates, ruler, numbers, measured depths, tubes or labels. Generic research sample, no invented data.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 188,
+    "file": "02_vat_the/bang_chung/188_mang_da.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One intact small cream/tan STALAGMITE growing upward from a small limestone base, rounded tapering dome and a few gently curved growth bands, tip rounded. No hanging stalactite, no ice/icicle, no crystal spikes or sparkling minerals. Whole natural cave formation simplified.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 189,
+    "file": "02_vat_the/bang_chung/189_thach_cao_minh_hoa.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One small cluster of milky pale beige gypsum SELENITE broad blade/tabular crystals on a modest rock base, simple broad flattened parallel faces with oblique ends, no quartz-style pointed hexagonal towers, no sparkle. Generic illustrative specimen, no magnified water droplet or invented molecular diagram.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 190,
+    "file": "02_vat_the/nong_nghiep/190_cay_ngo_khoe.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One complete healthy mature MAIZE PLANT with one central upright jointed stalk, 6 broad long arching green leaves, a small tan tassel at top, 2 modest green-husked maize ears attached at middle nodes, and short brace roots at bottom. Not wheat, palm, bamboo or monstera. Whole silhouette unclipped, simple broad shapes, few kernel details.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 191,
+    "file": "02_vat_the/nong_nghiep/191_cay_ngo_heo.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One complete water-stressed MAIZE PLANT: thin central stalk bent slightly, 6 long curled drooping olive/brown leaves, small dried tassel and 1 undersized brown-husked ear at a node, short brace roots. Visibly maize with coherent anatomy, not a dead tree. Whole silhouette, no soil patch needed.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 192,
+    "file": "02_vat_the/nong_nghiep/192_hat_ngo_de_giong.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One small neat mound of 8-12 golden-tan MAIZE KERNELS on a small plain shallow woven tray. Kernels have flattened rounded triangular corn-kernel shape, not wheat grains or beans. Entire tray and kernels complete, minimal woven lines. Coherent single seed-storage asset.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 193,
+    "file": "02_vat_the/nuoc_moi_truong/193_mang_no_hoa_vi_khuan_lam.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One isolated wide flat irregular OVAL WATER-SURFACE PATCH for overlay, muted blue water with irregular olive/blue-green surface scum slicks suggesting a cyanobacterial bloom. Simple flat slick shapes, no leaves, lily pads, microorganisms faces, poison skulls, foam bubbles, neon toxic liquid or container. Entire patch with dark outline, surrounding canvas transparent. Illustration does not prove toxicity by water color.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 194,
+    "file": "02_vat_the/nuoc_moi_truong/194_dong_chay_mang_bun_sac_to.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One short isolated gently curving thin ribbon of runoff water seen obliquely from above, muted blue with a visible tan and dull rust-red suspended sediment streak, all within a single ribbon shape. A few very small earthy particles. No arrows, chemicals, poison icon, pipe or full landscape. Whole ribbon and rounded ends, true transparent exterior. Conceptual illustration of runoff, not a measured plume.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 195,
+    "file": "02_vat_the/nuoc_moi_truong/195_giot_nuoc.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One simple blue teardrop-shaped water droplet, complete centered silhouette, thick warm dark-brown outline, only two muted blue flat fills and one small flat pale-blue reflection. No face, sparkle, glass rendering, gradient, surrounding splash or floor shadow.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 196,
+    "file": "02_vat_the/vi_von_hien_dai/196_dien_thoai_man_hinh_trong.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One contemporary generic smartphone in slight three-quarter view, portrait orientation, rounded dark charcoal frame, perfectly BLANK pale cream screen ready for later graphics, tiny speaker slit. No logo, letters, numbers, app icons, battery symbol or hands. Full device isolated with margin. A modern analogy prop, not Maya technology.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 197,
+    "file": "02_vat_the/vi_von_hien_dai/197_bon_nuoc_xem_muc.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One generic contemporary cylindrical water tank with simple pale blue-gray outer body and lid; a wide conceptual transparent front window reveals a HALF-FULL blue water level with horizontal surface. Simple short outlet at bottom and inlet at top, no valves/dials/measurement numbers/logo. Coherent full standalone tank, no building. Educational modern analogy, not Maya technology; avoid photoreal metal.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  },
+  {
+    "id": 198,
+    "file": "02_vat_the/vi_von_hien_dai/198_lich_ban_trang.png",
+    "method": "built-in image_gen",
+    "prompt": "SIMPLE 2D flat cartoon matching the provided Mo Den STYLE reference. Thick warm very-dark-brown outlines, rounded readable forms, muted tan/terracotta/olive and restrained blue, broad flat color areas, at most one flat shadow per material, very few interior marks. No gradients, textures, realism, cinematic lighting, text, labels, glyphs, watermark, border or collage. No people.  Reference is STYLE ONLY; never copy its pottery subject. Single complete asset centered on square TRUE TRANSPARENT canvas, generous margin on every side, no external drop shadow or ground, no scene. One modern simple triangular tent desk calendar with a blank cream rectangular page and muted terracotta support, small plain binding loops at top. Page completely blank: no words, dates, numbers or grid. Whole object at slight angle, thick dark-brown outline, few flat colors. Modern analogy prop, not a Maya calendar stone.",
+    "final_revision_prompt": null,
+    "reference_role": "Exact scene edit target for variants; existing Mo Den illustration for style on initial scenes/props."
+  }
+]

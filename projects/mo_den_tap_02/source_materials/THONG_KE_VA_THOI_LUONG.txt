@@ -1,0 +1,33 @@
+THỐNG KÊ — MỎ ĐEN, TẬP 2
+
+Lời đọc sạch: 5,882 đơn vị cách nhau bằng khoảng trắng; 26,863 ký tự kể cả khoảng trắng sau chuẩn hóa; 73 đoạn văn.
+Bản diễn giọng: 40 khối chỉ dẫn biểu cảm, kèm toàn bộ lời kể.
+SRT: 460 cue; tối đa hai dòng/cue, tối đa 44 ký tự/dòng. Bắt đầu 00:00:00,000; kết thúc dự kiến 00:18:22,875.
+
+CÁCH ƯỚC TÍNH
+Đơn vị đếm = chuỗi ký tự phân cách bằng khoảng trắng trong LOI_DOC.txt. Tiếng Việt có nhiều từ gồm nhiều tiếng viết rời, nên đây chủ yếu là số tiếng/âm tiết gần đúng, KHÔNG phải số từ theo phân tích ngôn ngữ học. Tên nước ngoài có thể có nhiều âm tiết nhưng chỉ chiếm một đơn vị; con số không thay thế việc đọc thử.
+
+Công thức: thời lượng (phút) = tổng đơn vị / tốc độ trung bình. SRT được tính ở 320 đơn vị/phút, mỗi đơn vị tương đương 187,5 ms. Thời gian cue = thời gian tích lũy đến ranh giới cụm nghĩa, làm tròn mili giây. Không chèn thời gian im lặng hoặc tự kéo dài phần nào để đạt 15 phút. Cue tiếp nối, không chồng lấn.
+
+Các kịch bản tốc độ, đều là ước tính:
+- 300 đơn vị/phút: 19:36 (phút:giây).
+- 320 đơn vị/phút: 18:23 (phút:giây).
+- 340 đơn vị/phút: 17:18 (phút:giây).
+- 360 đơn vị/phút: 16:20 (phút:giây).
+
+Tốc độ 320 là điểm thiết kế, có thể nhanh/chậm cục bộ khi thu để diễn đạt tự nhiên. 360 đơn vị/phút là phép thử đọc nhanh; bản này vẫn vượt 15 phút theo công thức. Nếu đọc nhanh hơn nhiều, thời lượng có thể ngắn hơn; cần đo bản thu. Không thể chứng nhận thời lượng thật hoặc khả năng giữ chân khán giả trước khi có âm thanh và phản hồi.
+
+PHỤ ĐỀ NHÁP, CẦN CĂN THEO BẢN THU THẬT
+SRT chưa đồng bộ với âm thanh. Sau khi thu: thay timestamp theo tiếng thực, điều chỉnh ranh giới cue nếu cần, kiểm tra tên riêng và nhịp đọc. Nếu sửa lời hoặc thêm/bớt câu trong bản thu, cập nhật cả TXT và SRT tương ứng. Mốc trong DIEN_GIONG_DAY_DU.txt cũng là mốc nháp.
+
+CÁC PHẦN VÀ MỐC NHÁP
+00:00 — 01 | Hai người bị trí nhớ xếp nhầm thế kỷ
+01:58 — 02 | Kim tự tháp đã cổ từ thời người cổ đại
+04:04 — 03 | Cleopatra đứng gần tên lửa hơn ta tưởng
+05:34 — 03B | Voi ma mút chưa rời khỏi thế giới
+07:07 — 04 | Trường đại học cũ hơn một đế chế
+08:44 — 05 | Samurai và hành khách tàu điện ngầm
+10:30 — 05B | Hai đứa trẻ, một ngày sinh
+12:04 — 06 | Từ mười hai giây đến Mặt Trăng
+14:50 — 07 | Sác-lô không ở mãi trong phim câm
+16:27 — 08 | Vị vua cuối cùng và nút Start

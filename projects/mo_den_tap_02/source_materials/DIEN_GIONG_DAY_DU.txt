@@ -1,0 +1,349 @@
+MỎ ĐEN — HƯỚNG DẪN DIỄN GIỌNG
+
+Đây là bản diễn giọng đầy đủ: toàn bộ lời kể giống hệt LOI_DOC.txt, có thêm chỉ dẫn riêng. Không đọc tiêu đề, mã đoạn, thời gian hoặc nội dung trong ngoặc vuông thành lời. Nếu dùng công cụ tạo giọng, LOI_DOC.txt là bản đầu vào sạch; chuyển ý đồ diễn xuất sang chức năng phù hợp của công cụ, không mặc định mọi dấu ngoặc sẽ được hiểu.
+
+Nhân vật là một người bạn thông minh đang kể điều vừa phát hiện. Có năng lượng, có lập trường, biết tự trào; không phải phát thanh viên đọc bản tin, cũng không phải nghệ sĩ phải pha trò ở cuối mọi câu.
+
+GIỌNG NỀN: thân mật, rõ phụ âm, tầm trung thoải mái. Mỗi câu chỉ chọn một ý cần nhấn. Câu dẫn ngắn có thể nhanh hơn; tên lạ và phép tính chậm lại một chút để hiểu được. Nhịp trung bình dự kiến 320 đơn vị cách nhau bằng dấu cách/phút, không phải 320 từ ngôn ngữ học/phút.
+
+NÂNG GIỌNG: sáng âm sắc và nâng đường nét nhẹ ở điểm tò mò, không hét, không đổi thanh điệu tiếng Việt. HẠ GIỌNG: bớt độ sáng, gần người nghe hơn, không kéo thành giọng bí hiểm. NHẤN: tăng độ rõ hoặc độ dài rất nhẹ của từ khóa; không tăng âm lượng cả câu.
+
+HÀI: câu tếu thường nói tỉnh bơ hoặc nhỏ hơn một chút, để người nghe tự nhận ra. Không thêm “ha ha”, không dừng chờ tiếng cười, không lên giọng báo trước rằng sắp có câu đùa. Những câu nói về tử vong, chiến tranh, mất mát và tín ngưỡng giữ bình tĩnh, tôn trọng.
+
+HƠI THỞ: lấy hơi tự nhiên ở dấu câu và ranh giới ý. Có thể ngắt ngắn sau đáp án bất ngờ, nhưng không thêm khoảng lặng để bù độ dài. Các chỉ dẫn là ý đồ biểu cảm, không phải yêu cầu đọc mọi đoạn cùng tốc độ hay cùng một đường cao độ.
+
+CÁCH ĐỌC TÊN: đọc rõ và thống nhất từ đầu đến cuối. Sác-lô là cách gọi Chaplin quen thuộc ở Việt Nam. Với Washington, Darwin, Lincoln, Oxford, Wright, Chaplin, Newton, Columbus, Berners-Lee, Wrangel và Suryavarman, tập trước những câu có tên; không cố nhấn tên lạ hơn ý nghĩa của câu. Apollo mười một và Windows chín mươi lăm đã viết theo lời nói. CERN có thể đọc “xơn”; World Wide Web đọc tên rồi chuyển ngay sang giải thích. Không sửa tên riêng thành một sự kiện khác chỉ để dễ đọc.
+
+Các mốc thời gian dưới đây được suy ra từ SRT nháp, KHÔNG phải thời gian đã đo từ âm thanh. Khi có bản thu, căn lại toàn bộ cue theo lời thực tế. Chỉ dẫn mới áp dụng cho đoạn ngay dưới và sắc thái tiếp nối cho đến khi có chỉ dẫn khác; không cần đổi giọng máy móc ở mỗi đoạn.
+
+
+KỊCH BẢN DIỄN GIỌNG — TẬP 2
+
+
+=== 01 | Hai người bị trí nhớ xếp nhầm thế kỷ | Dự kiến 00:00:00,000 ===
+
+[DIỄN GIỌNG: Hook: vào ngay, sáng và tò mò; nhấn “cùng một năm”, không hét. Câu hỏi cuối hạ nhẹ rồi nâng ở “đặt nhầm”.]
+
+[ĐOẠN 001 | 00:00:00,000 → 00:00:12,562 | Cue 1–5]
+Năm Quang Trung đánh thắng quân Thanh cũng là năm George Washington nhậm chức tổng thống đầu tiên của Hoa Kỳ. Cùng một năm. Vậy mà trong đầu, một người thường đứng giữa cờ trận và voi chiến; người kia đứng cạnh một nước Mỹ trông có vẻ hiện đại hơn hẳn. Có bao nhiêu người nữa đang bị chúng ta đặt nhầm ngăn của quá khứ?
+
+[DIỄN GIỌNG: Chuyển sang thân mật, như kéo ghế ngồi cạnh bạn. “Cái tủ” nói tỉnh bơ.]
+
+[ĐOẠN 002 | 00:00:12,562 → 00:00:26,625 | Cue 6–10]
+Tôi là Mỏ Đen. Hôm nay, tôi rủ bạn mở lại cái tủ mang tên lịch sử. Ta sẽ tìm thấy một nữ hoàng gần thời du hành vũ trụ hơn thời xây kim tự tháp, một danh hài phim câm sống đến thời Apple, và một vị vua Việt Nam có cuộc đời kéo dài tới những năm nhiều người trong chúng ta đã ra đời. Cái tủ này cần sắp xếp lại thật.
+
+[ĐOẠN 003 | 00:00:26,625 → 00:00:41,625 | Cue 11–17]
+Trước hết, hãy giữ hai tấm chân dung Quang Trung và Washington cạnh nhau. Nguyễn Huệ thường được ghi nhận sinh năm một nghìn bảy trăm năm mươi ba, mất năm một nghìn bảy trăm chín mươi hai. Washington sinh năm một nghìn bảy trăm ba mươi hai, mất năm một nghìn bảy trăm chín mươi chín. Ông hơn Nguyễn Huệ hai mươi mốt tuổi tính theo năm sinh, và sống thêm bảy năm sau khi Quang Trung qua đời.
+
+[DIỄN GIỌNG: Nhấn “toàn bộ cuộc đời”, rồi thả giọng; đây là phát hiện, không phải đọc bảng số.]
+
+[ĐOẠN 004 | 00:00:41,625 → 00:00:55,125 | Cue 18–23]
+Nghĩa là toàn bộ cuộc đời Nguyễn Huệ nằm trong khoảng đời Washington. Không chỉ có vài tháng tình cờ chồng lên nhau. Suốt lúc Nguyễn Huệ lớn lên, bước vào phong trào Tây Sơn, trở thành hoàng đế rồi qua đời, Washington vẫn đang sống ở bên kia thế giới. Hai câu chuyện mà trí nhớ của ta mở bằng hai bộ trang phục khác nhau thực ra chạy đồng thời.
+
+[ĐOẠN 005 | 00:00:55,125 → 00:01:12,562 | Cue 24–30]
+Và năm một nghìn bảy trăm tám mươi chín là chỗ hai đường ấy hiện rõ nhất. Vào Tết Kỷ Dậu, quân Tây Sơn dưới sự chỉ huy của Quang Trung đánh bại quân Thanh. Ngày ba mươi tháng tư cùng năm, Washington tuyên thệ nhậm chức ở New York. Một người vừa trải qua chiến dịch quyết liệt ở Bắc Hà; một người nhận trọng trách điều hành một nền cộng hòa mới. Cả hai đều đang đứng trước câu hỏi: sau biến động, phải xây dựng trật tự như thế nào?
+
+[DIỄN GIỌNG: Nhếch cười ở ví von “nhóm chat”; nói gọn, không dừng chờ khán giả cười.]
+
+[ĐOẠN 006 | 00:01:12,562 → 00:01:26,438 | Cue 31–36]
+Đặt cạnh nhau như vậy không có nghĩa hai ông từng gặp, từng thư từ hay từng biết rõ công việc của nhau. Lịch sử không tự động lập nhóm chat chỉ vì hai người cùng sống. Ở đây, điều chắc chắn là các mốc đời chồng lấn. Còn muốn nói đến liên hệ, phải có bằng chứng khác. Hai cột thời gian đứng cạnh nhau chưa phải một bức thư có chữ ký.
+
+[ĐOẠN 007 | 00:01:26,438 → 00:01:42,938 | Cue 37–43]
+Nhưng chỉ việc đặt đúng chỗ đã thay đổi cảm giác. Washington không sống trong thế giới của máy bay, cao tốc hay điện thoại thông minh. Còn Quang Trung không thuộc một thời xa xăm cách ông hàng trăm năm. Chúng ta đã lấy hình ảnh nước Mỹ quen thuộc hôm nay phủ lên người sáng lập của nó, rồi vô tình đẩy ông về gần mình hơn. Trong khi với Quang Trung, chỉ cần thấy áo bào là ta kéo ngay thanh thời gian lùi tít.
+
+[DIỄN GIỌNG: Tự trào nhẹ ở “cũng từng làm thế”; kết đoạn mở, dẫn vào câu hỏi mới.]
+
+[ĐOẠN 008 | 00:01:42,938 → 00:01:57,938 | Cue 44–50]
+Tôi cũng từng làm thế. Não tiết kiệm công sức bằng cách chia lịch sử thành các hộp: vua chúa, cách mạng, máy móc, hiện đại. Khổ nỗi, người thật không xếp hàng đợi hộp trước đóng lại mới bước vào hộp sau. Nếu quần áo có thể làm ta nhìn sai vài thế kỷ, một nhãn rộng như “thời cổ đại” còn có thể làm sai đến mức nào? Ta thử đem nó đến nơi có rất nhiều đá.
+
+
+=== 02 | Kim tự tháp đã cổ từ thời người cổ đại | Dự kiến 00:01:57,938 ===
+
+[DIỄN GIỌNG: Chậm hơn một chút để dựng khoảng cách; câu “cũ đến đâu” là lời thách đố nhẹ.]
+
+[ĐOẠN 009 | 00:01:57,938 → 00:02:14,062 | Cue 51–57]
+Đại kim tự tháp ở Giza, công trình gắn với pharaon Khufu, được xây trong thế kỷ hai mươi sáu trước Công nguyên. Để dễ hình dung, ta dùng mốc tròn khoảng hai nghìn năm trăm năm mươi trước Công nguyên. Đây là mốc xấp xỉ, chứ công trường không để lại cho chúng ta một tờ biên bản nghiệm thu đủ ngày tháng. Giờ hãy đặt cạnh nó thời điểm Chúa Giê-su ra đời. Theo bạn, lúc ấy kim tự tháp đã cũ đến đâu?
+
+[ĐOẠN 010 | 00:02:14,062 → 00:02:31,500 | Cue 58–63]
+Nếu câu trả lời trong đầu là vài trăm năm, chúng ta cần kéo dài thước ra rất nhiều. Niên đại ra đời của Chúa Giê-su vẫn có những cách ước tính khác nhau. Một khoảng được giới nghiên cứu sử dụng là khoảng năm bảy đến năm bốn trước Công nguyên. Với khoảng đó, tính từ mốc xây kim tự tháp vừa chọn, đã trôi qua hơn hai nghìn năm trăm năm. Một công trình có thể được gọi là cổ ngay trong một thế giới mà ta cũng gọi là cổ.
+
+[DIỄN GIỌNG: Câu chen “nghe hơi tréo ngoe” giữ giọng thân thiện; không đùa vào niềm tin tôn giáo.]
+
+[ĐOẠN 011 | 00:02:31,500 → 00:02:47,625 | Cue 64–69]
+Khoan, Chúa Giê-su lại ra đời trước Công nguyên? Nghe hơi tréo ngoe, nhưng tên gọi của hệ lịch và niên đại lịch sử không khớp hoàn toàn. Cách đánh số năm này được xác lập nhiều thế kỷ sau cuộc đời ông. Nó không phải đồng hồ được bấm đúng vào lúc sự kiện diễn ra. Chúng ta đang phân biệt một quy ước tính lịch với một câu hỏi nghiên cứu về niên đại, chứ không bàn đúng sai của niềm tin tôn giáo.
+
+[ĐOẠN 012 | 00:02:47,625 → 00:03:05,062 | Cue 70–76]
+Đến đây có một câu rất dễ kể sai vì nghe quá gọn: từ kim tự tháp đến Chúa Giê-su bằng từ Chúa Giê-su đến chúng ta. Nghe cân xứng thật. Nhưng phép tính không chịu chiều người kể chuyện. Từ khoảng năm bảy đến năm bốn trước Công nguyên tới năm hai nghìn không trăm hai mươi sáu là khoảng hai nghìn không trăm hai mươi chín đến hai nghìn không trăm ba mươi hai năm. Khoảng bên kim tự tháp dài hơn khoảng bên chúng ta chừng nửa thiên niên kỷ.
+
+[DIỄN GIỌNG: Nâng nhẹ ở “nửa thiên niên kỷ”; câu sau nhanh, tếu vừa đủ rồi trở lại rõ ràng.]
+
+[ĐOẠN 013 | 00:03:05,062 → 00:03:19,688 | Cue 77–82]
+Nửa thiên niên kỷ. Chênh lệch đó không phải tiền lẻ để tiện tay bỏ qua khi tính nhẩm. Vậy hình dung đúng sẽ là: Đại kim tự tháp đã hơn hai nghìn năm rưỡi tuổi vào khoảng Chúa Giê-su ra đời; còn từ thời điểm ấy đến hiện tại mới hơn hai nghìn năm. Quá khứ phía sau một người sống ở đầu Công nguyên còn sâu hơn quãng thời gian từ người ấy đến chúng ta.
+
+[ĐOẠN 014 | 00:03:19,688 → 00:03:34,312 | Cue 83–88]
+Một chi tiết nhỏ giúp phép tính khỏi trượt: trong hệ trước và sau Công nguyên thông thường, không có năm không. Từ năm một trước Công nguyên sang năm một sau Công nguyên là một năm, không phải hai. Vì thế, khi tính khoảng cách băng qua ranh giới này, phải cộng hai số năm rồi bớt một. Không cần thuộc công thức suốt đời. Chỉ cần nhớ cái cầu này không có trụ mang số không.
+
+[ĐOẠN 015 | 00:03:34,312 → 00:03:49,688 | Cue 89–95]
+Giờ thử đổi góc nhìn. Ta đứng trước một di tích khoảng hai nghìn năm tuổi và thấy lịch sử rất sâu. Một người sống vào thời Chúa Giê-su, nếu đứng trước Đại kim tự tháp, còn đối diện một công trình già hơn thế. Tôi đang dựng tình huống để hình dung khoảng cách, không nói Chúa Giê-su đã đến thăm Giza. Chỉ riêng khả năng đảo vị trí người nhìn đã đủ làm chữ “cổ” bỗng có thêm chiều sâu.
+
+[DIỄN GIỌNG: Hạ giọng ở hình dung “quá khứ của chính họ”; sau đó bật tò mò ở tên Cleopatra.]
+
+[ĐOẠN 016 | 00:03:49,688 → 00:04:03,938 | Cue 96–101]
+Người cổ đại cũng có quá khứ của chính họ. Họ không đứng cùng một buổi chụp ảnh tập thể với mọi nhân vật từng xuất hiện trước chúng ta. Và nếu bạn vẫn thấy kim tự tháp, pharaon với nữ hoàng Ai Cập giống đồ trong cùng một phòng, Cleopatra sắp làm căn phòng ấy rộng thêm hơn hai nghìn năm. Xin cẩn thận: địa chỉ giống nhau không bảo đảm hàng xóm cùng thời.
+
+
+=== 03 | Cleopatra đứng gần tên lửa hơn ta tưởng | Dự kiến 00:04:03,938 ===
+
+[DIỄN GIỌNG: Sắc giọng vui trở lại; đọc tên rõ, câu hỏi như mời bạn đoán.]
+
+[ĐOẠN 017 | 00:04:03,938 → 00:04:18,000 | Cue 102–107]
+Cleopatra mà ta thường nhắc tới là Cleopatra thứ bảy, vị nữ hoàng sống ở thế kỷ thứ nhất trước Công nguyên. Bà qua đời năm ba mươi trước Công nguyên. Hãy dùng đúng mốc ấy, để khỏi đổi điểm xuất phát giữa chừng. Theo bạn, từ lúc bà mất quay ngược về thời xây Đại kim tự tháp, hay đi xuôi tới lúc con người đặt chân lên Mặt Trăng, bên nào ngắn hơn?
+
+[DIỄN GIỌNG: Bật sáng ở đáp án; hai con số đọc tách rõ, không tăng tốc.]
+
+[ĐOẠN 018 | 00:04:18,000 → 00:04:32,250 | Cue 108–114]
+Đi tới Mặt Trăng ngắn hơn. Từ khoảng hai nghìn năm trăm năm mươi trước Công nguyên đến năm ba mươi trước Công nguyên là khoảng hai nghìn năm trăm hai mươi năm. Từ năm ba mươi trước Công nguyên đến cuộc đổ bộ của Apollo mười một năm một nghìn chín trăm sáu mươi chín là một nghìn chín trăm chín mươi tám năm. Chênh lệch hơn năm trăm năm, nghiêng về phía tên lửa.
+
+[ĐOẠN 019 | 00:04:32,250 → 00:04:48,562 | Cue 115–121]
+Đó là độ gần trên trục thời gian, không phải nói thế giới của Cleopatra giống thế giới phi hành gia. Khoảng cách văn hóa, công nghệ và cách sống là chuyện khác. Nhưng nếu chỉ hỏi bên nào ít năm hơn, câu trả lời rất rõ. Ta đã quen thấy bà xuất hiện cạnh kim tự tháp đến mức tưởng bà thuộc thế hệ có thể ghé xem công trình đang xây. Thực ra, đến thời bà, nó đã là di sản cực kỳ lâu đời.
+
+[DIỄN GIỌNG: Châm biếm nhẹ vào thói quen xem hình, không vào nhân vật. “Phông nền” nhấn một lần.]
+
+[ĐOẠN 020 | 00:04:48,562 → 00:05:04,125 | Cue 122–127]
+Phông nền đã làm một cú đánh tráo khá đẹp. Cứ cát vàng, tượng đá, trang sức là trí nhớ bấm “gộp tất cả”. Giống như nhìn hai người chụp trước Hồ Gươm rồi kết luận họ học cùng khóa. Chỗ chụp ảnh chứng minh địa điểm, chứ chẳng chứng minh năm sinh. Một nền văn minh có thể tồn tại, đổi khác và tự nhìn lại mình suốt nhiều thế kỷ trước khi nhân vật nổi tiếng nhất của nó xuất hiện.
+
+[ĐOẠN 021 | 00:05:04,125 → 00:05:19,312 | Cue 128–133]
+Điều hay nhất của phép so sánh này không phải để thắng một câu đố. Nó nhắc rằng trong cụm “Ai Cập cổ đại” có cả những khoảng cách lớn hơn lịch sử nhiều quốc gia ngày nay. Gộp hết lại thành một thời sẽ làm biến mất những con người đã sống giữa hai đầu ấy. Chúng ta giữ được tên Cleopatra, giữ được hình kim tự tháp, nhưng vô tình xóa phần lớn thời gian nối chúng với nhau.
+
+[ĐOẠN 022 | 00:05:19,312 → 00:05:33,562 | Cue 134–139]
+Nhưng trước khi rời kim tự tháp, tôi muốn đặt cạnh nó một thứ còn dễ bị xếp nhầm thời hơn cả Cleopatra. Một con vật. Rất to. Rất nhiều lông. Nếu bạn vừa nghĩ tới voi ma mút rồi tự gạt đi vì “nó phải biến mất từ lâu lắm rồi”, xin giữ lại ý nghĩ đó thêm một chút. Trên một hòn đảo rất xa Giza, lịch tuyệt chủng đã chạy theo nhịp khác.
+
+
+=== 03B | Voi ma mút chưa rời khỏi thế giới | Dự kiến 00:05:33,562 ===
+
+[DIỄN GIỌNG: Bất ngờ nói bình tĩnh; nhấn “vẫn còn” thay vì đọc to cả câu.]
+
+[ĐOẠN 023 | 00:05:33,562 → 00:05:49,125 | Cue 140–145]
+Khi Đại kim tự tháp được xây, trên Trái Đất vẫn còn voi ma mút lông xoăn. Một quần thể cuối cùng tồn tại trên đảo Wrangel ở Bắc Băng Dương tới khoảng bốn nghìn năm trước, tức xấp xỉ hai nghìn trước Công nguyên. Như vậy, sau thời xây kim tự tháp, chúng còn sống thêm khoảng năm thế kỷ. Phần kết của câu chuyện ma mút chồng lên phần mà ta thường dành riêng cho các nền văn minh cổ đại.
+
+[DIỄN GIỌNG: Đùa ngắn ở “khách tham quan”; giọng khô, rồi trở lại rõ ràng.]
+
+[ĐOẠN 024 | 00:05:49,125 → 00:06:03,562 | Cue 146–151]
+Điều này không có nghĩa một con ma mút đi ngang công trường Giza để xem tiến độ. Chúng không phải khách tham quan quên mua vé. Ta đang nói về một quần thể ở một hòn đảo xa xôi, không phải một đàn voi lông xoăn sống cạnh người xây kim tự tháp. Nhưng chỉ cần giữ đúng địa điểm, sự chồng lấn ấy đã đủ khiến hai bức tranh trong đầu đột nhiên nối liền.
+
+[ĐOẠN 025 | 00:06:03,562 → 00:06:18,938 | Cue 152–157]
+Trong một bức tranh, ma mút thuộc thế giới băng giá, thợ săn và những khoảng thời gian mênh mông. Trong bức kia là công trình đá, pharaon và xã hội tổ chức phức tạp. Ta thường tưởng bức đầu đã phải cuộn lại hoàn toàn trước khi bức sau được treo lên. Thực tế, một loài có thể biến mất khỏi nhiều vùng mà vẫn tồn tại ở một vùng khác. Lịch sử tự nhiên cũng không đồng loạt chuyển trang.
+
+[DIỄN GIỌNG: Hạ một nấc ở ý “những nơi cuối cùng”; không cố làm đau buồn.]
+
+[ĐOẠN 026 | 00:06:18,938 → 00:06:34,875 | Cue 158–162]
+Một hòn đảo có thể giữ lại phần cuối của một câu chuyện mà nơi khác đã kết thúc từ lâu. Vì thế, câu hỏi “loài này tuyệt chủng khi nào” cần chú ý tới quần thể cuối cùng, chứ không chỉ thời điểm chúng trở nên hiếm hay biến mất trên phần lớn đất liền. Các niên đại ở đây là xấp xỉ dựa vào bằng chứng, không phải ngày người cuối cùng đứng cạnh con ma mút cuối cùng để ghi vào sổ.
+
+[ĐOẠN 027 | 00:06:34,875 → 00:06:50,062 | Cue 163–167]
+Cách nghĩ ấy còn có ích khi nhìn các thói quen của con người. Một kỹ thuật hoặc nghề nghiệp có thể lùi khỏi trung tâm nhưng tiếp tục sống ở nơi khác; việc mất phổ biến và việc chấm dứt hoàn toàn không phải cùng một mốc. Dĩ nhiên, một nghề và một loài động vật là hai chuyện khác nhau. Điểm chung của phép ví von chỉ là: đừng lấy nơi mình đang nhìn làm toàn bộ bản đồ.
+
+[DIỄN GIỌNG: Tinh nghịch ở “bỏ lông vào ngăn tiền sử”; câu cuối dẫn nhanh.]
+
+[ĐOẠN 028 | 00:06:50,062 → 00:07:06,938 | Cue 168–174]
+Thế là chỉ quanh một kim tự tháp, ta đã sửa được ba hình dung. Nó rất già vào thời Chúa Giê-su; rất già vào thời Cleopatra; và được xây khi những con ma mút cuối cùng còn chưa biến mất. Chúng ta đã dùng cát, đá và bộ lông để chia thời đại hơi tùy tiện. Bây giờ rời sa mạc nhé. Có một trường đại học sắp chứng minh rằng thứ còn hoạt động hôm nay cũng có thể cũ hơn thứ đã thành đế chế trong sách.
+
+
+=== 04 | Trường đại học cũ hơn một đế chế | Dự kiến 00:07:06,938 ===
+
+[DIỄN GIỌNG: Tươi, nhanh vừa; cho người nghe một nhịp nhận diện Oxford trước khi đưa mốc.]
+
+[ĐOẠN 029 | 00:07:06,938 → 00:07:23,438 | Cue 175–181]
+Đại học Oxford ở Anh có bằng chứng về hoạt động giảng dạy từ năm một nghìn không trăm chín mươi sáu. Chính Oxford cũng nói không có một ngày thành lập rõ ràng. Chi tiết ấy quan trọng: ta biết ở đó đã có việc dạy học, chứ không đang cầm thiệp mời lễ khai trương một trường đại học giống hệt cơ cấu ngày nay. Lịch sử của một tổ chức thường hình thành dần, không phải cứ cắt băng xong là đủ mọi phòng ban.
+
+[ĐOẠN 030 | 00:07:23,438 → 00:07:40,125 | Cue 182–188]
+Còn đế chế Aztec ở miền trung vùng đất Mexico ngày nay thường được tính từ liên minh hình thành năm một nghìn bốn trăm hai mươi tám. Lấy mốc giảng dạy ở Oxford so với mốc đế chế ấy, khoảng cách là ba trăm ba mươi hai năm. Một truyền thống đại học có trước sự hình thành một đế chế mà nhiều người tưởng thuộc một thế giới xa xưa hơn hẳn. Chỉ vì một bên còn nhận sinh viên, bên kia hiện ra qua di tích.
+
+[DIỄN GIỌNG: Giọng giải thích gọn, chắc. Nhấn “đế chế” để phân biệt, không lên lớp.]
+
+[ĐOẠN 031 | 00:07:40,125 → 00:07:55,875 | Cue 189–195]
+Và phải nói rõ: đế chế Aztec chưa hình thành không có nghĩa vùng Mexico trước đó trống người, trống đô thị hay trống văn hóa. Chúng ta đang so một giai đoạn tổ chức quyền lực cụ thể với một dấu mốc giáo dục cụ thể. Không được lấy tuổi của một đế chế làm ngày sinh của cả châu lục. Chẳng khác gì lấy ngày một công ty đăng ký kinh doanh làm ngày loài người phát minh ra chuyện buôn bán.
+
+[ĐOẠN 032 | 00:07:55,875 → 00:08:11,438 | Cue 196–202]
+Ngay cả nếu đổi sang mốc truyền thống thành lập thành phố Tenochtitlan, kinh đô của người Mexica, vào năm một nghìn ba trăm hai mươi lăm, hoạt động giảng dạy ở Oxford vẫn sớm hơn hơn hai thế kỷ. Nhưng hai phép so sánh phải được gọi đúng tên: một bên là thành phố, một bên là đế chế. Đổi danh từ giữa chừng rồi giữ nguyên kết luận là cách rất nhanh để biến một chuyện hay thành một chuyện sai.
+
+[DIỄN GIỌNG: Ấm hơn ở hình ảnh học trò; câu “lo bài vở” có nụ cười kín.]
+
+[ĐOẠN 033 | 00:08:11,438 → 00:08:28,312 | Cue 203–209]
+Tôi thích nhất việc chi tiết này làm một trường đại học bớt giống một thương hiệu và giống một dòng người hơn. Trước khi đế chế kia hình thành, đã có người đến Oxford để học. Nhiều thế hệ trôi qua, người sau tiếp nối người trước. Không cần tưởng tượng họ học đúng chương trình hôm nay hay cũng lo bài vở giống hệt ta. Chỉ cần nhận ra một hoạt động quen thuộc có thể kéo dài qua rất nhiều lần bản đồ quyền lực đổi màu.
+
+[ĐOẠN 034 | 00:08:28,312 → 00:08:43,688 | Cue 210–216]
+Một thành phố đang sống thường khiến ta quên tuổi của nó. Một phế tích thường khiến ta phóng đại tuổi của nó. Cái còn sáng đèn bị xếp vào hiện tại; cái mất mái bị đẩy vào xa xưa. Vậy nếu đặt một hình tượng võ sĩ trong phim cổ trang cạnh một phương tiện giao thông đô thị, não sẽ chia họ ra xa đến đâu? Mời bạn giữ thanh kiếm ở một bên. Bên kia, đoàn tàu đang tới.
+
+
+=== 05 | Samurai và hành khách tàu điện ngầm | Dự kiến 00:08:43,688 ===
+
+[DIỄN GIỌNG: Mở bằng hình ảnh, giàu năng lượng. “Cùng một thế giới” xuống giọng khẳng định.]
+
+[ĐOẠN 035 | 00:08:43,688 → 00:08:57,750 | Cue 217–223]
+Năm một nghìn tám trăm sáu mươi ba, tuyến đường sắt ngầm đầu tiên của London mở cửa cho hành khách. Tại Nhật Bản, chế độ Mạc phủ Tokugawa vẫn tồn tại, và tầng lớp samurai vẫn là một bộ phận của xã hội. Bạn không cần máy du hành để đặt một người đeo kiếm và một hành khách đi tàu ngầm vào cùng một năm. Họ đã ở trong cùng một thế giới.
+
+[ĐOẠN 036 | 00:08:57,750 → 00:09:12,750 | Cue 224–229]
+Nhưng khoan tưởng tượng ga sáng choang, cửa tự động và tàu điện chạy êm. Những đoàn tàu đầu tiên ở tuyến này dùng đầu máy hơi nước. Có đường sắt dưới lòng đất chưa có nghĩa đã có toàn bộ trải nghiệm mà ta gắn với metro hôm nay. Nếu trí nhớ vừa dùng hình ảnh một toa tàu hiện đại để tạo độ chênh với samurai, nó lại vừa thêm đồ đạc của thế kỷ khác vào cảnh.
+
+[DIỄN GIỌNG: Câu đùa nói khô, hơi thấp: “tự lấy đầu máy”. Không giả tiếng ho hay hiệu ứng.]
+
+[ĐOẠN 037 | 00:09:12,750 → 00:09:27,938 | Cue 230–235]
+Tức là ở một bên, người ta vẫn mang kiếm theo quy định địa vị; bên kia, người ta đã nghĩ ra cách đưa tàu xuống lòng đất, rồi tự lấy đầu máy hơi nước làm bài kiểm tra khả năng thông gió. Hành khách hôm ấy chắc không thể đưa bài đánh giá lên ứng dụng. Nhưng chính cái đầu máy nhắc ta: thứ gọi là hiện đại cũng có những phiên bản đầu rất khác thứ đang quen dùng.
+
+[ĐOẠN 038 | 00:09:27,938 → 00:09:43,500 | Cue 236–242]
+Năm năm sau ngày tuyến đường ấy mở cửa là cuộc Minh Trị Duy tân năm một nghìn tám trăm sáu mươi tám. Địa vị samurai tiếp tục bị thay đổi qua nhiều biện pháp trong những năm tiếp theo; đến năm một nghìn tám trăm bảy mươi sáu, đặc quyền đeo kiếm bị bãi bỏ. Đó là một quá trình. Không có buổi sáng toàn bộ samurai cùng biến mất, để đến trưa đất nước đã chuyển sang một bộ phim mới.
+
+[DIỄN GIỌNG: Đọc câu “quá khứ không có nút chuyển cảnh” giản dị, rồi tăng nhịp trở lại.]
+
+[ĐOẠN 039 | 00:09:43,500 → 00:09:57,750 | Cue 243–249]
+Quá khứ không có nút chuyển cảnh. Một nghề mất đặc quyền thì người làm nghề đó vẫn còn sống. Họ phải tìm vị trí trong trật tự mới, sử dụng kinh nghiệm cũ, hoặc đối mặt với những thay đổi mình không lựa chọn. Khi sách chia trang giữa một thời kỳ và thời kỳ kế tiếp, đời người vẫn đi qua đường kẻ ấy. Mực in xuống dòng nhanh hơn xã hội rất nhiều.
+
+[ĐOẠN 040 | 00:09:57,750 → 00:10:14,812 | Cue 250–255]
+Đừng vì vậy mà vẽ samurai như người chưa từng biết súng, hoặc người London như ai cũng đi trước phần còn lại của thế giới. Một thanh kiếm, một đường ray hay một tòa nhà không đủ làm bảng điểm cho cả xã hội. Chúng cho thấy những hệ thống khác nhau đang cùng vận hành. Cùng một năm, một nơi thay cách di chuyển; một nơi sắp thay cách phân chia quyền lực. Hai chiếc đồng hồ chỉ cùng giờ, nhưng người đeo đang bận những việc rất khác.
+
+[DIỄN GIỌNG: Câu kết mở một nấc bất ngờ mới, nhanh và gọn.]
+
+[ĐOẠN 041 | 00:10:14,812 → 00:10:29,812 | Cue 256–261]
+Vừa rồi, ta kéo hai hình ảnh tưởng rất xa lại gần. Nhưng cùng thời đôi khi còn trùng đến mức lịch sinh nhật cũng không cần đổi trang. Ngay trong thế kỷ có những samurai cuối thời Mạc phủ và những chuyến tàu ngầm đầu tiên, hai người nổi tiếng ở hai lĩnh vực khác nhau đã có chung một ngày bắt đầu cuộc đời. Một người bạn gặp trong chuyện khoa học. Người kia trong chuyện nước Mỹ.
+
+
+=== 05B | Hai đứa trẻ, một ngày sinh | Dự kiến 00:10:29,812 ===
+
+[DIỄN GIỌNG: Hỏi nhanh, thân thiện; không tạo khoảng chờ dài trước đáp án.]
+
+[ĐOẠN 042 | 00:10:29,812 → 00:10:45,750 | Cue 262–267]
+Charles Darwin và Abraham Lincoln có thể làm gì chung trên một tờ lịch? Cùng đánh dấu sinh nhật vào ngày mười hai tháng hai năm một nghìn tám trăm lẻ chín. Đúng cả ngày, tháng lẫn năm. Darwin sinh ở Anh, Lincoln sinh ở Mỹ. Không có lý do để biến sự trùng hợp ấy thành một điềm báo. Nhưng nó cho ta một chiếc neo rất gọn: hai con người bị tách sang hai môn học thật ra thuộc cùng một thế hệ.
+
+[ĐOẠN 043 | 00:10:45,750 → 00:11:02,250 | Cue 268–274]
+Năm một nghìn tám trăm năm mươi chín, Darwin xuất bản Nguồn gốc các loài. Năm sau, Lincoln đắc cử tổng thống Hoa Kỳ. Một bên là công trình làm thay đổi cách hiểu về thế giới sống; một bên là bước ngoặt chính trị trước những biến động lớn của nước Mỹ. Ta thường tiếp cận chúng trong những câu chuyện có nhịp riêng, nên dễ quên rằng các cuộc tranh luận khoa học và chính trị ấy cùng thuộc thế kỷ mười chín đang chuyển động.
+
+[DIỄN GIỌNG: Hài tự trào ở hình ảnh bàn học, không đùa về nội chiến hay chế độ nô lệ.]
+
+[ĐOẠN 044 | 00:11:02,250 → 00:11:16,500 | Cue 275–281]
+Hồi đi học, tôi gặp Darwin trong quyển này, Lincoln trong quyển khác, rồi não rất ngoan ngoãn dựng luôn một bức tường giữa hai ông. Sách đã chia môn, trí nhớ còn nhiệt tình xây thêm phòng. Chỉ tới khi thấy cùng ngày sinh mới nhận ra: ngoài đời chẳng có tiếng trống báo hết tiết sinh học để thế giới được phép chuyển sang tiết lịch sử. Mọi thứ đang xảy ra cùng lúc.
+
+[ĐOẠN 045 | 00:11:16,500 → 00:11:32,062 | Cue 282–287]
+Điều đáng giữ không phải một danh sách sinh nhật để đi đố bạn bè. Nó là cách dùng tuổi đời để đặt lại quy mô. Khi Darwin công bố cuốn sách ấy, ông khoảng năm mươi tuổi. Khi Lincoln đắc cử, ông năm mươi mốt. Họ không phải hai gương mặt đã có sẵn thành tựu ngay từ khi xuất hiện trên đời. Có cả những năm học, làm việc và lựa chọn phía trước khoảnh khắc mà hậu thế nhớ nhất.
+
+[DIỄN GIỌNG: Ấm, hơi trầm ở “người khoảng năm mươi”; cảm giác bạn bè, không khích lệ sáo rỗng.]
+
+[ĐOẠN 046 | 00:11:32,062 → 00:11:48,750 | Cue 288–294]
+Một người khoảng năm mươi tuổi có thể vừa tạo ra công trình được nhắc tới nhiều thế kỷ sau. Một người cùng thế hệ đang chuẩn bị nhận trách nhiệm lớn nhất đời mình. Đặt tuổi thật vào dưới chân dung làm họ bớt giống tượng. Chúng ta có thể hình dung một đời người tích lũy từng năm, thay vì một cái tên bật ra từ sách cùng với thành tựu đã hoàn chỉnh. Đó là phần mà các mốc sự kiện thường nén lại quá mạnh.
+
+[ĐOẠN 047 | 00:11:48,750 → 00:12:04,125 | Cue 295–301]
+Nếu cùng ngày sinh nối được hai môn học, một quãng đời có thể nối được những công nghệ tưởng cách nhau cả thời đại không? Ta thử tiến tới đầu thế kỷ hai mươi. Không cần ai sống ba trăm tuổi. Chỉ cần một đứa trẻ có mặt lúc đó rồi sống đến tuổi nghỉ hưu. Trong khoảng ấy, con người sẽ đi từ một chuyến bay ngắn đến một nơi không còn không khí để cánh máy bay bám vào.
+
+
+=== 06 | Từ mười hai giây đến Mặt Trăng | Dự kiến 00:12:04,125 ===
+
+[DIỄN GIỌNG: Giọng cụ thể, tiết chế; “mười hai giây” nhấn rồi dừng rất ngắn.]
+
+[ĐOẠN 048 | 00:12:04,125 → 00:12:18,375 | Cue 302–307]
+Ngày mười bảy tháng mười hai năm một nghìn chín trăm lẻ ba, Orville Wright thực hiện chuyến bay có động cơ và được điều khiển, dài mười hai giây, đi được khoảng ba mươi bảy mét. Anh em Wright còn thực hiện những chuyến khác trong ngày ấy. Nhưng ta giữ chuyến đầu làm mốc. Mười hai giây: bạn vừa mở miệng giải thích mình đang nhìn cái gì, nó có thể đã đáp xuống.
+
+[ĐOẠN 049 | 00:12:18,375 → 00:12:32,438 | Cue 308–314]
+Tháng bảy năm một nghìn chín trăm sáu mươi chín, Apollo mười một đưa con người xuống bề mặt Mặt Trăng. Hiệu của hai con số năm là sáu mươi sáu. Nếu tính từ ngày bay tháng mười hai tới ngày đổ bộ tháng bảy, thực tế còn chưa đầy sáu mươi sáu năm. Đó là khoảng cách có thể nằm trong một đời người, không cần nối mấy chục thế hệ mới kể hết.
+
+[DIỄN GIỌNG: Ví dụ giả định nói rõ bằng “thử hình dung”; ấm và chậm hơn một nấc.]
+
+[ĐOẠN 050 | 00:12:32,438 → 00:12:48,000 | Cue 315–320]
+Thử hình dung một người sinh năm một nghìn chín trăm. Khi chuyến bay của anh em Wright diễn ra, người ấy khoảng ba tuổi. Đến năm con người đặt chân lên Mặt Trăng, người ấy khoảng sáu mươi chín. Đây là một người giả định để ta đo thời gian bằng tuổi, không phải lời kể về một nhân chứng cụ thể. Nhưng tuổi thơ và tuổi già của họ đã đủ chứa hai đầu của một cuộc thay đổi khổng lồ.
+
+[ĐOẠN 051 | 00:12:48,000 → 00:13:04,688 | Cue 321–327]
+Điều này không có nghĩa từ một chiếc máy bay thô sơ cứ nâng cấp đều đặn là thành tàu vũ trụ. Giữa hai mốc là nhiều ngành khoa học, nhiều thế hệ kỹ sư, những dự án lớn, cả cạnh tranh chính trị lẫn chiến tranh. Mốc đầu và mốc cuối làm tốc độ biến đổi hiện lên; chúng không thay thế lời giải thích về cách biến đổi xảy ra. Một đường thẳng trên giấy có thể che rất nhiều ngã rẽ và tổn thất ở giữa.
+
+[DIỄN GIỌNG: Hạ nhẹ để báo một chi tiết thật; nâng ở “mang theo”, tránh giọng truyền cảm quá mức.]
+
+[ĐOẠN 052 | 00:13:04,688 → 00:13:18,188 | Cue 328–333]
+Nhưng có một sợi nối vật chất rất đẹp. Trên Apollo mười một, người ta mang theo một mảnh vải và một mảnh gỗ nhỏ từ chiếc máy bay Wright Flyer năm một nghìn chín trăm lẻ ba. Đây không phải hình ảnh do Mỏ Đen bịa ra cho có chất thơ. Những mảnh vật liệu ấy thật sự đã đi tới Mặt Trăng trong chuyến bay lịch sử, rồi trở về.
+
+[DIỄN GIỌNG: Hài nhẹ ở “đi xa hơn cả chủ”; ngay sau đó trả về giọng suy ngẫm tự nhiên.]
+
+[ĐOẠN 053 | 00:13:18,188 → 00:13:33,000 | Cue 334–339]
+Một mảnh vải của chiếc máy bay bay được mấy chục mét lại có chuyến đi xa hơn cả chủ nhân của nó. Nếu đồ vật viết lý lịch, mục kinh nghiệm của mảnh vải này hơi khó cạnh tranh. Nhưng chính nó làm khoảng cách sáu mươi mấy năm trở nên cầm nắm được. Chúng ta không chỉ nhìn hai thành tựu qua ảnh; có một phần của công trình đầu đã nằm bên trong hành trình sau.
+
+[DIỄN GIỌNG: Giọng ngạc nhiên kín, như vừa phát hiện câu chuyện còn một đoạn nối.]
+
+[ĐOẠN 054 | 00:13:33,000 → 00:13:48,375 | Cue 340–345]
+Mà hành trình của vật liệu từ chiếc Flyer còn có một nhánh tới sao Hỏa. Một mảnh vải khác từ cánh máy bay được mang theo trên trực thăng Ingenuity. Ngày mười chín tháng tư năm hai nghìn không trăm hai mươi mốt, Ingenuity thực hiện chuyến bay có động cơ, được điều khiển đầu tiên trên một hành tinh khác. Xin nhớ đây là mảnh khác, không phải mảnh đi Mặt Trăng rồi được chuyển tiếp như một bưu kiện.
+
+[ĐOẠN 055 | 00:13:48,375 → 00:14:03,375 | Cue 346–351]
+Chuyến bay đầu của Ingenuity kéo dài khoảng ba mươi chín giây. Nghe ngắn đến mức ta có thể thấy câu chuyện quay về điểm xuất phát: lại một cỗ máy rời mặt đất trong thời gian rất ngắn. Nhưng mặt đất lần này là sao Hỏa. Không phải cứ chuyến bay ngắn là ít ý nghĩa; đôi khi giá trị của vài chục giây nằm ở chỗ trước đó chưa ai làm được việc ấy trong điều kiện ấy.
+
+[DIỄN GIỌNG: Cười nhẹ ở “lý lịch mảnh vải”, rồi đọc câu kết chắc.]
+
+[ĐOẠN 056 | 00:14:03,375 → 00:14:20,438 | Cue 352–358]
+Từ vải bọc cánh máy bay đến một phần vật liệu đi cùng những phương tiện vượt khỏi Trái Đất, sợi nối ấy làm các mốc bớt trừu tượng. Tôi xin rút lại ý định so lý lịch với mảnh vải. Nhưng nó cũng nhắc một điều: lịch sử không tiến lên chỉ bằng một thiên tài xuất hiện, bấm nút, rồi cả thế giới đổi phiên bản. Thành tựu mới mang theo rất nhiều công sức và kiến thức có trước, đôi khi mang cả một mảnh vật liệu thật.
+
+[ĐOẠN 057 | 00:14:20,438 → 00:14:36,938 | Cue 359–365]
+Ở đây thời gian đổi nhịp. Với kim tự tháp, ta phải cố hình dung những khoảng dài đến mức vượt khỏi ký ức gia đình. Với hàng không và vũ trụ, vài thập niên đã đủ làm bầu trời thay đổi. Lịch sử không phải một chiếc băng chuyền chạy đều. Có thứ tồn tại hàng nghìn năm; có thứ từ thử nghiệm thành chuyện làm thay đổi thế giới trong một đời người. Vấn đề là trí nhớ thích dùng một tốc độ cho tất cả.
+
+[DIỄN GIỌNG: Chuyển nhẹ nhàng, hơi nghịch ở “giam trong khung hình”.]
+
+[ĐOẠN 058 | 00:14:36,938 → 00:14:50,062 | Cue 366–370]
+Và nó còn một trò nữa: giam người ta trong khung hình nổi tiếng nhất. Ai xuất hiện trong phim đen trắng thì cứ phải ở lại thời đen trắng. Ai bước đi không có lời thoại thì dường như không thể sống tới lúc máy tính cá nhân ra đời. Xin mời một người có ria mép rất dễ nhận ra bước ra khỏi chính bộ phim của mình.
+
+
+=== 07 | Sác-lô không ở mãi trong phim câm | Dự kiến 00:14:50,062 ===
+
+[DIỄN GIỌNG: Gần gũi như nhắc một người quen. Câu đầu có nụ cười; đáp án nói chắc.]
+
+[ĐOẠN 059 | 00:14:50,062 → 00:15:03,375 | Cue 371–376]
+Charlie Chaplin, người nhiều khán giả Việt quen gọi là Sác-lô, sinh năm một nghìn tám trăm tám mươi chín và mất vào Giáng sinh năm một nghìn chín trăm bảy mươi bảy. Apple được thành lập năm một nghìn chín trăm bảy mươi sáu. Nghĩa là khi công ty gắn với chiếc điện thoại rất quen thuộc hôm nay bắt đầu, huyền thoại của thời phim câm vẫn còn sống.
+
+[ĐOẠN 060 | 00:15:03,375 → 00:15:16,688 | Cue 377–382]
+Đừng đưa ngay một chiếc điện thoại cảm ứng vào tay ông. Apple lúc ấy là một công ty máy tính mới, chứ chưa phải toàn bộ hình ảnh ta biết ngày nay. Còn việc Chaplin sống cùng thời với công ty không nói rằng ông dùng sản phẩm của họ hay biết những người sáng lập. Ta đang kiểm tra lịch, không viết hợp đồng quảng cáo xuyên thời đại.
+
+[DIỄN GIỌNG: “Hợp đồng quảng cáo” nói tỉnh; sau đó mềm hơn, đưa khán giả về hình dung đời người.]
+
+[ĐOẠN 061 | 00:15:16,688 → 00:15:32,812 | Cue 383–389]
+Điểm thú vị nằm ở phần đời mà hình ảnh quen thuộc đã che đi. Nhân vật lang thang trên màn ảnh khiến ta nhớ một Chaplin trẻ, chiếc gậy, dáng đi, những tình huống vừa buồn vừa hài. Nhưng con người Chaplin tiếp tục già đi, tiếp tục làm việc, sống qua nhiều thập niên sau những vai diễn đầu tiên. Một khuôn mặt có thể trở thành biểu tượng của một thời kỳ mà chủ nhân của nó vẫn sống rất lâu sau đó.
+
+[ĐOẠN 062 | 00:15:32,812 → 00:15:49,125 | Cue 390–397]
+Ông cũng không chỉ làm phim câm. Bộ phim Nhà độc tài vĩ đại ra mắt năm một nghìn chín trăm bốn mươi có lời thoại, và kết thúc bằng một diễn văn nổi tiếng. Ta không cần nhớ cả danh mục phim để thấy vấn đề: khi gắn một nghệ sĩ với một nhãn quá chặt, ta có thể bỏ quên chính việc người ấy thay đổi. Thời phim câm là một phần sự nghiệp của Chaplin, không phải hàng rào nhốt cả cuộc đời ông.
+
+[DIỄN GIỌNG: Đùa vào chính thói quen ghi nhớ của người kể; không diễn giọng người già.]
+
+[ĐOẠN 063 | 00:15:49,125 → 00:16:01,125 | Cue 398–402]
+Nó giống chuyện gia đình cứ giữ một tấm ảnh bạn hồi học lớp một. Hai mươi năm sau vẫn mang ra giới thiệu: “Đây, cháu nó đây.” Vâng, cháu vẫn đây, nhưng cháu đã đi làm, đóng tiền điện và đau lưng rồi. Hình ảnh lưu lại rất giỏi. Cập nhật hồ sơ cho con người trong ảnh thì đôi khi hơi chậm.
+
+[ĐOẠN 064 | 00:16:01,125 → 00:16:15,750 | Cue 403–407]
+Với lịch sử cũng vậy, người nổi tiếng thường bị đông cứng ở thời điểm ta học tên họ. Một vị tướng ở trận thắng, một nhà khoa học ở phát minh, một nghệ sĩ ở vai diễn. Muốn biết họ thực sự thuộc thế giới nào, đôi khi câu hỏi cần thêm chỉ là: sau khoảnh khắc đó, họ còn sống bao lâu? Và trong phần thời gian còn lại, thế giới đã có thêm những gì?
+
+[ĐOẠN 065 | 00:16:15,750 → 00:16:27,188 | Cue 408–412]
+Câu hỏi ấy đưa ta trở về Việt Nam. Có một người thường được trí nhớ đặt vào phòng ngai vàng, nhưng ngày mất lại nằm trong một thập niên rất gần. Gần đến mức nhiều khán giả không cần xem phim tài liệu để hình dung đời sống khi ấy. Họ có thể mở album của chính gia đình mình.
+
+
+=== 08 | Vị vua cuối cùng và nút Start | Dự kiến 00:16:27,188 ===
+
+[DIỄN GIỌNG: Bắt đầu rõ và bình thản; để chính dữ kiện tạo bất ngờ. Nhấn “hai năm”.]
+
+[ĐOẠN 066 | 00:16:27,188 → 00:16:42,375 | Cue 413–419]
+Bảo Đại, vị hoàng đế cuối cùng của triều Nguyễn, qua đời ở Paris năm một nghìn chín trăm chín mươi bảy. Windows chín mươi lăm ra mắt hai năm trước đó. Nghĩa là nút Start đã xuất hiện trên máy tính khi ông vẫn còn sống. Một bên dễ được xếp vào chuyện cung đình. Một bên rất nhiều người nhớ như một phần tuổi thơ dùng máy tính. Hai hình ảnh ấy không cách nhau cả mấy thế kỷ.
+
+[ĐOẠN 067 | 00:16:42,375 → 00:16:56,812 | Cue 420–425]
+Tất nhiên, Bảo Đại không còn làm vua vào những năm chín mươi. Ông thoái vị năm một nghìn chín trăm bốn mươi lăm. Từ năm ấy đến năm ông qua đời là năm mươi hai năm. Năm kết thúc vai trò hoàng đế không phải năm kết thúc cuộc đời. Nếu bỏ quên phần sau, chúng ta đã cắt khỏi tiểu sử một con người hơn nửa thế kỷ chỉ vì chương sách vừa kết thúc.
+
+[DIỄN GIỌNG: Giọng điềm hơn, không đùa về biến động chính trị. Câu giả định đánh dấu rõ.]
+
+[ĐOẠN 068 | 00:16:56,812 → 00:17:13,312 | Cue 426–431]
+Ông sinh năm một nghìn chín trăm mười ba, lên ngôi năm một nghìn chín trăm hai mươi sáu và sống tới cuối thế kỷ hai mươi. Chỉ lấy ba mốc ấy thôi đã thấy một cuộc đời băng qua nhiều lớp lịch sử. Một người giả định sinh đúng năm ông thoái vị sẽ ở tuổi năm mươi hai vào năm ông mất. Đứa trẻ của một bước ngoặt đã thành người trung niên, trong khi nhân vật gắn với bước ngoặt ấy vẫn còn trên đời.
+
+[ĐOẠN 069 | 00:17:13,312 → 00:17:28,875 | Cue 432–437]
+Điều đó không phải lời đánh giá hay biện hộ cho những lựa chọn chính trị của Bảo Đại. Đánh giá ấy cần câu chuyện và bằng chứng riêng. Ở đây ta đang sửa một nhầm lẫn về khoảng cách: thế giới của các vị vua Việt Nam không phải toàn bộ đã biến mất vào một thời không còn nối được với ký ức của người đang sống. Có những chiếc cầu rất gần, chỉ vì ta ít nhìn về phía đó.
+
+[DIỄN GIỌNG: Cười nhẹ ở hình ảnh máy tính; không thêm tiếng cười thành lời.]
+
+[ĐOẠN 070 | 00:17:28,875 → 00:17:44,062 | Cue 438–443]
+Tôi cũng không bảo Bảo Đại từng ngồi xử lý máy tính bị treo, hay hỏi ai đó nút Start nằm đâu. Không có bằng chứng thì chiếc ghế ấy xin để trống. Sự thật ở đây đã đủ thú vị: một sản phẩm gợi ký ức công nghệ và một nhân vật gợi ký ức quân chủ cùng có mặt trong thế giới của những năm chín mươi. Không cần ép họ chụp ảnh chung, câu chuyện vẫn đứng vững.
+
+[ĐOẠN 071 | 00:17:44,062 → 00:17:59,062 | Cue 444–450]
+Thử đặt tất cả những người ta vừa gặp trở lại đúng chỗ. Quang Trung và Washington chia sẻ một phần lớn thế kỷ mười tám. Cleopatra nhìn về kim tự tháp qua một khoảng dài hơn khoảng từ bà đến Apollo. Samurai tồn tại khi London đã có đường sắt ngầm. Chaplin sống đến thời Apple. Bảo Đại sống đến sau Windows chín mươi lăm. Những mốc ấy không làm quá khứ hỗn loạn; chúng làm nó bớt phẳng.
+
+[DIỄN GIỌNG: Kết ấm, chậm vừa; nói với một người bạn, không lên giọng diễn thuyết. CTA tươi và ngắn.]
+
+[ĐOẠN 072 | 00:17:59,062 → 00:18:11,250 | Cue 451–455]
+Nếu có một thứ nên mang theo sau chuyến đi này, đó là câu hỏi: mình đang nhớ một con người, hay chỉ nhớ bức tranh nổi tiếng về họ? Bức tranh có trang phục và màu sắc. Con người có cả một cuộc đời, nằm giữa những cuộc đời khác. Và phía sau mỗi “ngày xưa” còn có những ngày xưa xa hơn nữa.
+
+[ĐOẠN 073 | 00:18:11,250 → 00:18:22,875 | Cue 456–460]
+Tôi là Mỏ Đen. Nếu bạn thích cùng nhau lục lại những ngăn ký ức như thế này, đăng ký kênh nhé. Lần tới gặp một chuyện lịch sử nghe quá gọn, chúng ta cứ giữ sự tò mò, rồi lấy thước ra đo. Cái tủ có thể bừa. Nhưng đừng để một chiếc áo bào quyết định hộ cả niên đại.

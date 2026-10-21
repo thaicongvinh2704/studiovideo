@@ -1,0 +1,45 @@
+{
+  "missing": [],
+  "character_qc": [],
+  "duration_seconds": 852.2083333333334,
+  "shots": 213,
+  "av_start_delta_ms": 0.0,
+  "full_decode": "PASS",
+  "mp4_structure": "PASS",
+  "audio_identity_samples": [
+    {
+      "seconds": 5,
+      "correlation": 0.99999,
+      "offset_ms": 0.0
+    },
+    {
+      "seconds": 60,
+      "correlation": 0.99999,
+      "offset_ms": 0.0
+    },
+    {
+      "seconds": 201,
+      "correlation": 0.99998,
+      "offset_ms": 0.0
+    },
+    {
+      "seconds": 421,
+      "correlation": 0.99998,
+      "offset_ms": 0.0
+    },
+    {
+      "seconds": 691,
+      "correlation": 0.99999,
+      "offset_ms": 0.0
+    },
+    {
+      "seconds": 827,
+      "correlation": 0.99999,
+      "offset_ms": 0.0
+    }
+  ],
+  "motion_samples": "Decoded MP4 strips rendered for visual review; not an automatic aesthetic pass.",
+  "caption_timing": "Phrase estimates within semantic synthesis units; not word-level alignment.",
+  "listening_qc": "Not newly certified; preserved user-selected full H track.",
+  "video_sha256": "0ff1600020ffe1d7958d0915c940b19c9e6229c7a940b78d96d2ac90a2ed8b20"
+}

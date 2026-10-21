@@ -1,0 +1,104 @@
+{
+  "collection": "Maya Ancient People Cartoon Illustrations",
+  "version": 1,
+  "created_at": "2026-10-21",
+  "style_compliance": "Matches explainer_reference_v1 line weight and flat palette",
+  "characters": [
+    {
+      "file": "maya_01_farmer_man.png",
+      "title": "Người nông dân Maya (cầm cuốc/nông cụ)",
+      "suggested_scenes": "SC15, SC16 (Đợt hạn hán 13 năm, mùa màng, đời sống nông nghiệp)",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "PNG",
+      "alpha": true,
+      "style": "2D hand-drawn explainer cartoon (explainer-reference-v1 compatible)"
+    },
+    {
+      "file": "maya_02_weaver_woman.png",
+      "title": "Người phụ nữ Maya (áo Huipil, cầm bát đất nung)",
+      "suggested_scenes": "SC02, SC25, SC29, SC34 (Đời sống gia đình, dệt vải, di cư)",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "PNG",
+      "alpha": true,
+      "style": "2D hand-drawn explainer cartoon (explainer-reference-v1 compatible)"
+    },
+    {
+      "file": "maya_03_water_bearer.png",
+      "title": "Người đi lấy nước Maya (ôm bình gốm Olla)",
+      "suggested_scenes": "SC01, SC05, SC06, SC08, SC11, SC12 (Nguồn nước, hồ chứa Tikal, chia sẻ nước)",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "PNG",
+      "alpha": true,
+      "style": "2D hand-drawn explainer cartoon (explainer-reference-v1 compatible)"
+    },
+    {
+      "file": "maya_04_noble_priest.png",
+      "title": "Tư tế / Thủ lĩnh tri thức Maya (mũ lông vũ, chỉ tay, cầm sách giấy gấp)",
+      "suggested_scenes": "SC03, SC04, SC20, SC21, SC23, SC24 (Thiên văn, chữ viết, giới quyền lực)",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "PNG",
+      "alpha": true,
+      "style": "2D hand-drawn explainer cartoon (explainer-reference-v1 compatible)"
+    },
+    {
+      "file": "maya_05_drought_farmer.png",
+      "title": "Nông dân tuyệt vọng ôm trán bên ruộng bắp khô héo",
+      "suggested_scenes": "SC15, SC16, SC17 (Hạn hán kỷ lục 13 năm, mùa màng thất bát, bế tắc sinh kế)",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "PNG",
+      "alpha": true,
+      "style": "2D hand-drawn explainer cartoon (explainer-reference-v1 compatible)"
+    },
+    {
+      "file": "maya_06_migrant_family.png",
+      "title": "Gia đình Maya di cư rời bỏ kinh đô (cha mang gùi dắt con, mẹ mang tay nải đượm buồn)",
+      "suggested_scenes": "SC02, SC25, SC29, SC33, SC34 (Cuộc rời bỏ quy mô lớn, gia đình bồng bế nhau đi tìm sự sống)",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "PNG",
+      "alpha": true,
+      "style": "2D hand-drawn explainer cartoon (explainer-reference-v1 compatible)"
+    },
+    {
+      "file": "maya_07_exhausted_water.png",
+      "title": "Dân làng kiệt sức quỳ bên bình gốm cạn trơ đáy, gạt mồ hôi nhìn trời cầu mưa",
+      "suggested_scenes": "SC01, SC08, SC11, SC12 (Khủng hoảng thiếu nước ngọt, chia khẩu phần cạn kiệt, thiên nhiên khắc nghiệt)",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "PNG",
+      "alpha": true,
+      "style": "2D hand-drawn explainer cartoon (explainer-reference-v1 compatible)"
+    },
+    {
+      "file": "maya_08_dilemma_choice.png",
+      "title": "Ngã rẽ sinh tử: Ra đi hay ở lại? (Một người khóc ngoái nhìn cố hương, một người chỉ về chân trời mới)",
+      "suggested_scenes": "SC02, SC25, SC30, SC31 (Giằng xé nội tâm đau đớn trước quyết định bỏ lại di sản ngàn năm)",
+      "size": [
+        1024,
+        1024
+      ],
+      "format": "PNG",
+      "alpha": true,
+      "style": "2D hand-drawn explainer cartoon (explainer-reference-v1 compatible)"
+    }
+  ]
+}

@@ -3,7 +3,7 @@ import math
 import json
 from pathlib import Path
 from PySide6.QtCore import Qt, QRectF, QPointF
-from PySide6.QtGui import QImage, QPainter, QPen, QColor, QPainterPath, QFont, QLinearGradient, QFontMetricsF, QTransform, QPolygonF
+from PySide6.QtGui import QImage, QImageReader, QPainter, QPen, QColor, QPainterPath, QFont, QLinearGradient, QFontMetricsF, QTransform, QPolygonF
 from .animation import skeleton, state, attachment, PARENTS, sample, evaluate_scene, camera_values, stepped, active_motion, age_at, motion_pose
 from .project import scene_at, resolve
 from .subtitles import active
@@ -39,7 +39,8 @@ class Renderer:
                 size=svg.defaultSize();size.scale(2048,2048,Qt.AspectRatioMode.KeepAspectRatio)
                 im=QImage(size,QImage.Format.Format_ARGB32_Premultiplied);im.fill(Qt.GlobalColor.transparent)
                 painter=QPainter(im);svg.render(painter);painter.end()
-            else:im = QImage(path)
+            else:
+                reader=QImageReader(path);reader.setAutoTransform(True);im=reader.read()
             if im.isNull(): raise FileNotFoundError('Ảnh không đọc được: '+path)
             self.cache[path] = im
             while len(self.cache)>1 and (len(self.cache)>24 or sum(i.sizeInBytes() for i in self.cache.values())>128*1024**2):

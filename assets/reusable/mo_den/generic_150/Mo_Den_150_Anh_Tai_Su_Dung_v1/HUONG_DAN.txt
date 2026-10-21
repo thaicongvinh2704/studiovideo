@@ -1,0 +1,12 @@
+BỘ 150 ẢNH TÁI SỬ DỤNG CHO MỎ ĐEN
+
+150 ảnh PNG gốc, chia 10 thư mục. Tên file không dấu để dễ dùng trong ứng dụng.
+Quy tắc: [mã 3 chữ số]_[nhóm]_[nội dung ảnh].png
+Tra cứu tên tiếng Việt và đường dẫn trong DANH_MUC_ANH.csv.
+Ứng dụng/Codex có thể đọc DANH_MUC_ANH.json: id, group, name_vi, file, width, height, has_transparency.
+Các đường dẫn file là tương đối từ thư mục bộ ảnh. Giữ nguyên tên file và cấu trúc thư mục khi nhập vào ứng dụng.
+
+001–136: ảnh minh họa nền trong suốt. 137–150: phông cảnh ngang.
+106 là bản lạc đà đã sửa. Không kèm bản cũ hoặc các ảnh mẫu ngoài bộ 150.
+Ảnh được giữ nguyên định dạng và độ phân giải, không nén giảm chất lượng.
+Hình vẽ là minh họa khái quát; không dùng các dụng cụ, địa hình hoặc kiến trúc làm bản vẽ kỹ thuật hay chứng cứ lịch sử.

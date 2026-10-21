@@ -1,5 +1,19 @@
 # Mandatory character standard
 
+## Mandatory visual directing and repetition standard
+
+Before planning or revising any video, read `QUY_DINH_DAO_DIEN_HINH_ANH.md`.
+The user rejected Maya V2's repeated empty dominant backgrounds on 21/10/2026;
+V2 is not an approved visual reference. Count background families together,
+including state variants and broad crops. Default to at most three dominant
+wide/medium background uses per family across a film, with an explicit new
+storytelling purpose on each return. Adding a tiny mascot, a title or a slow
+zoom does not resolve repetition. Stage Mỏ Đen inside a scene when a narrator
+or interaction helps, while preserving supplied poses and character standards.
+Record purposeful exceptions with actual visual evidence; never treat counts
+or technical tests as aesthetic approval. Do not call the film corrected when
+only the rule or shot list has changed.
+
 ## Current production direction: Mỏ Đen
 
 The user has selected Mỏ Đen, an externally prepared cartoon cat, as the main recurring character instead of the human presenter. Read `assets/characters/mo_den/README.md` and `manifest.json` before planning character assets. The user will supply individual images and expressions from outside Studio. Accept those supplied assets regardless of their external creation method; the earlier no-image-generation constraint does not prohibit importing images the user deliberately supplies. Do not generate replacements or redesign Mỏ Đen without a request.

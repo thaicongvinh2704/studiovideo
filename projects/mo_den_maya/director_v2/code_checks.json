@@ -1,0 +1,10 @@
+{
+  "distinct_tests_passed": 33,
+  "suites": [
+    "tests.test_supplied_character",
+    "tests.test_explainer",
+    "tests.test_character_qc",
+    "tests.test_media_delivery"
+  ],
+  "scope": "Mechanics, QC enforcement, photo orientation, cached export timing. Not aesthetic or listening approval."
+}

@@ -1,0 +1,25 @@
+MỎ ĐEN — HAI KỊCH BẢN YOUTUBE, TẬP 02 VÀ TẬP 03
+Bản bàn giao ngày 21/10/2026 — tiếng Việt, UTF-8.
+
+MỞ FILE NÀO?
+Mỗi thư mục tập có sáu file:
+1. TIEU_DE.txt — ba phương án tiêu đề.
+2. LOI_DOC.txt — toàn bộ lời đọc sạch: hook, giới thiệu Mỏ Đen, câu chuyện và lời mời đăng ký. Không có nguồn, timestamp hay chỉ dẫn đọc.
+3. DIEN_GIONG_DAY_DU.txt — toàn bộ kịch bản kèm chỉ dẫn cao/thấp, điểm nhấn, nhịp, sắc thái hài/nghiêm; có mã đoạn và đối chiếu cue để làm việc khi thu.
+4. PHU_DE_DU_KIEN.srt — chỉ lời kể, UTF-8, đánh số liên tục, không chồng lấn, tối đa hai dòng mỗi cue.
+5. NGUON_VA_KIEM_CHUNG.md — nguồn có liên kết, dữ kiện, phép tính và những điểm chưa chắc chắn; mở bằng trình đọc văn bản hoặc Markdown.
+6. THONG_KE_VA_THOI_LUONG.txt — số lượng nội dung, phương pháp ước tính, tốc độ giả định và mốc các phần.
+
+THỜI LƯỢNG THIẾT KẾ
+- Tập 02: 5,882 đơn vị cách nhau bằng khoảng trắng; khoảng 18:23 ở nhịp 320 đơn vị/phút.
+- Tập 03: 6,082 đơn vị cách nhau bằng khoảng trắng; khoảng 19:00 ở nhịp 320 đơn vị/phút.
+
+Đây là dự kiến trước thu âm. Không nhầm số đơn vị viết rời tiếng Việt với số từ ngôn ngữ học. Hai tập được viết đủ nội dung; không cộng khoảng lặng để đạt thời lượng. SRT và các mốc diễn giọng CẦN CĂN CHỈNH LẠI theo bản thu thật.
+
+CHẤT GIỌNG
+Mỏ Đen là người bạn tò mò, thông minh, hơi nghịch, không phải người đọc giáo trình. Hài thường nằm ở ví von và lối nói tỉnh bơ; không cần nhấn hoặc cười ở mọi câu. Các đoạn mất mát, tín ngưỡng và thân phận con người được tiết chế. Bản diễn giọng thể hiện ý đồ biểu cảm, chưa phải bản âm thanh hoặc cấu hình riêng cho một dịch vụ tạo giọng.
+
+KIỂM TRA KỸ THUẬT ĐÃ THỰC HIỆN
+Đã so khớp toàn bộ lời trong SRT với lời đọc sạch; kiểm tra số cue liên tục, định dạng timestamp, thời gian tăng và không chồng lấn; tối đa hai dòng/cue; kiểm tra UTF-8 và các phép tính niên đại chính. Nội dung được viết mới, không chép dài từ nguồn. Những trang nguồn không tải được toàn văn được ghi rõ trong hồ sơ.
+
+Hai tập có thể nghe độc lập. Tập 02 dùng khoảng cách và đời người để sửa hình dung về quá khứ. Tập 03 đi theo các lát cắt đồng thời, đặt cả khảo cổ và đời sống trên vùng đất Việt Nam ngày nay vào cùng trục với thế giới.
