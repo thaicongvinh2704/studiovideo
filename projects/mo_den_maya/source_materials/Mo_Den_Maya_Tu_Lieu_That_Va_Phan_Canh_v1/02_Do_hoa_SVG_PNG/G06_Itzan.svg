@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1382.4pt" height="777.6pt" viewBox="0 0 1382.4 777.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-20T21:30:26.504227</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 777.6 
+L 1382.4 777.6 
+L 1382.4 0 
+L 0 0 
+z
+" style="fill: #f6efdf"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 106.56 223.2 
+L 627.84 223.2 
+Q 640.8 223.2 640.8 236.16 
+L 640.8 368.64 
+Q 640.8 381.6 627.84 381.6 
+L 106.56 381.6 
+Q 93.6 381.6 93.6 368.64 
+L 93.6 236.16 
+Q 93.6 223.2 106.56 223.2 
+z
+" clip-path="url(#p43ca1d0e6e)" style="fill: #397d83"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 754.56 223.2 
+L 1275.84 223.2 
+Q 1288.8 223.2 1288.8 236.16 
+L 1288.8 368.64 
+Q 1288.8 381.6 1275.84 381.6 
+L 754.56 381.6 
+Q 741.6 381.6 741.6 368.64 
+L 741.6 236.16 
+Q 741.6 223.2 754.56 223.2 
+z
+" clip-path="url(#p43ca1d0e6e)" style="fill: #b85e3c"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 372.96 518.4 
+L 1009.44 518.4 
+Q 1022.4 518.4 1022.4 531.36 
+L 1022.4 609.84 
+Q 1022.4 622.8 1009.44 622.8 
+L 372.96 622.8 
+Q 360 622.8 360 609.84 
+L 360 531.36 
+Q 360 518.4 372.96 518.4 
+z
+" clip-path="url(#p43ca1d0e6e)" style="fill: #7f8060"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 36px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #362d26" x="72" y="86.895" transform="rotate(-0 72 86.895)">Itzan buộc chúng ta hỏi thêm</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 20px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6a6458" x="72" y="125.471875" transform="rotate(-0 72 125.471875)">Đối chiếu bằng chứng địa phương • không phải biểu đồ lượng mưa hoặc dân số mới</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 26px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(221.628437 279.291281)">Hồ sơ khí hậu tại Itzan</text>
+    <text style="font-size: 26px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(183.13625 311.067344)">Không thấy tín hiệu khô hạn</text>
+    <text style="font-size: 26px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(185.583906 341.429656)">tương ứng trong dữ liệu này</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 26px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(903.938281 277.27425)">Bối cảnh khảo cổ</text>
+    <text style="font-size: 26px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(892.855781 309.050313)">Dân số địa phương</text>
+    <text style="font-size: 26px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(927.837969 341.8745)">vẫn suy giảm</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 368.989673 396.894836 
+Q 475.200877 450.000439 577.412081 501.106041 
+" style="fill: none; stroke: #362d26; stroke-width: 4; stroke-linecap: round"/>
+    <path d="M 570.972205 492.51954 
+L 577.412081 501.106041 
+L 566.678955 501.106041 
+z
+" style="fill: #362d26; stroke: #362d26; stroke-width: 4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 1013.410327 396.894836 
+Q 907.199123 450.000439 804.987919 501.106041 
+" style="fill: none; stroke: #362d26; stroke-width: 4; stroke-linecap: round"/>
+    <path d="M 815.721045 501.106041 
+L 804.987919 501.106041 
+L 811.427795 492.51954 
+z
+" style="fill: #362d26; stroke: #362d26; stroke-width: 4; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 26px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(431.854062 562.995406)">Cần xét thêm chiến tranh, liên kết vùng</text>
+    <text style="font-size: 26px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(373.48 594.771469)">và những sức ép khác — chưa chốt nguyên nhân</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #6a6458" x="72" y="725.0975" transform="rotate(-0 72 725.0975)">Nguồn: S05 Gwinneth et al. (2025), Biogeosciences • DOI: 10.5194/bg-22-7079-2025</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p43ca1d0e6e">
+   <rect x="0" y="0" width="1382.4" height="777.6"/>
+  </clipPath>
+ </defs>
+</svg>

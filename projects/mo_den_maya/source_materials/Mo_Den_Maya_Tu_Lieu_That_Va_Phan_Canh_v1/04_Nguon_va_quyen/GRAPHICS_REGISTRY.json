@@ -1,0 +1,66 @@
+[
+  {
+    "id": "G01_Ban_do",
+    "title": "Bản đồ khu vực",
+    "svg": "02_Do_hoa_SVG_PNG/G01_Ban_do.svg",
+    "png": "02_Do_hoa_SVG_PNG/G01_Ban_do.png",
+    "source": "Natural Earth 1:110m (public domain) • Tikal/Chichén: UNESCO • Mayapán: S13 • Hồ Itzan: S05",
+    "notes": "Không có tuyến di cư, tuyến nước hoặc biên giới cổ trên bản đồ này."
+  },
+  {
+    "id": "G02_Truc_thoi_gian",
+    "title": "Trục thời gian",
+    "svg": "02_Do_hoa_SVG_PNG/G02_Truc_thoi_gian.svg",
+    "png": "02_Do_hoa_SVG_PNG/G02_Truc_thoi_gian.png",
+    "source": "Nguồn: S06 Wahl et al. (2019) • S04 James et al. (2025) • S08 Kennett et al. (2022) • niên đại khái quát theo kịch bản",
+    "notes": "250–900 là phân kỳ khái quát; không phải ngày bắt đầu/kết thúc đồng loạt."
+  },
+  {
+    "id": "G03_Nuoc_Tikal",
+    "title": "Sơ đồ nước",
+    "svg": "02_Do_hoa_SVG_PNG/G03_Nuoc_Tikal.svg",
+    "png": "02_Do_hoa_SVG_PNG/G03_Nuoc_Tikal.png",
+    "source": "Nguồn: S01 Tankersley et al. (2020) • S02 Lentz et al. (2020) • đồ họa diễn giải mới",
+    "notes": "Mũi tên là dòng nguyên lý, không mô tả dòng chảy có tọa độ."
+  },
+  {
+    "id": "G04_Mua_41_54",
+    "title": "Khoảng giảm mưa",
+    "svg": "02_Do_hoa_SVG_PNG/G04_Mua_41_54.svg",
+    "png": "02_Do_hoa_SVG_PNG/G04_Mua_41_54.png",
+    "source": "Nguồn: S03 Evans et al. (2018), Science • DOI: 10.1126/science.aas9871",
+    "notes": "Chỉ vẽ khoảng công bố; không gọi đây là khoảng tin cậy nếu bài báo không định nghĩa như vậy."
+  },
+  {
+    "id": "G05_13_nam",
+    "title": "Độ dài đợt hạn",
+    "svg": "02_Do_hoa_SVG_PNG/G05_13_nam.svg",
+    "png": "02_Do_hoa_SVG_PNG/G05_13_nam.png",
+    "source": "Nguồn: S04 James et al. (2025), Science Advances • DOI: 10.1126/sciadv.adw7661",
+    "notes": "Niên đại có bất định; không đồng nhất với giai đoạn của mọi thành phố Maya."
+  },
+  {
+    "id": "G06_Itzan",
+    "title": "Đối chiếu Itzan",
+    "svg": "02_Do_hoa_SVG_PNG/G06_Itzan.svg",
+    "png": "02_Do_hoa_SVG_PNG/G06_Itzan.png",
+    "source": "Nguồn: S05 Gwinneth et al. (2025), Biogeosciences • DOI: 10.5194/bg-22-7079-2025",
+    "notes": "Không có tín hiệu trong hồ sơ không đồng nghĩa chứng minh không từng có mùa khô."
+  },
+  {
+    "id": "G07_Witzna",
+    "title": "Bằng chứng Witzna",
+    "svg": "02_Do_hoa_SVG_PNG/G07_Witzna.svg",
+    "png": "02_Do_hoa_SVG_PNG/G07_Witzna.png",
+    "source": "Nguồn: USGS, Section of Laguna Ek’Naab Sediment Core • S06 Wahl et al. (2019)",
+    "notes": "692 là đỉnh xác suất mô hình; 697 là năm văn khắc. Không dựng ảnh cháy như tư liệu ghi hình."
+  },
+  {
+    "id": "G08_Chinh_tri_Doi_song",
+    "title": "Quyền lực và đời sống",
+    "svg": "02_Do_hoa_SVG_PNG/G08_Chinh_tri_Doi_song.svg",
+    "png": "02_Do_hoa_SVG_PNG/G08_Chinh_tri_Doi_song.png",
+    "source": "Nguồn: S07 Arnauld, Méreuze & Hiquet (2026), Latin American Antiquity • dựa trên tóm tắt công bố",
+    "notes": "Đồ họa giải thích khái niệm; không tái tạo đồ thị từ toàn văn chưa đọc."
+  }
+]

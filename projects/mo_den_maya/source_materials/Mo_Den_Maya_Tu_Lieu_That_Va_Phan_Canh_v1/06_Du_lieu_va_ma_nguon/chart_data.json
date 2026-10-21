@@ -1,0 +1,16 @@
+{
+  "rainfall_reduction_pct": [
+    41,
+    54
+  ],
+  "rainfall_source": "S03",
+  "drought_duration_years": 13,
+  "drought_interval_ce": [
+    929,
+    942
+  ],
+  "dating_uncertainty_years": 6,
+  "drought_source": "S04",
+  "annual_rainfall_values": null,
+  "population_time_series": null
+}

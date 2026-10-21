@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Tikal",
+    "latitude": 17.22,
+    "longitude": -89.62,
+    "source_id": "S11",
+    "precision": "approximate site / exact reported lake sampling coordinate for Itzan"
+  },
+  {
+    "name": "Chichén Itzá",
+    "latitude": 20.68,
+    "longitude": -88.57,
+    "source_id": "S12",
+    "precision": "approximate site / exact reported lake sampling coordinate for Itzan"
+  },
+  {
+    "name": "Mayapán",
+    "latitude": 20.63,
+    "longitude": -89.46,
+    "source_id": "S13",
+    "precision": "approximate site / exact reported lake sampling coordinate for Itzan"
+  },
+  {
+    "name": "Hồ Itzan",
+    "latitude": 16.598,
+    "longitude": -90.4784,
+    "source_id": "S05",
+    "precision": "approximate site / exact reported lake sampling coordinate for Itzan"
+  }
+]

@@ -1,0 +1,1 @@
+Mã dựng build_visual_pack.py là bản lưu quy trình của phiên này; cần các đầu vào trong workspace gốc (2 ZIPảnh,voice JSON,SRT,thư mục maya_work). SVG/PNG và dữ liệu đi kèm dùng độc lập, không cần chạy lại script. Dùng map_points.json và chart_data.json để sửa đồ họa; không tự nội suy dữ liệu chưa có. Natural Earth ZIP là dữ liệu nền gốc.

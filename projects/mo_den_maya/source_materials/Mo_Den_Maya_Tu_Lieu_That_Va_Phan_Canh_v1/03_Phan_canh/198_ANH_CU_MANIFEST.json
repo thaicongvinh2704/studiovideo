@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "I001",
+    "name": "Bình gốm đựng nước",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/001_doi_song_binh_gom_dung_nuoc.png",
+    "sha256": "3baa764e44b56a1af440c0687844754ba3aba01f1b98050f482e8e36f56142d9",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I002",
+    "name": "Bát đất nung",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/002_doi_song_bat_dat_nung.png",
+    "sha256": "18f237cd5610cfac553cf5eee4bcc1ab389b831f750a7f88fab9e6f6f99b119d",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I003",
+    "name": "Giỏ có quai",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/003_doi_song_gio_co_quai.png",
+    "sha256": "228fc1df389167cdda653ef11e6316124aff2332bc8bfad624b00d9c65f6bbab",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I004",
+    "name": "Túi đeo vai",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/004_doi_song_tui_deo_vai.png",
+    "sha256": "d4233ce69b9a5d8afab41ac76ae1371ad7de265c854ea28a48bcfa7dcc826984",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I005",
+    "name": "Ghế đẩu",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/005_doi_song_ghe_dau.png",
+    "sha256": "3d15670f15782788b1c497688a983a6b1340d2972738c633d7b09a0f0fd1457f",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I006",
+    "name": "Bàn gỗ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/006_doi_song_ban_go.png",
+    "sha256": "425be7c682093f8069664ac456e83bb4041dac31f3c4b504bad54df465654201",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I007",
+    "name": "Giường gỗ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/007_doi_song_giuong_go.png",
+    "sha256": "4115d56188fbaae0f9faa14c952ce18da214a8803b30784966858dfdf21c7834",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I008",
+    "name": "Bếp củi",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/008_doi_song_bep_cui.png",
+    "sha256": "9639a89651d772601503a7c52a51921643126fd3ae5c85e35c5b1b2301b6e694",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I009",
+    "name": "Nồi có nắp",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/009_doi_song_noi_co_nap.png",
+    "sha256": "cb80e84b42a64853d069dc47bdf9175e09105e2eeca482a24534ccef2ac789e7",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I010",
+    "name": "Muôi gỗ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/010_doi_song_muoi_go.png",
+    "sha256": "21c90ddc076c5c6f7d1de18769aa99592eb154ac52b87ddcfffb2b12a81dff13",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I011",
+    "name": "Cốc có quai",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/011_doi_song_coc_co_quai.png",
+    "sha256": "d4839eed727dd897ebc2b5533b579ced64adb9b947bb5d54ca8bebef0466e2bf",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I012",
+    "name": "Đĩa",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/012_doi_song_dia.png",
+    "sha256": "35f1d01a080e1ed1fe221c613d8ba551ec2079090e05904fff93f556da8ed18a",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I013",
+    "name": "Chiếu cuộn",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/013_doi_song_chieu_cuon.png",
+    "sha256": "cb766802d1e1084a78213568c5b582d518f10ece1a2d9157d487e2aecf0b5a05",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I014",
+    "name": "Chăn gấp",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/014_doi_song_chan_gap.png",
+    "sha256": "5d714e518c1ddfe4030df04a78809718cb70dc6f593b027c05eb34bc116a2d7e",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I015",
+    "name": "Xô gỗ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/015_doi_song_xo_go.png",
+    "sha256": "29a03c60f4e038e7e55fca12501efe93ecc476c7e605b7e4fb56291c21977b89",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I016",
+    "name": "Chổi",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/016_doi_song_choi.png",
+    "sha256": "35c53582a481abc9d2eb4c2b272ca40af599590a3d47836e8089f8d07215769b",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I017",
+    "name": "Con suốt kéo sợi",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/017_doi_song_con_suot_keo_soi.png",
+    "sha256": "025e90d71b9b907764138cdf9c865191753398c166ef264b51d49d12305da059",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I018",
+    "name": "Cối và chày",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/01_doi_song/018_doi_song_coi_va_chay.png",
+    "sha256": "edd0577807099e9df24ed3f8001814abce972e1eb32cd6510a29af32e30d680c",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I019",
+    "name": "Kính thiên văn",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/019_nghien_cuu_kinh_thien_van.png",
+    "sha256": "f8ff6d6d0c3fd9fd1a47300bd7e236962199e417053fdf0daa0c66d91a507446",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I020",
+    "name": "Kính hiển vi",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/020_nghien_cuu_kinh_hien_vi.png",
+    "sha256": "6be1100e585274a24fd2e53708fb62d729e82b0b81b37bbffd69879d353311c2",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I021",
+    "name": "Quả địa cầu minh họa",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/021_nghien_cuu_qua_dia_cau_minh_hoa.png",
+    "sha256": "002772f88cf635f6cc5a455fc26f1bd21efd5b9b37b68c0c889a099868193883",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I022",
+    "name": "Hộp lưu mẫu",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/022_nghien_cuu_hop_luu_mau.png",
+    "sha256": "4e8adc6d15e0064fcf2a8cfcea1a3623427bacbc7106b56f74ff9956f1ba80b2",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I023",
+    "name": "Bảng kẹp giấy",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/023_nghien_cuu_bang_kep_giay.png",
+    "sha256": "11f27e840964eb788a82cf0399ce034dd6bff9409da2d18a166aff8370d18bff",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I024",
+    "name": "Thước cặp",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/024_nghien_cuu_thuoc_cap.png",
+    "sha256": "27989d7446f7cd5649c790d63b4ac933071066740c791e1c3ec9c7327eea0c8b",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I025",
+    "name": "Thước gỗ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/025_nghien_cuu_thuoc_go.png",
+    "sha256": "cbd6d5806bc83a1036c72b49e1ff29197e17db62f9ceda5cf890dc03401915a8",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I026",
+    "name": "Đồng hồ mặt trời",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/026_nghien_cuu_dong_ho_mat_troi.png",
+    "sha256": "f76c16bee5633ed9d37dea728a9449e7924c6a4f1a6787e51b03a4dfe993a8ee",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I027",
+    "name": "Kính lục phân",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/027_nghien_cuu_kinh_luc_phan.png",
+    "sha256": "0b39bc9ab2da00d9d15c023396c8223f31785bf34bd3a8c19c39aa8fdf9adc6d",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I028",
+    "name": "Ống nhòm",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/028_nghien_cuu_ong_nhom.png",
+    "sha256": "5bf65e2724c6fa71a998974a356416f5689f83d3290763ecd39ccfe8a6c16c5b",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I029",
+    "name": "Đèn bàn",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/029_nghien_cuu_den_ban.png",
+    "sha256": "9da073787c458b352b50d8837a775df97b15a227dc4156a84df09feb0d46315b",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I030",
+    "name": "Bộ đàm",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/030_nghien_cuu_bo_dam.png",
+    "sha256": "af033c849e28789c0f9a8d7abffff35f079c17288a414e459ed2214640c89c28",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I031",
+    "name": "Ống đựng mẫu",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/031_nghien_cuu_ong_dung_mau.png",
+    "sha256": "66e049bfdd2824c71cc953c0a875c6e426d43dbd84fdd6584af233ba19822a4b",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I032",
+    "name": "Lam kính",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/032_nghien_cuu_lam_kinh.png",
+    "sha256": "826dfeef4eebf39bfa995393220dd047d2b3df81407488fcc55886f0b04b833d",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I033",
+    "name": "Nhiệt kế",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/033_nghien_cuu_nhiet_ke.png",
+    "sha256": "01f2d90e2cb837c1d9343e0d0aaec30726ac21817ca01a9a320947298e76851d",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I034",
+    "name": "Thước khảo cổ hình chữ L",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/02_nghien_cuu/034_nghien_cuu_thuoc_khao_co_hinh_chu_l.png",
+    "sha256": "c6a8a64d7131049606d3fc87da2814f7b6a86c8006657220b56b9887798eaf73",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I035",
+    "name": "Vòm đá",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/035_kien_truc_vom_da.png",
+    "sha256": "562a06f7fc8a273aee0fdf75fb1b396a2ed13b6c6c7e2e7c4583dc94524ed10c",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I036",
+    "name": "Đoạn tường đá",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/036_kien_truc_doan_tuong_da.png",
+    "sha256": "f3e6e63d3794c835a05374ba8e565e254c6bb8997bf0933d40c5266d60d3d31e",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I037",
+    "name": "Cột đá",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/037_kien_truc_cot_da.png",
+    "sha256": "fbe1e54909c7cb3a8be35b08284ab991cb8eb204d8784faae59abc9b0ab41130",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I038",
+    "name": "Bậc thang đá",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/038_kien_truc_bac_thang_da.png",
+    "sha256": "360892fc91e33ba7ab6ee3f5bc22ed1def3052c44db984fe8466d846f0ca3acd",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I039",
+    "name": "Cửa sổ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/039_kien_truc_cua_so.png",
+    "sha256": "19873dbdec236a6ba875a23e86a02d997efaa3635fd179e386e922e90a5d87ec",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I040",
+    "name": "Giếng đá",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/040_kien_truc_gieng_da.png",
+    "sha256": "bccb758cbb620e028078dadd0f2721094cfa2fce089fefccf91cdf5687606194",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I041",
+    "name": "Cầu gỗ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/041_kien_truc_cau_go.png",
+    "sha256": "8c6a5165796c421efba9217497512f119e28d9c146448b0764a48d1ef463538d",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I042",
+    "name": "Tháp canh",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/042_kien_truc_thap_canh.png",
+    "sha256": "88e8ddf6686aa9aed33175388b6e301b16988cc163534098e47357ee782c715f",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I043",
+    "name": "Móng công trình",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/043_kien_truc_mong_cong_trinh.png",
+    "sha256": "61a78c1aea51d7d6b399b63e5ff6d181afa6716e6bdac1d0c5559d84c472bf0a",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I044",
+    "name": "Nhà đá",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/044_kien_truc_nha_da.png",
+    "sha256": "5c6d5058da678588dbae346d7e3a876bd5a38814d16a73d204a20f81bdc08ee2",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I045",
+    "name": "Khung cửa đá",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/045_kien_truc_khung_cua_da.png",
+    "sha256": "1659b094d959bc8ec0985307f6b95cc84c88dc6e1483a47f1f6667509fb1875a",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I046",
+    "name": "Vì kèo mái gỗ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/046_kien_truc_vi_keo_mai_go.png",
+    "sha256": "47c49fe45b516ffea5f075212ce6b273db388015cb51d3a2648d80d629e96b9b",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I047",
+    "name": "Mái tranh",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/047_kien_truc_mai_tranh.png",
+    "sha256": "576448ddd59d4d713610b23113e2fb122589d9c5e3ae8c290192b9e9fd8a357a",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I048",
+    "name": "Mái ngói",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/048_kien_truc_mai_ngoi.png",
+    "sha256": "fbb58bfba5b0126b79919cf86d69aa6a47de51b9e794e063e000b85b590acd00",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I049",
+    "name": "Ống khói",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/049_kien_truc_ong_khoi.png",
+    "sha256": "c87b832b6e8b8230fea84165f74fb1099fbb23ad999fad00b9eaf1ba35cf2ba9",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I050",
+    "name": "Đài phun nước",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/050_kien_truc_dai_phun_nuoc.png",
+    "sha256": "8857b1895c9f82d2a0aa58c93a2cafac20b5f56c7cba1a74ab7da0c6f3c7cfdc",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I051",
+    "name": "Hàng rào gỗ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/051_kien_truc_hang_rao_go.png",
+    "sha256": "f9ffae3f1865e0037e357acea3855198911f30fdfcff1f25f55b186b5f33f820",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I052",
+    "name": "Nhịp cầu dẫn nước",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/03_kien_truc/052_kien_truc_nhip_cau_dan_nuoc.png",
+    "sha256": "6d246f8a156e5bb66b819d6caaf08716cabe602a4d5e916c91444280c97c9f26",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I053",
+    "name": "Khối đá đẽo",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/053_vat_lieu_khoi_da_deo.png",
+    "sha256": "002876180e39fef85a6d00abc95ad918f01d1e6de42a5d54d77a21f5326cc577",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I054",
+    "name": "Chồng gạch",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/054_vat_lieu_chong_gach.png",
+    "sha256": "54df66c839f4223f55361953ba98339410fce4e9ee7410bc6fa1e8edfbb87e9d",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I055",
+    "name": "Khúc gỗ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/055_vat_lieu_khuc_go.png",
+    "sha256": "afe00955d87baab92bd1d3baf4b46118c44280a59648f1a9c9c31cd11a2c2652",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I056",
+    "name": "Chồng ván gỗ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/056_vat_lieu_chong_van_go.png",
+    "sha256": "c2da3bee7631c76d01278293ee5a0d602e51ab9035d8e49989e3bd7c6bea92ab",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I057",
+    "name": "Cuộn dây thừng",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/057_vat_lieu_cuon_day_thung.png",
+    "sha256": "c0e7bb46ac0f892c2ba41c86787114d1ce44fe6cdf6140e7c7d5b179fdb8692f",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I058",
+    "name": "Mảnh gốm vỡ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/058_vat_lieu_manh_gom_vo.png",
+    "sha256": "7d941444c3867dfd6e376325d96e6d1aceceddb5fe876c5c70810e4be769508a",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I059",
+    "name": "Phiến đá nứt",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/059_vat_lieu_phien_da_nut.png",
+    "sha256": "01acddc7c29c028bb99ce236a44416218c7d8c2ec3876dfb9b9e9dac85d4b4fe",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I060",
+    "name": "Gỗ cháy",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/060_vat_lieu_go_chay.png",
+    "sha256": "779a6751f5f02d6283f156c71ac157b36c34a2f164f54ea708f92d4d428e91a1",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I061",
+    "name": "Dấu bánh xe trên đất",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/061_vat_lieu_dau_banh_xe_tren_dat.png",
+    "sha256": "a25ea8d8053fd426ec69d520ca7c5f491b7010ec14779070ae701ef831a39982",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I062",
+    "name": "Gạch đất",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/062_vat_lieu_gach_dat.png",
+    "sha256": "331673452f87600c38385ecef5ed13dff72a7e2dba21e24f2f4ff0670d85d855",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I063",
+    "name": "Bó sậy",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/063_vat_lieu_bo_say.png",
+    "sha256": "1c376265043836702cb5fc7efd6cdd28cfeba778562db727e867cf53f32e7771",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I064",
+    "name": "Cuộn vải",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/064_vat_lieu_cuon_vai.png",
+    "sha256": "80064d3f00dd9aafd521a3062dd812cd48119705852fccfd7d5802539c8f07fc",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I065",
+    "name": "Thỏi đồng minh họa",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/065_vat_lieu_thoi_dong_minh_hoa.png",
+    "sha256": "b00d3fa533af042bbecd28725a491e23cafe6a28a5427a272e9e87b1d26f39ff",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I066",
+    "name": "Mảnh đá",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/04_vat_lieu/066_vat_lieu_manh_da.png",
+    "sha256": "7b45ddb5e7200ee0cf805e04d903b892af402ab9e37153179300d5769280f8de",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I067",
+    "name": "Túi tiền",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/067_kinh_te_tui_tien.png",
+    "sha256": "9b2a952b5e642b5d3b99d9c1f05ce74be0aa40ee520880baf837fef8eee8e5b7",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I068",
+    "name": "Chồng tiền xu minh họa",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/068_kinh_te_chong_tien_xu_minh_hoa.png",
+    "sha256": "178e7d5d3a3e09be6a1e07ffd38629d84e5714f11aaf9be1a552431b4c3fa66f",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I069",
+    "name": "Thỏi kim loại",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/069_kinh_te_thoi_kim_loai.png",
+    "sha256": "b250b0cf74f28722fd5144329f458027542c322939272d9f99ba92519142e76e",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I070",
+    "name": "Thùng hàng gỗ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/070_kinh_te_thung_hang_go.png",
+    "sha256": "ba07f4b5c21da00e4ddf05811057d696b866a1e95129c6e28709444c055791c3",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I071",
+    "name": "Quầy hàng",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/071_kinh_te_quay_hang.png",
+    "sha256": "24a1083a82cf08c1fa73dab539c35774a0da81f767942797a1983bb5a605d0bb",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I072",
+    "name": "Bao hạt",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/072_kinh_te_bao_hat.png",
+    "sha256": "858149f341f933cd62d96293cad2784fdeaae09145a29143e6f6b4bd178c1395",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I073",
+    "name": "Bình chứa hai quai",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/073_kinh_te_binh_chua_hai_quai.png",
+    "sha256": "f072b467a09d1aa256aefec59c263eb793c225eed77052baf04bf224a8b696de",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I074",
+    "name": "Xe đẩy gỗ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/074_kinh_te_xe_day_go.png",
+    "sha256": "a6ad6f7acdeca91e5a4cc4d87e5e4373f8f82cdc0f27cad6a912c5924775d9d6",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I075",
+    "name": "Kiện hàng buộc dây",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/075_kinh_te_kien_hang_buoc_day.png",
+    "sha256": "e397703373ad515de6e56fecbb2aac9df202c432afd67d8193326e37370fbb45",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I076",
+    "name": "Cân đòn",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/076_kinh_te_can_don.png",
+    "sha256": "f43c33fe55f831ed013ed0ed6514535414101bb98599e2f67bcd56ab6f8e30f0",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I077",
+    "name": "Thẻ đất sét",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/077_kinh_te_the_dat_set.png",
+    "sha256": "b4befe4075cddb9312758ca6a69d9da855f0e5aaa0d9d25240bfd7b9b7ed9511",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I078",
+    "name": "Thùng gỗ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/078_kinh_te_thung_go.png",
+    "sha256": "4cfd8244184aa8576139e859609d69f63fb065c48c1bed4a21609059d5ceb9fe",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I079",
+    "name": "Mẹt đan",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/079_kinh_te_met_dan.png",
+    "sha256": "639f7d74c74946c1bf3ea4c661d393095e7715cc8728e702237653e8a79ebb9f",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I080",
+    "name": "Kệ hàng",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/05_kinh_te/080_kinh_te_ke_hang.png",
+    "sha256": "b6da7b657859885a22cfc6ebf0ab59cb1049396f5f7cf700caeead54ed91345c",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I081",
+    "name": "Vách đá",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/081_dia_hinh_vach_da.png",
+    "sha256": "45965c036b91a51fd062e128148b07acf896a8eca47b9885d1a93b847c644bbe",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I082",
+    "name": "Thung lũng",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/082_dia_hinh_thung_lung.png",
+    "sha256": "94cb6f45d831314afd4cfaaa9d7a8a498d967fc4e4419004686cbd478ead6860",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I083",
+    "name": "Đảo đá",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/083_dia_hinh_dao_da.png",
+    "sha256": "4c27368dc9d5b0694b980a517b56de07db16ded0e0b9050d49a8edad4cb63bf9",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I084",
+    "name": "Bờ biển",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/084_dia_hinh_bo_bien.png",
+    "sha256": "2ce23a12df34729dcd5bf8e3cfb5f560f0ce6ec7ea20efc1d279748246f22a1a",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I085",
+    "name": "Đầm lầy",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/085_dia_hinh_dam_lay.png",
+    "sha256": "837be2ed33949885b9a1e906fe3ea4a08589499c6c13bb03586d0fa4d3862ace",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I086",
+    "name": "Cửa hang",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/086_dia_hinh_cua_hang.png",
+    "sha256": "f54e02fcefd5ca1bc35642987a508337950779fc501a4fa515f677494c16091b",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I087",
+    "name": "Núi lửa ngủ yên",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/087_dia_hinh_nui_lua_ngu_yen.png",
+    "sha256": "6b77c37d4cba3647f8f6fd35e290f110a3984b7ee5fbaa360bae12c2d53380b0",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I088",
+    "name": "Sông băng",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/088_dia_hinh_song_bang.png",
+    "sha256": "00ab9f67f7c46db8472166926986489651f2ebe61fabf3e6ec6a89aa8c257738",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I089",
+    "name": "Thác nước",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/089_dia_hinh_thac_nuoc.png",
+    "sha256": "820ffc6a1e4afd78abf69765121723b264fed58785ff27054305432d4ff57559",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I090",
+    "name": "Núi bàn",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/090_dia_hinh_nui_ban.png",
+    "sha256": "e0a1f769d3c92551af0fbb81e63cfeb3964caa4f365953ebcc59f30dffc803d0",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I091",
+    "name": "Hẻm núi",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/091_dia_hinh_hem_nui.png",
+    "sha256": "87a458c18761dfe15a7c1009112e57ce3aef5b581e53cc93b9dea6e4d22cc40e",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I092",
+    "name": "Ốc đảo",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/092_dia_hinh_oc_dao.png",
+    "sha256": "838961be2eef1393b6cb09b9e15191386e51fde57dc321d2ba5880f3fb1cf968",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I093",
+    "name": "Đụn cát",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/093_dia_hinh_dun_cat.png",
+    "sha256": "e2938891af1eb3d3de2321d5352b98cd6b9b30bb4fb78f6832e9062ab8f96e2e",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I094",
+    "name": "Cụm cây rừng",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/094_dia_hinh_cum_cay_rung.png",
+    "sha256": "b196c074cad236d799f6cca1b6c709cf8e3c340db217da74bc14b658f508ae1e",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I095",
+    "name": "Châu thổ minh họa",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/095_dia_hinh_chau_tho_minh_hoa.png",
+    "sha256": "dbd45a593baa0ee71ede0d681d76ac2bf699d69db59806eab835ab174fc0042c",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I096",
+    "name": "Đỉnh núi tuyết",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/06_dia_hinh/096_dia_hinh_dinh_nui_tuyet.png",
+    "sha256": "296d1c5a41ea3d8a3328fdb10ff7127beea147a93dfccd0a46546464a7ca75e4",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I097",
+    "name": "Cây cọ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/097_sinh_vat_cay_co.png",
+    "sha256": "ed0e56b8eab15ca1a84c5421dcdf5d4ba55e4c4a2900c751a5d51de42c717985",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I098",
+    "name": "Cây tán rộng",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/098_sinh_vat_cay_tan_rong.png",
+    "sha256": "81f70a228dabcefb7145787cc783cb4ab86cdcac1125904b9fbb34aae2a11e1e",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I099",
+    "name": "Cây lá kim",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/099_sinh_vat_cay_la_kim.png",
+    "sha256": "429525d23300976e80debc24e8167cf63a44bcf23a4289e9237a79a7325f9936",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I100",
+    "name": "Dương xỉ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/100_sinh_vat_duong_xi.png",
+    "sha256": "3115c1d96285a70b40d62d01dada2c8d0cd7d0c84f03c08d5b122561d7091393",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I101",
+    "name": "Bụi cỏ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/101_sinh_vat_bui_co.png",
+    "sha256": "84ca6522dad76099400ec7163dacda04f96af539ff730b2d25d2c943316653a5",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I102",
+    "name": "Bông lúa mì",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/102_sinh_vat_bong_lua_mi.png",
+    "sha256": "ef4c685d3e11a1b58db5fdfa10ae25b46b38a5ca36e6394f029aaba06fbb7b94",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I103",
+    "name": "Bắp ngô",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/103_sinh_vat_bap_ngo.png",
+    "sha256": "90fbc2761c1f1f334f6ca592ad1f301136fa25a4e3f1995464423c5d0f37df00",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I104",
+    "name": "Ngựa",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/104_sinh_vat_ngua.png",
+    "sha256": "d833bc9698fc9bcc030055adbbc831ae74493522ce92a2db8d45f72defcf41e4",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I105",
+    "name": "Lừa",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/105_sinh_vat_lua.png",
+    "sha256": "84d54790d07d47192c4b8d15d22220549b7718fa061a56e185e76562f0258d95",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I106",
+    "name": "Lạc đà một bướu",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/106_sinh_vat_lac_da_mot_buou.png",
+    "sha256": "fbab3d51da6f786afe4d8903dc7dabc203c401b3b3932df8b9e06521a5805889",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I107",
+    "name": "Chó",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/107_sinh_vat_cho.png",
+    "sha256": "c5101ed3d170292f6940dd82f4937556c0ae1fa083f65ef5c2f1fec7334ead59",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I108",
+    "name": "Quạ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/108_sinh_vat_qua.png",
+    "sha256": "f2da22244b69a2f15b4e35f072f4c76294975dac5b8b7053657b8edf53fafba0",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I109",
+    "name": "Cá",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/109_sinh_vat_ca.png",
+    "sha256": "b379fd26c5ff624bedb18b4954d10bba10b8bb50488be313f62bdab8e53e6af8",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I110",
+    "name": "Bọ cánh cứng",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/07_sinh_vat/110_sinh_vat_bo_canh_cung.png",
+    "sha256": "d8f32b484e82d0a4e26281650fb92ae48e29ba4f7e4a774e62c4896013448c10",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I111",
+    "name": "Gió cuốn lá",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/111_bien_co_gio_cuon_la.png",
+    "sha256": "bf337347990107f6646b51e6db80432524c12d531c45655376fb2da59987c9ab",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I112",
+    "name": "Mây giông và sét",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/112_bien_co_may_giong_va_set.png",
+    "sha256": "0b088746a731a03da0817d4a9698f534b1bc73ec193a43685373c7cce1c23450",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I113",
+    "name": "Ngập lụt",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/113_bien_co_ngap_lut.png",
+    "sha256": "1abaa795a221222113714660227739ada8ccec27e181887ea13c17d4f77f5c66",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I114",
+    "name": "Đất hạn và cây héo",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/114_bien_co_dat_han_va_cay_heo.png",
+    "sha256": "e585d324332d36023c18edc32e9c1f6ac2ae2ca745cf8ad603fe531cb66213db",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I115",
+    "name": "Cháy rừng",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/115_bien_co_chay_rung.png",
+    "sha256": "78c889f61365d2ee8c777fc5b04ff8c0e643636e95c45e193b64e46a5fe8167e",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I116",
+    "name": "Mây tuyết",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/116_bien_co_may_tuyet.png",
+    "sha256": "f8aeb75cf279fa9288d7c61b6739694d85a85763251eb7c0e19b0bcba6a8301e",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I117",
+    "name": "Khe nứt đất",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/117_bien_co_khe_nut_dat.png",
+    "sha256": "e5ffe505d5c97b32a55fc562b4f6c87c017915ef27156a56661fc6dac2d883df",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I118",
+    "name": "Sạt lở",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/118_bien_co_sat_lo.png",
+    "sha256": "df0e809e0396180fc471928cb68ca206e2bc822ea9742523e0540fec5189341e",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I119",
+    "name": "Bão cát",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/119_bien_co_bao_cat.png",
+    "sha256": "2ff2f2200eb259cf384743dc0e1934ca0932c043b37950ae8de3cd043f539062",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I120",
+    "name": "Núi lửa phun trào",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/120_bien_co_nui_lua_phun_trao.png",
+    "sha256": "792bbfd9567b002f38a50c6747f6828eb4e627a193ef90fe7a98cb4adad256b3",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I121",
+    "name": "Mây mưa",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/121_bien_co_may_mua.png",
+    "sha256": "44a36abdaa6c4e1350a87df449e3a7e4fabf92bda329d4252271d55a019c19eb",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I122",
+    "name": "Cây đổ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/08_bien_co/122_bien_co_cay_do.png",
+    "sha256": "4818c4d065dd3a1ed9be8148c978ba3e06808d8d098d1f5ee62b8d90dd22f322",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I123",
+    "name": "Bong bóng lời thoại",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/123_suy_luan_bong_bong_loi_thoai.png",
+    "sha256": "75c07be166e46ff0ad38ec28cfd938668b94a5df05bd92c806dd1c97403bfe71",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I124",
+    "name": "Thẻ manh mối liên kết",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/124_suy_luan_the_manh_moi_lien_ket.png",
+    "sha256": "d835825adf844b8972e67ea022cbe77caa5fc006afcedb3f5d1e48e1e632f4fb",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I125",
+    "name": "Mảnh ghép còn thiếu",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/125_suy_luan_manh_ghep_con_thieu.png",
+    "sha256": "981a33895c6b47c13589411991dd0fb8c59abcb5edcb7e67f4805493982c033c",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I126",
+    "name": "Chồng thẻ tài liệu",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/126_suy_luan_chong_the_tai_lieu.png",
+    "sha256": "4d58626942d32973bfdeb9689599e3aee82f6a8da40a4903c441dbc8ce4c5223",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I127",
+    "name": "Rào chắn đường",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/127_suy_luan_rao_chan_duong.png",
+    "sha256": "cb7ad487fbf84cc083a48b77684796e61fbb34e07c0f5ecd502261c4a8ef46c0",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I128",
+    "name": "Đường phân nhánh",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/128_suy_luan_duong_phan_nhanh.png",
+    "sha256": "737539e1899bf3f0b5d62c950bec8f1e53e6be4d84f7aaaffd461604c75187c4",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I129",
+    "name": "Chuỗi domino",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/129_suy_luan_chuoi_domino.png",
+    "sha256": "a57fd32235725ca4c7f59313dca3e07ada44474904f468b6bc35e95888781f1c",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I130",
+    "name": "Liên kết nét đứt",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/130_suy_luan_lien_ket_net_dut.png",
+    "sha256": "3ee26ff370cfd9437b72d4b22f997dc07e999dea3a59018e9d7f344a567ccba6",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I131",
+    "name": "Đường cụt",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/131_suy_luan_duong_cut.png",
+    "sha256": "45c9f904da2680b73020e726d8cc185e8068cb4a3d143bbfb4824cdf7614e897",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I132",
+    "name": "Mảnh gốm ghép lại",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/132_suy_luan_manh_gom_ghep_lai.png",
+    "sha256": "aafc90b3a351f8db071d57d47c608e23b4f20bf193d2f3909c8996a341b276e2",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I133",
+    "name": "Tài liệu hội tụ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/133_suy_luan_tai_lieu_hoi_tu.png",
+    "sha256": "4c529b0e542b419f5c819aa06363883c58f39aaa0ba1eee40d618eb80901cd81",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I134",
+    "name": "Tờ giấy lộ lớp bên dưới",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/134_suy_luan_to_giay_lo_lop_ben_duoi.png",
+    "sha256": "1e66a44cc245ac1e9f226284e7ff3889361f3022ce7d11119b3e4970a9df5093",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I135",
+    "name": "Khối đá với mũi tên xoay",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/135_suy_luan_khoi_da_voi_mui_ten_xoay.png",
+    "sha256": "2387ef6b324cc8a225764597bac6208620fb93445709538933eb7ca4ddb11f0a",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I136",
+    "name": "Thẻ có dấu kiểm",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/09_suy_luan/136_suy_luan_the_co_dau_kiem.png",
+    "sha256": "7881e22bb8cd7b556d18047cb2cfbabe31601c8f215d40399f43319ceb6fba9d",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I137",
+    "name": "Khu khai quật",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/137_boi_canh_khu_khai_quat.png",
+    "sha256": "19d790bdb97acad5d9a4f7ed4d6f1ba0d53ba6a4ef2512dc71c474310caed10d",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I138",
+    "name": "Đường làng",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/138_boi_canh_duong_lang.png",
+    "sha256": "e90658f3c051603b2427e7b1b74f39be2e006405529a83af435ae29d0700e87f",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I139",
+    "name": "Quảng trường chợ",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/139_boi_canh_quang_truong_cho.png",
+    "sha256": "3ee6b20851696785d9cd41336a2d1424b1cb5ce54cf8d0a71617df49fbfbc7bf",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I140",
+    "name": "Bến nước",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/140_boi_canh_ben_nuoc.png",
+    "sha256": "3dae392ed6299f34b9300ad3c0897344c3bc54b5f6385c2e08b411469c144c6a",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I141",
+    "name": "Kho chứa hàng",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/141_boi_canh_kho_chua_hang.png",
+    "sha256": "26e91f14cb5bc295134534ab2408320c4a390003c02e60d33ff4873ca0779c3c",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I142",
+    "name": "Xưởng thủ công",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/142_boi_canh_xuong_thu_cong.png",
+    "sha256": "fea0c402784528f3363339e081c517d89ab0137aea733949f01331b75a823bdf",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I143",
+    "name": "Tàn tích",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/143_boi_canh_tan_tich.png",
+    "sha256": "ce7ae7b3bf99d9cc3a1c5a6c0910f7de284d75b7a13cd0befdddde97c6c48f9f",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I144",
+    "name": "Đường qua núi",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/144_boi_canh_duong_qua_nui.png",
+    "sha256": "b39c03dfc24cd0a418b7d89183f0ff599d9c31260f93dd35772d93f7b54bb8dd",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I145",
+    "name": "Khoảng trống trong rừng",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/145_boi_canh_khoang_trong_trong_rung.png",
+    "sha256": "52bfbaa8ac929a863c12885b7d2744b33aa830692f537817d44a7899aa3984c2",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I146",
+    "name": "Lòng sông cạn",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/146_boi_canh_long_song_can.png",
+    "sha256": "ff495233e533d17fb395e75981aa29aedfeda30a0f9438f6cc3c91e04075d5b8",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I147",
+    "name": "Điểm nghỉ ven biển",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/147_boi_canh_diem_nghi_ven_bien.png",
+    "sha256": "c72e73384e05cac882ead0ed501943ae5fb6307188bb075a01d1fe6f35111977",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I148",
+    "name": "Hành lang đá",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/148_boi_canh_hanh_lang_da.png",
+    "sha256": "a4ad50fc567882304166dfdc839fc66be1fb37249e01dce4cafdacb636534606",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I149",
+    "name": "Phòng nghiên cứu có bảng trống",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/149_boi_canh_phong_nghien_cuu_co_bang_trong.png",
+    "sha256": "7be96a267bf9a01b85d4c01421e4e9bf62f28ff29b650871a13e6a2968edf6a4",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I150",
+    "name": "Sân lúc chạng vạng",
+    "zip_file": "Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+    "zip_member": "Mo_Den_150_Anh_Tai_Su_Dung_v1/10_boi_canh/150_boi_canh_san_luc_chang_vang.png",
+    "sha256": "e23344d72577f92d6185ce6e48df3d096d369ff2a6e1e491b713160ecfe0e991",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I151",
+    "name": "Đô thị Maya được duy trì",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/do_thi/151_do_thi_duoc_duy_tri.png",
+    "sha256": "9b8659e10b777a80918093fbc159b0474174006a1f4a5b26625ce6ccc5354cef",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I152",
+    "name": "Đô thị Maya xuống cấp",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/do_thi/152_do_thi_xuong_cap.png",
+    "sha256": "0aa6dbac45a8ce1ce0e34e84f4adbfe6afc9acf2b43ca55d8a1e0653bab1da77",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I153",
+    "name": "Đô thị Maya có cây mọc lấn",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/do_thi/153_do_thi_cay_moc_lan.png",
+    "sha256": "2b28faf06912c31bb1e22f67bf493889594e5c2cbff8f86e763d43f4431af573",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I154",
+    "name": "Chợ có nhiều hàng hóa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/cho/154_cho_du_hang.png",
+    "sha256": "a795d7eac3fb1f569673748e9ec62afa5972d00f27410e5dc39a4194183b5b6a",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I155",
+    "name": "Chợ còn ít hàng hóa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/cho/155_cho_it_hang.png",
+    "sha256": "fa8f274a90bb3ca9a5b298dc87439423581e46d827d17488a66e360b16c6ae65",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I156",
+    "name": "Chợ bỏ trống",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/cho/156_cho_bo_trong.png",
+    "sha256": "7f86056c7d4b9f389b5231550e1ea802fcaf453bb0ce99b8cf70b7ec49945745",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I157",
+    "name": "Hồ chứa đầy nước",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ho_chua/157_ho_chua_day_nuoc.png",
+    "sha256": "2304313b0eb8b05c256c8eb82e11457ca03feefb08ea881e6a351e4b0072cb7b",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I158",
+    "name": "Hồ chứa có mực nước thấp",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ho_chua/158_ho_chua_nuoc_thap.png",
+    "sha256": "01956d27dcc74eba93ba386adbdcf6370b726c36ba360d0cc10fa478834f66e5",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I159",
+    "name": "Hồ chứa gần cạn",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ho_chua/159_ho_chua_gan_can.png",
+    "sha256": "49b31dc5741babb663e12b92eaa01da63293cb0a373a9ea413d6e5491e201aec",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I160",
+    "name": "Hồ tự nhiên",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ho_tram_tich/160_ho_tram_tich_nguyen_ven.png",
+    "sha256": "5ada3f58f737ba5c7c8ec1c074f4d20ecb49bd71767fb3971ab4cd87a5b552c3",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I161",
+    "name": "Hồ và mặt cắt trầm tích minh họa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ho_tram_tich/161_ho_tram_tich_mat_cat_minh_hoa.png",
+    "sha256": "911ad0bc589b6812f826085830236ba1c90a79eb71cb75310676a8f8f206b54b",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I162",
+    "name": "Vị trí lấy mẫu trầm tích minh họa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ho_tram_tich/162_ho_tram_tich_vi_tri_lay_mau.png",
+    "sha256": "764655d905ead5e0bc6613336fd4e0c3b39c9fadd113e9bb33b5559d1bba2f9a",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I163",
+    "name": "Ruộng ngô xanh tốt",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ruong_ngo/163_ruong_ngo_xanh_tot.png",
+    "sha256": "b237ef3d4b812909a071521af56733eeb36499fd434554028af98cb8b211d53c",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I164",
+    "name": "Ruộng ngô héo",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ruong_ngo/164_ruong_ngo_heo.png",
+    "sha256": "00c52cbbba7f52bbbccf96b352509dd97203f7ec048622d3f0733559e9efb3ef",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I165",
+    "name": "Ruộng ngô thất mùa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/ruong_ngo/165_ruong_ngo_that_mua.png",
+    "sha256": "f7388b5d6af7578fc2e886e999c92042ec93fb0638c9b09d56eb4b57968ef033",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I166",
+    "name": "Kho lương đầy",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/kho_luong/166_kho_luong_day.png",
+    "sha256": "53e8951064bc7930f220f41dadf6b535694ec11f77e39449c5bb635bbafe51f7",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I167",
+    "name": "Kho lương còn ít",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/kho_luong/167_kho_luong_con_it.png",
+    "sha256": "eb9f357825a89ab9dfe6d4d36231d8bd5728803c207c905c903920bee0623a2d",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I168",
+    "name": "Kho lương gần trống",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/kho_luong/168_kho_luong_gan_trong.png",
+    "sha256": "1266e2fc534891aa916625daa84e762af7ba3f47a87632955c90e3483ad6835e",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I169",
+    "name": "Đường nối khu dân cư thông suốt",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/duong_noi/169_duong_noi_thong_suot.png",
+    "sha256": "b46ceb7c7e7bdc80b7a6691c2c30470850fb31c059324f392e7853356077f205",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I170",
+    "name": "Đường nối khu dân cư hư hại",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/duong_noi/170_duong_noi_hu_hai.png",
+    "sha256": "23696514cb1d66d49f3dd0accfbdf910739fe208a4d2dc57a80eec75e3cc7d37",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I171",
+    "name": "Đường nối khu dân cư bị chặn",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/duong_noi/171_duong_noi_bi_chan.png",
+    "sha256": "312302a413ad3c431c4a12d88e6819da420ebe6401a1a4fc5bc17efcfc420b1f",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I172",
+    "name": "Nhà và sân đang có sinh hoạt",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/nha_san/172_nha_va_san_sinh_hoat.png",
+    "sha256": "efbe6ebc1f8004795b7ef7a9ab2535dc1e29fa3c72219b3a81a947ce49815e77",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I173",
+    "name": "Nhà và sân chuẩn bị rời đi",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/nha_san/173_nha_va_san_chuan_bi_roi_di.png",
+    "sha256": "ee4fcdf433183585274163709730c17fcd99168cf30b5a41eb8ea970705a5ed4",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I174",
+    "name": "Nhà và sân bỏ trống",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/nha_san/174_nha_va_san_bo_trong.png",
+    "sha256": "b20c26ecbe8db0b0178181630a737b6767e4fe96c9bc09fc41d07e94abffb18d",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I175",
+    "name": "Khu công trình trước hỏa hoạn",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/khu_chay/175_khu_chay_nguyen_ven.png",
+    "sha256": "ebf407b4e6925c16c16063285ca75f8978b2366852fa7406eed0e5ee1d3a57a4",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I176",
+    "name": "Khu công trình đang cháy",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/khu_chay/176_khu_chay_chay_hu_hai.png",
+    "sha256": "44d117da98b182e94bd78b24c6f72415c7ba0a128ecc09e92caadaefafd3b876",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I177",
+    "name": "Dấu tích sau hỏa hoạn",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/khu_chay/177_khu_chay_dau_tich.png",
+    "sha256": "8019f5fd38d1057ca5d08575ac948d5c406e909856649ada5010df005d9993ed",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I178",
+    "name": "Cung điện và khu dân cư được duy trì",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/quyen_luc/178_quyen_luc_duoc_duy_tri.png",
+    "sha256": "9f64d133d79929db4c4a94287311bf746c6040ee4938f8b1b6cd42b2a08b79c9",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I179",
+    "name": "Cung điện xuống cấp, khu dân cư còn sinh hoạt",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/quyen_luc/179_quyen_luc_suy_yeu.png",
+    "sha256": "aaaf4507b963d2a1f33dd091e301bd325dd7b20f2c4151b341e31aea008765ba",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I180",
+    "name": "Cung điện xuống cấp, khu dân cư thưa dần",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/01_boi_canh/quyen_luc/180_quyen_luc_dan_cu_thua_dan.png",
+    "sha256": "5957519de72b196a63d12401e32d298fce433ffb76495b8bbe5ba0fb9fcc313f",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I181",
+    "name": "Đoạn kênh đá hở",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/ha_tang_nuoc/181_kenh_da_ho.png",
+    "sha256": "faf0d045aea7d347c568534e209e8cdf71905e7ac2fb09ee10c79fd1ed62e5b7",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I182",
+    "name": "Đập đất đá nhỏ minh họa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/ha_tang_nuoc/182_dap_dat_da_nho.png",
+    "sha256": "e3e75961a86e7d0d214b7cbc8975522358aa5e1ca6c032fd731e8e6332fdb03e",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I183",
+    "name": "Miệng dẫn nước bằng đá",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/ha_tang_nuoc/183_cua_dan_nuoc_da.png",
+    "sha256": "0fd8d57e0bd830e72eac616a4fdff9f8d2c540edc7ebed08af2bb655930d8725",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I184",
+    "name": "Thạch anh minh họa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/khoang_vat/184_thach_anh_minh_hoa.png",
+    "sha256": "ef8b53d91a0e49a087500d78844c1d80044fdb21051712d979cc7473372ccfa3",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I185",
+    "name": "Đá chứa zeolit minh họa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/khoang_vat/185_da_chua_zeolit_minh_hoa.png",
+    "sha256": "e1885c0948e518cda2ac59ef9df07e228033ec2c6938e750b4c57621da9b49d9",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I186",
+    "name": "Chu sa và bột sắc tố minh họa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/khoang_vat/186_chu_sa_minh_hoa.png",
+    "sha256": "9c2b8f0b17765b606c209116089b109fbef75bde6f42e51fa79348ce8dd12382",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I187",
+    "name": "Lõi trầm tích phân lớp minh họa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/bang_chung/187_loi_tram_tich.png",
+    "sha256": "11270b85021152347d090fc53dd75affa7510942848f9d55ccec4fde9f3fec51",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I188",
+    "name": "Măng đá minh họa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/bang_chung/188_mang_da.png",
+    "sha256": "ae510a29c97aaa05d6d3587aa20a7795e9dfc7f5df4522252c4a52107edec730",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I189",
+    "name": "Thạch cao dạng selenit minh họa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/bang_chung/189_thach_cao_minh_hoa.png",
+    "sha256": "aca53039b452c9d3443afda869941fc6a4de07243ff6abcfca1d68ba07cd9c3e",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I190",
+    "name": "Cây ngô khỏe",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/nong_nghiep/190_cay_ngo_khoe.png",
+    "sha256": "0c65c78de9a643bb68955c63fbc28d18218cb88a493b7ade3d5a4298a852259d",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I191",
+    "name": "Cây ngô héo",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/nong_nghiep/191_cay_ngo_heo.png",
+    "sha256": "1bf723d9b6c2864a720d4984fb7a6ee80fc2930e1d9dbc701a8d322808bd60b8",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I192",
+    "name": "Hạt ngô để giống",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/nong_nghiep/192_hat_ngo_de_giong.png",
+    "sha256": "8173c5a361d8f08fd200caac360ece83dba39c3e135362b735187bd30686b331",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I193",
+    "name": "Mảng nở hoa vi khuẩn lam minh họa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/nuoc_moi_truong/193_mang_no_hoa_vi_khuan_lam.png",
+    "sha256": "e2b9ab9cd71dcbdee61a6b00a6adbe45983934bfb6df5672848263d651fd860d",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I194",
+    "name": "Dòng chảy mang bùn và sắc tố minh họa",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/nuoc_moi_truong/194_dong_chay_mang_bun_sac_to.png",
+    "sha256": "8c3908a45c90c2fb487bcf04c46d099ab7e9ba83e8a0ce23b2c78ffdb9b30b02",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I195",
+    "name": "Giọt nước",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/nuoc_moi_truong/195_giot_nuoc.png",
+    "sha256": "321ccaa6f1e810d367e60c7ae428da8ca777ca52d0114a063eb6c2d7b5939d2c",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I196",
+    "name": "Điện thoại màn hình trống — ví von hiện đại",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/vi_von_hien_dai/196_dien_thoai_man_hinh_trong.png",
+    "sha256": "119000c260a0f4408e6447faeb085a5e4770e8099b88cd0ee8dc787f36e1368b",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I197",
+    "name": "Bồn nước xem mức nước — ví von hiện đại",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/vi_von_hien_dai/197_bon_nuoc_xem_muc.png",
+    "sha256": "9046c1a20e6b3aec14677abd7fa51dad369ded4aae0226bab729a12cf1b79d3f",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  },
+  {
+    "id": "I198",
+    "name": "Lịch bàn trống — ví von hiện đại",
+    "zip_file": "Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+    "zip_member": "Mo_Den_Maya_48_Anh_151_198_v1/02_vat_the/vi_von_hien_dai/198_lich_ban_trang.png",
+    "sha256": "5825a19816a2439e3a5dc80bcaf5a3e47621a0765d23f469e1a4ba6f3537559f",
+    "type": "Minh họa do dự án cung cấp; không phải ảnh tư liệu"
+  }
+]

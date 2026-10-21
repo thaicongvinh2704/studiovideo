@@ -1,0 +1,1542 @@
+{
+  "status": "KẾ HOẠCH DỰNG, CHƯA PHẢI VIDEO ĐÃ RENDER",
+  "voice_work": "EXCLUDED_PRESERVE_EXISTING",
+  "timing": "reference_only_retime_to_final_audio",
+  "shots": [
+    {
+      "shot_id": "SC01_1",
+      "scene_id": "SC01",
+      "source_cue_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "reference_start": "00:00:00,000",
+      "reference_end": "00:00:23,457",
+      "text_anchor": "Giữa rừng nhiệt đới, những ngôi đền vẫn đứng đó.",
+      "asset_ids": [
+        "R01_Tikal_forest"
+      ],
+      "visual": "Từ tán rừng tới dấu tích đô thị",
+      "motion": "Pan rất chậm trên ảnh thật; cắt sang sơ đồ khi lời nhắc nước.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không vẽ Tikal đầy người từ ảnh tư liệu.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC01_2",
+      "scene_id": "SC01",
+      "source_cue_ids": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "reference_start": "00:00:23,497",
+      "reference_end": "00:00:39,753",
+      "text_anchor": "Nhưng chuyện gì đã đẩy cuộc sống ở đó đến chỗ khó giữ được như trước?",
+      "asset_ids": [
+        "G03_Nuoc_Tikal"
+      ],
+      "visual": "Đặt câu hỏi về nước bằng sơ đồ",
+      "motion": "Pan rất chậm trên ảnh thật; cắt sang sơ đồ khi lời nhắc nước.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không vẽ Tikal đầy người từ ảnh tư liệu.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC02_1",
+      "scene_id": "SC02",
+      "source_cue_ids": [
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "reference_start": "00:00:39,933",
+      "reference_end": "00:00:56,933",
+      "text_anchor": "Trước hết, thử hình dung chuyện này xảy ra ở khu bạn sống.",
+      "asset_ids": [
+        "I172",
+        "I001"
+      ],
+      "visual": "Một ngôi nhà vẫn đang có người sống",
+      "motion": "Cho bình nước và túi đồ lần lượt xuất hiện; không tự dựng nhân vật lịch sử.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Ghi “Tình huống giả định”.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC02_2",
+      "scene_id": "SC02",
+      "source_cue_ids": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "reference_start": "00:00:56,973",
+      "reference_end": "00:01:19,877",
+      "text_anchor": "Nhưng nó giúp ta hình dung sự suy tàn từ phía những người phải sống trong đó.",
+      "asset_ids": [
+        "I173",
+        "I004"
+      ],
+      "visual": "Gói đồ như một lựa chọn khó",
+      "motion": "Cho bình nước và túi đồ lần lượt xuất hiện; không tự dựng nhân vật lịch sử.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Ghi “Tình huống giả định”.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC03_1",
+      "scene_id": "SC03",
+      "source_cue_ids": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "reference_start": "00:01:20,057",
+      "reference_end": "00:01:40,967",
+      "text_anchor": "Thế giới Maya trải rộng trên một phần miền nam Mexico và Trung Mỹ ngày nay.",
+      "asset_ids": [
+        "G01_Ban_do"
+      ],
+      "visual": "Định vị các thành phố",
+      "motion": "Làm nổi từng nhãn theo lời; timeline chạy con trỏ, không làm các thành phố tắt cùng lúc.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Bản đồ dùng ranh giới hiện đại.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC03_2",
+      "scene_id": "SC03",
+      "source_cue_ids": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "reference_start": "00:01:41,007",
+      "reference_end": "00:01:57,050",
+      "text_anchor": "Có nơi gặp khủng hoảng sớm, có nơi tiếp tục phát triển.",
+      "asset_ids": [
+        "G02_Truc_thoi_gian"
+      ],
+      "visual": "Phân biệt thời kỳ và các mốc",
+      "motion": "Làm nổi từng nhãn theo lời; timeline chạy con trỏ, không làm các thành phố tắt cùng lúc.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Bản đồ dùng ranh giới hiện đại.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC04_1",
+      "scene_id": "SC04",
+      "source_cue_ids": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "reference_start": "00:01:57,230",
+      "reference_end": "00:02:14,565",
+      "text_anchor": "Người Maya có chữ viết, toán học và những hệ thống lịch phức tạp.",
+      "asset_ids": [
+        "I151"
+      ],
+      "visual": "Đô thị và năng lực xây dựng",
+      "motion": "Từ toàn cảnh xuống hồ; có thể tạo mask mực nước trên một bố cục cố định.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không giả rằng ba ảnh là các frame khớp nhau.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC04_2",
+      "scene_id": "SC04",
+      "source_cue_ids": [
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "reference_start": "00:02:14,605",
+      "reference_end": "00:02:34,087",
+      "text_anchor": "Có đủ nước khi mùa mưa thất thường lại là chuyện khác.",
+      "asset_ids": [
+        "I157",
+        "I158"
+      ],
+      "visual": "Kỹ thuật có giới hạn nguồn cung",
+      "motion": "Từ toàn cảnh xuống hồ; có thể tạo mask mực nước trên một bố cục cố định.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không giả rằng ba ảnh là các frame khớp nhau.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC05_1",
+      "scene_id": "SC05",
+      "source_cue_ids": [
+        41,
+        42
+      ],
+      "reference_start": "00:02:34,267",
+      "reference_end": "00:02:40,625",
+      "text_anchor": "Nhưng để hiểu vì sao người dân rời đi, ta cần nhìn xuống thấp hơn.",
+      "asset_ids": [
+        "R02_Tikal_Temple_I"
+      ],
+      "visual": "Đền có thể chờ",
+      "motion": "Giữ ảnh đền trong khung đứng rồi cắt sang bình nước.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không kéo giãn ảnh đứng.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC05_2",
+      "scene_id": "SC05",
+      "source_cue_ids": [
+        43,
+        44
+      ],
+      "reference_start": "00:02:40,665",
+      "reference_end": "00:02:47,596",
+      "text_anchor": "Một tượng đài có thể chờ xây thêm vài năm.",
+      "asset_ids": [
+        "I001",
+        "I157"
+      ],
+      "visual": "Nước uống là nhu cầu trước mắt",
+      "motion": "Giữ ảnh đền trong khung đứng rồi cắt sang bình nước.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không kéo giãn ảnh đứng.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC06_1",
+      "scene_id": "SC06",
+      "source_cue_ids": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "reference_start": "00:02:47,776",
+      "reference_end": "00:03:09,513",
+      "text_anchor": "Điểm dừng đầu tiên là Tikal, ở Guatemala ngày nay.",
+      "asset_ids": [
+        "R01_Tikal_forest"
+      ],
+      "visual": "Rừng xanh không bảo đảm nước quanh năm",
+      "motion": "Reveal từng mũi tên; chuyển động giọt nước theo đường nguyên lý.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không dùng đây như bản vẽ hệ thống Tikal chính xác.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC06_2",
+      "scene_id": "SC06",
+      "source_cue_ids": [
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "reference_start": "00:03:09,553",
+      "reference_end": "00:03:26,999",
+      "text_anchor": "Mưa có thể xuống rất nhiều vào một mùa, rồi lại thiếu đúng lúc người ta cần.",
+      "asset_ids": [
+        "G03_Nuoc_Tikal"
+      ],
+      "visual": "Mưa, bề mặt thu nước, hồ chứa",
+      "motion": "Reveal từng mũi tên; chuyển động giọt nước theo đường nguyên lý.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không dùng đây như bản vẽ hệ thống Tikal chính xác.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC07_1",
+      "scene_id": "SC07",
+      "source_cue_ids": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "reference_start": "00:03:27,179",
+      "reference_end": "00:03:41,842",
+      "text_anchor": "Ở hồ Corriental, các nhà nghiên cứu còn tìm thấy thạch anh và zeolit.",
+      "asset_ids": [
+        "E03_zeolite_fig3"
+      ],
+      "visual": "Cho thấy bằng chứng vật liệu",
+      "motion": "Inset hình mẫu có nguồn; phóng hình minh họa khoáng vật, không phóng ảnh mẫu quá độ.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Figure 4 phải giữ nhãn giả thuyết.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC07_2",
+      "scene_id": "SC07",
+      "source_cue_ids": [
+        60,
+        61,
+        62
+      ],
+      "reference_start": "00:03:41,882",
+      "reference_end": "00:03:52,138",
+      "text_anchor": "Gần ba mươi kilômét, chỉ để có vật liệu phù hợp.",
+      "asset_ids": [
+        "I184",
+        "I185",
+        "E03_zeolite_fig4"
+      ],
+      "visual": "Phân biệt mẫu thực và cấu tạo giả thuyết",
+      "motion": "Inset hình mẫu có nguồn; phóng hình minh họa khoáng vật, không phóng ảnh mẫu quá độ.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Figure 4 phải giữ nhãn giả thuyết.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC08_1",
+      "scene_id": "SC08",
+      "source_cue_ids": [
+        63,
+        64,
+        65,
+        66
+      ],
+      "reference_start": "00:03:52,318",
+      "reference_end": "00:04:06,817",
+      "text_anchor": "Nhưng thử nghĩ đến một bồn nước đủ dùng trong mùa khô bình thường.",
+      "asset_ids": [
+        "I197"
+      ],
+      "visual": "So sánh với bồn nước hiện đại",
+      "motion": "Tách màn bằng nhãn “Ví dụ hiện đại”; dùng mực nước hạ trong đồ họa.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "I197 không phải dụng cụ Maya cổ.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC08_2",
+      "scene_id": "SC08",
+      "source_cue_ids": [
+        67,
+        68,
+        69
+      ],
+      "reference_start": "00:04:06,857",
+      "reference_end": "00:04:17,351",
+      "text_anchor": "Điều từng đủ cho những mùa quen thuộc có thể trở nên thiếu trước biến động kéo dài.",
+      "asset_ids": [
+        "I158",
+        "I159"
+      ],
+      "visual": "Bể chứa không tạo thêm mưa",
+      "motion": "Tách màn bằng nhãn “Ví dụ hiện đại”; dùng mực nước hạ trong đồ họa.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "I197 không phải dụng cụ Maya cổ.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC09_1",
+      "scene_id": "SC09",
+      "source_cue_ids": [
+        70,
+        71,
+        72,
+        73
+      ],
+      "reference_start": "00:04:17,531",
+      "reference_end": "00:04:31,014",
+      "text_anchor": "Đến đây, hạn hán nghe có vẻ là một lời giải hợp lý.",
+      "asset_ids": [
+        "I158"
+      ],
+      "visual": "Chuyển câu hỏi từ lượng sang chất",
+      "motion": "Zoom nhẹ vào mặt nước minh họa; thêm dấu hỏi.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không biến màu nước minh họa thành quan sát khảo cổ.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC09_2",
+      "scene_id": "SC09",
+      "source_cue_ids": [
+        74,
+        75,
+        76
+      ],
+      "reference_start": "00:04:31,054",
+      "reference_end": "00:04:40,961",
+      "text_anchor": "Nhất là khi họ không có nhiều nguồn khác để lựa chọn.",
+      "asset_ids": [
+        "I193",
+        "I195"
+      ],
+      "visual": "Nước còn lại có an toàn không",
+      "motion": "Zoom nhẹ vào mặt nước minh họa; thêm dấu hỏi.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không biến màu nước minh họa thành quan sát khảo cổ.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC10_1",
+      "scene_id": "SC10",
+      "source_cue_ids": [
+        77,
+        78,
+        79
+      ],
+      "reference_start": "00:04:41,141",
+      "reference_end": "00:04:52,287",
+      "text_anchor": "Một nghiên cứu năm hai nghìn hai mươi đã phân tích các lớp trầm tích ở đây.",
+      "asset_ids": [
+        "E06_pollution_fig4"
+      ],
+      "visual": "Tư liệu phân tích bốn hồ",
+      "motion": "Giữ figure như bằng chứng nghiên cứu; chuyển sang hạt màu và dòng chảy minh họa.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Đặt tên Temple/Palace; không suy luận tất cả hồ Tikal cùng độc.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC10_2",
+      "scene_id": "SC10",
+      "source_cue_ids": [
+        80,
+        81,
+        82
+      ],
+      "reference_start": "00:04:52,467",
+      "reference_end": "00:05:05,293",
+      "text_anchor": "Thủy ngân có thể đến từ chu sa, khoáng vật màu đỏ từng được dùng làm sắc tố.",
+      "asset_ids": [
+        "I186",
+        "I194"
+      ],
+      "visual": "Giải thích khả năng đường ô nhiễm",
+      "motion": "Giữ figure như bằng chứng nghiên cứu; chuyển sang hạt màu và dòng chảy minh họa.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Đặt tên Temple/Palace; không suy luận tất cả hồ Tikal cùng độc.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC11_1",
+      "scene_id": "SC11",
+      "source_cue_ids": [
+        83,
+        84,
+        85,
+        86
+      ],
+      "reference_start": "00:05:05,473",
+      "reference_end": "00:05:17,090",
+      "text_anchor": "Bằng chứng ấy có phạm vi cụ thể.",
+      "asset_ids": [
+        "G03_Nuoc_Tikal"
+      ],
+      "visual": "Nhắc giới hạn của kết luận",
+      "motion": "Giữ hai nhãn “Lượng nước” và “Chất lượng”; không thêm tỷ lệ tử vong.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không có dữ liệu để kết luận nguyên nhân trực tiếp từng người rời đi.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC11_2",
+      "scene_id": "SC11",
+      "source_cue_ids": [
+        87,
+        88,
+        89
+      ],
+      "reference_start": "00:05:17,270",
+      "reference_end": "00:05:28,490",
+      "text_anchor": "Và nếu đúng lúc ấy nước lại ít đi, người dân sẽ càng khó xoay xở.",
+      "asset_ids": [
+        "I158",
+        "I193"
+      ],
+      "visual": "Áp lực thiếu và ô nhiễm nước",
+      "motion": "Giữ hai nhãn “Lượng nước” và “Chất lượng”; không thêm tỷ lệ tử vong.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không có dữ liệu để kết luận nguyên nhân trực tiếp từng người rời đi.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC12_1",
+      "scene_id": "SC12",
+      "source_cue_ids": [
+        90,
+        91,
+        92,
+        93
+      ],
+      "reference_start": "00:05:28,670",
+      "reference_end": "00:05:41,392",
+      "text_anchor": "Giả sử bạn phải đi tìm nước trong hoàn cảnh ấy.",
+      "asset_ids": [
+        "I001",
+        "I138"
+      ],
+      "visual": "Đi tìm nước ảnh hưởng đời sống",
+      "motion": "Di chuyển biểu tượng bình nước dọc một lối đi giả định; dừng ở ngã rẽ.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Ghi “Minh họa tình huống”, không vẽ tuyến đi thật trên bản đồ.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC12_2",
+      "scene_id": "SC12",
+      "source_cue_ids": [
+        94,
+        95,
+        96,
+        97
+      ],
+      "reference_start": "00:05:41,572",
+      "reference_end": "00:05:54,089",
+      "text_anchor": "Ai được lấy trước? Ai phải đi xa? Ai lo duy trì hệ thống?",
+      "asset_ids": [
+        "I128",
+        "I001"
+      ],
+      "visual": "Ai tiếp cận được nước",
+      "motion": "Di chuyển biểu tượng bình nước dọc một lối đi giả định; dừng ở ngã rẽ.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Ghi “Minh họa tình huống”, không vẽ tuyến đi thật trên bản đồ.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC13_1",
+      "scene_id": "SC13",
+      "source_cue_ids": [
+        98,
+        99,
+        100,
+        101
+      ],
+      "reference_start": "00:05:54,269",
+      "reference_end": "00:06:10,787",
+      "text_anchor": "Còn hạn hán, rốt cuộc đã nghiêm trọng đến đâu?",
+      "asset_ids": [
+        "E02_Witzna_cores"
+      ],
+      "visual": "Các dạng mẫu lưu dấu quá khứ",
+      "motion": "Ảnh lõi trầm tích phải ghi địa điểm; sau đó thạch nhũ thật và minh họa gypsum.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Lõi Witzna không phải mẫu gypsum Chichancanab.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC13_2",
+      "scene_id": "SC13",
+      "source_cue_ids": [
+        102,
+        103,
+        104
+      ],
+      "reference_start": "00:06:10,827",
+      "reference_end": "00:06:20,054",
+      "text_anchor": "Chẳng hạn, thành phần đồng vị trong vật liệu ở hồ",
+      "asset_ids": [
+        "E07_drought2025_fig2",
+        "I187",
+        "I188",
+        "I189"
+      ],
+      "visual": "Từ mẫu tới ước tính khí hậu",
+      "motion": "Ảnh lõi trầm tích phải ghi địa điểm; sau đó thạch nhũ thật và minh họa gypsum.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Lõi Witzna không phải mẫu gypsum Chichancanab.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC14_1",
+      "scene_id": "SC14",
+      "source_cue_ids": [
+        105,
+        106,
+        107
+      ],
+      "reference_start": "00:06:20,234",
+      "reference_end": "00:06:32,651",
+      "text_anchor": "Tại hồ Chichancanab ở Mexico, một nghiên cứu năm hai nghìn mười tám xét nước bị giữ trong tinh thể thạch cao.",
+      "asset_ids": [
+        "G04_Mua_41_54"
+      ],
+      "visual": "Hiện khoảng 41–54%",
+      "motion": "Animate thanh phạm vi từ 41 đến 54 rồi giữ; không tạo đường mưa giả.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không xóa cụm “khu vực nghiên cứu”.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC14_2",
+      "scene_id": "SC14",
+      "source_cue_ids": [
+        108,
+        109,
+        110
+      ],
+      "reference_start": "00:06:32,831",
+      "reference_end": "00:06:44,675",
+      "text_anchor": "Đó là ước tính cho khu vực được nghiên cứu.",
+      "asset_ids": [
+        "G04_Mua_41_54"
+      ],
+      "visual": "Giữ địa điểm và giới hạn áp dụng",
+      "motion": "Animate thanh phạm vi từ 41 đến 54 rồi giữ; không tạo đường mưa giả.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không xóa cụm “khu vực nghiên cứu”.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC15_1",
+      "scene_id": "SC15",
+      "source_cue_ids": [
+        111,
+        112,
+        113,
+        114
+      ],
+      "reference_start": "00:06:44,855",
+      "reference_end": "00:06:59,621",
+      "text_anchor": "Ở tây bắc Yucatán, một nghiên cứu năm hai nghìn hai mươi lăm",
+      "asset_ids": [
+        "E07_drought2025_fig2"
+      ],
+      "visual": "Mẫu thạch nhũ và bài nghiên cứu",
+      "motion": "Inset figure, sau đó đếm ô đều theo lời; không coi mỗi ô có số mm mưa.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Giữ khoảng năm và ±6 năm.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC15_2",
+      "scene_id": "SC15",
+      "source_cue_ids": [
+        115,
+        116,
+        117
+      ],
+      "reference_start": "00:06:59,661",
+      "reference_end": "00:07:09,123",
+      "text_anchor": "Điều đó không có nghĩa suốt thời gian ấy chẳng rơi một giọt mưa nào.",
+      "asset_ids": [
+        "G05_13_nam"
+      ],
+      "visual": "13 ô là 13 năm thời lượng",
+      "motion": "Inset figure, sau đó đếm ô đều theo lời; không coi mỗi ô có số mm mưa.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Giữ khoảng năm và ±6 năm.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC16_1",
+      "scene_id": "SC16",
+      "source_cue_ids": [
+        118,
+        119,
+        120,
+        121,
+        122
+      ],
+      "reference_start": "00:07:09,303",
+      "reference_end": "00:07:29,635",
+      "text_anchor": "Một đứa trẻ có thể lớn lên thành thiếu niên trong khoảng thời gian đó.",
+      "asset_ids": [
+        "I163",
+        "I164"
+      ],
+      "visual": "Ruộng ngô mất sức",
+      "motion": "Dùng lớp cây và bao hạt tách riêng; giảm lượng biểu tượng, không gán dữ liệu năng suất.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Đây là tình huống minh họa, không phục dựng một hộ gia đình thật.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC16_2",
+      "scene_id": "SC16",
+      "source_cue_ids": [
+        123,
+        124,
+        125,
+        126
+      ],
+      "reference_start": "00:07:29,675",
+      "reference_end": "00:07:47,047",
+      "text_anchor": "Nhưng nếu thời tiết thay đổi kéo dài, những kinh nghiệm quen thuộc không còn bảo đảm kết quả như trước.",
+      "asset_ids": [
+        "I166",
+        "I167",
+        "I192"
+      ],
+      "visual": "Lương thực dự trữ ít đi",
+      "motion": "Dùng lớp cây và bao hạt tách riêng; giảm lượng biểu tượng, không gán dữ liệu năng suất.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Đây là tình huống minh họa, không phục dựng một hộ gia đình thật.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC17_1",
+      "scene_id": "SC17",
+      "source_cue_ids": [
+        127,
+        128,
+        129,
+        130
+      ],
+      "reference_start": "00:07:47,227",
+      "reference_end": "00:07:59,967",
+      "text_anchor": "Như vậy, bằng chứng khí hậu rất đáng chú ý.",
+      "asset_ids": [
+        "G01_Ban_do"
+      ],
+      "visual": "Chuyển địa điểm về Itzan",
+      "motion": "Làm sáng nhãn hồ Itzan; hai hộp bằng chứng xuất hiện lần lượt.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Điểm trên bản đồ là hồ lấy mẫu.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC17_2",
+      "scene_id": "SC17",
+      "source_cue_ids": [
+        131,
+        132,
+        133,
+        134
+      ],
+      "reference_start": "00:08:00,147",
+      "reference_end": "00:08:13,079",
+      "text_anchor": "Đó là trường hợp ở Itzan.",
+      "asset_ids": [
+        "G06_Itzan"
+      ],
+      "visual": "Nêu điều không khớp với lời giải đơn giản",
+      "motion": "Làm sáng nhãn hồ Itzan; hai hộp bằng chứng xuất hiện lần lượt.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Điểm trên bản đồ là hồ lấy mẫu.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC18_1",
+      "scene_id": "SC18",
+      "source_cue_ids": [
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "reference_start": "00:08:13,259",
+      "reference_end": "00:08:33,216",
+      "text_anchor": "Nghiên cứu về Itzan được công bố năm hai nghìn hai mươi lăm.",
+      "asset_ids": [
+        "E08_Itzan_fig3"
+      ],
+      "visual": "Hồ sơ đồng vị và giới hạn",
+      "motion": "Giữ figure toàn vẹn trong inset; không vẽ lại dữ liệu bằng mắt.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "E08 Figure 1 là khí hậu hiện đại, không dùng làm bản đồ hạn cổ.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC18_2",
+      "scene_id": "SC18",
+      "source_cue_ids": [
+        140,
+        141,
+        142,
+        143,
+        144
+      ],
+      "reference_start": "00:08:33,256",
+      "reference_end": "00:08:49,622",
+      "text_anchor": "hạn hán địa phương không giải thích tốt những thay đổi dân số được quan sát.",
+      "asset_ids": [
+        "G06_Itzan"
+      ],
+      "visual": "Mở câu hỏi về liên kết vùng",
+      "motion": "Giữ figure toàn vẹn trong inset; không vẽ lại dữ liệu bằng mắt.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "E08 Figure 1 là khí hậu hiện đại, không dùng làm bản đồ hạn cổ.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC19_1",
+      "scene_id": "SC19",
+      "source_cue_ids": [
+        145,
+        146,
+        147,
+        148,
+        149
+      ],
+      "reference_start": "00:08:49,802",
+      "reference_end": "00:09:08,478",
+      "text_anchor": "Hãy hình dung hai khu dân cư thường trao đổi hàng hóa với nhau.",
+      "asset_ids": [
+        "I169",
+        "I075"
+      ],
+      "visual": "Nơi có nước vẫn cần nơi khác",
+      "motion": "Di chuyển kiện hàng trên một đường sơ đồ; dừng khi đường bị chặn.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Sơ đồ quan hệ giả định, không tuyến thương mại được xác lập.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC19_2",
+      "scene_id": "SC19",
+      "source_cue_ids": [
+        150,
+        151,
+        152,
+        153
+      ],
+      "reference_start": "00:09:08,518",
+      "reference_end": "00:09:24,065",
+      "text_anchor": "Người ta có thể quyết định rời đi trước khi cái hồ cuối cùng cạn đáy.",
+      "asset_ids": [
+        "I170",
+        "I155"
+      ],
+      "visual": "Đường gián đoạn, chợ ít hàng",
+      "motion": "Di chuyển kiện hàng trên một đường sơ đồ; dừng khi đường bị chặn.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Sơ đồ quan hệ giả định, không tuyến thương mại được xác lập.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC20_1",
+      "scene_id": "SC20",
+      "source_cue_ids": [
+        154,
+        155,
+        156,
+        157,
+        158
+      ],
+      "reference_start": "00:09:24,245",
+      "reference_end": "00:09:45,471",
+      "text_anchor": "Có một thành phố khác để lại dấu vết rất khác: một đám cháy lớn.",
+      "asset_ids": [
+        "E02_Witzna_cores",
+        "E01_Witzna_charcoal"
+      ],
+      "visual": "Lõi trầm tích và dấu than",
+      "motion": "Giữ ảnh rõ; dùng khung ngoài đánh dấu vùng than, không sửa thanh dữ liệu.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không dùng R07 như văn khắc Witzna.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC20_2",
+      "scene_id": "SC20",
+      "source_cue_ids": [
+        159,
+        160,
+        161,
+        162,
+        163
+      ],
+      "reference_start": "00:09:45,511",
+      "reference_end": "00:10:01,230",
+      "text_anchor": "Thời điểm ấy phù hợp với ghi chép về cuộc tấn công năm sáu trăm chín mươi bảy.",
+      "asset_ids": [
+        "G07_Witzna"
+      ],
+      "visual": "Đặt văn khắc 697 cạnh định tuổi lõi",
+      "motion": "Giữ ảnh rõ; dùng khung ngoài đánh dấu vùng than, không sửa thanh dữ liệu.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không dùng R07 như văn khắc Witzna.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC21_1",
+      "scene_id": "SC21",
+      "source_cue_ids": [
+        164,
+        165,
+        166,
+        167
+      ],
+      "reference_start": "00:10:01,410",
+      "reference_end": "00:10:14,693",
+      "text_anchor": "Hãy chú ý đến thời điểm.",
+      "asset_ids": [
+        "G02_Truc_thoi_gian"
+      ],
+      "visual": "Đặt 697 trước các mốc khủng hoảng sau",
+      "motion": "Con trỏ tới697; cảnh cháy minh họa xuất hiện có nhãn rõ.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không coi bối cảnh175–177 là phục dựng chính xác Witzna.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC21_2",
+      "scene_id": "SC21",
+      "source_cue_ids": [
+        168,
+        169,
+        170
+      ],
+      "reference_start": "00:10:14,873",
+      "reference_end": "00:10:27,099",
+      "text_anchor": "Witzna chỉ là một trường hợp, không đại diện cho tất cả.",
+      "asset_ids": [
+        "I175",
+        "I176"
+      ],
+      "visual": "Một trường hợp chiến tranh cụ thể",
+      "motion": "Con trỏ tới697; cảnh cháy minh họa xuất hiện có nhãn rõ.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không coi bối cảnh175–177 là phục dựng chính xác Witzna.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC22_1",
+      "scene_id": "SC22",
+      "source_cue_ids": [
+        171,
+        172,
+        173,
+        174,
+        175,
+        176
+      ],
+      "reference_start": "00:10:27,279",
+      "reference_end": "00:10:51,336",
+      "text_anchor": "Và tác động của chiến tranh có thể kéo dài sau trận đánh.",
+      "asset_ids": [
+        "I177",
+        "I170"
+      ],
+      "visual": "Sau trận đánh: hạ tầng và đường đi",
+      "motion": "Dùng dấu ngắt trên đường; tô sáng đập nước như việc cần bảo trì.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không thêm vũ khí hoặc cảnh tử vong không có căn cứ.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC22_2",
+      "scene_id": "SC22",
+      "source_cue_ids": [
+        177,
+        178,
+        179,
+        180,
+        181
+      ],
+      "reference_start": "00:10:51,516",
+      "reference_end": "00:11:09,711",
+      "text_anchor": "Bởi thành phố lớn luôn cần người chăm sóc nó.",
+      "asset_ids": [
+        "I155",
+        "I182"
+      ],
+      "visual": "Hợp tác để duy trì đời sống",
+      "motion": "Dùng dấu ngắt trên đường; tô sáng đập nước như việc cần bảo trì.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không thêm vũ khí hoặc cảnh tử vong không có căn cứ.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC23_1",
+      "scene_id": "SC23",
+      "source_cue_ids": [
+        182,
+        183,
+        184,
+        185
+      ],
+      "reference_start": "00:11:09,751",
+      "reference_end": "00:11:26,930",
+      "text_anchor": "Ngay cả khi còn chữ khắc, ta cũng chưa nghe được câu chuyện của tất cả mọi người.",
+      "asset_ids": [
+        "R07_Tikal_stele"
+      ],
+      "visual": "Bia đá là một loại dấu vết",
+      "motion": "Ảnh bia Tikal có nhãn địa điểm; chuyển sang hai loại bằng chứng.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không dịch chữ trên bia từ ảnh này.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC23_2",
+      "scene_id": "SC23",
+      "source_cue_ids": [
+        186,
+        187,
+        188,
+        189
+      ],
+      "reference_start": "00:11:27,110",
+      "reference_end": "00:11:39,644",
+      "text_anchor": "Hai việc ấy có thể không diễn ra cùng lúc.",
+      "asset_ids": [
+        "G08_Chinh_tri_Doi_song"
+      ],
+      "visual": "Quyền lực suy yếu khác với hết dân",
+      "motion": "Ảnh bia Tikal có nhãn địa điểm; chuyển sang hai loại bằng chứng.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không dịch chữ trên bia từ ảnh này.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC24_1",
+      "scene_id": "SC24",
+      "source_cue_ids": [
+        190,
+        191,
+        192
+      ],
+      "reference_start": "00:11:39,824",
+      "reference_end": "00:11:52,574",
+      "text_anchor": "Vả lại, tư liệu còn lại thường cho giới quyền lực nhiều tiếng nói hơn người bình thường.",
+      "asset_ids": [
+        "I178",
+        "I179"
+      ],
+      "visual": "Cung điện xuống cấp",
+      "motion": "Giữ bố cục khái niệm: cung điện mờ, nhà ở và chợ còn sáng.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không gán mức dân số cụ thể cho minh họa.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC24_2",
+      "scene_id": "SC24",
+      "source_cue_ids": [
+        193,
+        194,
+        195
+      ],
+      "reference_start": "00:11:52,754",
+      "reference_end": "00:12:03,217",
+      "text_anchor": "Nếu chỉ nghe phía cung điện, lúc cung điện im tiếng, ta dễ tưởng cả thế giới câm lặng.",
+      "asset_ids": [
+        "I172",
+        "I154"
+      ],
+      "visual": "Sinh hoạt vẫn có thể tiếp tục",
+      "motion": "Giữ bố cục khái niệm: cung điện mờ, nhà ở và chợ còn sáng.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không gán mức dân số cụ thể cho minh họa.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC25_1",
+      "scene_id": "SC25",
+      "source_cue_ids": [
+        196,
+        197,
+        198
+      ],
+      "reference_start": "00:12:03,397",
+      "reference_end": "00:12:14,884",
+      "text_anchor": "Một gia đình rời thành phố có thể báo hiệu đô thị đang suy yếu.",
+      "asset_ids": [
+        "I173",
+        "I004"
+      ],
+      "visual": "Một cuộc rời đi",
+      "motion": "Túi đồ di chuyển ra ngoài khung; ngôi nhà còn lại.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Giữ nhãn giả định; không tự dựng tiểu sử người có thật.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC25_2",
+      "scene_id": "SC25",
+      "source_cue_ids": [
+        199,
+        200,
+        201
+      ],
+      "reference_start": "00:12:15,064",
+      "reference_end": "00:12:28,018",
+      "text_anchor": "Dĩ nhiên, rời đi không bảo đảm họ sẽ sống tốt hơn. Khủng hoảng có những tổn thất thật.",
+      "asset_ids": [
+        "I174",
+        "I128"
+      ],
+      "visual": "Hai cách nhìn: mất thành phố, giữ gia đình",
+      "motion": "Túi đồ di chuyển ra ngoài khung; ngôi nhà còn lại.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Giữ nhãn giả định; không tự dựng tiểu sử người có thật.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC26_1",
+      "scene_id": "SC26",
+      "source_cue_ids": [
+        202,
+        203,
+        204,
+        205,
+        206
+      ],
+      "reference_start": "00:12:28,198",
+      "reference_end": "00:12:46,155",
+      "text_anchor": "Để thấy câu chuyện còn tiếp tục, hãy rời các thành phố phía nam một lúc.",
+      "asset_ids": [
+        "R05_Chichen_Itza"
+      ],
+      "visual": "Chichén Itzá: câu chuyện tiếp diễn",
+      "motion": "Reveal ảnh từ toàn cảnh, sau đó mở thêm khoảng thời gian.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không nói mọi người Tikal đều chuyển tới Chichén Itzá.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC26_2",
+      "scene_id": "SC26",
+      "source_cue_ids": [
+        207,
+        208,
+        209,
+        210,
+        211
+      ],
+      "reference_start": "00:12:46,195",
+      "reference_end": "00:13:03,183",
+      "text_anchor": "Nếu dừng ở các phế tích nổi tiếng, ta sẽ bỏ lỡ cả phần lịch sử dài phía sau.",
+      "asset_ids": [
+        "G02_Truc_thoi_gian"
+      ],
+      "visual": "Lịch sử không dừng sau thời Cổ điển",
+      "motion": "Reveal ảnh từ toàn cảnh, sau đó mở thêm khoảng thời gian.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không nói mọi người Tikal đều chuyển tới Chichén Itzá.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC27_1",
+      "scene_id": "SC27",
+      "source_cue_ids": [
+        212,
+        213,
+        214,
+        215,
+        216
+      ],
+      "reference_start": "00:13:03,363",
+      "reference_end": "00:13:22,631",
+      "text_anchor": "Từ khoảng thế kỷ mười ba đến giữa thế kỷ mười lăm,",
+      "asset_ids": [
+        "R04_Mayapan_panorama"
+      ],
+      "visual": "Mayapán thật",
+      "motion": "Pan ngang panorama; làm nổi dải1200–1450.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Tách bối cảnh Mayapán khỏi Witzna/Tikal.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC27_2",
+      "scene_id": "SC27",
+      "source_cue_ids": [
+        217,
+        218,
+        219,
+        220
+      ],
+      "reference_start": "00:13:22,671",
+      "reference_end": "00:13:37,856",
+      "text_anchor": "Ở đây, sức ép môi trường được xem xét cùng với cách xã hội tổ chức và ứng phó.",
+      "asset_ids": [
+        "G02_Truc_thoi_gian"
+      ],
+      "visual": "Thế kỷ sau vẫn có trung tâm lớn",
+      "motion": "Pan ngang panorama; làm nổi dải1200–1450.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Tách bối cảnh Mayapán khỏi Witzna/Tikal.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC28_1",
+      "scene_id": "SC28",
+      "source_cue_ids": [
+        221,
+        222,
+        223
+      ],
+      "reference_start": "00:13:38,036",
+      "reference_end": "00:13:50,358",
+      "text_anchor": "Đến khi người Tây Ban Nha chinh phục khu vực, các cộng đồng và nhà nước Maya vẫn đang tồn tại.",
+      "asset_ids": [
+        "G02_Truc_thoi_gian"
+      ],
+      "visual": "Tách thời thuộc địa khỏi khủng hoảng Cổ điển",
+      "motion": "Mở rộng trục bằng thẻ chữ theo đúng lời đọc; không dựng cảnh chinh phục giả làm tư liệu.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Mốc1697 theo kịch bản; cần đối chiếu nguồn lịch sử trước khi thêm bản đồ chiến dịch.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC28_2",
+      "scene_id": "SC28",
+      "source_cue_ids": [
+        224,
+        225,
+        226
+      ],
+      "reference_start": "00:13:50,538",
+      "reference_end": "00:14:02,764",
+      "text_anchor": "Mốc một nghìn sáu trăm chín mươi bảy thường được nhắc đến",
+      "asset_ids": [
+        "I124",
+        "I126"
+      ],
+      "visual": "Thẻ chữ về một chương lịch sử khác",
+      "motion": "Mở rộng trục bằng thẻ chữ theo đúng lời đọc; không dựng cảnh chinh phục giả làm tư liệu.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Mốc1697 theo kịch bản; cần đối chiếu nguồn lịch sử trước khi thêm bản đồ chiến dịch.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC29_1",
+      "scene_id": "SC29",
+      "source_cue_ids": [
+        227,
+        228
+      ],
+      "reference_start": "00:14:02,944",
+      "reference_end": "00:14:08,352",
+      "text_anchor": "Ngày nay vẫn có hàng triệu người Maya.",
+      "asset_ids": [
+        "R03_Tzutujil_weaving_2019"
+      ],
+      "visual": "Người Tz’utujil đang dệt, ảnh2019",
+      "motion": "Giữ người và bối cảnh nguyên vẹn; pan/crop nhẹ, ghi năm ảnh.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không AI làm người trong ảnh nói, cười hoặc thực hiện động tác mới.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC29_2",
+      "scene_id": "SC29",
+      "source_cue_ids": [
+        229,
+        230
+      ],
+      "reference_start": "00:14:08,392",
+      "reference_end": "00:14:15,513",
+      "text_anchor": "Khi nói về Maya, ta đang nói cả về những cộng đồng đang sống, không chỉ người xưa trong phế tích.",
+      "asset_ids": [
+        "R06_Mayan_weaver_2023"
+      ],
+      "visual": "Dệt tại San Antonio Palopó, ảnh2023",
+      "motion": "Giữ người và bối cảnh nguyên vẹn; pan/crop nhẹ, ghi năm ảnh.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không AI làm người trong ảnh nói, cười hoặc thực hiện động tác mới.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC30_1",
+      "scene_id": "SC30",
+      "source_cue_ids": [
+        231,
+        232,
+        233
+      ],
+      "reference_start": "00:14:15,693",
+      "reference_end": "00:14:27,443",
+      "text_anchor": "Nếu đứng trước một ngôi đền bỏ lại, có lẽ câu đầu tiên bạn hỏi vẫn là: người đâu hết rồi?",
+      "asset_ids": [
+        "R02_Tikal_Temple_I"
+      ],
+      "visual": "Từ phế tích",
+      "motion": "Match cut bằng nhịp kể, không ám chỉ người trong ảnh là hậu duệ của một di tích cụ thể.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không gọi cộng đồng đang sống là tàn dư đã mất.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC30_2",
+      "scene_id": "SC30",
+      "source_cue_ids": [
+        234,
+        235,
+        236
+      ],
+      "reference_start": "00:14:27,623",
+      "reference_end": "00:14:38,558",
+      "text_anchor": "Câu hỏi ấy đưa ta ra khỏi công trình, đi theo con người.",
+      "asset_ids": [
+        "R06_Mayan_weaver_2023"
+      ],
+      "visual": "Đổi góc nhìn sang con người",
+      "motion": "Match cut bằng nhịp kể, không ám chỉ người trong ảnh là hậu duệ của một di tích cụ thể.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không gọi cộng đồng đang sống là tàn dư đã mất.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC31_1",
+      "scene_id": "SC31",
+      "source_cue_ids": [
+        237,
+        238,
+        239,
+        240
+      ],
+      "reference_start": "00:14:38,738",
+      "reference_end": "00:14:53,831",
+      "text_anchor": "Cách nhìn ấy cũng giúp gỡ một hiểu nhầm khác về Maya.",
+      "asset_ids": [
+        "I198"
+      ],
+      "visual": "Ví dụ lịch hiện đại",
+      "motion": "Đổi trang lịch hiện đại có nhãn; thêm chữ giải thích, không tạo ký tự Maya giả.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "I198 chỉ là phép so sánh. Nguồn lịch2012: S09.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC31_2",
+      "scene_id": "SC31",
+      "source_cue_ids": [
+        241,
+        242,
+        243
+      ],
+      "reference_start": "00:14:54,011",
+      "reference_end": "00:15:06,267",
+      "text_anchor": "Giống như lịch bàn hết tờ tháng mười hai: ta sang năm mới.",
+      "asset_ids": [
+        "I198",
+        "I123"
+      ],
+      "visual": "Kết thúc chu kỳ không phải tận thế",
+      "motion": "Đổi trang lịch hiện đại có nhãn; thêm chữ giải thích, không tạo ký tự Maya giả.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "I198 chỉ là phép so sánh. Nguồn lịch2012: S09.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC32_1",
+      "scene_id": "SC32",
+      "source_cue_ids": [
+        244,
+        245,
+        246,
+        247
+      ],
+      "reference_start": "00:15:06,447",
+      "reference_end": "00:15:19,967",
+      "text_anchor": "Với sự suy tàn của các thành phố cũng vậy.",
+      "asset_ids": [
+        "G03_Nuoc_Tikal",
+        "G06_Itzan"
+      ],
+      "visual": "Ba địa điểm, các bằng chứng khác nhau",
+      "motion": "Lần lượt hiện từng thẻ, mỗi lần giữ một ý trọng tâm.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không ghép các niên đại và địa điểm thành một biến cố duy nhất.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC32_2",
+      "scene_id": "SC32",
+      "source_cue_ids": [
+        248,
+        249,
+        250,
+        251
+      ],
+      "reference_start": "00:15:20,147",
+      "reference_end": "00:15:32,747",
+      "text_anchor": "Để một thành phố tiếp tục sống, người dân cần nhiều thứ cùng hoạt động:",
+      "asset_ids": [
+        "G07_Witzna"
+      ],
+      "visual": "Các sức ép chồng lên nhau",
+      "motion": "Lần lượt hiện từng thẻ, mỗi lần giữ một ý trọng tâm.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không ghép các niên đại và địa điểm thành một biến cố duy nhất.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC33_1",
+      "scene_id": "SC33",
+      "source_cue_ids": [
+        252,
+        253,
+        254,
+        255
+      ],
+      "reference_start": "00:15:32,927",
+      "reference_end": "00:15:48,887",
+      "text_anchor": "Điều khiến tôi nghĩ mãi là người sống lúc ấy có nhận ra bước ngoặt hay không.",
+      "asset_ids": [
+        "I172",
+        "I001"
+      ],
+      "visual": "Người trong cuộc chỉ thấy từng ngày",
+      "motion": "Chuyển chậm từ vật dụng tới ngã rẽ; giữ một nhịp tĩnh cho câu hỏi.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Tình huống giả định, không phải ghi chép nhân chứng.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC33_2",
+      "scene_id": "SC33",
+      "source_cue_ids": [
+        256,
+        257,
+        258
+      ],
+      "reference_start": "00:15:48,927",
+      "reference_end": "00:15:58,611",
+      "text_anchor": "Người sống trong chuỗi ấy phải giải quyết từng ngày.",
+      "asset_ids": [
+        "I173",
+        "I128"
+      ],
+      "visual": "Đặt câu hỏi ở lại hay đi",
+      "motion": "Chuyển chậm từ vật dụng tới ngã rẽ; giữ một nhịp tĩnh cho câu hỏi.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Tình huống giả định, không phải ghi chép nhân chứng.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC34_1",
+      "scene_id": "SC34",
+      "source_cue_ids": [
+        259,
+        260,
+        261
+      ],
+      "reference_start": "00:15:58,791",
+      "reference_end": "00:16:12,201",
+      "text_anchor": "Trong tình huống giả định ấy, ở lại là giữ lấy nhà cửa, người quen và tất cả những gì đã gây dựng.",
+      "asset_ids": [
+        "I174",
+        "I004"
+      ],
+      "visual": "Cái giá của rời đi",
+      "motion": "Túi đồ ra khỏi khung; cắt về toàn cảnh Tikal.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không kết luận Maya biến mất.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC34_2",
+      "scene_id": "SC34",
+      "source_cue_ids": [
+        262,
+        263,
+        264
+      ],
+      "reference_start": "00:16:12,381",
+      "reference_end": "00:16:24,541",
+      "text_anchor": "Một thành phố biết lọc nước vẫn có thể mất người ở, vì nước chỉ là một phần của cuộc sống.",
+      "asset_ids": [
+        "R01_Tikal_forest"
+      ],
+      "visual": "Trở lại câu hỏi đầu video",
+      "motion": "Túi đồ ra khỏi khung; cắt về toàn cảnh Tikal.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không kết luận Maya biến mất.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC35_1",
+      "scene_id": "SC35",
+      "source_cue_ids": [
+        265,
+        266
+      ],
+      "reference_start": "00:16:24,721",
+      "reference_end": "00:16:30,190",
+      "text_anchor": "Và khi người dân rời đi, lịch sử cũng đi tiếp cùng họ.",
+      "asset_ids": [
+        "R03_Tzutujil_weaving_2019"
+      ],
+      "visual": "Lịch sử tiếp tục qua con người",
+      "motion": "Hai ảnh giữ đủ lâu, credit rõ; không mô phỏng chuyển động tay bằng AI.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Ảnh2019/2023, không ghi “quay hôm nay”.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC35_2",
+      "scene_id": "SC35",
+      "source_cue_ids": [
+        267,
+        268
+      ],
+      "reference_start": "00:16:30,230",
+      "reference_end": "00:16:36,460",
+      "text_anchor": "Đền đài ở lại giữa rừng. Còn người Maya vẫn sống, qua những biến động và mất mát.",
+      "asset_ids": [
+        "R06_Mayan_weaver_2023"
+      ],
+      "visual": "Khép bằng một hoạt động đang sống",
+      "motion": "Hai ảnh giữ đủ lâu, credit rõ; không mô phỏng chuyển động tay bằng AI.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Ảnh2019/2023, không ghi “quay hôm nay”.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC36_1",
+      "scene_id": "SC36",
+      "source_cue_ids": [
+        269,
+        270,
+        271,
+        272
+      ],
+      "reference_start": "00:16:36,640",
+      "reference_end": "00:16:52,445",
+      "text_anchor": "Chi tiết nào khiến bạn nghĩ khác về Maya: hệ thống lọc nước,",
+      "asset_ids": [
+        "I150",
+        "I123"
+      ],
+      "visual": "Câu hỏi dành cho khán giả",
+      "motion": "Nền ít chi tiết; đặt mascot sẵn có nếu dự án có rig, chừa chỗ phụ đề.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không tự thay thiết kế mascot. Nhạc/SFX chọn sau.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    },
+    {
+      "shot_id": "SC36_2",
+      "scene_id": "SC36",
+      "source_cue_ids": [
+        273,
+        274,
+        275
+      ],
+      "reference_start": "00:16:52,485",
+      "reference_end": "00:17:03,726",
+      "text_anchor": "bạn có thể đăng ký kênh Mỏ Đen.",
+      "asset_ids": [
+        "I124",
+        "I125"
+      ],
+      "visual": "Chỗ dành cho tập sau và credit",
+      "motion": "Nền ít chi tiết; đặt mascot sẵn có nếu dự án có rig, chừa chỗ phụ đề.",
+      "transition": "Cắt theo ý kể; dissolve nhẹ chỉ khi chuyển thời gian/không gian.",
+      "guardrail": "Không tự thay thiết kế mascot. Nhạc/SFX chọn sau.",
+      "timing": "Mốc cũ tham chiếu; căn theo audio cuối bằng cue/text_anchor."
+    }
+  ]
+}
