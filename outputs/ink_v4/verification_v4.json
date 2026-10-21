@@ -1,0 +1,43 @@
+{
+  "engine": "ink-user-reference-4.4",
+  "checks": {
+    "native_startup_playback": {
+      "frames": 43,
+      "late": 4,
+      "time": 3.566666666666667
+    },
+    "group_duplicate_save_load": "PASS",
+    "arbitrary_seek": "PASS",
+    "motion": {
+      "max_arm_length_error_design_px": 1.1368683772161603e-13,
+      "max_stance_drift_design_px": 2.2737367544323206e-13,
+      "max_locked_hand_error_design_px": 0.0
+    },
+    "motion_three_cases_1080p.mp4": {
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "frames": "720",
+      "duration": "24.000000"
+    },
+    "ink_4k_2s.mp4": {
+      "width": 3840,
+      "height": 2160,
+      "fps": "30/1",
+      "frames": "60",
+      "duration": "2.000000"
+    },
+    "ink_history_1080p.mp4": {
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "frames": "2622",
+      "duration": "87.400000"
+    }
+  },
+  "timings_seconds": {
+    "motion_export": 22.829212200000256,
+    "4k_export": 11.04809750000004
+  },
+  "status": "PASS"
+}

@@ -1,0 +1,1 @@
+Trước tiên, hãy đặt từng mảnh ghép lên một dòng thời gian. Một ngôi làng có thể phát triển thành đô thị, rồi thay đổi. Nhưng thứ tự ấy cần được kiểm tra, không thể chỉ đoán.|speed=0.93

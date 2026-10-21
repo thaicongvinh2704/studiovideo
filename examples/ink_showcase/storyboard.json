@@ -1,0 +1,405 @@
+{
+  "version": 1,
+  "name": "Một thành phố không tên · Ink Studio",
+  "voice": "assets/narration.wav",
+  "timing": "authored",
+  "rows": [
+    {
+      "start": 0,
+      "end": 6.9,
+      "cue_start": 0,
+      "cue_end": 6.431927437641724,
+      "title": "Một thành phố không tên",
+      "text": "Hãy tưởng tượng bạn tìm thấy một tấm bản đồ cũ. Ở giữa bản đồ là một thành phố không còn tên gọi. Chuyện gì đã xảy ra ở nơi ấy?",
+      "style": "ink",
+      "layout": "focus",
+      "assets": [
+        "assets/question.svg"
+      ],
+      "labels": [
+        "MỘT THÀNH PHỐ\nKHÔNG CÒN TÊN?"
+      ],
+      "pose": "question",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.35,
+          "pose": "question",
+          "blend": 0.85
+        },
+        {
+          "t": 3.8640000000000008,
+          "pose": "explain",
+          "blend": 1.1
+        }
+      ],
+      "show_title": false
+    },
+    {
+      "start": 6.9,
+      "end": 14.533333333333335,
+      "cue_start": 6.9,
+      "cue_end": 14.063356009070295,
+      "title": "Những dấu vết đầu tiên",
+      "text": "Bạn bước qua cổng thành. Những mái nhà đã biến mất, nhưng nền đá vẫn còn. Chỉ từ những dấu vết này, liệu chúng ta có thể kể lại cả một câu chuyện?",
+      "style": "ink",
+      "layout": "presenter",
+      "assets": [
+        "assets/city.svg"
+      ],
+      "labels": [
+        "Chúng ta thực sự biết điều gì?"
+      ],
+      "pose": "point",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.35,
+          "pose": "point",
+          "blend": 0.85
+        },
+        {
+          "t": 4.2746666666666675,
+          "pose": "explain",
+          "blend": 1.1
+        }
+      ],
+      "show_title": false
+    },
+    {
+      "start": 14.533333333333335,
+      "end": 22.6,
+      "cue_start": 14.533333333333335,
+      "cue_end": 22.137868480725626,
+      "title": "Hai mảnh ghép",
+      "text": "Một chiếc bình và một cuộn giấy xuất hiện. Chiếc bình gợi ra sinh hoạt của cư dân, còn cuộn giấy mang theo lời ghi chép. Hai mảnh ghép chưa chắc đã kể cùng một chuyện.",
+      "style": "ink",
+      "layout": "compare",
+      "assets": [
+        "assets/amphora.svg",
+        "assets/scroll.svg"
+      ],
+      "labels": [
+        "Dấu vết vật chất",
+        "Lời ghi chép"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.35,
+          "pose": "explain",
+          "blend": 0.85
+        }
+      ],
+      "show_title": false,
+      "reveal_times": [
+        0,
+        3.2
+      ]
+    },
+    {
+      "start": 22.6,
+      "end": 31.0,
+      "cue_start": 22.6,
+      "cue_end": 30.54122448979592,
+      "title": "Câu hỏi về thời gian",
+      "text": "Trước tiên, hãy đặt từng mảnh ghép lên một dòng thời gian. Một ngôi làng có thể phát triển thành đô thị, rồi thay đổi. Nhưng thứ tự ấy cần được kiểm tra, không thể chỉ đoán.",
+      "style": "ink",
+      "layout": "timeline",
+      "assets": [
+        "assets/house.svg",
+        "assets/city.svg",
+        "assets/clock.svg"
+      ],
+      "labels": [
+        "Khởi đầu",
+        "Phát triển",
+        "Điều gì tiếp theo?"
+      ],
+      "pose": "point",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.35,
+          "pose": "point",
+          "blend": 0.85
+        }
+      ],
+      "show_title": false,
+      "reveal_times": [
+        2.8,
+        4.3,
+        5.8
+      ]
+    },
+    {
+      "start": 31.0,
+      "end": 39.36666666666667,
+      "cue_start": 31.0,
+      "cue_end": 38.90639455782313,
+      "title": "Đừng vội kết luận",
+      "text": "Nếu nhìn thấy dấu vết của lửa, bạn có thể nghĩ ngay đến một trận cháy. Nhưng một dấu vết riêng lẻ chưa đủ để giải thích vì sao cả thành phố không còn nữa.",
+      "style": "ink",
+      "layout": "quote",
+      "assets": [
+        "assets/flame.svg"
+      ],
+      "labels": [
+        "DẤU VẾT\n≠\nKẾT LUẬN"
+      ],
+      "pose": "think",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.35,
+          "pose": "think",
+          "blend": 0.85
+        },
+        {
+          "t": 4.685333333333334,
+          "pose": "explain",
+          "blend": 1.1
+        }
+      ],
+      "show_title": false,
+      "reveal_times": [
+        1.1
+      ]
+    },
+    {
+      "start": 39.36666666666667,
+      "end": 47.1,
+      "cue_start": 39.36666666666667,
+      "cue_end": 46.63451247165533,
+      "title": "Theo một tuyến đường",
+      "text": "Hãy mở rộng bản đồ. Con đường nối thành phố với bến thuyền có thể gợi ra một hướng tìm kiếm khác. Bây giờ, câu chuyện không còn nằm trong một bức tường thành.",
+      "style": "ink",
+      "layout": "map",
+      "assets": [
+        "assets/map.svg"
+      ],
+      "labels": [
+        "Theo dấu một hành trình"
+      ],
+      "pose": "point",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.35,
+          "pose": "point",
+          "blend": 0.85
+        }
+      ],
+      "show_title": false,
+      "route": [
+        [
+          -210,
+          80
+        ],
+        [
+          -140,
+          20
+        ],
+        [
+          -50,
+          -50
+        ],
+        [
+          40,
+          -20
+        ],
+        [
+          120,
+          15
+        ]
+      ],
+      "route_start": 2
+    },
+    {
+      "start": 47.1,
+      "end": 54.7,
+      "cue_start": 47.1,
+      "cue_end": 54.21691609977324,
+      "title": "Những con người",
+      "text": "Và đừng quên những con người. Sau mỗi đồ vật là người làm ra nó, sử dụng nó và mang nó đi. Một câu chuyện tốt cần nhìn thấy cả những cuộc sống ấy.",
+      "style": "ink",
+      "layout": "crowd",
+      "assets": [
+        "assets/tree.svg"
+      ],
+      "labels": [
+        "Ai đã sống ở đây?"
+      ],
+      "pose": "welcome",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.35,
+          "pose": "welcome",
+          "blend": 0.85
+        }
+      ],
+      "show_title": false
+    },
+    {
+      "start": 54.7,
+      "end": 63.0,
+      "cue_start": 54.7,
+      "cue_end": 62.536734693877555,
+      "title": "Kiểm tra nguồn",
+      "text": "Khi đọc một tài liệu, hãy hỏi ai đã viết, viết vào lúc nào, và dựa trên điều gì. Những câu hỏi nhỏ này giúp chúng ta hiểu giới hạn của chính nguồn tư liệu.",
+      "style": "ink",
+      "layout": "process",
+      "assets": [
+        "assets/document.svg",
+        "assets/calendar.svg",
+        "assets/magnifier.svg"
+      ],
+      "labels": [
+        "Ai ghi lại?",
+        "Khi nào?",
+        "Dựa vào đâu?"
+      ],
+      "pose": "read",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.35,
+          "pose": "read",
+          "blend": 0.85
+        }
+      ],
+      "show_title": false,
+      "reveal_times": [
+        0.4,
+        2.5,
+        4.5
+      ]
+    },
+    {
+      "start": 63.0,
+      "end": 71.46666666666667,
+      "cue_start": 63.0,
+      "cue_end": 71.0108843537415,
+      "title": "Nhìn gần hơn",
+      "text": "Đôi khi, thay đổi góc nhìn sẽ làm một chi tiết trở nên rõ ràng. Bạn không cần một câu trả lời thật nhanh. Bạn cần một cách kiểm tra tốt hơn cho câu trả lời ấy.",
+      "style": "ink",
+      "layout": "pan",
+      "assets": [
+        "assets/book.svg"
+      ],
+      "labels": [
+        "Nhìn kỹ trước khi kết luận"
+      ],
+      "pose": "rest",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.35,
+          "pose": "rest",
+          "blend": 0.85
+        }
+      ],
+      "show_title": false
+    },
+    {
+      "start": 71.46666666666667,
+      "end": 79.36666666666667,
+      "cue_start": 71.46666666666667,
+      "cue_end": 78.89705215419501,
+      "title": "Ý tưởng mới",
+      "text": "Khi một mảnh ghép mới xuất hiện, cách giải thích cũ có thể cần thay đổi. Đó không phải thất bại của việc tìm hiểu. Đó là lúc câu chuyện bắt đầu rõ ràng hơn.",
+      "style": "ink",
+      "layout": "focus",
+      "assets": [
+        "assets/bulb.svg"
+      ],
+      "labels": [
+        "MỘT\nCÁCH NHÌN MỚI"
+      ],
+      "pose": "idea",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.35,
+          "pose": "idea",
+          "blend": 0.85
+        },
+        {
+          "t": 4.424,
+          "pose": "welcome",
+          "blend": 1.1
+        }
+      ],
+      "show_title": false,
+      "reveal_times": [
+        2.0
+      ]
+    },
+    {
+      "start": 79.36666666666667,
+      "end": 87.4,
+      "cue_start": 79.36666666666667,
+      "cue_end": 86.92476190476191,
+      "title": "Giữ sự tò mò",
+      "text": "Thành phố trong câu chuyện này chỉ là tưởng tượng. Nhưng sự tò mò và thói quen kiểm tra bằng chứng thì rất thật. Hãy bắt đầu bằng một câu hỏi, rồi tìm từng mảnh ghép.",
+      "style": "ink",
+      "layout": "presenter",
+      "assets": [
+        "assets/compass.svg"
+      ],
+      "labels": [
+        "Tò mò · Kiểm tra · Kết nối"
+      ],
+      "pose": "welcome",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.35,
+          "pose": "welcome",
+          "blend": 0.85
+        },
+        {
+          "t": 4.498666666666667,
+          "pose": "explain",
+          "blend": 1.1
+        }
+      ],
+      "show_title": false
+    }
+  ]
+}

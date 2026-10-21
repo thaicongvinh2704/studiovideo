@@ -1,0 +1,32 @@
+{
+  "style": "Original white-background ink doodle, flat colors, articulated SVG cutouts",
+  "source": "All SVG paths authored specifically for this film; no frames copied from the reference video",
+  "reference": "https://www.youtube.com/watch?v=kcWEaXRh2hA",
+  "voice": "Hải Đăng",
+  "assets": [
+    "angkor_front.svg",
+    "arm.svg",
+    "arrow.svg",
+    "blink.svg",
+    "body.svg",
+    "cambodia.svg",
+    "cross.svg",
+    "elbow.svg",
+    "eyes.svg",
+    "five_plan.svg",
+    "hand.svg",
+    "hand_point.svg",
+    "host_head.svg",
+    "leg.svg",
+    "meru.svg",
+    "moat_plan.svg",
+    "monk.svg",
+    "mouth_closed.svg",
+    "mouth_open.svg",
+    "question.svg",
+    "spark.svg",
+    "tower.svg",
+    "underline.svg",
+    "vishnu.svg"
+  ]
+}

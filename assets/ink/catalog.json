@@ -1,0 +1,720 @@
+[
+  {
+    "id": "city",
+    "title": "Thành cổ",
+    "tags": [
+      "thanh",
+      "pho",
+      "thanh",
+      "co",
+      "do",
+      "thi",
+      "cu",
+      "dan"
+    ],
+    "file": "city.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "temple",
+    "title": "Đền cổ",
+    "tags": [
+      "den",
+      "tho",
+      "kien",
+      "truc",
+      "di",
+      "tich"
+    ],
+    "file": "temple.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "pyramid",
+    "title": "Kim tự tháp",
+    "tags": [
+      "kim",
+      "tu",
+      "thap",
+      "ai",
+      "cap"
+    ],
+    "file": "pyramid.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "column",
+    "title": "Cột đá",
+    "tags": [
+      "cot",
+      "da",
+      "hy",
+      "lap",
+      "la",
+      "ma"
+    ],
+    "file": "column.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "scroll",
+    "title": "Văn bản cổ",
+    "tags": [
+      "van",
+      "ban",
+      "ghi",
+      "chep",
+      "tu",
+      "lieu",
+      "chu",
+      "viet"
+    ],
+    "file": "scroll.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "book",
+    "title": "Sách",
+    "tags": [
+      "sach",
+      "lich",
+      "su",
+      "nghien",
+      "cuu"
+    ],
+    "file": "book.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "amphora",
+    "title": "Bình gốm",
+    "tags": [
+      "binh",
+      "gom",
+      "hien",
+      "vat",
+      "khao",
+      "co"
+    ],
+    "file": "amphora.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "map",
+    "title": "Bản đồ",
+    "tags": [
+      "ban",
+      "do",
+      "tuyen",
+      "duong",
+      "di",
+      "cu"
+    ],
+    "file": "map.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "globe",
+    "title": "Địa cầu",
+    "tags": [
+      "dia",
+      "cau",
+      "the",
+      "gioi",
+      "toan",
+      "cau"
+    ],
+    "file": "globe.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "boat",
+    "title": "Thuyền buồm",
+    "tags": [
+      "thuyen",
+      "bien",
+      "du",
+      "hanh"
+    ],
+    "file": "boat.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "tree",
+    "title": "Cây",
+    "tags": [
+      "cay",
+      "rung",
+      "thien",
+      "nhien"
+    ],
+    "file": "tree.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "mountain",
+    "title": "Núi",
+    "tags": [
+      "nui",
+      "dia",
+      "hinh"
+    ],
+    "file": "mountain.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "house",
+    "title": "Ngôi nhà",
+    "tags": [
+      "nha",
+      "lang",
+      "cu",
+      "tru"
+    ],
+    "file": "house.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "coins",
+    "title": "Tiền xu",
+    "tags": [
+      "tien",
+      "xu",
+      "kinh",
+      "te",
+      "thuong",
+      "mai"
+    ],
+    "file": "coins.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "crown",
+    "title": "Vương miện",
+    "tags": [
+      "vua",
+      "vuong",
+      "trieu",
+      "quyen",
+      "luc"
+    ],
+    "file": "crown.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "bulb",
+    "title": "Ý tưởng",
+    "tags": [
+      "y",
+      "tuong",
+      "phat",
+      "hien",
+      "sang",
+      "tao"
+    ],
+    "file": "bulb.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "question",
+    "title": "Dấu hỏi",
+    "tags": [
+      "bi",
+      "an",
+      "cau",
+      "hoi",
+      "chua",
+      "biet"
+    ],
+    "file": "question.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "check",
+    "title": "Dấu kiểm",
+    "tags": [
+      "dung",
+      "chung",
+      "minh",
+      "xac",
+      "nhan"
+    ],
+    "file": "check.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "cross",
+    "title": "Gạch chéo",
+    "tags": [
+      "sai",
+      "bac",
+      "bo",
+      "khong"
+    ],
+    "file": "cross.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "clock",
+    "title": "Đồng hồ",
+    "tags": [
+      "thoi",
+      "gian",
+      "nam",
+      "thang"
+    ],
+    "file": "clock.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "calendar",
+    "title": "Lịch",
+    "tags": [
+      "lich",
+      "nien",
+      "dai",
+      "ngay",
+      "nam"
+    ],
+    "file": "calendar.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "magnifier",
+    "title": "Kính lúp",
+    "tags": [
+      "kiem",
+      "tra",
+      "doi",
+      "chieu",
+      "tim",
+      "kiem"
+    ],
+    "file": "magnifier.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "compass",
+    "title": "La bàn",
+    "tags": [
+      "la",
+      "ban",
+      "dinh",
+      "huong",
+      "hanh",
+      "trinh"
+    ],
+    "file": "compass.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "archive",
+    "title": "Hộp tư liệu",
+    "tags": [
+      "luu",
+      "tru",
+      "tai",
+      "lieu",
+      "ho",
+      "so"
+    ],
+    "file": "archive.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "document",
+    "title": "Tài liệu",
+    "tags": [
+      "tai",
+      "lieu",
+      "bang",
+      "chung",
+      "thong",
+      "tin"
+    ],
+    "file": "document.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "flame",
+    "title": "Ngọn lửa",
+    "tags": [
+      "lua",
+      "chay",
+      "pha",
+      "huy",
+      "mat",
+      "mat"
+    ],
+    "file": "flame.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "shield",
+    "title": "Khiên",
+    "tags": [
+      "khien",
+      "bao",
+      "ve",
+      "quan",
+      "doi"
+    ],
+    "file": "shield.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "sword",
+    "title": "Kiếm",
+    "tags": [
+      "kiem",
+      "chien",
+      "tranh"
+    ],
+    "file": "sword.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "cart",
+    "title": "Xe hàng",
+    "tags": [
+      "xe",
+      "hang",
+      "van",
+      "chuyen",
+      "di",
+      "cu"
+    ],
+    "file": "cart.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "wheel",
+    "title": "Bánh xe",
+    "tags": [
+      "banh",
+      "xe",
+      "phat",
+      "minh"
+    ],
+    "file": "wheel.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "bridge",
+    "title": "Cầu",
+    "tags": [
+      "cau",
+      "ket",
+      "noi",
+      "giao",
+      "thong"
+    ],
+    "file": "bridge.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "factory",
+    "title": "Nhà máy",
+    "tags": [
+      "nha",
+      "may",
+      "cong",
+      "nghiep"
+    ],
+    "file": "factory.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "balance",
+    "title": "Cán cân",
+    "tags": [
+      "can",
+      "bang",
+      "danh",
+      "gia",
+      "so",
+      "sanh"
+    ],
+    "file": "balance.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "network",
+    "title": "Mạng kết nối",
+    "tags": [
+      "mang",
+      "ket",
+      "noi",
+      "lien",
+      "he"
+    ],
+    "file": "network.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "chart",
+    "title": "Biểu đồ",
+    "tags": [
+      "bieu",
+      "do",
+      "tang",
+      "truong",
+      "so",
+      "lieu"
+    ],
+    "file": "chart.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "computer",
+    "title": "Máy tính",
+    "tags": [
+      "may",
+      "tinh",
+      "cong",
+      "nghe"
+    ],
+    "file": "computer.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "phone",
+    "title": "Điện thoại",
+    "tags": [
+      "dien",
+      "thoai",
+      "thong",
+      "tin"
+    ],
+    "file": "phone.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "camera",
+    "title": "Máy ảnh",
+    "tags": [
+      "may",
+      "anh",
+      "hinh",
+      "anh",
+      "chup"
+    ],
+    "file": "camera.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "microphone",
+    "title": "Micro",
+    "tags": [
+      "micro",
+      "giong",
+      "noi",
+      "am",
+      "thanh"
+    ],
+    "file": "microphone.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "cloud",
+    "title": "Mây",
+    "tags": [
+      "may",
+      "bau",
+      "troi"
+    ],
+    "file": "cloud.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "water",
+    "title": "Sóng nước",
+    "tags": [
+      "nuoc",
+      "song",
+      "bien"
+    ],
+    "file": "water.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  },
+  {
+    "id": "gear",
+    "title": "Bánh răng",
+    "tags": [
+      "banh",
+      "rang",
+      "co",
+      "khi"
+    ],
+    "file": "gear.svg",
+    "source": "Studio original vector library",
+    "pivot": [
+      200,
+      280
+    ]
+  }
+]

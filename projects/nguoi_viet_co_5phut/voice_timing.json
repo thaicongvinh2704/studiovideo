@@ -1,0 +1,583 @@
+{
+  "model": "vi_VN-vais1000-medium.onnx",
+  "source": "Piper CPU, generated from the supplied SRT",
+  "duration": 300,
+  "cues": [
+    {
+      "cue": 1,
+      "start": 0.0,
+      "end": 4.82,
+      "text": "Nếu sáng mai tỉnh dậy ở Việt Nam hơn hai nghìn năm trước, bạn sẽ sống ra sao?",
+      "source_seconds": 3.8872708333333335,
+      "tempo": 0.87,
+      "speech_seconds": 4.462666666666666
+    },
+    {
+      "cue": 2,
+      "start": 4.82,
+      "end": 8.722,
+      "text": "Không điện, không điện thoại. Trước mắt bạn là dòng sông phủ sương mỏng.",
+      "source_seconds": 2.8983333333333334,
+      "tempo": 0.87,
+      "speech_seconds": 3.327166666666667
+    },
+    {
+      "cue": 3,
+      "start": 8.722,
+      "end": 13.542,
+      "text": "Và câu hỏi đầu tiên có lẽ rất đơn giản: Hôm nay, mình sẽ kiếm gì để ăn?",
+      "source_seconds": 3.9019166666666667,
+      "tempo": 0.87,
+      "speech_seconds": 4.4805
+    },
+    {
+      "cue": 4,
+      "start": 13.542,
+      "end": 18.133,
+      "text": "Hãy thử bước vào một ngày được hình dung từ những dấu tích của người Việt cổ.",
+      "source_seconds": 3.451020833333333,
+      "tempo": 0.87,
+      "speech_seconds": 3.958458333333333
+    },
+    {
+      "cue": 5,
+      "start": 18.133,
+      "end": 22.724,
+      "text": "Chúng ta đến với cư dân Đông Sơn, một phần quan trọng của câu chuyện dựng nước.",
+      "source_seconds": 3.4755625,
+      "tempo": 0.87,
+      "speech_seconds": 3.9814583333333333
+    },
+    {
+      "cue": 6,
+      "start": 22.724,
+      "end": 27.544,
+      "text": "Bối cảnh là miền Bắc Việt Nam ngày nay, nơi những dòng sông nuôi sống các cộng đồng.",
+      "source_seconds": 3.886,
+      "tempo": 0.87,
+      "speech_seconds": 4.460666666666667
+    },
+    {
+      "cue": 7,
+      "start": 27.544,
+      "end": 32.364,
+      "text": "Đừng vội tìm cung điện hay ngai vàng. Hãy bắt đầu từ một bếp lửa đang được nhóm.",
+      "source_seconds": 3.675104166666667,
+      "tempo": 0.87,
+      "speech_seconds": 4.215166666666667
+    },
+    {
+      "cue": 8,
+      "start": 32.364,
+      "end": 36.955,
+      "text": "Trong khung cảnh ta hình dung, một đứa trẻ ngồi chờ người lớn chuẩn bị bữa ăn.",
+      "source_seconds": 3.5687708333333332,
+      "tempo": 0.87,
+      "speech_seconds": 4.093708333333334
+    },
+    {
+      "cue": 9,
+      "start": 36.955,
+      "end": 42.005,
+      "text": "Nó chưa biết tên mình sẽ chìm vào quên lãng, cũng như tên của biết bao người cùng thời.",
+      "source_seconds": 4.185958333333334,
+      "tempo": 0.8702616077616071,
+      "speech_seconds": 4.802479166666667
+    },
+    {
+      "cue": 10,
+      "start": 42.005,
+      "end": 46.366,
+      "text": "Nhưng công việc của gia đình nó sẽ để lại dấu vết qua hàng nghìn năm.",
+      "source_seconds": 3.120791666666667,
+      "tempo": 0.87,
+      "speech_seconds": 3.5812291666666667
+    },
+    {
+      "cue": 11,
+      "start": 46.366,
+      "end": 51.186,
+      "text": "Bạn bước xuống khỏi một căn nhà sàn. Kiểu nhà ấy xuất hiện trên đồ đồng Đông Sơn.",
+      "source_seconds": 3.71425,
+      "tempo": 0.87,
+      "speech_seconds": 4.266166666666667
+    },
+    {
+      "cue": 12,
+      "start": 51.186,
+      "end": 56.695,
+      "text": "Ta không biết từng ngôi nhà được bố trí ra sao. Khảo cổ học chỉ giữ được một phần bức tranh.",
+      "source_seconds": 4.171083333333334,
+      "tempo": 0.87,
+      "speech_seconds": 4.7902708333333335
+    },
+    {
+      "cue": 13,
+      "start": 56.695,
+      "end": 61.285,
+      "text": "Những khoảng trống còn lại nhắc chúng ta: quá khứ luôn rộng hơn điều mình đã biết.",
+      "source_seconds": 3.5920833333333335,
+      "tempo": 0.87,
+      "speech_seconds": 4.116875
+    },
+    {
+      "cue": 14,
+      "start": 61.285,
+      "end": 65.876,
+      "text": "Phía trước là nơi người ta trồng lúa. Bạn cúi xuống, bàn chân chạm vào bùn lạnh.",
+      "source_seconds": 3.8857708333333334,
+      "tempo": 0.8930753466636007,
+      "speech_seconds": 4.33675
+    },
+    {
+      "cue": 15,
+      "start": 65.876,
+      "end": 70.237,
+      "text": "Chiếc bụng đói khiến bạn hiểu ngay: muốn có bữa ăn, phải bắt đầu từ đất.",
+      "source_seconds": 3.441,
+      "tempo": 0.87,
+      "speech_seconds": 3.937708333333333
+    },
+    {
+      "cue": 16,
+      "start": 70.237,
+      "end": 75.057,
+      "text": "Cư dân Đông Sơn đã có lưỡi cày, cuốc và lưỡi hái phục vụ công việc nhà nông.",
+      "source_seconds": 3.783375,
+      "tempo": 0.87,
+      "speech_seconds": 4.342395833333334
+    },
+    {
+      "cue": 17,
+      "start": 75.057,
+      "end": 79.419,
+      "text": "Mỗi công cụ cho thấy những bàn tay đã tìm cách làm việc hiệu quả hơn.",
+      "source_seconds": 3.267,
+      "tempo": 0.87,
+      "speech_seconds": 3.7527291666666667
+    },
+    {
+      "cue": 18,
+      "start": 79.419,
+      "end": 84.239,
+      "text": "Hãy tưởng tượng phải chờ đợi nhiều tháng, chỉ để biết mùa này có đủ lương thực không.",
+      "source_seconds": 4.024145833333334,
+      "tempo": 0.8786344614264907,
+      "speech_seconds": 4.5713125
+    },
+    {
+      "cue": 19,
+      "start": 84.239,
+      "end": 89.288,
+      "text": "Một trận mưa sai lúc, một đợt khô kéo dài, cũng có thể khiến người làm ruộng lo lắng.",
+      "source_seconds": 4.212791666666667,
+      "tempo": 0.8760223885769752,
+      "speech_seconds": 4.7955
+    },
+    {
+      "cue": 20,
+      "start": 89.288,
+      "end": 93.879,
+      "text": "Bỗng nhiên, bát cơm quen thuộc của bạn mang sức nặng của cả một mùa chờ đợi.",
+      "source_seconds": 3.5554375,
+      "tempo": 0.87,
+      "speech_seconds": 4.0754375
+    },
+    {
+      "cue": 21,
+      "start": 93.879,
+      "end": 98.24,
+      "text": "Rời ruộng, ta quay lại phía dòng sông. Mặt nước lấp lánh trong nắng buổi trưa.",
+      "source_seconds": 3.5930625,
+      "tempo": 0.8718909245328825,
+      "speech_seconds": 4.1126875
+    },
+    {
+      "cue": 22,
+      "start": 98.24,
+      "end": 102.831,
+      "text": "Với cư dân Việt cổ, đánh bắt thủy sản cũng là một cách kiếm sống quan trọng.",
+      "source_seconds": 3.5882708333333335,
+      "tempo": 0.87,
+      "speech_seconds": 4.111916666666667
+    },
+    {
+      "cue": 23,
+      "start": 102.831,
+      "end": 107.422,
+      "text": "Những lưỡi câu và vật dằn lưới còn lại kể tiếp câu chuyện bên ngoài đồng ruộng.",
+      "source_seconds": 3.6500416666666666,
+      "tempo": 0.87,
+      "speech_seconds": 4.1830625
+    },
+    {
+      "cue": 24,
+      "start": 107.422,
+      "end": 112.471,
+      "text": "Con thuyền cũng hiện lên trên đồ đồng, đưa ta nghĩ tới một thế giới gắn với sông nước.",
+      "source_seconds": 4.045041666666667,
+      "tempo": 0.87,
+      "speech_seconds": 4.636958333333333
+    },
+    {
+      "cue": 25,
+      "start": 112.471,
+      "end": 117.062,
+      "text": "Hãy hình dung một chuyến trở về bến, khi cả nhà đang chờ nhìn vào giỏ cá.",
+      "source_seconds": 3.8004583333333333,
+      "tempo": 0.873467785183484,
+      "speech_seconds": 4.33725
+    },
+    {
+      "cue": 26,
+      "start": 117.062,
+      "end": 121.423,
+      "text": "Niềm vui có thể nhỏ đến mức ấy: hôm nay, bữa ăn có thêm một món.",
+      "source_seconds": 3.3880833333333333,
+      "tempo": 0.87,
+      "speech_seconds": 3.8859583333333334
+    },
+    {
+      "cue": 27,
+      "start": 121.423,
+      "end": 125.555,
+      "text": "Nhưng người Đông Sơn còn để lại một điều khiến chúng ta kinh ngạc hơn.",
+      "source_seconds": 3.0747916666666666,
+      "tempo": 0.87,
+      "speech_seconds": 3.5265416666666667
+    },
+    {
+      "cue": 28,
+      "start": 125.555,
+      "end": 130.604,
+      "text": "Bạn nghe thấy tiếng người bên một lò đúc. Ở đó, kim loại đang được biến thành đồ dùng.",
+      "source_seconds": 4.072479166666667,
+      "tempo": 0.87,
+      "speech_seconds": 4.674895833333333
+    },
+    {
+      "cue": 29,
+      "start": 130.604,
+      "end": 135.195,
+      "text": "Để làm ra một vật bằng đồng, người thợ phải chuẩn bị khuôn và kiểm soát lửa.",
+      "source_seconds": 3.768854166666667,
+      "tempo": 0.87,
+      "speech_seconds": 4.322854166666667
+    },
+    {
+      "cue": 30,
+      "start": 135.195,
+      "end": 139.786,
+      "text": "Một sai sót có thể làm hỏng thành phẩm. Kinh nghiệm phải được học và truyền lại.",
+      "source_seconds": 3.3096666666666668,
+      "tempo": 0.87,
+      "speech_seconds": 3.7922708333333333
+    },
+    {
+      "cue": 31,
+      "start": 139.786,
+      "end": 144.606,
+      "text": "Rồi trước mắt bạn xuất hiện một chiếc trống. Hãy nhìn thật gần những đường nét trên đó.",
+      "source_seconds": 3.831125,
+      "tempo": 0.87,
+      "speech_seconds": 4.3895
+    },
+    {
+      "cue": 32,
+      "start": 144.606,
+      "end": 149.197,
+      "text": "Trên trống đồng Ngọc Lũ có cảnh giã gạo, đánh trống, lễ hội và những chiếc thuyền.",
+      "source_seconds": 3.9404583333333334,
+      "tempo": 0.9056442963303438,
+      "speech_seconds": 4.342645833333333
+    },
+    {
+      "cue": 33,
+      "start": 149.197,
+      "end": 154.017,
+      "text": "Những con người bé nhỏ trong hoa văn đang làm công việc của một thế giới đã xa.",
+      "source_seconds": 3.7100833333333334,
+      "tempo": 0.87,
+      "speech_seconds": 4.260104166666666
+    },
+    {
+      "cue": 34,
+      "start": 154.017,
+      "end": 158.837,
+      "text": "Họ không thể biết rằng hàng nghìn năm sau, ta sẽ cúi xuống tìm họ trên mặt đồng.",
+      "source_seconds": 3.7664583333333335,
+      "tempo": 0.87,
+      "speech_seconds": 4.325
+    },
+    {
+      "cue": 35,
+      "start": 158.837,
+      "end": 163.428,
+      "text": "Chỉ một dáng người nâng chày giã gạo cũng đủ khiến khoảng cách thời gian ngắn lại.",
+      "source_seconds": 3.5717916666666665,
+      "tempo": 0.87,
+      "speech_seconds": 4.087625
+    },
+    {
+      "cue": 36,
+      "start": 163.428,
+      "end": 168.477,
+      "text": "Bạn chợt nhận ra người xưa có bàn tay khéo, có trí tưởng tượng và nhu cầu làm đẹp.",
+      "source_seconds": 4.192666666666667,
+      "tempo": 0.8718375268593598,
+      "speech_seconds": 4.801145833333333
+    },
+    {
+      "cue": 37,
+      "start": 168.477,
+      "end": 172.839,
+      "text": "Chiếc trống cần cả hiểu biết kỹ thuật lẫn sự kiên nhẫn với từng chi tiết.",
+      "source_seconds": 3.4297708333333334,
+      "tempo": 0.87,
+      "speech_seconds": 3.9299791666666666
+    },
+    {
+      "cue": 38,
+      "start": 172.839,
+      "end": 177.429,
+      "text": "Và quanh những hình ảnh ấy, vẫn còn nhiều câu hỏi chưa có lời giải cuối cùng.",
+      "source_seconds": 3.9169791666666667,
+      "tempo": 0.9004549808429112,
+      "speech_seconds": 4.343916666666667
+    },
+    {
+      "cue": 39,
+      "start": 177.429,
+      "end": 182.708,
+      "text": "Ta không thể nghe lại nguyên vẹn bài hát cũ, hay hỏi người thợ vì sao chọn từng hoa văn.",
+      "source_seconds": 4.380645833333333,
+      "tempo": 0.87,
+      "speech_seconds": 5.028270833333333
+    },
+    {
+      "cue": 40,
+      "start": 182.708,
+      "end": 187.07,
+      "text": "Nhưng sự im lặng của hiện vật không khiến những con người ấy bớt sống động.",
+      "source_seconds": 3.1157916666666665,
+      "tempo": 0.87,
+      "speech_seconds": 3.5651041666666665
+    },
+    {
+      "cue": 41,
+      "start": 187.07,
+      "end": 191.431,
+      "text": "Bây giờ, hãy rời ngôi làng tưởng tượng để nhìn sang Cổ Loa thời Âu Lạc.",
+      "source_seconds": 3.5245,
+      "tempo": 0.87,
+      "speech_seconds": 4.041791666666667
+    },
+    {
+      "cue": 42,
+      "start": 191.431,
+      "end": 195.792,
+      "text": "Bạn có từng nghe chuyện chiếc nỏ thần, Rùa Vàng và nàng công chúa Mị Châu?",
+      "source_seconds": 3.4196875,
+      "tempo": 0.87,
+      "speech_seconds": 3.9206666666666665
+    },
+    {
+      "cue": 43,
+      "start": 195.792,
+      "end": 200.383,
+      "text": "Đó là truyền thuyết được lưu truyền. Còn lòng đất Cổ Loa giữ những dấu tích thật.",
+      "source_seconds": 3.562145833333333,
+      "tempo": 0.87,
+      "speech_seconds": 4.078979166666667
+    },
+    {
+      "cue": 44,
+      "start": 200.383,
+      "end": 204.973,
+      "text": "Năm một nghìn chín trăm năm mươi chín, hàng vạn mũi tên đồng đã được phát hiện.",
+      "source_seconds": 3.637875,
+      "tempo": 0.87,
+      "speech_seconds": 4.1676875
+    },
+    {
+      "cue": 45,
+      "start": 204.973,
+      "end": 210.023,
+      "text": "Sau đó, các nhà khảo cổ còn tìm thấy khuôn đúc và dấu tích lò đúc tại Cổ Loa.",
+      "source_seconds": 4.180104166666666,
+      "tempo": 0.87,
+      "speech_seconds": 4.796375
+    },
+    {
+      "cue": 46,
+      "start": 210.023,
+      "end": 214.614,
+      "text": "Những phát hiện ấy cho thấy nơi đây đã tổ chức sản xuất vũ khí bằng đồng.",
+      "source_seconds": 3.3829583333333333,
+      "tempo": 0.87,
+      "speech_seconds": 3.8814583333333332
+    },
+    {
+      "cue": 47,
+      "start": 214.614,
+      "end": 219.663,
+      "text": "Chúng không chứng minh phép màu của nỏ thần. Chúng giúp ta hiểu hơn năng lực của người xưa.",
+      "source_seconds": 3.81275,
+      "tempo": 0.87,
+      "speech_seconds": 4.370979166666666
+    },
+    {
+      "cue": 48,
+      "start": 219.663,
+      "end": 224.254,
+      "text": "Đằng sau mỗi mũi tên là người làm khuôn, người đúc và những người cùng góp sức.",
+      "source_seconds": 3.7698125,
+      "tempo": 0.87,
+      "speech_seconds": 4.325145833333333
+    },
+    {
+      "cue": 49,
+      "start": 224.254,
+      "end": 229.304,
+      "text": "Bạn thử nghĩ xem: để có một người thợ, cần bao nhiêu người khác lo cái ăn mỗi ngày?",
+      "source_seconds": 4.104583333333333,
+      "tempo": 0.87,
+      "speech_seconds": 4.709270833333333
+    },
+    {
+      "cue": 50,
+      "start": 229.304,
+      "end": 233.894,
+      "text": "Cuộc sống của họ nối vào nhau, từ đồng ruộng đến bến sông và nơi chế tác.",
+      "source_seconds": 3.6641875,
+      "tempo": 0.87,
+      "speech_seconds": 4.19625
+    },
+    {
+      "cue": 51,
+      "start": 233.894,
+      "end": 238.485,
+      "text": "Lịch sử dựng nước vì thế còn là chuyện của những con người không được ghi tên.",
+      "source_seconds": 3.441375,
+      "tempo": 0.87,
+      "speech_seconds": 3.9505
+    },
+    {
+      "cue": 52,
+      "start": 238.485,
+      "end": 242.617,
+      "text": "Người giữ lửa, người làm ruộng, người sửa công cụ, người chăm sóc trẻ nhỏ.",
+      "source_seconds": 3.5025,
+      "tempo": 0.8999229188078164,
+      "speech_seconds": 3.8841666666666668
+    },
+    {
+      "cue": 53,
+      "start": 242.617,
+      "end": 246.978,
+      "text": "Trong cảnh chiều ta đang hình dung, đứa trẻ ban sáng lại ngồi xuống bên bếp.",
+      "source_seconds": 3.610708333333333,
+      "tempo": 0.8761728544851534,
+      "speech_seconds": 4.106791666666667
+    },
+    {
+      "cue": 54,
+      "start": 246.978,
+      "end": 251.798,
+      "text": "Nó có thể đang háo hức nghe một câu chuyện, hoặc chỉ mong ngày mai được ăn no.",
+      "source_seconds": 3.7237708333333335,
+      "tempo": 0.87,
+      "speech_seconds": 4.269375
+    },
+    {
+      "cue": 55,
+      "start": 251.798,
+      "end": 256.848,
+      "text": "Đó là phần tưởng tượng của chúng ta, không phải một lời kể được giữ nguyên từ cổ đại.",
+      "source_seconds": 3.9118958333333333,
+      "tempo": 0.87,
+      "speech_seconds": 4.486354166666667
+    },
+    {
+      "cue": 56,
+      "start": 256.848,
+      "end": 262.127,
+      "text": "Nhưng nó giúp ta đặt một câu hỏi gần gũi: những người đã sống ở đây từng mong điều gì?",
+      "source_seconds": 4.073833333333333,
+      "tempo": 0.87,
+      "speech_seconds": 4.679645833333334
+    },
+    {
+      "cue": 57,
+      "start": 262.127,
+      "end": 267.177,
+      "text": "Có lẽ họ cũng mong người thân bình an, mong công sức bỏ ra được đền bằng mùa gặt.",
+      "source_seconds": 3.847729166666667,
+      "tempo": 0.87,
+      "speech_seconds": 4.412916666666667
+    },
+    {
+      "cue": 58,
+      "start": 267.177,
+      "end": 272.456,
+      "text": "Ta không thể biết hết nỗi niềm riêng ấy. Ta chỉ có thể trân trọng dấu vết họ để lại.",
+      "source_seconds": 3.974125,
+      "tempo": 0.87,
+      "speech_seconds": 4.557854166666667
+    },
+    {
+      "cue": 59,
+      "start": 272.456,
+      "end": 276.588,
+      "text": "Một lưỡi hái, một khuôn đúc, một dáng người trên chiếc trống đã ngả màu.",
+      "source_seconds": 3.4839166666666666,
+      "tempo": 0.8951481671805401,
+      "speech_seconds": 3.884
+    },
+    {
+      "cue": 60,
+      "start": 276.588,
+      "end": 281.408,
+      "text": "Những vật nhỏ ấy giúp ta nhìn lịch sử qua cả lao động và đời sống thường ngày.",
+      "source_seconds": 3.9076666666666666,
+      "tempo": 0.87,
+      "speech_seconds": 4.4859583333333335
+    },
+    {
+      "cue": 61,
+      "start": 281.408,
+      "end": 286.228,
+      "text": "Khi trở về hiện tại, hãy nhìn bát cơm, mái nhà và những người đang ngồi cạnh bạn.",
+      "source_seconds": 3.920375,
+      "tempo": 0.87,
+      "speech_seconds": 4.498208333333333
+    },
+    {
+      "cue": 62,
+      "start": 286.228,
+      "end": 291.278,
+      "text": "Cuộc sống hôm nay đã khác rất nhiều. Nhưng câu hỏi về một ngày đủ đầy vẫn còn đó.",
+      "source_seconds": 4.0318958333333335,
+      "tempo": 0.87,
+      "speech_seconds": 4.625104166666667
+    },
+    {
+      "cue": 63,
+      "start": 291.278,
+      "end": 295.409,
+      "text": "Hơn hai nghìn năm trước, cũng có những bàn tay làm việc vì ngày mai.",
+      "source_seconds": 3.120375,
+      "tempo": 0.87,
+      "speech_seconds": 3.578625
+    },
+    {
+      "cue": 64,
+      "start": 295.409,
+      "end": 300.0,
+      "text": "Và khi nhìn lại người Việt cổ, ta đang học cách nhìn thấy những bàn tay ấy.",
+      "source_seconds": 3.5118541666666667,
+      "tempo": 0.87,
+      "speech_seconds": 4.0235625
+    }
+  ]
+}

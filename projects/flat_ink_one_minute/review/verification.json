@@ -1,0 +1,61 @@
+{
+  "technical_status": "PASS",
+  "exported_with": "Shipped Studio EXE",
+  "seconds": 60.0,
+  "frames": 1800,
+  "width": 1920,
+  "height": 1080,
+  "fps": "30/1",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_channels": 2,
+  "audio_rate": 48000,
+  "decode": "PASS",
+  "frozen_project_open": "PASS",
+  "scenes": 7,
+  "editable_layers": 34,
+  "subtitles": 13,
+  "source_subtitle_texts": "13 complete cues unchanged, uniformly retimed",
+  "presenter_sha256": "85b814d6ad7e6d6e3076b80cf136469b98a2733ab02ef1c00964188b86217c15",
+  "presenter_motion": "Original fixed pointing pose; no new animation rig",
+  "sha256": "fe001f68f0f50962ff465373c13ed37555edddefa30766dacf175fb2c3169981",
+  "style_approval": "Pending user review",
+  "encoded_narration_sync": [
+    {
+      "time": 1,
+      "lag_ms": 0.0,
+      "correlation": 0.99991
+    },
+    {
+      "time": 10,
+      "lag_ms": 0.0,
+      "correlation": 0.99997
+    },
+    {
+      "time": 20,
+      "lag_ms": 0.0,
+      "correlation": 0.99985
+    },
+    {
+      "time": 29,
+      "lag_ms": 0.0,
+      "correlation": 0.99989
+    },
+    {
+      "time": 39,
+      "lag_ms": 0.0,
+      "correlation": 0.99997
+    },
+    {
+      "time": 48,
+      "lag_ms": 0.0,
+      "correlation": 0.99997
+    },
+    {
+      "time": 56,
+      "lag_ms": 0.0,
+      "correlation": 0.99988
+    }
+  ],
+  "decoded_visual_review": "Contact sheet at 2, 7, 11, 20, 29, 34, 43, 53 and 58 seconds inspected; source presenter retained, captions readable, final scene present. Character poses remain static."
+}

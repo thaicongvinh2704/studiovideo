@@ -1,0 +1,671 @@
+{
+  "schema": 1,
+  "name": "Chuyển động · Kiểm tra V4",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "c866fcaf9802",
+      "name": "Chỉ bảng rồi thu tay",
+      "start": 0,
+      "duration": 8.0,
+      "background": "white",
+      "objects": [
+        {
+          "id": "82cff5350e2b",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 550,
+          "y": 625,
+          "scale": 2.4,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 8,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.1
+              },
+              {
+                "t": 0.7,
+                "v": -0.1
+              },
+              {
+                "t": 1.5499999999999998,
+                "v": -0.75,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.3,
+                "v": -0.75
+              },
+              {
+                "t": 6.1499999999999995,
+                "v": -0.10000000000000009,
+                "ease": "ease_in_out"
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": -0.05
+              },
+              {
+                "t": 0.7,
+                "v": -0.05
+              },
+              {
+                "t": 1.5499999999999998,
+                "v": 0.6000000000000001,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.3,
+                "v": 0.6000000000000001
+              },
+              {
+                "t": 6.1499999999999995,
+                "v": -0.050000000000000266,
+                "ease": "ease_in_out"
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 0.1
+              },
+              {
+                "t": 0.7,
+                "v": 0.1
+              },
+              {
+                "t": 1.5499999999999998,
+                "v": 1.7699999999999996,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.3,
+                "v": 1.7699999999999996
+              },
+              {
+                "t": 6.1499999999999995,
+                "v": 0.10000000000000009,
+                "ease": "ease_in_out"
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": 0.05
+              },
+              {
+                "t": 0.7,
+                "v": 0.05
+              },
+              {
+                "t": 1.5499999999999998,
+                "v": 1.9299999999999997,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.3,
+                "v": 1.9299999999999997
+              },
+              {
+                "t": 6.1499999999999995,
+                "v": 0.04999999999999982,
+                "ease": "ease_in_out"
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0
+              },
+              {
+                "t": 0.7,
+                "v": 0
+              },
+              {
+                "t": 1.5499999999999998,
+                "v": 0.03500000000000014,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.3,
+                "v": 0.03500000000000014
+              },
+              {
+                "t": 6.1499999999999995,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              },
+              {
+                "t": 0.7,
+                "v": 0
+              },
+              {
+                "t": 1.5499999999999998,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.3,
+                "v": 0.0
+              },
+              {
+                "t": 6.1499999999999995,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              },
+              {
+                "t": 0.7,
+                "v": 0
+              },
+              {
+                "t": 1.5499999999999998,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.3,
+                "v": 0
+              },
+              {
+                "t": 6.1499999999999995,
+                "v": 0,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "shirt": "#252525",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "breath": 0,
+          "pose": "rest",
+          "poses": [
+            {
+              "t": 0,
+              "v": "rest"
+            },
+            {
+              "t": 0.7,
+              "v": "point"
+            },
+            {
+              "t": 5.3,
+              "v": "rest"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.7,
+              "v": "happy"
+            },
+            {
+              "t": 5.3,
+              "v": "normal"
+            }
+          ],
+          "character_design": "reference_black",
+          "shirt_mark": "plus",
+          "shoes": "#faf9f4",
+          "stance": 18
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    },
+    {
+      "id": "4b9c9ee5d39a",
+      "name": "Đi bộ rồi dừng",
+      "start": 8,
+      "duration": 8.0,
+      "background": "white",
+      "objects": [
+        {
+          "id": "eb9e02664d4e",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 550,
+          "y": 625,
+          "scale": 2.4,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 8,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 410
+              },
+              {
+                "t": 0.7,
+                "v": 410
+              },
+              {
+                "t": 6.6,
+                "v": 780,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8,
+                "v": 780
+              }
+            ]
+          },
+          "motions": [
+            {
+              "start": 0.7,
+              "end": 6.6,
+              "action": "walk",
+              "blend": 0.5
+            }
+          ],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "shirt": "#252525",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "breath": 0,
+          "pose": "rest",
+          "poses": [],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            }
+          ],
+          "character_design": "reference_black",
+          "shirt_mark": "plus",
+          "shoes": "#faf9f4",
+          "stance": 18
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    },
+    {
+      "id": "a0104bc9a53f",
+      "name": "Nhận và giữ đồ",
+      "start": 16,
+      "duration": 8.0,
+      "background": "white",
+      "objects": [
+        {
+          "id": "979e5f06ade7",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 550,
+          "y": 625,
+          "scale": 2.4,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 8,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.35,
+                "v": -0.30000000000000027,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.8,
+                "v": -0.30000000000000027
+              },
+              {
+                "t": 5.6499999999999995,
+                "v": -0.5,
+                "ease": "ease_in_out"
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 1.35,
+                "v": -0.7999999999999998,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.8,
+                "v": -0.7999999999999998
+              },
+              {
+                "t": 5.6499999999999995,
+                "v": -1.5,
+                "ease": "ease_in_out"
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.35,
+                "v": 0.8500000000000001,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.8,
+                "v": 0.8500000000000001
+              },
+              {
+                "t": 5.6499999999999995,
+                "v": 0.5,
+                "ease": "ease_in_out"
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 1.35,
+                "v": 1.1499999999999995,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.8,
+                "v": 1.1499999999999995
+              },
+              {
+                "t": 5.6499999999999995,
+                "v": 1.5,
+                "ease": "ease_in_out"
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.35,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.8,
+                "v": 0.0
+              },
+              {
+                "t": 5.6499999999999995,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.35,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.8,
+                "v": 0.0
+              },
+              {
+                "t": 5.6499999999999995,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.35,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.8,
+                "v": 0
+              },
+              {
+                "t": 5.6499999999999995,
+                "v": 0,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "shirt": "#252525",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "breath": 0,
+          "pose": "hold",
+          "poses": [
+            {
+              "t": 0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "receive"
+            },
+            {
+              "t": 4.8,
+              "v": "hold"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            },
+            {
+              "t": 4.8,
+              "v": "happy"
+            }
+          ],
+          "contacts": [
+            {
+              "start": 2,
+              "end": 7,
+              "hand": "r",
+              "x": 718.8079722701573,
+              "y": 379.174171205748,
+              "blend": 0.6,
+              "release": 0.6,
+              "bend": 1
+            }
+          ],
+          "character_design": "reference_black",
+          "shirt_mark": "plus",
+          "shoes": "#faf9f4",
+          "stance": 18
+        },
+        {
+          "id": "6d9963eb07ac",
+          "kind": "image",
+          "name": "book",
+          "preset": "book",
+          "x": 718.8079722701573,
+          "y": 379.174171205748,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 35,
+          "start": 2,
+          "end": 8,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [
+            {
+              "t": 2,
+              "character": "979e5f06ade7",
+              "joint": "hand_r",
+              "offset": [
+                -35,
+                -20
+              ]
+            }
+          ],
+          "rig": {},
+          "width": 110,
+          "height": 95,
+          "file": "assets/book.svg",
+          "fit": "contain",
+          "image_width": 110
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    }
+  ],
+  "subtitles": [],
+  "audio": [],
+  "references": [],
+  "subtitle_style": {
+    "enabled": false,
+    "size": 30,
+    "font": "Segoe UI",
+    "color": "#ffffff",
+    "background": true,
+    "y": 0.88
+  },
+  "duck_music": true
+}

@@ -1,0 +1,66 @@
+{
+  "engine": "ink-user-reference-4.4",
+  "status": "PASS",
+  "art_approval": "Pending user visual review",
+  "media": {
+    "ink_history_1080p.mp4": {
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "frames": "2622",
+      "duration": "87.400000",
+      "decode": "PASS"
+    },
+    "second_story_1080p.mp4": {
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "frames": "5701",
+      "duration": "190.033333",
+      "decode": "PASS"
+    },
+    "motion_three_cases_1080p.mp4": {
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "frames": "720",
+      "duration": "24.000000",
+      "decode": "PASS"
+    },
+    "ink_4k_2s.mp4": {
+      "width": 3840,
+      "height": 2160,
+      "fps": "30/1",
+      "frames": "60",
+      "duration": "2.000000",
+      "decode": "PASS"
+    }
+  },
+  "frozen_runtime": {
+    "status": "PASS",
+    "frozen": true,
+    "voice_seconds": 1.3467573696145125,
+    "checks": [
+      "startup",
+      "Piper Vietnamese",
+      "save/load",
+      "FFmpeg export and ffprobe validation"
+    ]
+  },
+  "packaged_engine": "ink-user-reference-4.4",
+  "exe_sha256": "c8f6d4dd88eabe3e8e7fa3ec131ad0acc794bf1c474be29391dda944ae1c3a4f",
+  "frozen_script_voice_assets": {
+    "status": "PASS",
+    "scenes": 1,
+    "character_designs": [
+      "reference_black"
+    ],
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "frames": "207",
+    "duration": "6.900000",
+    "decode": "PASS"
+  }
+}

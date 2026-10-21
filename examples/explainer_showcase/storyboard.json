@@ -1,0 +1,149 @@
+{
+  "version": 1,
+  "name": "Những mảnh ghép lịch sử · Studio",
+  "voice": "assets/narration.wav",
+  "timing": "srt",
+  "rows": [
+    {
+      "start": 0,
+      "end": 8.333333333333334,
+      "title": "Vì sao lịch sử còn khoảng trống?",
+      "text": "Lịch sử không phải một cuốn sách còn nguyên mọi trang. Điều chúng ta biết được ghép lại từ những dấu vết còn sót lại. Vậy điều gì xảy ra khi một phần dấu vết biến mất?",
+      "layout": "presenter",
+      "assets": [
+        "assets/thanh_co.svg"
+      ],
+      "labels": [],
+      "pose": "question",
+      "cue_start": 0,
+      "cue_end": 7.75546485260771
+    },
+    {
+      "start": 8.333333333333334,
+      "end": 16.700000000000003,
+      "title": "Hai nguồn, hai góc nhìn",
+      "text": "Một chiếc bình có thể kể về đời sống thường ngày. Một văn bản ghi lại cách người xưa nhìn thế giới. Mỗi nguồn cho ta một góc nhìn, và mỗi nguồn cũng có giới hạn riêng.",
+      "layout": "compare",
+      "assets": [
+        "assets/hien_vat.svg",
+        "assets/van_ban.svg"
+      ],
+      "labels": [
+        "Hiện vật",
+        "Văn bản"
+      ],
+      "pose": "point",
+      "cue_start": 8.333333333333334,
+      "cue_end": 16.135238095238094
+    },
+    {
+      "start": 16.700000000000003,
+      "end": 25.06666666666667,
+      "title": "Từ dấu vết đến cách giải thích",
+      "text": "Công việc nghiên cứu bắt đầu từ việc tìm thấy dấu vết, xác định bối cảnh, rồi đối chiếu nhiều nguồn. Một cách giải thích có thể thay đổi khi xuất hiện bằng chứng mới.",
+      "layout": "timeline",
+      "assets": [
+        "assets/hien_vat.svg",
+        "assets/van_ban.svg",
+        "assets/doi_chieu.svg"
+      ],
+      "labels": [
+        "Phát hiện",
+        "Bối cảnh",
+        "Đối chiếu"
+      ],
+      "pose": "point",
+      "cue_start": 16.700000000000003,
+      "cue_end": 24.490294784580502
+    },
+    {
+      "start": 25.06666666666667,
+      "end": 34.06666666666667,
+      "title": "Một dấu hỏi chưa phải lời giải",
+      "text": "Nếu chỉ nhìn một mảnh ghép, chúng ta rất dễ tưởng tượng ra toàn bộ câu chuyện. Điều cần làm là phân biệt điều đã biết, điều suy đoán, và điều vẫn chưa có đủ bằng chứng.",
+      "layout": "quote",
+      "assets": [],
+      "labels": [
+        "Đã biết → Có căn cứ",
+        "Suy đoán → Cần kiểm tra",
+        "Chưa biết → Tiếp tục tìm hiểu"
+      ],
+      "pose": "think",
+      "cue_start": 25.06666666666667,
+      "cue_end": 33.507120181405895
+    },
+    {
+      "start": 34.06666666666667,
+      "end": 42.53333333333334,
+      "title": "Những dấu vết kết nối",
+      "text": "Bản đồ giúp đặt các dấu vết vào không gian. Một tuyến đường có thể gợi ra sự liên hệ giữa những nơi xa nhau. Nhưng mối liên hệ ấy vẫn cần được kiểm tra bằng các nguồn khác.",
+      "layout": "presenter",
+      "assets": [
+        "assets/ban_do.svg"
+      ],
+      "labels": [
+        "Không gian",
+        "Tuyến đường",
+        "Bằng chứng"
+      ],
+      "pose": "point",
+      "cue_start": 34.06666666666667,
+      "cue_end": 41.9730612244898
+    },
+    {
+      "start": 42.53333333333334,
+      "end": 50.800000000000004,
+      "title": "Đặt câu hỏi theo từng bước",
+      "text": "Thay vì đi thẳng đến một kết luận hấp dẫn, hãy hỏi: nguồn này đến từ đâu, được tạo ra trong hoàn cảnh nào, và có nguồn độc lập nào giúp kiểm chứng hay không?",
+      "layout": "process",
+      "assets": [
+        "assets/van_ban.svg",
+        "assets/hien_vat.svg",
+        "assets/doi_chieu.svg"
+      ],
+      "labels": [
+        "Nguồn gốc?",
+        "Bối cảnh?",
+        "Kiểm chứng?"
+      ],
+      "pose": "explain",
+      "cue_start": 42.53333333333334,
+      "cue_end": 50.242358276644
+    },
+    {
+      "start": 50.800000000000004,
+      "end": 58.900000000000006,
+      "title": "Nhìn rộng hơn một khung hình",
+      "text": "Khi thay đổi góc nhìn, chúng ta có thể nhận ra những chi tiết trước đó bị bỏ qua. Một câu chuyện thuyết phục cần được xây dựng từ nhiều mảnh ghép phù hợp với nhau.",
+      "layout": "gallery",
+      "assets": [
+        "assets/thanh_co.svg",
+        "assets/hien_vat.svg",
+        "assets/giao_thuong.svg",
+        "assets/doi_chieu.svg"
+      ],
+      "labels": [],
+      "pose": "welcome",
+      "cue_start": 50.800000000000004,
+      "cue_end": 58.33487528344671
+    },
+    {
+      "start": 58.900000000000006,
+      "end": 68.60000000000001,
+      "title": "Giữ sự tò mò, cùng sự thận trọng",
+      "text": "Những khoảng trống khiến lịch sử trở nên thú vị. Hãy giữ sự tò mò, nhưng luôn hỏi về bằng chứng. Một câu hỏi tốt có thể đưa chúng ta đến gần sự thật hơn một câu trả lời quá vội vàng.",
+      "layout": "presenter",
+      "assets": [
+        "assets/doi_chieu.svg"
+      ],
+      "labels": [
+        "Tò mò",
+        "Đối chiếu",
+        "Thận trọng"
+      ],
+      "pose": "welcome",
+      "cue_start": 58.900000000000006,
+      "cue_end": 68.03705215419501
+    }
+  ]
+}

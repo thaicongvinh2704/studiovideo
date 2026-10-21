@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "video": "Vuon_Treo_Babylon_1080p.mp4",
+  "seconds": 60.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 1800,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "full_decode": "PASS",
+  "distinct_motion_frames": "PASS",
+  "archive": "PASS",
+  "scenes": 7,
+  "layers": 90,
+  "voice": "Hải Đăng · VieNeu-TTS v3 Turbo",
+  "art": "AI-generated raster comic backgrounds with authored SVG overlays and Studio animation; not frame-by-frame character animation",
+  "review_timestamps": [
+    5.672574166666666,
+    14.6099775,
+    23.269167500000002,
+    31.701794166666673,
+    40.00758416666667,
+    47.29288833333334,
+    56.63382666666667
+  ],
+  "render_seconds": 86.8,
+  "user_art_approval": "Not assumed"
+}

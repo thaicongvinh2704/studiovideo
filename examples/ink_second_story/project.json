@@ -1,0 +1,6940 @@
+{
+  "schema": 1,
+  "name": "Triển lãm nhỏ của Lan · Câu chuyện kiểm chứng thứ hai",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "faf0e0c6cbe7",
+      "name": "Bắt đầu",
+      "start": 0.0,
+      "duration": 9.866666666666667,
+      "background": "white",
+      "objects": [
+        {
+          "id": "059fb525118c",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 710,
+          "y": 915,
+          "scale": 4.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 9.866666666666667,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.4500000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": -0.7999999999999998,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 1.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.95,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.08000000000000007,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "idea",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "idea"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "4a1768d9a766",
+          "kind": "image",
+          "name": "bulb",
+          "preset": "bulb",
+          "x": 1040,
+          "y": 180,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.7,
+          "end": 9.866666666666667,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 190,
+          "height": 190,
+          "file": "assets/bulb.svg",
+          "fit": "contain",
+          "image_width": 190,
+          "enter": "none"
+        },
+        {
+          "id": "c03d41279fc3",
+          "kind": "shape",
+          "name": "callout",
+          "preset": "callout",
+          "x": 260,
+          "y": 225,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 9.866666666666667,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 350,
+          "height": 210,
+          "shape": "callout",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "b82bcd321f3f",
+          "kind": "text",
+          "name": "MỘT TRIỂN LÃM NHỎ",
+          "preset": "MỘT TRIỂN LÃM NHỎ",
+          "x": 260,
+          "y": 215,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 9.866666666666667,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 300,
+          "height": 160,
+          "text": "MỘT TRIỂN LÃM NHỎ",
+          "font_size": 36,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "focus",
+      "narration": "Lan muốn làm một triển lãm nhỏ trong lớp. Bạn ấy có rất nhiều ý tưởng, nhưng chưa biết phải bắt đầu từ đâu. Thay vì dựng ngay một tấm áp phích thật lớn, Lan quyết định ghi lại điều mình muốn kể.",
+      "style": "ink"
+    },
+    {
+      "id": "b3cb6cff25a3",
+      "name": "Đặt câu hỏi",
+      "start": 9.866666666666667,
+      "duration": 10.366666666666667,
+      "background": "white",
+      "objects": [
+        {
+          "id": "d2ab9ca9dbe9",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 270,
+          "y": 680,
+          "scale": 2.9,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 10.366666666666667,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "764e274496dd",
+          "kind": "image",
+          "name": "question",
+          "preset": "question",
+          "x": 925,
+          "y": 190,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 10.366666666666667,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 180,
+          "height": 170,
+          "file": "assets/question.svg",
+          "fit": "contain",
+          "image_width": 180,
+          "enter": "none"
+        },
+        {
+          "id": "8f2ed35fd2a4",
+          "kind": "shape",
+          "name": "callout",
+          "preset": "callout",
+          "x": 850,
+          "y": 405,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.366666666666667,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 620,
+          "height": 285,
+          "shape": "callout",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "d4f336f068d7",
+          "kind": "text",
+          "name": "Mình muốn kể điều gì?",
+          "preset": "Mình muốn kể điều gì?",
+          "x": 850,
+          "y": 395,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.366666666666667,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 560,
+          "height": 225,
+          "text": "Mình muốn kể điều gì?",
+          "font_size": 34,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "quote",
+      "narration": "Câu hỏi đầu tiên rất đơn giản: người xem sẽ nhớ điều gì khi bước ra khỏi phòng? Lan không muốn trưng bày mọi thứ cùng một lúc. Bạn ấy chọn một câu chuyện nhỏ, đủ rõ để mọi người có thể theo dõi.",
+      "style": "ink"
+    },
+    {
+      "id": "c3eebcd6bace",
+      "name": "Tìm tài liệu",
+      "start": 20.233333333333334,
+      "duration": 9.966666666666669,
+      "background": "white",
+      "objects": [
+        {
+          "id": "11b03bb9f6bc",
+          "kind": "image",
+          "name": "book",
+          "preset": "book",
+          "x": 340,
+          "y": 320,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 9.966666666666669,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 405,
+          "file": "assets/book.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "5f9ab7518550",
+          "kind": "text",
+          "name": "Đọc và ghi lại",
+          "preset": "Đọc và ghi lại",
+          "x": 340,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 9.966666666666669,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 95,
+          "text": "Đọc và ghi lại",
+          "font_size": 32,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "00c45edb8d84",
+          "kind": "image",
+          "name": "document",
+          "preset": "document",
+          "x": 940,
+          "y": 320,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.7,
+          "end": 9.966666666666669,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 405,
+          "file": "assets/document.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "29b87a0c89b6",
+          "kind": "shape",
+          "name": "arrow",
+          "preset": "arrow",
+          "x": 640,
+          "y": 335,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 9.966666666666669,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 65,
+          "height": 20,
+          "shape": "arrow",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "compare",
+      "narration": "Lan mở những cuốn sách đã mượn, rồi ghi lại các ý quan trọng lên từng tờ giấy. Có những ý rất hấp dẫn, nhưng chưa liên quan đến câu chuyện. Bạn ấy để chúng sang một bên để dùng vào dịp khác.",
+      "style": "ink"
+    },
+    {
+      "id": "bc5336b5de63",
+      "name": "Nhìn quanh",
+      "start": 30.200000000000003,
+      "duration": 10.0,
+      "background": "white",
+      "objects": [
+        {
+          "id": "edefc3588674",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 235,
+          "y": 640,
+          "scale": 2.45,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 10.0,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "5a931ac928fa",
+          "kind": "image",
+          "name": "camera",
+          "preset": "camera",
+          "x": 865,
+          "y": 340,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 10.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 435,
+          "file": "assets/camera.svg",
+          "fit": "contain",
+          "image_width": 650,
+          "enter": "none"
+        },
+        {
+          "id": "e87929aa47c7",
+          "kind": "text",
+          "name": "Những chi tiết quanh mình",
+          "preset": "Những chi tiết quanh mình",
+          "x": 865,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 95,
+          "text": "Những chi tiết quanh mình",
+          "font_size": 30,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "presenter",
+      "narration": "Tiếp theo, Lan mang máy ảnh đi tìm những chi tiết quanh mình. Một bức tường, một đồ vật cũ, hay một góc sân đều có thể trở thành hình minh họa. Bạn ấy chụp nhiều góc khác nhau trước khi lựa chọn.",
+      "style": "ink"
+    },
+    {
+      "id": "5e3c1283b163",
+      "name": "Chọn hình",
+      "start": 40.2,
+      "duration": 10.333333333333336,
+      "background": "white",
+      "objects": [
+        {
+          "id": "ab4b7da71779",
+          "kind": "image",
+          "name": "camera",
+          "preset": "camera",
+          "x": 340,
+          "y": 320,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.333333333333336,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 405,
+          "file": "assets/camera.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "c0a1ccf88780",
+          "kind": "text",
+          "name": "Rõ và có ý nghĩa",
+          "preset": "Rõ và có ý nghĩa",
+          "x": 340,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.333333333333336,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 95,
+          "text": "Rõ và có ý nghĩa",
+          "font_size": 32,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "b12fe2a8adc4",
+          "kind": "image",
+          "name": "magnifier",
+          "preset": "magnifier",
+          "x": 940,
+          "y": 320,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.7,
+          "end": 10.333333333333336,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 405,
+          "file": "assets/magnifier.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "b6fd24216ab3",
+          "kind": "shape",
+          "name": "arrow",
+          "preset": "arrow",
+          "x": 640,
+          "y": 335,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.333333333333336,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 65,
+          "height": 20,
+          "shape": "arrow",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "compare",
+      "narration": "Khi xem lại ảnh, Lan nhận ra rằng bức hình đẹp nhất chưa chắc đã là bức hình phù hợp nhất. Hình được chọn cần giúp người xem hiểu câu chuyện. Những chi tiết không liên quan đôi khi làm ý chính trở nên khó thấy.",
+      "style": "ink"
+    },
+    {
+      "id": "9a49af344419",
+      "name": "Đặt các mảnh ghép",
+      "start": 50.53333333333334,
+      "duration": 10.466666666666669,
+      "background": "white",
+      "objects": [
+        {
+          "id": "e9275b203eed",
+          "kind": "image",
+          "name": "document",
+          "preset": "document",
+          "x": 335,
+          "y": 220,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.466666666666669,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 270,
+          "file": "assets/document.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "2e9310f6e386",
+          "kind": "text",
+          "name": "Đặt các mảnh ghép",
+          "preset": "Đặt các mảnh ghép",
+          "x": 335,
+          "y": 357,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.466666666666669,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 500,
+          "height": 50,
+          "text": "Đặt các mảnh ghép",
+          "font_size": 23,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "119854544ba1",
+          "kind": "image",
+          "name": "camera",
+          "preset": "camera",
+          "x": 945,
+          "y": 220,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.8,
+          "end": 10.466666666666669,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 270,
+          "file": "assets/camera.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "667bbebdf76e",
+          "kind": "image",
+          "name": "book",
+          "preset": "book",
+          "x": 335,
+          "y": 520,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 1.6,
+          "end": 10.466666666666669,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 270,
+          "file": "assets/book.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "gallery",
+      "narration": "Lan đặt những tờ ghi chú cạnh các bức ảnh. Lần đầu tiên, bạn ấy nhìn thấy cả câu chuyện trên một chiếc bàn. Một số phần trùng nhau, một số phần còn thiếu, và thứ tự ban đầu cũng cần được thay đổi.",
+      "style": "ink"
+    },
+    {
+      "id": "af4d075ddd22",
+      "name": "Sắp thứ tự",
+      "start": 61.00000000000001,
+      "duration": 10.666666666666664,
+      "background": "white",
+      "objects": [
+        {
+          "id": "8977ba8284b2",
+          "kind": "shape",
+          "name": "arrow",
+          "preset": "arrow",
+          "x": 700,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.666666666666664,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 990,
+          "height": 16,
+          "shape": "arrow",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "eb466d65a34f",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 70,
+          "y": 690,
+          "scale": 1.05,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 10.666666666666664,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "0183ad4a6482",
+          "kind": "image",
+          "name": "clock",
+          "preset": "clock",
+          "x": 260.0,
+          "y": 300,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.666666666666664,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 245,
+          "file": "assets/clock.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "none"
+        },
+        {
+          "id": "df9e035323ce",
+          "kind": "shape",
+          "name": "ellipse",
+          "preset": "ellipse",
+          "x": 260.0,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.666666666666664,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 19,
+          "height": 19,
+          "shape": "ellipse",
+          "fill": "#f6ca45",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "04d2499702a2",
+          "kind": "text",
+          "name": "Bắt đầu",
+          "preset": "Bắt đầu",
+          "x": 260.0,
+          "y": 535,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.666666666666664,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 245,
+          "height": 105,
+          "text": "Bắt đầu",
+          "font_size": 27,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "46c208cdde26",
+          "kind": "image",
+          "name": "calendar",
+          "preset": "calendar",
+          "x": 685.0,
+          "y": 300,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 1.1,
+          "end": 10.666666666666664,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 245,
+          "file": "assets/calendar.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "none"
+        },
+        {
+          "id": "f49797ee3c4c",
+          "kind": "shape",
+          "name": "ellipse",
+          "preset": "ellipse",
+          "x": 685.0,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 1.1,
+          "end": 10.666666666666664,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 19,
+          "height": 19,
+          "shape": "ellipse",
+          "fill": "#f6ca45",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "919419f4f264",
+          "kind": "text",
+          "name": "Diễn biến",
+          "preset": "Diễn biến",
+          "x": 685.0,
+          "y": 535,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 1.1,
+          "end": 10.666666666666664,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 245,
+          "height": 105,
+          "text": "Diễn biến",
+          "font_size": 27,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "b90f4d850880",
+          "kind": "image",
+          "name": "compass",
+          "preset": "compass",
+          "x": 1110.0,
+          "y": 300,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2.2,
+          "end": 10.666666666666664,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 245,
+          "file": "assets/compass.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "none"
+        },
+        {
+          "id": "c7716c975340",
+          "kind": "shape",
+          "name": "ellipse",
+          "preset": "ellipse",
+          "x": 1110.0,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2.2,
+          "end": 10.666666666666664,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 19,
+          "height": 19,
+          "shape": "ellipse",
+          "fill": "#f6ca45",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "9d8a663edc1c",
+          "kind": "text",
+          "name": "Kết thúc",
+          "preset": "Kết thúc",
+          "x": 1110.0,
+          "y": 535,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2.2,
+          "end": 10.666666666666664,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 245,
+          "height": 105,
+          "text": "Kết thúc",
+          "font_size": 27,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "timeline",
+      "narration": "Bạn ấy thử kể câu chuyện từ đầu đến cuối. Nếu một hình xuất hiện quá sớm, người xem chưa hiểu vì sao nó ở đó. Nếu một thông tin xuất hiện quá muộn, nó không còn giúp giải thích phần trước nữa.",
+      "style": "ink"
+    },
+    {
+      "id": "ce0b6b40bb4c",
+      "name": "Một tấm bản đồ",
+      "start": 71.66666666666667,
+      "duration": 10.066666666666663,
+      "background": "white",
+      "objects": [
+        {
+          "id": "1bc7532ec5c3",
+          "kind": "image",
+          "name": "map",
+          "preset": "map",
+          "x": 820,
+          "y": 355,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 10.066666666666663,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 810,
+          "height": 570,
+          "file": "assets/map.svg",
+          "fit": "contain",
+          "image_width": 810,
+          "enter": "none"
+        },
+        {
+          "id": "a0d02441158e",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 190,
+          "y": 650,
+          "scale": 2.15,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 10.066666666666663,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "5af46a689144",
+          "kind": "text",
+          "name": "Đường đi của người xem",
+          "preset": "Đường đi của người xem",
+          "x": 835,
+          "y": 660,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.066666666666663,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 740,
+          "height": 75,
+          "text": "Đường đi của người xem",
+          "font_size": 29,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "map",
+      "narration": "Lan vẽ sơ đồ căn phòng để hình dung đường đi của người xem. Mỗi góc có một nhiệm vụ riêng. Góc đầu đặt câu hỏi, góc giữa đưa ra hình ảnh, và góc cuối dành chỗ để mọi người tự suy nghĩ.",
+      "style": "ink"
+    },
+    {
+      "id": "439bdb7f3d1f",
+      "name": "Chừa khoảng trống",
+      "start": 81.73333333333333,
+      "duration": 10.099999999999994,
+      "background": "white",
+      "objects": [
+        {
+          "id": "40571befb69b",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 235,
+          "y": 640,
+          "scale": 2.45,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 10.099999999999994,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "17a69dbbcabc",
+          "kind": "image",
+          "name": "archive",
+          "preset": "archive",
+          "x": 865,
+          "y": 340,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 10.099999999999994,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 435,
+          "file": "assets/archive.svg",
+          "fit": "contain",
+          "image_width": 650,
+          "enter": "none"
+        },
+        {
+          "id": "f02f43eca01d",
+          "kind": "text",
+          "name": "Đủ chỗ để nhìn",
+          "preset": "Đủ chỗ để nhìn",
+          "x": 865,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.099999999999994,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 95,
+          "text": "Đủ chỗ để nhìn",
+          "font_size": 30,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "presenter",
+      "narration": "Có lúc Lan muốn đặt thật nhiều hình lên một tấm bảng. Nhưng khi lùi ra xa, mọi thứ trở nên chật chội. Bạn ấy bỏ bớt những phần thừa, tăng khoảng cách giữa các hình và để mắt người xem có chỗ nghỉ.",
+      "style": "ink"
+    },
+    {
+      "id": "914d7b10e263",
+      "name": "Viết nhãn",
+      "start": 91.83333333333333,
+      "duration": 10.233333333333334,
+      "background": "white",
+      "objects": [
+        {
+          "id": "b95948e23b2e",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 710,
+          "y": 915,
+          "scale": 4.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 10.233333333333334,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.4500000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": -0.7999999999999998,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 1.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.95,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.08000000000000007,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "idea",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "idea"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "de2dbd81ea58",
+          "kind": "image",
+          "name": "document",
+          "preset": "document",
+          "x": 1040,
+          "y": 180,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.7,
+          "end": 10.233333333333334,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 190,
+          "height": 190,
+          "file": "assets/document.svg",
+          "fit": "contain",
+          "image_width": 190,
+          "enter": "none"
+        },
+        {
+          "id": "670a88bf6ce6",
+          "kind": "shape",
+          "name": "callout",
+          "preset": "callout",
+          "x": 260,
+          "y": 225,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.233333333333334,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 350,
+          "height": 210,
+          "shape": "callout",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "196d5aa48a33",
+          "kind": "text",
+          "name": "NGẮN VÀ RÕ",
+          "preset": "NGẮN VÀ RÕ",
+          "x": 260,
+          "y": 215,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.233333333333334,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 300,
+          "height": 160,
+          "text": "NGẮN VÀ RÕ",
+          "font_size": 36,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "focus",
+      "narration": "Phần nhãn cũng cần được sửa. Những câu quá dài được chia thành các ý ngắn. Lan giữ lại những từ cần thiết, rồi đọc thử thành tiếng. Bạn ấy muốn người xem hiểu được nội dung mà không phải đứng đọc quá lâu.",
+      "style": "ink"
+    },
+    {
+      "id": "2079cd6d6f88",
+      "name": "Nhờ một người bạn",
+      "start": 102.06666666666666,
+      "duration": 11.033333333333331,
+      "background": "white",
+      "objects": [
+        {
+          "id": "2a7bf9475be1",
+          "kind": "image",
+          "name": "network",
+          "preset": "network",
+          "x": 775,
+          "y": 315,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 11.033333333333331,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 700,
+          "height": 440,
+          "file": "assets/network.svg",
+          "fit": "contain",
+          "image_width": 700,
+          "enter": "none"
+        },
+        {
+          "id": "bc9b717bff35",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 180,
+          "y": 650,
+          "scale": 1.95,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 11.033333333333331,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "52b964aaf605",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 515,
+          "y": 655,
+          "scale": 1.2,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 11.033333333333331,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "none",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "e8e73b07dbb5",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 740,
+          "y": 655,
+          "scale": 1.1,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 11.033333333333331,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#ffffff",
+          "shirt_mark": "none",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "dd78a10d3f72",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 1010,
+          "y": 655,
+          "scale": 1.05,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 11.033333333333331,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "none",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "b160ec67930b",
+          "kind": "text",
+          "name": "Thử kể cho người khác",
+          "preset": "Thử kể cho người khác",
+          "x": 800,
+          "y": 80,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 11.033333333333331,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 780,
+          "height": 85,
+          "text": "Thử kể cho người khác",
+          "font_size": 34,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "crowd",
+      "narration": "Khi mọi thứ có vẻ đã ổn, Lan nhờ một người bạn xem thử. Bạn ấy không giải thích trước, chỉ quan sát xem người bạn dừng lại ở đâu và hỏi điều gì. Những câu hỏi ấy giúp Lan nhìn thấy các chỗ chưa rõ.",
+      "style": "ink"
+    },
+    {
+      "id": "dad8409d1ddf",
+      "name": "Lắng nghe",
+      "start": 113.1,
+      "duration": 9.533333333333331,
+      "background": "white",
+      "objects": [
+        {
+          "id": "487fee3c534e",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 270,
+          "y": 680,
+          "scale": 2.9,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 9.533333333333331,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "9d90862da1c1",
+          "kind": "image",
+          "name": "microphone",
+          "preset": "microphone",
+          "x": 925,
+          "y": 190,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 9.533333333333331,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 180,
+          "height": 170,
+          "file": "assets/microphone.svg",
+          "fit": "contain",
+          "image_width": 180,
+          "enter": "none"
+        },
+        {
+          "id": "ad676b306da7",
+          "kind": "shape",
+          "name": "callout",
+          "preset": "callout",
+          "x": 850,
+          "y": 405,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 9.533333333333331,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 620,
+          "height": 285,
+          "shape": "callout",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "6d1148d88b3c",
+          "kind": "text",
+          "name": "Nghe để hiểu",
+          "preset": "Nghe để hiểu",
+          "x": 850,
+          "y": 395,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 9.533333333333331,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 560,
+          "height": 225,
+          "text": "Nghe để hiểu",
+          "font_size": 34,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "quote",
+      "narration": "Có một nhận xét khiến Lan bất ngờ: người bạn hiểu câu chuyện theo một cách khác. Thay vì tranh luận ngay, Lan hỏi thêm lý do. Một hình được đặt sai chỗ đã khiến ý nghĩa của cả đoạn bị thay đổi.",
+      "style": "ink"
+    },
+    {
+      "id": "4dabc975474b",
+      "name": "Thay đổi",
+      "start": 122.63333333333333,
+      "duration": 10.566666666666663,
+      "background": "white",
+      "objects": [
+        {
+          "id": "04ee1da531d9",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 235,
+          "y": 640,
+          "scale": 2.45,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 10.566666666666663,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "77c4eea4da76",
+          "kind": "image",
+          "name": "gear",
+          "preset": "gear",
+          "x": 865,
+          "y": 340,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 10.566666666666663,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 435,
+          "file": "assets/gear.svg",
+          "fit": "contain",
+          "image_width": 650,
+          "enter": "none"
+        },
+        {
+          "id": "3956f51df994",
+          "kind": "text",
+          "name": "Chỉnh từng phần",
+          "preset": "Chỉnh từng phần",
+          "x": 865,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.566666666666663,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 95,
+          "text": "Chỉnh từng phần",
+          "font_size": 30,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "presenter",
+      "narration": "Lan di chuyển bức hình, sửa lại một nhãn và thay thứ tự của hai phần. Bạn ấy không phải làm lại mọi thứ từ đầu. Nhờ giữ từng thành phần riêng, một thay đổi nhỏ có thể được thử và kiểm tra rất nhanh.",
+      "style": "ink"
+    },
+    {
+      "id": "121441c4aba7",
+      "name": "Xem tổng thể",
+      "start": 133.2,
+      "duration": 11.333333333333343,
+      "background": "white",
+      "objects": [
+        {
+          "id": "95b12c7423b6",
+          "kind": "image",
+          "name": "globe",
+          "preset": "globe",
+          "x": 640,
+          "y": 365,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 11.333333333333343,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "scale": [
+              {
+                "t": 0,
+                "v": 1
+              },
+              {
+                "t": 11.333333333333343,
+                "v": 1.12,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1160,
+          "height": 640,
+          "file": "assets/globe.svg",
+          "fit": "contain",
+          "image_width": 1160,
+          "enter": "none"
+        },
+        {
+          "id": "8a8944fef5cb",
+          "kind": "text",
+          "name": "Lùi lại để nhìn rộng hơn",
+          "preset": "Lùi lại để nhìn rộng hơn",
+          "x": 640,
+          "y": 665,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 11.333333333333343,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1000,
+          "height": 65,
+          "text": "Lùi lại để nhìn rộng hơn",
+          "font_size": 28,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "pan",
+      "narration": "Sau khi sửa các chi tiết, Lan lùi lại để nhìn toàn bộ căn phòng. Mỗi góc có thể đẹp riêng, nhưng chúng vẫn cần đi cùng một câu chuyện. Bạn ấy điều chỉnh màu sắc và cách trình bày để các phần không tranh nhau thu hút chú ý.",
+      "style": "ink"
+    },
+    {
+      "id": "02f7ec75a750",
+      "name": "Kiểm tra",
+      "start": 144.53333333333333,
+      "duration": 10.900000000000006,
+      "background": "white",
+      "objects": [
+        {
+          "id": "3bb3a3c76749",
+          "kind": "image",
+          "name": "check",
+          "preset": "check",
+          "x": 340,
+          "y": 320,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.900000000000006,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 405,
+          "file": "assets/check.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "b517e1076b71",
+          "kind": "text",
+          "name": "Đúng nội dung",
+          "preset": "Đúng nội dung",
+          "x": 340,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.900000000000006,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 95,
+          "text": "Đúng nội dung",
+          "font_size": 32,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "a3587e964f7c",
+          "kind": "image",
+          "name": "magnifier",
+          "preset": "magnifier",
+          "x": 940,
+          "y": 320,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.7,
+          "end": 10.900000000000006,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 405,
+          "file": "assets/magnifier.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "f89fa3180252",
+          "kind": "text",
+          "name": "Đọc được",
+          "preset": "Đọc được",
+          "x": 940,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.7,
+          "end": 10.900000000000006,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 95,
+          "text": "Đọc được",
+          "font_size": 32,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "79c1201c3383",
+          "kind": "shape",
+          "name": "arrow",
+          "preset": "arrow",
+          "x": 640,
+          "y": 335,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 10.900000000000006,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 65,
+          "height": 20,
+          "shape": "arrow",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "compare",
+      "narration": "Trước ngày mở cửa, Lan đi kiểm tra từng phần một lần nữa. Nhãn có dễ đọc không, hình có bị che không, và thứ tự có còn đúng với lời giới thiệu không? Những việc nhỏ này giúp tránh nhiều lỗi vào phút cuối.",
+      "style": "ink"
+    },
+    {
+      "id": "c9b8e2b0a1bb",
+      "name": "Buổi trưng bày",
+      "start": 155.43333333333334,
+      "duration": 11.433333333333337,
+      "background": "white",
+      "objects": [
+        {
+          "id": "4dfb448c6c51",
+          "kind": "image",
+          "name": "house",
+          "preset": "house",
+          "x": 775,
+          "y": 315,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 11.433333333333337,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 700,
+          "height": 440,
+          "file": "assets/house.svg",
+          "fit": "contain",
+          "image_width": 700,
+          "enter": "none"
+        },
+        {
+          "id": "d82480fa1ce9",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 180,
+          "y": 650,
+          "scale": 1.95,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 11.433333333333337,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "296f4f221c5a",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 515,
+          "y": 655,
+          "scale": 1.2,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 11.433333333333337,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "none",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "f528e98c9952",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 740,
+          "y": 655,
+          "scale": 1.1,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 11.433333333333337,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#ffffff",
+          "shirt_mark": "none",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "d72956b586fe",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 1010,
+          "y": 655,
+          "scale": 1.05,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 11.433333333333337,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "none",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "7968f4f3936b",
+          "kind": "text",
+          "name": "Câu chuyện được chia sẻ",
+          "preset": "Câu chuyện được chia sẻ",
+          "x": 800,
+          "y": 80,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 11.433333333333337,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 780,
+          "height": 85,
+          "text": "Câu chuyện được chia sẻ",
+          "font_size": 34,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "crowd",
+      "narration": "Rồi căn phòng mở cửa. Có người đi thật nhanh, có người dừng lại rất lâu trước một bức ảnh. Lan nhận ra rằng mình không thể điều khiển mọi cách nhìn. Nhưng bạn ấy có thể chuẩn bị một hành trình đủ rõ để mọi người tự khám phá.",
+      "style": "ink"
+    },
+    {
+      "id": "73891ea8bcec",
+      "name": "Điều được giữ lại",
+      "start": 166.86666666666667,
+      "duration": 11.0,
+      "background": "white",
+      "objects": [
+        {
+          "id": "1e72a18177b9",
+          "kind": "image",
+          "name": "archive",
+          "preset": "archive",
+          "x": 335,
+          "y": 220,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 11.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 270,
+          "file": "assets/archive.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "b2b738db08c3",
+          "kind": "text",
+          "name": "Điều được giữ lại",
+          "preset": "Điều được giữ lại",
+          "x": 335,
+          "y": 357,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 11.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 500,
+          "height": 50,
+          "text": "Điều được giữ lại",
+          "font_size": 23,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "a76ab8d88004",
+          "kind": "image",
+          "name": "book",
+          "preset": "book",
+          "x": 945,
+          "y": 220,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.8,
+          "end": 11.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 270,
+          "file": "assets/book.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "e1e41d4bba21",
+          "kind": "image",
+          "name": "bulb",
+          "preset": "bulb",
+          "x": 335,
+          "y": 520,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 1.6,
+          "end": 11.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 270,
+          "file": "assets/bulb.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "gallery",
+      "narration": "Sau buổi trưng bày, Lan cất lại các tờ ghi chú, ảnh gốc và những nhận xét đã nhận được. Chúng không chỉ là đồ dùng của một buổi triển lãm. Chúng là những mảnh ghép có thể tiếp tục được sửa và sử dụng cho câu chuyện sau.",
+      "style": "ink"
+    },
+    {
+      "id": "15d528d688b1",
+      "name": "Một câu chuyện tiếp theo",
+      "start": 177.86666666666667,
+      "duration": 12.166666666666657,
+      "background": "white",
+      "objects": [
+        {
+          "id": "79317440794b",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 235,
+          "y": 640,
+          "scale": 2.45,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 12.166666666666657,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.5,
+                "v": -0.1
+              },
+              {
+                "t": 1.4,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.5,
+                "v": -0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": -0.05
+              },
+              {
+                "t": 1.4,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.5,
+                "v": 0.1
+              },
+              {
+                "t": 1.4,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.5,
+                "v": 0.05
+              },
+              {
+                "t": 0.5700000000000001,
+                "v": 0.05
+              },
+              {
+                "t": 1.4,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.5,
+                "v": 0
+              },
+              {
+                "t": 1.4,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.5,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.5,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "abfbdf2e3de9",
+          "kind": "image",
+          "name": "compass",
+          "preset": "compass",
+          "x": 865,
+          "y": 340,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 12.166666666666657,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 435,
+          "file": "assets/compass.svg",
+          "fit": "contain",
+          "image_width": 650,
+          "enter": "none"
+        },
+        {
+          "id": "b58a83b8f66d",
+          "kind": "text",
+          "name": "Bắt đầu từ một ý rõ ràng",
+          "preset": "Bắt đầu từ một ý rõ ràng",
+          "x": 865,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 12.166666666666657,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 95,
+          "text": "Bắt đầu từ một ý rõ ràng",
+          "font_size": 30,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "presenter",
+      "narration": "Câu chuyện về Lan là một tình huống tưởng tượng. Điều đáng giữ lại là cách làm: bắt đầu từ một ý rõ ràng, chọn hình có mục đích, thử kể cho người khác và sẵn sàng sửa. Một sản phẩm tốt được tạo nên qua nhiều lần quan sát như thế.",
+      "style": "ink"
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "8ec02dc75369",
+      "start": 0.0,
+      "end": 9.299591836734693,
+      "text": "Lan muốn làm một triển lãm nhỏ trong lớp. Bạn ấy có rất nhiều ý tưởng, nhưng chưa biết phải bắt đầu từ đâu. Thay vì dựng ngay một tấm áp phích thật lớn, Lan quyết định ghi lại điều mình muốn kể.",
+      "role": "Narrator",
+      "scene_id": "faf0e0c6cbe7"
+    },
+    {
+      "id": "61f0c8089a20",
+      "start": 9.866666666666667,
+      "end": 19.677097505668932,
+      "text": "Câu hỏi đầu tiên rất đơn giản: người xem sẽ nhớ điều gì khi bước ra khỏi phòng? Lan không muốn trưng bày mọi thứ cùng một lúc. Bạn ấy chọn một câu chuyện nhỏ, đủ rõ để mọi người có thể theo dõi.",
+      "role": "Narrator",
+      "scene_id": "b3cb6cff25a3"
+    },
+    {
+      "id": "bc821139c5fb",
+      "start": 20.233333333333334,
+      "end": 29.625804988662132,
+      "text": "Lan mở những cuốn sách đã mượn, rồi ghi lại các ý quan trọng lên từng tờ giấy. Có những ý rất hấp dẫn, nhưng chưa liên quan đến câu chuyện. Bạn ấy để chúng sang một bên để dùng vào dịp khác.",
+      "role": "Narrator",
+      "scene_id": "c3eebcd6bace"
+    },
+    {
+      "id": "1c27a20526c9",
+      "start": 30.200000000000003,
+      "end": 39.62730158730159,
+      "text": "Tiếp theo, Lan mang máy ảnh đi tìm những chi tiết quanh mình. Một bức tường, một đồ vật cũ, hay một góc sân đều có thể trở thành hình minh họa. Bạn ấy chụp nhiều góc khác nhau trước khi lựa chọn.",
+      "role": "Narrator",
+      "scene_id": "bc5336b5de63"
+    },
+    {
+      "id": "6ad0beaca351",
+      "start": 40.2,
+      "end": 49.952380952380956,
+      "text": "Khi xem lại ảnh, Lan nhận ra rằng bức hình đẹp nhất chưa chắc đã là bức hình phù hợp nhất. Hình được chọn cần giúp người xem hiểu câu chuyện. Những chi tiết không liên quan đôi khi làm ý chính trở nên khó thấy.",
+      "role": "Narrator",
+      "scene_id": "5e3c1283b163"
+    },
+    {
+      "id": "12d9ea9ce0ac",
+      "start": 50.53333333333334,
+      "end": 60.42503401360545,
+      "text": "Lan đặt những tờ ghi chú cạnh các bức ảnh. Lần đầu tiên, bạn ấy nhìn thấy cả câu chuyện trên một chiếc bàn. Một số phần trùng nhau, một số phần còn thiếu, và thứ tự ban đầu cũng cần được thay đổi.",
+      "role": "Narrator",
+      "scene_id": "9a49af344419"
+    },
+    {
+      "id": "827202e0d3c2",
+      "start": 61.00000000000001,
+      "end": 71.11229024943312,
+      "text": "Bạn ấy thử kể câu chuyện từ đầu đến cuối. Nếu một hình xuất hiện quá sớm, người xem chưa hiểu vì sao nó ở đó. Nếu một thông tin xuất hiện quá muộn, nó không còn giúp giải thích phần trước nữa.",
+      "role": "Narrator",
+      "scene_id": "af4d075ddd22"
+    },
+    {
+      "id": "7645d0ec7b41",
+      "start": 71.66666666666667,
+      "end": 81.16362811791383,
+      "text": "Lan vẽ sơ đồ căn phòng để hình dung đường đi của người xem. Mỗi góc có một nhiệm vụ riêng. Góc đầu đặt câu hỏi, góc giữa đưa ra hình ảnh, và góc cuối dành chỗ để mọi người tự suy nghĩ.",
+      "role": "Narrator",
+      "scene_id": "ce0b6b40bb4c"
+    },
+    {
+      "id": "b5541f9c57e8",
+      "start": 81.73333333333333,
+      "end": 91.26512471655329,
+      "text": "Có lúc Lan muốn đặt thật nhiều hình lên một tấm bảng. Nhưng khi lùi ra xa, mọi thứ trở nên chật chội. Bạn ấy bỏ bớt những phần thừa, tăng khoảng cách giữa các hình và để mắt người xem có chỗ nghỉ.",
+      "role": "Narrator",
+      "scene_id": "439bdb7f3d1f"
+    },
+    {
+      "id": "ba29aff02436",
+      "start": 91.83333333333333,
+      "end": 101.49283446712018,
+      "text": "Phần nhãn cũng cần được sửa. Những câu quá dài được chia thành các ý ngắn. Lan giữ lại những từ cần thiết, rồi đọc thử thành tiếng. Bạn ấy muốn người xem hiểu được nội dung mà không phải đứng đọc quá lâu.",
+      "role": "Narrator",
+      "scene_id": "914d7b10e263"
+    },
+    {
+      "id": "a79eef7f6efc",
+      "start": 102.06666666666666,
+      "end": 112.53886621315192,
+      "text": "Khi mọi thứ có vẻ đã ổn, Lan nhờ một người bạn xem thử. Bạn ấy không giải thích trước, chỉ quan sát xem người bạn dừng lại ở đâu và hỏi điều gì. Những câu hỏi ấy giúp Lan nhìn thấy các chỗ chưa rõ.",
+      "role": "Narrator",
+      "scene_id": "2079cd6d6f88"
+    },
+    {
+      "id": "11464f7c4942",
+      "start": 113.1,
+      "end": 122.06290249433106,
+      "text": "Có một nhận xét khiến Lan bất ngờ: người bạn hiểu câu chuyện theo một cách khác. Thay vì tranh luận ngay, Lan hỏi thêm lý do. Một hình được đặt sai chỗ đã khiến ý nghĩa của cả đoạn bị thay đổi.",
+      "role": "Narrator",
+      "scene_id": "dad8409d1ddf"
+    },
+    {
+      "id": "2e8a62fc44ab",
+      "start": 122.63333333333333,
+      "end": 132.6295238095238,
+      "text": "Lan di chuyển bức hình, sửa lại một nhãn và thay thứ tự của hai phần. Bạn ấy không phải làm lại mọi thứ từ đầu. Nhờ giữ từng thành phần riêng, một thay đổi nhỏ có thể được thử và kiểm tra rất nhanh.",
+      "role": "Narrator",
+      "scene_id": "4dabc975474b"
+    },
+    {
+      "id": "dacbc1b96525",
+      "start": 133.2,
+      "end": 143.95083900226757,
+      "text": "Sau khi sửa các chi tiết, Lan lùi lại để nhìn toàn bộ căn phòng. Mỗi góc có thể đẹp riêng, nhưng chúng vẫn cần đi cùng một câu chuyện. Bạn ấy điều chỉnh màu sắc và cách trình bày để các phần không tranh nhau thu hút chú ý.",
+      "role": "Narrator",
+      "scene_id": "121441c4aba7"
+    },
+    {
+      "id": "1cce6357754b",
+      "start": 144.53333333333333,
+      "end": 154.8778231292517,
+      "text": "Trước ngày mở cửa, Lan đi kiểm tra từng phần một lần nữa. Nhãn có dễ đọc không, hình có bị che không, và thứ tự có còn đúng với lời giới thiệu không? Những việc nhỏ này giúp tránh nhiều lỗi vào phút cuối.",
+      "role": "Narrator",
+      "scene_id": "02f7ec75a750"
+    },
+    {
+      "id": "4bf664bce0a1",
+      "start": 155.43333333333334,
+      "end": 166.2886621315193,
+      "text": "Rồi căn phòng mở cửa. Có người đi thật nhanh, có người dừng lại rất lâu trước một bức ảnh. Lan nhận ra rằng mình không thể điều khiển mọi cách nhìn. Nhưng bạn ấy có thể chuẩn bị một hành trình đủ rõ để mọi người tự khám phá.",
+      "role": "Narrator",
+      "scene_id": "c9b8e2b0a1bb"
+    },
+    {
+      "id": "112160759317",
+      "start": 166.86666666666667,
+      "end": 177.29242630385488,
+      "text": "Sau buổi trưng bày, Lan cất lại các tờ ghi chú, ảnh gốc và những nhận xét đã nhận được. Chúng không chỉ là đồ dùng của một buổi triển lãm. Chúng là những mảnh ghép có thể tiếp tục được sửa và sử dụng cho câu chuyện sau.",
+      "role": "Narrator",
+      "scene_id": "73891ea8bcec"
+    },
+    {
+      "id": "a93803461d1a",
+      "start": 177.86666666666667,
+      "end": 189.46503401360545,
+      "text": "Câu chuyện về Lan là một tình huống tưởng tượng. Điều đáng giữ lại là cách làm: bắt đầu từ một ý rõ ràng, chọn hình có mục đích, thử kể cho người khác và sẵn sàng sửa. Một sản phẩm tốt được tạo nên qua nhiều lần quan sát như thế.",
+      "role": "Narrator",
+      "scene_id": "15d528d688b1"
+    }
+  ],
+  "audio": [
+    {
+      "id": "5def09532667",
+      "name": "Lời · Bắt đầu",
+      "file": "assets/narration.wav",
+      "start": 0.0,
+      "trim": 0.0,
+      "duration": 9.866666666666667,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "faf0e0c6cbe7"
+    },
+    {
+      "id": "430255e901e0",
+      "name": "Lời · Đặt câu hỏi",
+      "file": "assets/narration.wav",
+      "start": 9.866666666666667,
+      "trim": 9.866666666666667,
+      "duration": 10.366666666666667,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "b3cb6cff25a3"
+    },
+    {
+      "id": "b96f6286289a",
+      "name": "Lời · Tìm tài liệu",
+      "file": "assets/narration.wav",
+      "start": 20.233333333333334,
+      "trim": 20.233333333333334,
+      "duration": 9.966666666666669,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "c3eebcd6bace"
+    },
+    {
+      "id": "489e5d0f615b",
+      "name": "Lời · Nhìn quanh",
+      "file": "assets/narration.wav",
+      "start": 30.200000000000003,
+      "trim": 30.200000000000003,
+      "duration": 10.0,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "bc5336b5de63"
+    },
+    {
+      "id": "00ff1627fd64",
+      "name": "Lời · Chọn hình",
+      "file": "assets/narration.wav",
+      "start": 40.2,
+      "trim": 40.2,
+      "duration": 10.333333333333336,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "5e3c1283b163"
+    },
+    {
+      "id": "49cdfcf954a6",
+      "name": "Lời · Đặt các mảnh ghép",
+      "file": "assets/narration.wav",
+      "start": 50.53333333333334,
+      "trim": 50.53333333333334,
+      "duration": 10.466666666666669,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "9a49af344419"
+    },
+    {
+      "id": "f93de2e3125b",
+      "name": "Lời · Sắp thứ tự",
+      "file": "assets/narration.wav",
+      "start": 61.00000000000001,
+      "trim": 61.00000000000001,
+      "duration": 10.666666666666664,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "af4d075ddd22"
+    },
+    {
+      "id": "b2b41aa07bee",
+      "name": "Lời · Một tấm bản đồ",
+      "file": "assets/narration.wav",
+      "start": 71.66666666666667,
+      "trim": 71.66666666666667,
+      "duration": 10.066666666666663,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "ce0b6b40bb4c"
+    },
+    {
+      "id": "6f66d546b252",
+      "name": "Lời · Chừa khoảng trống",
+      "file": "assets/narration.wav",
+      "start": 81.73333333333333,
+      "trim": 81.73333333333333,
+      "duration": 10.099999999999994,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "439bdb7f3d1f"
+    },
+    {
+      "id": "3564306ecdd5",
+      "name": "Lời · Viết nhãn",
+      "file": "assets/narration.wav",
+      "start": 91.83333333333333,
+      "trim": 91.83333333333333,
+      "duration": 10.233333333333334,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "914d7b10e263"
+    },
+    {
+      "id": "a258bf9985a4",
+      "name": "Lời · Nhờ một người bạn",
+      "file": "assets/narration.wav",
+      "start": 102.06666666666666,
+      "trim": 102.06666666666666,
+      "duration": 11.033333333333331,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "2079cd6d6f88"
+    },
+    {
+      "id": "6a37661fbc79",
+      "name": "Lời · Lắng nghe",
+      "file": "assets/narration.wav",
+      "start": 113.1,
+      "trim": 113.1,
+      "duration": 9.533333333333331,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "dad8409d1ddf"
+    },
+    {
+      "id": "7e48ca4c2206",
+      "name": "Lời · Thay đổi",
+      "file": "assets/narration.wav",
+      "start": 122.63333333333333,
+      "trim": 122.63333333333333,
+      "duration": 10.566666666666663,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "4dabc975474b"
+    },
+    {
+      "id": "d7472d0720a4",
+      "name": "Lời · Xem tổng thể",
+      "file": "assets/narration.wav",
+      "start": 133.2,
+      "trim": 133.2,
+      "duration": 11.333333333333343,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "121441c4aba7"
+    },
+    {
+      "id": "eb6acc2f3ff2",
+      "name": "Lời · Kiểm tra",
+      "file": "assets/narration.wav",
+      "start": 144.53333333333333,
+      "trim": 144.53333333333333,
+      "duration": 10.900000000000006,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "02f7ec75a750"
+    },
+    {
+      "id": "814dfabf158c",
+      "name": "Lời · Buổi trưng bày",
+      "file": "assets/narration.wav",
+      "start": 155.43333333333334,
+      "trim": 155.43333333333334,
+      "duration": 11.433333333333337,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "c9b8e2b0a1bb"
+    },
+    {
+      "id": "1a7ac7854969",
+      "name": "Lời · Điều được giữ lại",
+      "file": "assets/narration.wav",
+      "start": 166.86666666666667,
+      "trim": 166.86666666666667,
+      "duration": 11.0,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "73891ea8bcec"
+    },
+    {
+      "id": "0976443351d6",
+      "name": "Lời · Một câu chuyện tiếp theo",
+      "file": "assets/narration.wav",
+      "start": 177.86666666666667,
+      "trim": 177.86666666666667,
+      "duration": 12.166666666666657,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "15d528d688b1"
+    }
+  ],
+  "references": [],
+  "subtitle_style": {
+    "enabled": false,
+    "size": 26,
+    "font": "Segoe UI",
+    "color": "#ffffff",
+    "background": true,
+    "y": 0.96
+  },
+  "duck_music": true,
+  "audio_rate": 48000,
+  "audio_channels": 2,
+  "render_profile": "final",
+  "storyboard": {
+    "version": 1,
+    "name": "Triển lãm nhỏ của Lan · Câu chuyện kiểm chứng thứ hai",
+    "voice": "assets/narration.wav",
+    "timing": "authored",
+    "rows": [
+      {
+        "start": 0,
+        "end": 9.866666666666667,
+        "cue_start": 0,
+        "cue_end": 9.299591836734693,
+        "style": "ink",
+        "title": "Bắt đầu",
+        "text": "Lan muốn làm một triển lãm nhỏ trong lớp. Bạn ấy có rất nhiều ý tưởng, nhưng chưa biết phải bắt đầu từ đâu. Thay vì dựng ngay một tấm áp phích thật lớn, Lan quyết định ghi lại điều mình muốn kể.",
+        "assets": [
+          "assets/bulb.svg"
+        ],
+        "layout": "focus",
+        "labels": [
+          "MỘT TRIỂN LÃM NHỎ"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "idea",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 9.866666666666667,
+        "end": 20.233333333333334,
+        "cue_start": 9.866666666666667,
+        "cue_end": 19.677097505668932,
+        "style": "ink",
+        "title": "Đặt câu hỏi",
+        "text": "Câu hỏi đầu tiên rất đơn giản: người xem sẽ nhớ điều gì khi bước ra khỏi phòng? Lan không muốn trưng bày mọi thứ cùng một lúc. Bạn ấy chọn một câu chuyện nhỏ, đủ rõ để mọi người có thể theo dõi.",
+        "assets": [
+          "assets/question.svg"
+        ],
+        "layout": "quote",
+        "labels": [
+          "Mình muốn kể điều gì?"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 20.233333333333334,
+        "end": 30.200000000000003,
+        "cue_start": 20.233333333333334,
+        "cue_end": 29.625804988662132,
+        "style": "ink",
+        "title": "Tìm tài liệu",
+        "text": "Lan mở những cuốn sách đã mượn, rồi ghi lại các ý quan trọng lên từng tờ giấy. Có những ý rất hấp dẫn, nhưng chưa liên quan đến câu chuyện. Bạn ấy để chúng sang một bên để dùng vào dịp khác.",
+        "assets": [
+          "assets/book.svg",
+          "assets/document.svg"
+        ],
+        "layout": "compare",
+        "labels": [
+          "Đọc và ghi lại"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 30.200000000000003,
+        "end": 40.2,
+        "cue_start": 30.200000000000003,
+        "cue_end": 39.62730158730159,
+        "style": "ink",
+        "title": "Nhìn quanh",
+        "text": "Tiếp theo, Lan mang máy ảnh đi tìm những chi tiết quanh mình. Một bức tường, một đồ vật cũ, hay một góc sân đều có thể trở thành hình minh họa. Bạn ấy chụp nhiều góc khác nhau trước khi lựa chọn.",
+        "assets": [
+          "assets/camera.svg"
+        ],
+        "layout": "presenter",
+        "labels": [
+          "Những chi tiết quanh mình"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 40.2,
+        "end": 50.53333333333334,
+        "cue_start": 40.2,
+        "cue_end": 49.952380952380956,
+        "style": "ink",
+        "title": "Chọn hình",
+        "text": "Khi xem lại ảnh, Lan nhận ra rằng bức hình đẹp nhất chưa chắc đã là bức hình phù hợp nhất. Hình được chọn cần giúp người xem hiểu câu chuyện. Những chi tiết không liên quan đôi khi làm ý chính trở nên khó thấy.",
+        "assets": [
+          "assets/camera.svg",
+          "assets/magnifier.svg"
+        ],
+        "layout": "compare",
+        "labels": [
+          "Rõ và có ý nghĩa"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 50.53333333333334,
+        "end": 61.00000000000001,
+        "cue_start": 50.53333333333334,
+        "cue_end": 60.42503401360545,
+        "style": "ink",
+        "title": "Đặt các mảnh ghép",
+        "text": "Lan đặt những tờ ghi chú cạnh các bức ảnh. Lần đầu tiên, bạn ấy nhìn thấy cả câu chuyện trên một chiếc bàn. Một số phần trùng nhau, một số phần còn thiếu, và thứ tự ban đầu cũng cần được thay đổi.",
+        "assets": [
+          "assets/document.svg",
+          "assets/camera.svg",
+          "assets/book.svg"
+        ],
+        "layout": "gallery",
+        "labels": [
+          "Đặt các mảnh ghép"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 61.00000000000001,
+        "end": 71.66666666666667,
+        "cue_start": 61.00000000000001,
+        "cue_end": 71.11229024943312,
+        "style": "ink",
+        "title": "Sắp thứ tự",
+        "text": "Bạn ấy thử kể câu chuyện từ đầu đến cuối. Nếu một hình xuất hiện quá sớm, người xem chưa hiểu vì sao nó ở đó. Nếu một thông tin xuất hiện quá muộn, nó không còn giúp giải thích phần trước nữa.",
+        "assets": [
+          "assets/clock.svg",
+          "assets/calendar.svg",
+          "assets/compass.svg"
+        ],
+        "layout": "timeline",
+        "labels": [
+          "Bắt đầu",
+          "Diễn biến",
+          "Kết thúc"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 71.66666666666667,
+        "end": 81.73333333333333,
+        "cue_start": 71.66666666666667,
+        "cue_end": 81.16362811791383,
+        "style": "ink",
+        "title": "Một tấm bản đồ",
+        "text": "Lan vẽ sơ đồ căn phòng để hình dung đường đi của người xem. Mỗi góc có một nhiệm vụ riêng. Góc đầu đặt câu hỏi, góc giữa đưa ra hình ảnh, và góc cuối dành chỗ để mọi người tự suy nghĩ.",
+        "assets": [
+          "assets/map.svg"
+        ],
+        "layout": "map",
+        "labels": [
+          "Đường đi của người xem"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 81.73333333333333,
+        "end": 91.83333333333333,
+        "cue_start": 81.73333333333333,
+        "cue_end": 91.26512471655329,
+        "style": "ink",
+        "title": "Chừa khoảng trống",
+        "text": "Có lúc Lan muốn đặt thật nhiều hình lên một tấm bảng. Nhưng khi lùi ra xa, mọi thứ trở nên chật chội. Bạn ấy bỏ bớt những phần thừa, tăng khoảng cách giữa các hình và để mắt người xem có chỗ nghỉ.",
+        "assets": [
+          "assets/archive.svg"
+        ],
+        "layout": "presenter",
+        "labels": [
+          "Đủ chỗ để nhìn"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 91.83333333333333,
+        "end": 102.06666666666666,
+        "cue_start": 91.83333333333333,
+        "cue_end": 101.49283446712018,
+        "style": "ink",
+        "title": "Viết nhãn",
+        "text": "Phần nhãn cũng cần được sửa. Những câu quá dài được chia thành các ý ngắn. Lan giữ lại những từ cần thiết, rồi đọc thử thành tiếng. Bạn ấy muốn người xem hiểu được nội dung mà không phải đứng đọc quá lâu.",
+        "assets": [
+          "assets/document.svg"
+        ],
+        "layout": "focus",
+        "labels": [
+          "NGẮN VÀ RÕ"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "idea",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 102.06666666666666,
+        "end": 113.1,
+        "cue_start": 102.06666666666666,
+        "cue_end": 112.53886621315192,
+        "style": "ink",
+        "title": "Nhờ một người bạn",
+        "text": "Khi mọi thứ có vẻ đã ổn, Lan nhờ một người bạn xem thử. Bạn ấy không giải thích trước, chỉ quan sát xem người bạn dừng lại ở đâu và hỏi điều gì. Những câu hỏi ấy giúp Lan nhìn thấy các chỗ chưa rõ.",
+        "assets": [
+          "assets/network.svg"
+        ],
+        "layout": "crowd",
+        "labels": [
+          "Thử kể cho người khác"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 113.1,
+        "end": 122.63333333333333,
+        "cue_start": 113.1,
+        "cue_end": 122.06290249433106,
+        "style": "ink",
+        "title": "Lắng nghe",
+        "text": "Có một nhận xét khiến Lan bất ngờ: người bạn hiểu câu chuyện theo một cách khác. Thay vì tranh luận ngay, Lan hỏi thêm lý do. Một hình được đặt sai chỗ đã khiến ý nghĩa của cả đoạn bị thay đổi.",
+        "assets": [
+          "assets/microphone.svg"
+        ],
+        "layout": "quote",
+        "labels": [
+          "Nghe để hiểu"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 122.63333333333333,
+        "end": 133.2,
+        "cue_start": 122.63333333333333,
+        "cue_end": 132.6295238095238,
+        "style": "ink",
+        "title": "Thay đổi",
+        "text": "Lan di chuyển bức hình, sửa lại một nhãn và thay thứ tự của hai phần. Bạn ấy không phải làm lại mọi thứ từ đầu. Nhờ giữ từng thành phần riêng, một thay đổi nhỏ có thể được thử và kiểm tra rất nhanh.",
+        "assets": [
+          "assets/gear.svg"
+        ],
+        "layout": "presenter",
+        "labels": [
+          "Chỉnh từng phần"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 133.2,
+        "end": 144.53333333333333,
+        "cue_start": 133.2,
+        "cue_end": 143.95083900226757,
+        "style": "ink",
+        "title": "Xem tổng thể",
+        "text": "Sau khi sửa các chi tiết, Lan lùi lại để nhìn toàn bộ căn phòng. Mỗi góc có thể đẹp riêng, nhưng chúng vẫn cần đi cùng một câu chuyện. Bạn ấy điều chỉnh màu sắc và cách trình bày để các phần không tranh nhau thu hút chú ý.",
+        "assets": [
+          "assets/globe.svg"
+        ],
+        "layout": "pan",
+        "labels": [
+          "Lùi lại để nhìn rộng hơn"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 144.53333333333333,
+        "end": 155.43333333333334,
+        "cue_start": 144.53333333333333,
+        "cue_end": 154.8778231292517,
+        "style": "ink",
+        "title": "Kiểm tra",
+        "text": "Trước ngày mở cửa, Lan đi kiểm tra từng phần một lần nữa. Nhãn có dễ đọc không, hình có bị che không, và thứ tự có còn đúng với lời giới thiệu không? Những việc nhỏ này giúp tránh nhiều lỗi vào phút cuối.",
+        "assets": [
+          "assets/check.svg",
+          "assets/magnifier.svg"
+        ],
+        "layout": "compare",
+        "labels": [
+          "Đúng nội dung",
+          "Đọc được"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 155.43333333333334,
+        "end": 166.86666666666667,
+        "cue_start": 155.43333333333334,
+        "cue_end": 166.2886621315193,
+        "style": "ink",
+        "title": "Buổi trưng bày",
+        "text": "Rồi căn phòng mở cửa. Có người đi thật nhanh, có người dừng lại rất lâu trước một bức ảnh. Lan nhận ra rằng mình không thể điều khiển mọi cách nhìn. Nhưng bạn ấy có thể chuẩn bị một hành trình đủ rõ để mọi người tự khám phá.",
+        "assets": [
+          "assets/house.svg"
+        ],
+        "layout": "crowd",
+        "labels": [
+          "Câu chuyện được chia sẻ"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 166.86666666666667,
+        "end": 177.86666666666667,
+        "cue_start": 166.86666666666667,
+        "cue_end": 177.29242630385488,
+        "style": "ink",
+        "title": "Điều được giữ lại",
+        "text": "Sau buổi trưng bày, Lan cất lại các tờ ghi chú, ảnh gốc và những nhận xét đã nhận được. Chúng không chỉ là đồ dùng của một buổi triển lãm. Chúng là những mảnh ghép có thể tiếp tục được sửa và sử dụng cho câu chuyện sau.",
+        "assets": [
+          "assets/archive.svg",
+          "assets/book.svg",
+          "assets/bulb.svg"
+        ],
+        "layout": "gallery",
+        "labels": [
+          "Điều được giữ lại"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      },
+      {
+        "start": 177.86666666666667,
+        "end": 190.03333333333333,
+        "cue_start": 177.86666666666667,
+        "cue_end": 189.46503401360545,
+        "style": "ink",
+        "title": "Một câu chuyện tiếp theo",
+        "text": "Câu chuyện về Lan là một tình huống tưởng tượng. Điều đáng giữ lại là cách làm: bắt đầu từ một ý rõ ràng, chọn hình có mục đích, thử kể cho người khác và sẵn sàng sửa. Một sản phẩm tốt được tạo nên qua nhiều lần quan sát như thế.",
+        "assets": [
+          "assets/compass.svg"
+        ],
+        "layout": "presenter",
+        "labels": [
+          "Bắt đầu từ một ý rõ ràng"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.5,
+            "pose": "explain",
+            "blend": 0.9
+          }
+        ]
+      }
+    ]
+  }
+}

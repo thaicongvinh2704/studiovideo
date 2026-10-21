@@ -1,0 +1,7 @@
+{
+  "export_1280x720_24fps.mp4": "PASS (ffprobe validated by exporter)",
+  "export_1920x1080_30fps.mp4": "PASS (ffprobe validated by exporter)",
+  "export_480x854_12fps.mp4": "PASS (ffprobe validated by exporter)",
+  "scene_cache_resume": "PASS (2 scenes concatenated; retry reused both cached MP4 files)",
+  "audio_mixer": "PASS (voice + music + SFX; trim/fades/delay; ducking changes output; 4 seconds validated)"
+}

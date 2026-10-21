@@ -1,0 +1,17 @@
+{
+  "reviewer": "Codex — current rendered full figure, face, both hands, thumbnail and three-reference comparison inspected",
+  "checks": {
+    "reference_style": {"pass": true, "note": "Đã đối chiếu cả ba ảnh: giữ nền trắng, đầu lớn, tóc đen có hướng, áo thun trắng và màu phẳng; đây là biến thể gốc, không nhận là người dùng đã duyệt khuôn mặt này."},
+    "proportions": {"pass": true, "note": "Toàn hình hiện khoảng ba đầu, vai rộng hơn đầu, cổ nối giữa hai vai; tay và chân không còn dạng que hoặc cổ kéo dài như mẫu trước."},
+    "face_hair": {"pass": true, "note": "Cận mặt có hai mắt, hai mày, mũi, miệng cười, hai tai và đường tóc; tóc có các nét chải, không còn mảng đám mây của mẫu áo xanh."},
+    "left_hand": {"pass": true, "note": "Đã xem crop tay trái sau sửa: có lòng bàn tay, ngón cái bên phải và bốn đầu ngón thả xuống, ba khe phân ngón; bỏ các nét trong ngón gây dính ở bản trước."},
+    "right_hand": {"pass": true, "note": "Đã xem crop tay phải sau sửa: đường bao có năm đầu ngón phân biệt, ngón cái cao và bốn ngón xòe; cổ tay nối cẳng tay, không dùng đầu cánh tay tròn thay bàn tay."},
+    "limb_connections": {"pass": true, "note": "Toàn hình có tay trái buông có cổ tay, tay phải gập có khuỷu và bàn tay; hai chân riêng, hai giày bám cùng mặt phẳng, không có chi thừa hoặc nét xuyên thân."},
+    "clothing": {"pass": true, "note": "Cổ áo tròn, hai mép tay áo, gấu áo, cạp quần, hai ống quần và viền đế giày đều nhìn thấy và kết thúc rõ; áo phủ phần vai của cánh tay đúng thứ tự."},
+    "line_fill": {"pass": true, "note": "Đã xem mặt và tay phóng lớn: vùng da khép, không rò trắng qua lòng bàn tay; viền tay trái được giảm độ dày để khe ngón không bị đen dính; màu thân và quần phẳng."},
+    "identity": {"pass": true, "note": "Bản toàn thân, ảnh mặt và ảnh nhỏ cùng một dữ liệu nét; không tái dùng đầu tóc của mẫu bị từ chối. Mẫu này là study-02, chưa khóa thành thiết kế được người dùng duyệt."},
+    "small_size": {"pass": true, "note": "Ở ảnh nhỏ 180 px ngang vẫn đọc được mặt cười, dáng đứng, tay buông và tay mở; chi tiết tóc giản lược nhưng không mất đường tóc, cổ áo hoặc silhouette hai bàn tay."},
+    "crop_overlap": {"pass": true, "note": "Ảnh toàn hình có khoảng trắng quanh tóc, tay xòe và giày; hai tay đều lộ, không mượn sổ hay khối đồ vật để che lỗi bàn tay. Bảng so sánh dùng crop chủ đích của reference."},
+    "static_delivery": {"pass": true, "note": "Đây là một hình tĩnh có tư thế trình bày, không rig hoặc thêm nháy mắt; phần người nằm trái sơ đồ, tay mở hướng về nội dung và không đè lên vật thể bên phải."}
+  }
+}

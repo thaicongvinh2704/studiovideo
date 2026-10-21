@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "video": "Angkor_Wat_Mot_vu_tru_bang_da_1080p.mp4",
+  "seconds": 60.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": "30/1",
+  "frames": 1800,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_channels": 2,
+  "audio_sample_rate": "48000",
+  "full_decode": "PASS",
+  "motion_frames_differ": "PASS",
+  "scenes": 8,
+  "editable_layers": 265,
+  "voice": "VieNeu-TTS v3 Turbo · Hải Đăng",
+  "requested_voice_name_confirmed": false,
+  "render_seconds": 55.04,
+  "art_approval": "Not assumed; requires viewing by the user"
+}

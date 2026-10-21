@@ -1,0 +1,19 @@
+{
+  "status": "preview_only_pending_user_review",
+  "source_sha256": "b537ed516be76722f15443aed4e6d8219b4f291440c4b7dd2be1b4f27cd0ff56",
+  "notes": {
+    "reference_style": "Giữ đúng mẫu Sơn Tinh trước và kiểu người giản lược vừa chọn: đầu lớn, nét tối, mảng màu phẳng, thân dưới liền.",
+    "proportions": "Đầu và thân giữ nguyên đường nét; hai khuỷu gập về trước để hai bàn tay cùng đỡ tảng đá ngang bụng.",
+    "face_hair": "Mặt, mắt, mày, miệng, tóc, búi tóc và băng trán lấy nguyên từ bản trước, không tạo lại; đã xem ảnh cận mặt hiện tại.",
+    "left_hand": "Đã xem cận: ngón cái hướng lên, bốn ngón vòng trước cạnh đá. Bàn tay khép mảng và có đường nối cổ tay đậm; kiểu bàn tay còn giản lược.",
+    "right_hand": "Đã xem cận: tay phải phản chiếu theo cùng cấu trúc nên giữ kích thước; ngón cái và bốn ngón đọc được. Cẳng tay phải đi từ tay áo đến lòng bàn tay.",
+    "limb_connections": "Cánh tay được xếp sau áo, bàn tay phía trước đá. Hai khuỷu gập; cổ và cằm giữ nguyên. Không dùng đá để tuyên bố đạt giải phẫu ở phần khuất.",
+    "clothing": "Áo, đai lưng, khóa và tà được giữ nguyên; đá che phần áo phía trước đúng động tác. Mẫu cổ giao là diễn giải minh họa, không phục dựng trang phục lịch sử.",
+    "line_fill": "Nét và màu dùng cùng thông số bản trước; vùng da, đá và áo kín. Các đường cổ tay khá đậm nên không tự xác nhận chất lượng hoàn thiện ngoài phạm vi bản xem.",
+    "identity": "Kiểm tra dữ liệu cho thấy 29 path được giữ nguyên; nét mới là hai cẳng tay, hai bàn tay và ba path tảng đá. Việc tái sử dụng này không phải kết quả sinh ảnh.",
+    "small_size": "Đã xem thumbnail: hai bàn tay kẹp dưới mép đá, đầu và trang phục nhận ra được. Biểu cảm vẫn nhẹ nhàng như bản trước, chưa thêm gắng sức.",
+    "crop_overlap": "Tóc, khuỷu, bàn tay và gấu áo nằm trong khung. Đá trước thân và tay trước đá đúng thứ tự; các ngón không bị crop.",
+    "static_delivery": "Chỉ giao một tư thế tĩnh mới và bản vector chỉnh được; chưa diễn hoạt, chưa ghi PASS hay thay master. Thời gian ảnh đầu được lưu riêng, chưa bao gồm kiểm tra thị giác."
+  },
+  "approved_master": false
+}

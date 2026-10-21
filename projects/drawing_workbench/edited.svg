@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<g id="fc874349a2bb" transform="translate(0 0)">
+<path d="M242 295 C244 330 216 350 190 385 C179 399.5 176 420.75 178.75 442.5 C181.5 464.25 190 486.5 202 503 C229 538 331 538 358 503 C381 471 380 414 358 385 C332 350 315 330 318 295 Z" fill="#d79b75" stroke="#252b2d" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M242 295 C255 286 303 286 318 295 C307 306 254 307 242 295 Z" fill="#f1c49d" stroke="#252b2d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M214 403 C234 420 323 422 346 403 M204 431 C230 450 327 452 356 432" fill="none" stroke="#875d48" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M215 472 C229 490 252 494 268 495" fill="none" stroke="#efd1b6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M164 540 C230 545 334 547 396 540" fill="none" stroke="#7b827c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="b7c06bcd5ce2" transform="translate(0 0)">
+<path d="M728 408 C832 405 932 410 1038 407 L1035 523 C934 527 829 525 727 522 Z" fill="#cf8b60" stroke="#252b2d" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M728 408 L768 372 C873 369 979 372 1078 370 L1038 407 Z" fill="#e6b18a" stroke="#252b2d" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1038 407 L1078 370 L1076 485 L1035 523 Z" fill="#b77550" stroke="#252b2d" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M729 465 C827 462 932 467 1036 464 M824 408 L823 463 M929 409 L931 465 M776 465 L778 523 M881 465 L879 524 M983 464 L982 524" fill="none" stroke="#624c40" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M696 538 C827 544 990 542 1107 538" fill="none" stroke="#7b827c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="127f14a51b5c" transform="translate(0 0)">
+<path d="M724.75412 310.27094 L757.03917 293.86422 L802.96093 302.76955 L850.02987 292.25141 L901.6293 305.29488 L972.3813 291.06449 L973.35103 291.02061 L974.28401 291.28867 L975.08255 291.84061 L975.66305 292.61863 L975.96472 293.54129 L975.95599 294.51197 L975.63777 295.42905 L975.04337 296.19651 L974.23503 296.73399 L973.29738 296.98522 L972.32859 296.9239 L971.43011 296.55645 L970.69599 295.92133 L970.2031 295.08505 L970.00305 294.13517 L970.11678 293.17113 L970.53238 292.29388 L971.20634 291.59525 L972.06811 291.14841 L973.02744 291.00013 L973.98389 291.16593 L974.83734 291.62846 L975.49841 292.33929 L975.8979 293.224 L975.99398 294.18996 L975.77659 295.13603 L975.26849 295.96315 L974.52287 296.58473 L973.61782 296.93569 L973.6187 296.93551 L900.16764 313.09784 L852.11112 303.4552 L800.3365 315.85771 L759.59083 302.63078 L727.24588 315.72906 L726.55654 315.94792 L725.83486 315.99545 L725.12278 315.86888 L724.46168 315.57557 L723.88999 315.13257 L723.44094 314.56563 L723.14061 313.90769 L723.00647 313.19699 L723.04632 312.47485 L723.25784 311.78322 L723.62873 311.16232 L724.13744 310.64822 L724.7544 310.27081 Z" fill="#326dc9" stroke="none" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="ab84d48908ae" transform="translate(0 0)">
+<text x="65" y="70" font-family="Segoe UI" font-size="22" font-weight="400" fill="#168d83">BÀN VẼ STUDIO</text>
+<text x="65" y="120" font-family="Segoe UI" font-size="34" font-weight="400" fill="#252b2d">Dựng hình. Chỉnh nét. Giữ phong cách.</text>
+<text x="65" y="158" font-family="Segoe UI" font-size="18" font-weight="400" fill="#6c7774">Bài tập công cụ · vật thể vector · không phải mẫu nhân vật</text>
+<text x="65" y="237" font-family="Segoe UI" font-size="18" font-weight="400" fill="#168d83">01 / SỬA ĐƯỜNG CONG</text>
+<text x="65" y="605" font-family="Segoe UI" font-size="17" font-weight="400" fill="#6c7774">Chọn bình → Sửa nút → kéo điểm / tay nắm</text>
+<text x="660" y="237" font-family="Segoe UI" font-size="18" font-weight="400" fill="#168d83">02 / DI CHUYỂN THEO MỐC</text>
+<text x="660" y="605" font-family="Segoe UI" font-size="17" font-weight="400" fill="#6c7774">Chọn lớp Cụm gạch → Mốc → kéo “gach”</text>
+<text x="65" y="680" font-family="Segoe UI" font-size="18" font-weight="400" fill="#6c7774">Cuộn để phóng to  •  Chuột giữa để kéo  •  F để vừa khung</text>
+</g>
+</svg>

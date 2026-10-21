@@ -1,0 +1,952 @@
+{
+  "pack": "Mo_Den_Studio_Named_24_PNG.zip",
+  "archive_sha256": "ed1553df7b54bea74783b739b183b0b9123115ac1fa745ef6b2831d853f96a96",
+  "assets": [
+    {
+      "id": "mo_den_01",
+      "emotion": "neutral",
+      "emotion_vi": "Bình thường",
+      "pose": "seated_paws_resting",
+      "description_en": "Attentive open eyes, relaxed brows and small closed mouth. Both front paws rest near the belly.",
+      "use_cases_en": [
+        "Listening",
+        "neutral pause",
+        "default narrator state"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_01_neutral_seated_paws_resting.png",
+      "sha256": "91bf1830ef8d67fa7f03f2b93753f0f088c4b25eb479cf693d8d1ebbb2a747af",
+      "bytes": 1064953,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        507,
+        284,
+        1692,
+        1780
+      ],
+      "transparent_fraction": 0.7116568088531494,
+      "baseline_px": 1779,
+      "file": "library/named_24_v01/mo_den_01_neutral_seated_paws_resting.png",
+      "visual_notes": "Mắt mở vừa, miệng khép, hai chân trước đặt gần bụng; phù hợp trạng thái mặc định.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_02",
+      "emotion": "happy",
+      "emotion_vi": "Vui vẻ",
+      "pose": "seated_greeting",
+      "description_en": "Open bright eyes and a closed smile. One paw is raised in a friendly greeting.",
+      "use_cases_en": [
+        "Greeting",
+        "positive news",
+        "mild happiness"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_02_happy_seated_greeting.png",
+      "sha256": "0e6c6db3a1642209bd97f190a3fe0ed75095151911f3a0cc363ad672de0cbfdf",
+      "bytes": 1085605,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        470,
+        285,
+        1697,
+        1780
+      ],
+      "transparent_fraction": 0.711836576461792,
+      "baseline_px": 1779,
+      "file": "library/named_24_v01/mo_den_02_happy_seated_greeting.png",
+      "visual_notes": "Một chân trước giơ chào, mắt mở và miệng cười; nhận diện giữ nhất quán.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_03",
+      "emotion": "laughing",
+      "emotion_vi": "Cười lớn",
+      "pose": "seated_paw_on_belly",
+      "description_en": "Eyes squeezed shut and a wide laughing mouth. One paw rests on the belly, the other extends outward.",
+      "use_cases_en": [
+        "Strong amusement",
+        "punchline",
+        "laughter"
+      ],
+      "full_body": true,
+      "original_file": "incoming/replacements_01/mo_den_03_laughing_seated_paw_on_belly.png",
+      "sha256": "28ede56e7ded095da895077eb3efbb80ba8eaa808ebe772da5a078b933c0a955",
+      "bytes": 1189126,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "superseded_file": "incoming/named_24_v01/PNG/mo_den_03_laughing_seated_paw_on_belly.png",
+      "superseded_sha256": "0589945f190a5c9ee1be5f9d839f9e08a9dc89badb8d771ce9caff80e858e2f5",
+      "file": "library/named_24_v01/mo_den_03_laughing_seated_paw_on_belly.png",
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        295,
+        276,
+        1540,
+        1781
+      ],
+      "baseline_px": 1780,
+      "transparent_fraction": 0.7005620002746582,
+      "visual_notes": "Mắt nhắm và miệng cười lớn, một chân trước ôm bụng, chân còn lại đưa ra ngoài. Đầu nghiêng và cả hình lệch trái hơn trạng thái mặc định; khi thay ảnh nên kiểm tra bố cục.",
+      "original_preserved": true,
+      "replacement_received": true
+    },
+    {
+      "id": "mo_den_04",
+      "emotion": "sad",
+      "emotion_vi": "Buồn",
+      "pose": "seated_head_lowered",
+      "description_en": "Downcast eyes, raised inner brows and a frown. Head slightly lowered, front paws together.",
+      "use_cases_en": [
+        "Sad news",
+        "sympathy",
+        "subdued moment"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_04_sad_seated_head_lowered.png",
+      "sha256": "c7f5f9bb73ef5d0655a55ae8aef2058743ddea17af7bf8491f09852ec46dcf58",
+      "bytes": 1044420,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        440,
+        425,
+        1702,
+        1781
+      ],
+      "transparent_fraction": 0.7206470966339111,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_04_sad_seated_head_lowered.png",
+      "visual_notes": "Tai hạ và đầu thấp có chủ đích; mắt buồn, hai chân trước khép, không cắt tai.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_05",
+      "emotion": "angry",
+      "emotion_vi": "Tức giận",
+      "pose": "seated_paws_clenched",
+      "description_en": "Narrow eyes, sharply lowered brows and a pronounced frown. Front paws held tensely at the sides.",
+      "use_cases_en": [
+        "Anger",
+        "strong objection",
+        "frustration"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_05_angry_seated_paws_clenched.png",
+      "sha256": "c55d4c44022053b3adeb9ef6d37e4bd5ac19609bcb279d4b2c6c9e4d2f1a94ac",
+      "bytes": 1114872,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        458,
+        305,
+        1751,
+        1781
+      ],
+      "transparent_fraction": 0.6928071975708008,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_05_angry_seated_paws_clenched.png",
+      "visual_notes": "Mày hạ, hai chân trước co bên thân; biểu cảm tức giận khác quyết tâm.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_06",
+      "emotion": "shocked",
+      "emotion_vi": "Sửng sốt",
+      "pose": "seated_paws_raised",
+      "description_en": "Wide eyes, small pupils and a large open mouth. Both front paws raised near the chest.",
+      "use_cases_en": [
+        "Sudden surprise",
+        "plot twist",
+        "startling discovery"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_06_shocked_seated_paws_raised.png",
+      "sha256": "87fb6759049d1920d1e1068466d85ca6b5f888e27478bd033a764749efc60083",
+      "bytes": 1117217,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        496,
+        262,
+        1729,
+        1780
+      ],
+      "transparent_fraction": 0.7060868740081787,
+      "baseline_px": 1779,
+      "file": "library/named_24_v01/mo_den_06_shocked_seated_paws_raised.png",
+      "visual_notes": "Mắt và miệng mở lớn, chân trước giơ; dùng cho tình tiết gây sửng sốt.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_07",
+      "emotion": "worried",
+      "emotion_vi": "Lo lắng",
+      "pose": "seated_paws_clasped",
+      "description_en": "Uneasy sideways glance and wavy closed mouth. Paws clasped near the chest.",
+      "use_cases_en": [
+        "Anticipating a problem",
+        "uncertainty",
+        "awaiting results"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_07_worried_seated_paws_clasped.png",
+      "sha256": "8fd4129432ed63d3eee3bdab415941064aec2003b69b8e191893b1b86499e33e",
+      "bytes": 1028480,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        437,
+        415,
+        1685,
+        1781
+      ],
+      "transparent_fraction": 0.7299327850341797,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_07_worried_seated_paws_clasped.png",
+      "visual_notes": "Đầu hơi nghiêng và hai chân trước chắp; lo lắng nhẹ hơn sợ hãi số 19.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_08",
+      "emotion": "smug",
+      "emotion_vi": "Láu cá",
+      "pose": "seated_one_paw_shrug",
+      "description_en": "Half-lidded eyes, one raised brow and crooked smile. One paw raised in a small shrug.",
+      "use_cases_en": [
+        "Cheeky remark",
+        "knowing smile",
+        "playful sarcasm"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_08_smug_seated_one_paw_shrug.png",
+      "sha256": "2fb908efd49679a90f105d30ff6f08def35e0042b7b2a958060534d1966d8b3c",
+      "bytes": 1097298,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        471,
+        258,
+        1702,
+        1781
+      ],
+      "transparent_fraction": 0.7002642154693604,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_08_smug_seated_one_paw_shrug.png",
+      "visual_notes": "Mắt nửa khép, nụ cười lệch, chân trước nhún; gần thần thái ảnh tham chiếu.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_09",
+      "emotion": "confused",
+      "emotion_vi": "Bối rối",
+      "pose": "seated_scratching_head",
+      "description_en": "Asymmetric brows, upward gaze and uncertain frown. One paw touches the side of the head.",
+      "use_cases_en": [
+        "Not understanding",
+        "contradictory information",
+        "puzzlement"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_09_confused_seated_scratching_head.png",
+      "sha256": "b559f7bff75d83f81286a703385ca8c733c8d304f0a89bb2face2c4a0e664a23",
+      "bytes": 1057887,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        462,
+        281,
+        1677,
+        1781
+      ],
+      "transparent_fraction": 0.7210257053375244,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_09_confused_seated_scratching_head.png",
+      "visual_notes": "Chân trước chạm bên đầu; nét bối rối rõ, thân và đuôi vẫn đầy đủ.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_10",
+      "emotion": "disgusted",
+      "emotion_vi": "Chán ghét",
+      "pose": "seated_paw_held_out",
+      "description_en": "Squinting eyes and curled mouth with tongue tip visible. One paw held outward.",
+      "use_cases_en": [
+        "Disgust",
+        "aversion",
+        "reacting to something unpleasant"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_10_disgusted_seated_paw_held_out.png",
+      "sha256": "1087db65ff2d2c16c5b8590fbf6f3d6bc511e7abfd165d92f274550a61fac546",
+      "bytes": 1126118,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        393,
+        271,
+        1702,
+        1781
+      ],
+      "transparent_fraction": 0.701136589050293,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_10_disgusted_seated_paw_held_out.png",
+      "visual_notes": "Miệng nhăn, đầu nghiêng và có hai nét diễn tả rung cạnh chân trước; không phải lỗi alpha.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_11",
+      "emotion": "determined",
+      "emotion_vi": "Quyết tâm",
+      "pose": "seated_paws_on_hips",
+      "description_en": "Focused eyes, firm brows and a nearly straight closed mouth. Paws on hips.",
+      "use_cases_en": [
+        "Resolve",
+        "committing to a plan",
+        "facing a challenge"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_11_determined_seated_paws_on_hips.png",
+      "sha256": "c68129b26f0f95a3137652d474514400890c0b46ee9052a6ad28e8831de097fb",
+      "bytes": 1065641,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        471,
+        264,
+        1694,
+        1781
+      ],
+      "transparent_fraction": 0.7069985866546631,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_11_determined_seated_paws_on_hips.png",
+      "visual_notes": "Chân trước chống hông, mắt tập trung; giữ cấu trúc thân và mảng màu.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_12",
+      "emotion": "embarrassed",
+      "emotion_vi": "Ngại ngùng",
+      "pose": "seated_paws_together",
+      "description_en": "Downward sideways gaze, awkward small smile and blush marks. Paws together near belly.",
+      "use_cases_en": [
+        "Shyness",
+        "receiving praise",
+        "embarrassment"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_12_embarrassed_seated_paws_together.png",
+      "sha256": "c9738227a0b6f4a05dac393033d6224c02b4d68f2543b0f0b4b0610bd8ac67d7",
+      "bytes": 1081960,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        453,
+        278,
+        1687,
+        1781
+      ],
+      "transparent_fraction": 0.715418815612793,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_12_embarrassed_seated_paws_together.png",
+      "visual_notes": "Má hồng và mắt lệch xuống, chân trước khép; biểu cảm ngại rõ.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_13",
+      "emotion": "curious",
+      "emotion_vi": "Tò mò",
+      "pose": "seated_paw_near_chin",
+      "description_en": "Wide sideways-looking eyes and small parted mouth. One paw near chin, other lowered.",
+      "use_cases_en": [
+        "Interest",
+        "asking a question",
+        "noticing a detail"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_13_curious_seated_paw_near_chin.png",
+      "sha256": "bbab26f38b6fda68a0c3883475d6f0e54eda038b6cd74ab846c64d1c75b52bf9",
+      "bytes": 1068883,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        461,
+        303,
+        1687,
+        1780
+      ],
+      "transparent_fraction": 0.7196218967437744,
+      "baseline_px": 1779,
+      "file": "library/named_24_v01/mo_den_13_curious_seated_paw_near_chin.png",
+      "visual_notes": "Mắt nhìn chếch, chân trước gần cằm; phù hợp hỏi và phát hiện chi tiết.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_14",
+      "emotion": "skeptical",
+      "emotion_vi": "Hoài nghi",
+      "pose": "seated_arms_crossed",
+      "description_en": "Uneven brows, sideways glance and flat unimpressed mouth. Arms crossed.",
+      "use_cases_en": [
+        "Doubt",
+        "questioning a claim",
+        "disbelief"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_14_skeptical_seated_arms_crossed.png",
+      "sha256": "7a93234a2a50e671a044718ba67a22a0c1181aeff8b54c83b6382792bac1be21",
+      "bytes": 1067657,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        481,
+        275,
+        1699,
+        1781
+      ],
+      "transparent_fraction": 0.7151143550872803,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_14_skeptical_seated_arms_crossed.png",
+      "visual_notes": "Hai chân trước khoanh, mắt nghi hoặc; tư thế đọc được ở cỡ nhỏ.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_15",
+      "emotion": "thinking",
+      "emotion_vi": "Suy nghĩ",
+      "pose": "seated_chin_rest",
+      "description_en": "Upward gaze and pursed mouth. One paw supports chin, the other supports the arm.",
+      "use_cases_en": [
+        "Analysis",
+        "considering alternatives",
+        "connecting clues"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_15_thinking_seated_chin_rest.png",
+      "sha256": "071d3d94d42cba545cc27866fd2036a26ff00c7e6353bdf8d657d41457211e0f",
+      "bytes": 1058957,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        472,
+        278,
+        1702,
+        1781
+      ],
+      "transparent_fraction": 0.7183198928833008,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_15_thinking_seated_chin_rest.png",
+      "visual_notes": "Một chân trước tựa cằm và chân còn lại đỡ; biểu cảm suy nghĩ phân biệt được với tò mò.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_16",
+      "emotion": "realization",
+      "emotion_vi": "Nhận ra",
+      "pose": "seated_paw_raised",
+      "description_en": "Bright open eyes and open delighted smile. One paw raised beside the face.",
+      "use_cases_en": [
+        "Aha moment",
+        "finding an answer",
+        "new idea"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_16_realization_seated_paw_raised.png",
+      "sha256": "65042a62dde0f350cf9dd52660e99ef218667ddf755d93081b611c0362afa1fa",
+      "bytes": 1119083,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        469,
+        269,
+        1694,
+        1781
+      ],
+      "transparent_fraction": 0.7003629207611084,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_16_realization_seated_paw_raised.png",
+      "visual_notes": "Mắt mở và một chân giơ, miệng cười; dùng khi nhận ra lời giải.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_17",
+      "emotion": "relieved",
+      "emotion_vi": "Nhẹ nhõm",
+      "pose": "seated_paw_on_chest",
+      "description_en": "Gently closed eyes and a soft open smile. One paw on chest.",
+      "use_cases_en": [
+        "Danger has passed",
+        "reassurance",
+        "relief"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_17_relieved_seated_paw_on_chest.png",
+      "sha256": "7d3f3a9a7c324897a52a146e0e9bd0055981fbbc5e697240468c283dabb70867",
+      "bytes": 1057997,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        463,
+        270,
+        1704,
+        1781
+      ],
+      "transparent_fraction": 0.7115578651428223,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_17_relieved_seated_paw_on_chest.png",
+      "visual_notes": "Mắt khép thư giãn, chân trước chạm ngực; giữ nét và mảng mặt.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_18",
+      "emotion": "awkward_smile",
+      "emotion_vi": "Cười gượng",
+      "pose": "seated_paw_behind_neck",
+      "description_en": "Uneasy open eyes with a stretched toothy grin. One paw behind neck.",
+      "use_cases_en": [
+        "Forced smile",
+        "pretending to be fine",
+        "awkward humor"
+      ],
+      "full_body": true,
+      "original_file": "incoming/replacements_01/mo_den_18_awkward_smile_seated_paw_behind_neck.png",
+      "sha256": "095d5d4ded493d8bb4d0cac2698eb896d63c70c1f010b114b9f62b660cfac040",
+      "bytes": 1207381,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "superseded_file": "incoming/named_24_v01/PNG/mo_den_18_awkward_smile_seated_paw_behind_neck.png",
+      "superseded_sha256": "43c346fad6371d606c23fef274332c9a7244d3397cc0253ac7c5437972ceae20",
+      "file": "library/named_24_v01/mo_den_18_awkward_smile_seated_paw_behind_neck.png",
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        470,
+        246,
+        1731,
+        1781
+      ],
+      "baseline_px": 1780,
+      "transparent_fraction": 0.6954731941223145,
+      "visual_notes": "Mày nâng lo lắng, răng cười gượng, một chân trước đặt sau gáy. Tai, chân và đuôi đầy đủ; nhận diện khớp bộ ảnh.",
+      "original_preserved": true,
+      "replacement_received": true
+    },
+    {
+      "id": "mo_den_19",
+      "emotion": "scared",
+      "emotion_vi": "Sợ hãi",
+      "pose": "seated_paws_near_cheeks",
+      "description_en": "Wide eyes, worried brows and clenched teeth. Paws held close to cheeks, ears lowered.",
+      "use_cases_en": [
+        "Immediate fear",
+        "threat",
+        "panic"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_19_scared_seated_paws_near_cheeks.png",
+      "sha256": "e139afb2f1872f71c96a7fc4bcaf10a34e003b4a8276e1fa818fb80e5491a109",
+      "bytes": 1050271,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        415,
+        458,
+        1624,
+        1781
+      ],
+      "transparent_fraction": 0.7350130081176758,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_19_scared_seated_paws_near_cheeks.png",
+      "visual_notes": "Tai hạ, mắt to và răng nghiến; đầu thấp theo cảm xúc, không nên tự căn cao bằng tai với ảnh trung tính.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_20",
+      "emotion": "disappointed",
+      "emotion_vi": "Thất vọng",
+      "pose": "seated_paws_lowered",
+      "description_en": "Downcast heavy eyelids and small frown. Both front paws lowered.",
+      "use_cases_en": [
+        "Failed expectation",
+        "letdown",
+        "unsuccessful plan"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_20_disappointed_seated_paws_lowered.png",
+      "sha256": "d939787747f54523c89e0c37304b899fac0511769b903b31b27d01de34f1fb57",
+      "bytes": 1069824,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        441,
+        283,
+        1720,
+        1781
+      ],
+      "transparent_fraction": 0.7079880237579346,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_20_disappointed_seated_paws_lowered.png",
+      "visual_notes": "Mí mắt trĩu, chân trước thả; buồn/thất vọng tương đối gần số 04 nhưng tư thế khác.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_21",
+      "emotion": "helpless",
+      "emotion_vi": "Bất lực",
+      "pose": "seated_both_paws_shrug",
+      "description_en": "Half-lidded eyes and a resigned crooked mouth. Both paws raised in a shrug.",
+      "use_cases_en": [
+        "Nothing can be done",
+        "resignation",
+        "ironic conclusion"
+      ],
+      "full_body": true,
+      "original_file": "incoming/replacements_01/mo_den_21_helpless_seated_both_paws_shrug.png",
+      "sha256": "7741df2c2337791bb82ef446f3a6e887b89709cb188faecf0645ee00ee87fafb",
+      "bytes": 1180204,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "superseded_file": "incoming/named_24_v01/PNG/mo_den_21_helpless_seated_both_paws_shrug.png",
+      "superseded_sha256": "200682cce6038fff8eea1ed80df2b07b46fe972568ca0b4ebd6841857c7ba595",
+      "file": "library/named_24_v01/mo_den_21_helpless_seated_both_paws_shrug.png",
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        483,
+        280,
+        1776,
+        1781
+      ],
+      "baseline_px": 1780,
+      "transparent_fraction": 0.6924922466278076,
+      "visual_notes": "Mắt nửa khép, miệng lệch và hai chân trước nhún vai. Bàn chân và đuôi trong khung, thể hiện bất lực rõ.",
+      "original_preserved": true,
+      "replacement_received": true
+    },
+    {
+      "id": "mo_den_22",
+      "emotion": "sleepy",
+      "emotion_vi": "Buồn ngủ",
+      "pose": "seated_yawning",
+      "description_en": "Nearly closed eyes and wide yawn. One paw partially covers mouth.",
+      "use_cases_en": [
+        "Fatigue",
+        "boredom gag",
+        "yawning"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_22_sleepy_seated_yawning.png",
+      "sha256": "66c629c110c451b17de6a876a7f65638dd8c036b698b2da0c7cc0b87b27b42f5",
+      "bytes": 1035400,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        468,
+        308,
+        1700,
+        1781
+      ],
+      "transparent_fraction": 0.7183713912963867,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_22_sleepy_seated_yawning.png",
+      "visual_notes": "Mắt khép và miệng ngáp, một chân gần miệng; không có chi tiết bị cắt ở khung.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_23",
+      "emotion": "proud",
+      "emotion_vi": "Tự hào",
+      "pose": "seated_paws_on_hips",
+      "description_en": "Closed eyes and confident closed smile. Chest lifted slightly, paws on hips.",
+      "use_cases_en": [
+        "Achievement",
+        "satisfaction",
+        "self-confidence"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_23_proud_seated_paws_on_hips.png",
+      "sha256": "1431b03078d1953399f27f31bf9ccdff9cd8498284f3f4b06be4230cdab7a263",
+      "bytes": 1070110,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        462,
+        265,
+        1719,
+        1780
+      ],
+      "transparent_fraction": 0.7017500400543213,
+      "baseline_px": 1779,
+      "file": "library/named_24_v01/mo_den_23_proud_seated_paws_on_hips.png",
+      "visual_notes": "Mắt khép tự tin, chân chống hông; khác số 11 ở nét mặt.",
+      "original_preserved": true
+    },
+    {
+      "id": "mo_den_24",
+      "emotion": "explaining",
+      "emotion_vi": "Giải thích",
+      "pose": "seated_open_paw_gesture",
+      "description_en": "Attentive eyes and an open speaking smile. One paw extended to present an idea.",
+      "use_cases_en": [
+        "Narration",
+        "explanation",
+        "introducing a point"
+      ],
+      "full_body": true,
+      "original_file": "incoming/named_24_v01/PNG/mo_den_24_explaining_seated_open_paw_gesture.png",
+      "sha256": "753b194d838237db46224317a304e2843630f1e09834f24a7b4865d84eceb91f",
+      "bytes": 1133137,
+      "status": "technically_usable",
+      "issues": [],
+      "visual_review": "usable_for_static_compositing",
+      "qt_decode_ok": true,
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "alpha_bbox": [
+        427,
+        274,
+        1707,
+        1781
+      ],
+      "transparent_fraction": 0.69962477684021,
+      "baseline_px": 1780,
+      "file": "library/named_24_v01/mo_den_24_explaining_seated_open_paw_gesture.png",
+      "visual_notes": "Chân trước mở trình bày, mắt chú ý và miệng cười; phù hợp giải thích, chưa phải chỉ chính xác một điểm.",
+      "original_preserved": true
+    }
+  ],
+  "warnings": [],
+  "usable": 24,
+  "rejected": 0,
+  "zip_crc_ok": true,
+  "source_images_modified": false,
+  "studio_export_integration": "not_yet_implemented",
+  "visual_summary": {
+    "usable_assets": 24,
+    "needs_replacement": [],
+    "method": "Full Pillow and native Qt decode, alpha statistics, all-assets contact sheet and white/dark composite inspection.",
+    "alignment": "Visible foot baseline: 1779–1780 px. Preserve canvas when switching. Image 03 leans left more; inspect framing instead of automatic cropping.",
+    "identity": "Cream body, brown face mask/ears/paws/tail, blue gray eyes and simple dark outlines remain recognizably consistent. Ear/head changes mostly follow emotion.",
+    "limits": [
+      "PNG images are static, not layered or rigged.",
+      "Pack README says 2048 output was upscaled from a 1254 px source; not independently verified. Avoid assuming native 2048 detail.",
+      "No explicit left/right pointing pose or prop grip in this pack. Request only when a script needs it."
+    ],
+    "proofs": [
+      "qc/named_24_v01/contact_sheet.png",
+      "qc/named_24_v01/background_check.png"
+    ],
+    "integration": "Native Qt renders the 21 files; dedicated cat-library picker and cat QC/export integration are not implemented by this audit.",
+    "replacement_update": "Three replacement PNGs passed full Pillow and Qt decode; original corrupt ZIP files retained for provenance."
+  },
+  "replacement_files_received": true
+}

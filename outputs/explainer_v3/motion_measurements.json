@@ -1,0 +1,34 @@
+[
+  {
+    "scene": "Vì sao lịch sử còn khoảng trống?",
+    "max_joint_step_design_px": 8.663931220920713
+  },
+  {
+    "scene": "Hai nguồn, hai góc nhìn",
+    "max_joint_step_design_px": 0
+  },
+  {
+    "scene": "Từ dấu vết đến cách giải thích",
+    "max_joint_step_design_px": 0.022745334128330796
+  },
+  {
+    "scene": "Một dấu hỏi chưa phải lời giải",
+    "max_joint_step_design_px": 5.3432152905922745
+  },
+  {
+    "scene": "Những dấu vết kết nối",
+    "max_joint_step_design_px": 1.543505764808213
+  },
+  {
+    "scene": "Đặt câu hỏi theo từng bước",
+    "max_joint_step_design_px": 0.022745334128330796
+  },
+  {
+    "scene": "Nhìn rộng hơn một khung hình",
+    "max_joint_step_design_px": 0
+  },
+  {
+    "scene": "Giữ sự tò mò, cùng sự thận trọng",
+    "max_joint_step_design_px": 8.38627773695158
+  }
+]

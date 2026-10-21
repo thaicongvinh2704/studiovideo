@@ -1,0 +1,16 @@
+{
+  "status": "style_preview_pending_user_review",
+  "role": "character",
+  "creation": "built_in_image_generation_explicitly_requested_by_user",
+  "size": [
+    1254,
+    1254
+  ],
+  "mode": "RGBA",
+  "alpha": [
+    0,
+    255
+  ],
+  "approved_master": false,
+  "notes": "Single style illustration only. Taller adult proportions and more shaded clothing than the earlier 3-head vector trials. Not installed in production library or exported to video."
+}

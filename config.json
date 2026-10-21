@@ -1,0 +1,8 @@
+{
+  "preview_quality": "medium",
+  "autosave_seconds": 60,
+  "encoder_threads": 2,
+  "language": "vi",
+  "default_fps": 24,
+  "voice_model": "vi_VN-vais1000-medium"
+}

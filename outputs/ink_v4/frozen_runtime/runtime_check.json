@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "frozen": true,
+  "voice_seconds": 1.3467573696145125,
+  "checks": [
+    "startup",
+    "Piper Vietnamese",
+    "save/load",
+    "FFmpeg export and ffprobe validation"
+  ]
+}

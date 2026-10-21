@@ -1,0 +1,21 @@
+{
+  "status": "preview_only_pending_style_review",
+  "reviewer": "Codex visual inspection",
+  "source_sha256": "fe84c8f3c18835538fbff9c0bd0d24421d6b7ee939a3ed54cefd4c84a4aa9e8d",
+  "reference_sha256": "d00266d6c522473b4874dd7ac7ab3feaf76a0acec7ebf42a56cd10a6f6224f83",
+  "notes": {
+    "reference_style": "Đã đối chiếu ba ảnh gốc: giữ nền trắng, viền tối và màu phẳng; đường nét hiện đều, sạch và cơ học hơn nét hữu cơ trong tham chiếu. Chưa xác nhận đạt phong cách cuối.",
+    "proportions": "Đầu, cổ, vai và thân cùng một cấu trúc cho ba dáng. Toàn thân có đầu lớn và hai chân tách rõ; dáng đứng vẫn khá đối xứng, cần người dùng đánh giá vẻ tự nhiên.",
+    "face_hair": "Mắt và mày cân hai bên, mũi và miệng nằm trong mặt; tóc có mảng chính và nét hướng chải. Mặt hiện trẻ, tròn và cười rõ hơn nhân vật tham chiếu.",
+    "clothing": "Cổ áo, hai tay áo và gấu áo có đường kết thúc. Dáng toàn thân có cạp, đường quần và giày. Không thấy mảng da rò qua áo ở ảnh đã xem.",
+    "line_fill": "Nét viền tối thống nhất, màu da/áo/quần phẳng. Đã sửa khe antialias tại cổ tay chỉ; đường cong vẫn mang cảm giác vector đều hơn bút tay tham chiếu.",
+    "identity": "Ba tư thế dùng cùng đầu, tóc, ngũ quan, cổ áo và bảng màu. Không tái sử dụng hình người 01 hoặc 02 đã bị loại.",
+    "small_size": "Đã xem thumbnail: mặt cười, dáng tay và quần áo còn đọc được. Nét chia ngón nhỏ ít nổi ở cỡ nhỏ; không lấy việc đủ ngón làm bằng chứng đẹp.",
+    "crop_overlap": "Các preview giữ trọn tóc, tay và phần thân được chọn; dáng bán thân kết thúc ở gấu áo có chủ đích. Không cắt bàn tay để che lỗi.",
+    "static_delivery": "Chỉ là ảnh tĩnh và bản vẽ editable để nhận xét. Chưa đưa vào phim, chưa đăng ký master hoặc thư viện đã duyệt.",
+    "left_hand": "Tay chỉ có ngón trỏ kéo dài, ngón cái và ba ngón gập phân biệt. Đã sửa khe sáng chéo tại cổ tay bằng chồng vùng tô bên trong; còn nét tay áo phía sau bàn tay.",
+    "right_hand": "Tay thả phía còn lại có lòng bàn tay và các ngón tách bằng nét; toàn bàn tay nằm trong khung, không dùng crop để giấu.",
+    "limb_connections": "Đã sửa điểm cánh tay vào mép tay áo; khuỷu gập và cẳng tay chạy chéo trước thân. Cổ tay nối tay chỉ liền vùng da sau sửa."
+  },
+  "user_approved": false
+}

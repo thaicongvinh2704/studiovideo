@@ -1,0 +1,21 @@
+{
+  "reference_file": "art/presenter_master.png",
+  "sha256": "85b814d6ad7e6d6e3076b80cf136469b98a2733ab02ef1c00964188b86217c15",
+  "reference_dimensions": [
+    392,
+    422
+  ],
+  "reference_status": "Original bytes preserved",
+  "preview_presenter_status": "Original raster layer; no redraw",
+  "preview_transforms": "Uniform resize, position and crop of right/bottom image borders; character contours preserved",
+  "rig_status": "New animation rig not implemented or approved",
+  "supporting_people_status": "Generated as part of the style proposal; not production rigs",
+  "palette_samples": {
+    "shirt": "#232323",
+    "pants": "#7197ce",
+    "skin": "#fde7c9",
+    "shoes": "#fdfdfd"
+  },
+  "preview_project_preflight": "PASS",
+  "art_direction_approval": "Pending user review"
+}

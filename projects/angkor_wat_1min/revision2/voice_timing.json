@@ -1,0 +1,105 @@
+{
+  "voice": "Hải Đăng",
+  "engine": "VieNeu-TTS v3 Turbo",
+  "repo": "https://github.com/pnnbao97/VieNeu-TTS",
+  "requested_voice_confirmed": false,
+  "tempo": 0.8024408951452806,
+  "cues": [
+    {
+      "scene": 0,
+      "text": "Nhìn năm ngọn tháp này, bạn thấy một ngôi đền.",
+      "start": 0.25,
+      "end": 2.9834375
+    },
+    {
+      "scene": 0,
+      "text": "Nhưng người Khmer xưa còn đặt vào đây cả một cách hình dung vũ trụ.",
+      "start": 3.1634375,
+      "end": 6.762229166666667
+    },
+    {
+      "scene": 0,
+      "text": "Muốn hiểu, hãy đổi góc nhìn.",
+      "start": 6.9422291666666665,
+      "end": 8.530958333333333
+    },
+    {
+      "scene": 1,
+      "text": "Đây là Angkor Wat, ở Campuchia, được xây vào thế kỷ mười hai để thờ thần Vishnu.",
+      "start": 8.850958333333333,
+      "end": 14.082375
+    },
+    {
+      "scene": 1,
+      "text": "Thay vì nhìn mặt trước, ta sẽ nhìn ngôi đền từ trên xuống.",
+      "start": 14.262375,
+      "end": 17.582125
+    },
+    {
+      "scene": 2,
+      "text": "Một tháp ở giữa, bốn tháp ở bốn góc.",
+      "start": 17.902125,
+      "end": 19.969083333333334
+    },
+    {
+      "scene": 2,
+      "text": "Đặt chúng cạnh hình ảnh núi Meru: năm vị trí ấy tương ứng với năm đỉnh của ngọn núi thiêng.",
+      "start": 20.149083333333333,
+      "end": 25.5151875
+    },
+    {
+      "scene": 3,
+      "text": "Trong quan niệm vũ trụ của Ấn Độ giáo, Meru nằm ở trung tâm thế giới.",
+      "start": 25.8351875,
+      "end": 30.1636875
+    },
+    {
+      "scene": 3,
+      "text": "Những ngọn tháp vươn lên đã biến hình ảnh của núi thành một công trình bằng đá.",
+      "start": 30.3436875,
+      "end": 34.210375
+    },
+    {
+      "scene": 4,
+      "text": "Giờ kéo góc nhìn ra xa.",
+      "start": 34.530375,
+      "end": 36.03841666666667
+    },
+    {
+      "scene": 4,
+      "text": "Hào nước bao quanh tượng trưng cho đại dương ở rìa vũ trụ.",
+      "start": 36.21841666666667,
+      "end": 39.25470833333333
+    },
+    {
+      "scene": 4,
+      "text": "Nước và tháp là hai phần của cùng một ý tưởng.",
+      "start": 39.43470833333333,
+      "end": 41.95
+    },
+    {
+      "scene": 5,
+      "text": "Con đường băng qua hào dẫn người đến đền, qua mặt nước rồi tiến về những tầng nền cao dần.",
+      "start": 42.27,
+      "end": 47.292458333333336
+    },
+    {
+      "scene": 5,
+      "text": "Không gian được sắp đặt như hành trình tới ngọn núi thiêng.",
+      "start": 47.472458333333336,
+      "end": 50.03129166666667
+    },
+    {
+      "scene": 6,
+      "text": "Bây giờ nhìn lại: năm tháp là năm đỉnh núi, hào nước là đại dương.",
+      "start": 50.35129166666667,
+      "end": 54.499770833333336
+    },
+    {
+      "scene": 6,
+      "text": "Angkor Wat là một bản đồ vũ trụ được xây để con người có thể bước vào.",
+      "start": 54.679770833333336,
+      "end": 59.02922916666667
+    }
+  ]
+}

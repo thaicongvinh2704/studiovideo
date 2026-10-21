@@ -1,0 +1,19 @@
+{
+  "status": "preview_only_pending_user_review",
+  "source_sha256": "d0c00bbf15d90bb8f6aba249c5168828d13c0fa31c335510a6e6686a1a741ff4",
+  "notes": {
+    "reference_style": "Giữ đầu, mắt oval, nụ cười nhỏ, nét tối và thân gọn của mẫu người giản lược vừa được người dùng chấp nhận. Trang phục và động tác được thiết kế riêng cho Sơn Tinh.",
+    "proportions": "Đầu lớn, vai hẹp, thân áo và tà dưới ngắn theo mẫu giản lược. Tay giơ phải vươn ngang đủ xa để núi không che mặt.",
+    "face_hair": "Mặt dùng cùng cấu trúc của mẫu chốt; thêm búi tóc, băng trán và huy hiệu hình núi. Không thêm mũi/tai lộ để giữ ngôn ngữ tối giản.",
+    "left_hand": "Đã xem cận, tay thả giản lược như mẫu người dùng, nằm sau mép tay áo. Không tự ghi đạt tiêu chí bàn tay chi tiết của bộ chuẩn cũ.",
+    "right_hand": "Đã xem cận sau sửa: bàn tay mở có ngón cái và bốn đầu ngón phân biệt, cùng một vùng da với cẳng tay. Các ngón còn giản lược và xòe theo kiểu minh họa.",
+    "limb_connections": "Cánh tay phải nối sau mép ống tay áo rồi uốn qua khuỷu lên bàn tay. Cổ nằm sau mặt, cằm không bị lớp cổ cắt ngang.",
+    "clothing": "Áo tông đất cổ giao, viền tay xanh, đai nâu khóa vàng và tà xanh hoàn chỉnh. Đây là diễn giải sáng tạo nhân vật truyền thuyết, không xác nhận phục dựng trang phục lịch sử.",
+    "line_fill": "Nét đều, góc bo, màu phẳng; bóng bên phải áo và tà dưới là mảng kín. Không có gradient hoặc ảnh bitmap nhúng vào bản vẽ.",
+    "identity": "Giữ mẫu mặt/tỷ lệ từ hình vector được chấp nhận, không dùng mẫu người đã bị loại. Băng trán hình núi, tông đất/xanh và thế tay giúp phân biệt nhân vật.",
+    "small_size": "Đã xem thumbnail: mặt và tư thế giơ tay còn rõ; núi là lớp riêng nên thumbnail nhân vật không có núi, còn preview toàn cảnh có núi phía trên lòng bàn tay.",
+    "crop_overlap": "Tóc búi, tay mở và tà áo không bị cắt. Núi nằm bên phải trên bàn tay và tách khỏi đường tóc/mặt. Không che chỗ nối tay bằng vật thể.",
+    "static_delivery": "Bản thử tĩnh để người dùng xem. Chưa cài thành master hoặc ghi PASS theo tiêu chí giải phẫu cũ; núi và đá là lớp vật thể riêng, chưa gán chuyển động."
+  },
+  "approved_master": false
+}

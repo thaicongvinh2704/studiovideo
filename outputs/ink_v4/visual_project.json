@@ -1,0 +1,1696 @@
+{
+  "schema": 1,
+  "name": "Ink V4 visual gates",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "2f944023157f",
+      "name": "focus",
+      "start": 0.0,
+      "duration": 6.0,
+      "background": "white",
+      "objects": [
+        {
+          "id": "5bde88853b1b",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 690,
+          "y": 915,
+          "scale": 4.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "happy",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.45
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": -0.8
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 1.0
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": 2.95
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0.08
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 64,
+            "upper_arm": 32,
+            "forearm": 31,
+            "thigh": 40,
+            "shin": 39,
+            "shoulder": 18
+          },
+          "skin": "ink",
+          "shirt": "#ffffff",
+          "pants": "#6695ba",
+          "skin_color": "#ffdbb5",
+          "pose": "idea",
+          "poses": [
+            {
+              "t": 0,
+              "v": "idea"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "58938ae9d88d",
+          "kind": "image",
+          "name": "bulb",
+          "preset": "bulb",
+          "x": 1040,
+          "y": 180,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.6000000000000001,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 190,
+          "height": 190,
+          "file": "assets/bulb.svg",
+          "fit": "contain",
+          "image_width": 190,
+          "enter": "none"
+        },
+        {
+          "id": "3d0eac489069",
+          "kind": "shape",
+          "name": "callout",
+          "preset": "callout",
+          "x": 285,
+          "y": 270,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 350,
+          "height": 210,
+          "shape": "callout",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "9cbbb55acff6",
+          "kind": "text",
+          "name": "MỘT\nÝ TƯỞNG",
+          "preset": "MỘT\nÝ TƯỞNG",
+          "x": 285,
+          "y": 260,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 300,
+          "height": 160,
+          "text": "MỘT\nÝ TƯỞNG",
+          "font_size": 40,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "focus",
+      "narration": "",
+      "style": "ink"
+    },
+    {
+      "id": "afc9317b1f97",
+      "name": "presenter",
+      "start": 6.0,
+      "duration": 6.0,
+      "background": "white",
+      "objects": [
+        {
+          "id": "c563bc855f79",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 235,
+          "y": 640,
+          "scale": 2.45,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "happy",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.18
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": 0.5
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 1.15
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": 1.65
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0.035
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 64,
+            "upper_arm": 32,
+            "forearm": 31,
+            "thigh": 40,
+            "shin": 39,
+            "shoulder": 18
+          },
+          "skin": "ink",
+          "shirt": "#ffffff",
+          "pants": "#6695ba",
+          "skin_color": "#ffdbb5",
+          "pose": "point",
+          "poses": [
+            {
+              "t": 0,
+              "v": "point"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "5859a8dd996f",
+          "kind": "image",
+          "name": "city",
+          "preset": "city",
+          "x": 865,
+          "y": 340,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 435,
+          "file": "assets/city.svg",
+          "fit": "contain",
+          "image_width": 650,
+          "enter": "none"
+        },
+        {
+          "id": "4613370f2f0b",
+          "kind": "text",
+          "name": "Một thành phố đã biến mất?",
+          "preset": "Một thành phố đã biến mất?",
+          "x": 865,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 95,
+          "text": "Một thành phố đã biến mất?",
+          "font_size": 30,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "presenter",
+      "narration": "",
+      "style": "ink"
+    },
+    {
+      "id": "cee9c93b9bae",
+      "name": "compare",
+      "start": 12.0,
+      "duration": 6.0,
+      "background": "white",
+      "objects": [
+        {
+          "id": "fbaf4133fa3a",
+          "kind": "image",
+          "name": "amphora",
+          "preset": "amphora",
+          "x": 340,
+          "y": 320,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 405,
+          "file": "assets/amphora.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "8301467c30cb",
+          "kind": "text",
+          "name": "Hiện vật",
+          "preset": "Hiện vật",
+          "x": 340,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 95,
+          "text": "Hiện vật",
+          "font_size": 32,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "fe72d120be04",
+          "kind": "image",
+          "name": "scroll",
+          "preset": "scroll",
+          "x": 940,
+          "y": 320,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.7,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 405,
+          "file": "assets/scroll.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "76ef6af3b07e",
+          "kind": "text",
+          "name": "Lời ghi chép",
+          "preset": "Lời ghi chép",
+          "x": 940,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 95,
+          "text": "Lời ghi chép",
+          "font_size": 32,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "c28e9503f90f",
+          "kind": "shape",
+          "name": "arrow",
+          "preset": "arrow",
+          "x": 640,
+          "y": 335,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 65,
+          "height": 20,
+          "shape": "arrow",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "compare",
+      "narration": "",
+      "style": "ink"
+    },
+    {
+      "id": "762c0cd0f3f8",
+      "name": "timeline",
+      "start": 18.0,
+      "duration": 6.0,
+      "background": "white",
+      "objects": [
+        {
+          "id": "964b1be7eeee",
+          "kind": "shape",
+          "name": "arrow",
+          "preset": "arrow",
+          "x": 700,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 990,
+          "height": 16,
+          "shape": "arrow",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "831f44f56ecf",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 95,
+          "y": 690,
+          "scale": 1.28,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "happy",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.18
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": 0.5
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 1.15
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": 1.65
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0.035
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 64,
+            "upper_arm": 32,
+            "forearm": 31,
+            "thigh": 40,
+            "shin": 39,
+            "shoulder": 18
+          },
+          "skin": "ink",
+          "shirt": "#ffffff",
+          "pants": "#6695ba",
+          "skin_color": "#ffdbb5",
+          "pose": "point",
+          "poses": [
+            {
+              "t": 0,
+              "v": "point"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "807b413e15bd",
+          "kind": "image",
+          "name": "house",
+          "preset": "house",
+          "x": 260.0,
+          "y": 300,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 245,
+          "file": "assets/house.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "none"
+        },
+        {
+          "id": "debe467beb9b",
+          "kind": "shape",
+          "name": "ellipse",
+          "preset": "ellipse",
+          "x": 260.0,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 19,
+          "height": 19,
+          "shape": "ellipse",
+          "fill": "#f6ca45",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "dfca3eef4d76",
+          "kind": "text",
+          "name": "Khởi đầu",
+          "preset": "Khởi đầu",
+          "x": 260.0,
+          "y": 535,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 245,
+          "height": 105,
+          "text": "Khởi đầu",
+          "font_size": 27,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "c4bb85706faa",
+          "kind": "image",
+          "name": "city",
+          "preset": "city",
+          "x": 685.0,
+          "y": 300,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 1.1,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 245,
+          "file": "assets/city.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "none"
+        },
+        {
+          "id": "93ed658d4f54",
+          "kind": "shape",
+          "name": "ellipse",
+          "preset": "ellipse",
+          "x": 685.0,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 1.1,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 19,
+          "height": 19,
+          "shape": "ellipse",
+          "fill": "#f6ca45",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "3b538df69688",
+          "kind": "text",
+          "name": "Phát triển",
+          "preset": "Phát triển",
+          "x": 685.0,
+          "y": 535,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 1.1,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 245,
+          "height": 105,
+          "text": "Phát triển",
+          "font_size": 27,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "2fc24d8af548",
+          "kind": "image",
+          "name": "flame",
+          "preset": "flame",
+          "x": 1110.0,
+          "y": 300,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2.2,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 245,
+          "file": "assets/flame.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "none"
+        },
+        {
+          "id": "3cb2c0248ad6",
+          "kind": "shape",
+          "name": "ellipse",
+          "preset": "ellipse",
+          "x": 1110.0,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2.2,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 19,
+          "height": 19,
+          "shape": "ellipse",
+          "fill": "#f6ca45",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "5b5e06ac99c4",
+          "kind": "text",
+          "name": "Biến mất",
+          "preset": "Biến mất",
+          "x": 1110.0,
+          "y": 535,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2.2,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 245,
+          "height": 105,
+          "text": "Biến mất",
+          "font_size": 27,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "timeline",
+      "narration": "",
+      "style": "ink"
+    },
+    {
+      "id": "7d91b217c913",
+      "name": "map",
+      "start": 24.0,
+      "duration": 6.0,
+      "background": "white",
+      "objects": [
+        {
+          "id": "da26e91af7f6",
+          "kind": "image",
+          "name": "map",
+          "preset": "map",
+          "x": 820,
+          "y": 355,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 810,
+          "height": 570,
+          "file": "assets/map.svg",
+          "fit": "contain",
+          "image_width": 810,
+          "enter": "none"
+        },
+        {
+          "id": "45d2f2c38218",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 190,
+          "y": 650,
+          "scale": 2.15,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "happy",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.18
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": 0.5
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 1.15
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": 1.65
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0.035
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 64,
+            "upper_arm": 32,
+            "forearm": 31,
+            "thigh": 40,
+            "shin": 39,
+            "shoulder": 18
+          },
+          "skin": "ink",
+          "shirt": "#ffffff",
+          "pants": "#6695ba",
+          "skin_color": "#ffdbb5",
+          "pose": "point",
+          "poses": [
+            {
+              "t": 0,
+              "v": "point"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "065cf5a6cc2c",
+          "kind": "text",
+          "name": "Dấu vết của một hành trình",
+          "preset": "Dấu vết của một hành trình",
+          "x": 835,
+          "y": 660,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 740,
+          "height": 75,
+          "text": "Dấu vết của một hành trình",
+          "font_size": 29,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "map",
+      "narration": "",
+      "style": "ink"
+    },
+    {
+      "id": "a88b6abf0cbe",
+      "name": "crowd",
+      "start": 30.0,
+      "duration": 6.0,
+      "background": "white",
+      "objects": [
+        {
+          "id": "7ca8f56de190",
+          "kind": "image",
+          "name": "tree",
+          "preset": "tree",
+          "x": 775,
+          "y": 315,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 700,
+          "height": 440,
+          "file": "assets/tree.svg",
+          "fit": "contain",
+          "image_width": 700,
+          "enter": "none"
+        },
+        {
+          "id": "9d2036001865",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 180,
+          "y": 650,
+          "scale": 1.95,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "happy",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.18
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": 0.5
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 1.15
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": 1.65
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0.035
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 64,
+            "upper_arm": 32,
+            "forearm": 31,
+            "thigh": 40,
+            "shin": 39,
+            "shoulder": 18
+          },
+          "skin": "ink",
+          "shirt": "#ffffff",
+          "pants": "#6695ba",
+          "skin_color": "#ffdbb5",
+          "pose": "point",
+          "poses": [
+            {
+              "t": 0,
+              "v": "point"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "b8e7350406ad",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 515,
+          "y": 655,
+          "scale": 1.2,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "happy",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.5
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": -1.5
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 0.5
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": 1.5
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 64,
+            "upper_arm": 32,
+            "forearm": 31,
+            "thigh": 40,
+            "shin": 39,
+            "shoulder": 18
+          },
+          "skin": "ink",
+          "shirt": "#2c3439",
+          "pants": "#6695ba",
+          "skin_color": "#ffdbb5",
+          "pose": "hold",
+          "poses": [
+            {
+              "t": 0,
+              "v": "hold"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "26ebe9aea5e7",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 740,
+          "y": 655,
+          "scale": 1.1,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "happy",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.5
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": -1.5
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 0.5
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": 1.5
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 64,
+            "upper_arm": 32,
+            "forearm": 31,
+            "thigh": 40,
+            "shin": 39,
+            "shoulder": 18
+          },
+          "skin": "ink",
+          "shirt": "#ffffff",
+          "pants": "#6695ba",
+          "skin_color": "#ffdbb5",
+          "pose": "hold",
+          "poses": [
+            {
+              "t": 0,
+              "v": "hold"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "c1d50837b000",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 1010,
+          "y": 655,
+          "scale": 1.05,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "happy",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.5
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": -1.5
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 0.5
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": 1.5
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 64,
+            "upper_arm": 32,
+            "forearm": 31,
+            "thigh": 40,
+            "shin": 39,
+            "shoulder": 18
+          },
+          "skin": "ink",
+          "shirt": "#2c3439",
+          "pants": "#6695ba",
+          "skin_color": "#ffdbb5",
+          "pose": "hold",
+          "poses": [
+            {
+              "t": 0,
+              "v": "hold"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "cf6f84125049",
+          "kind": "text",
+          "name": "Những câu chuyện truyền qua nhiều t",
+          "preset": "Những câu chuyện truyền qua nhiều t",
+          "x": 800,
+          "y": 80,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.0,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 780,
+          "height": 85,
+          "text": "Những câu chuyện truyền qua nhiều thế hệ",
+          "font_size": 34,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "crowd",
+      "narration": "",
+      "style": "ink"
+    }
+  ],
+  "subtitles": [],
+  "audio": [],
+  "references": [],
+  "subtitle_style": {
+    "enabled": false,
+    "size": 26,
+    "font": "Segoe UI",
+    "color": "#ffffff",
+    "background": true,
+    "y": 0.96
+  },
+  "duck_music": true,
+  "audio_rate": 48000,
+  "audio_channels": 2,
+  "render_profile": "final",
+  "storyboard": {
+    "version": 1,
+    "name": "Ink V4 visual gates",
+    "rows": [
+      {
+        "start": 0,
+        "end": 6,
+        "style": "ink",
+        "layout": "focus",
+        "asset_ids": [
+          "bulb"
+        ],
+        "labels": [
+          "MỘT\nÝ TƯỞNG"
+        ],
+        "pose": "idea",
+        "title": "focus",
+        "text": ""
+      },
+      {
+        "start": 6,
+        "end": 12,
+        "style": "ink",
+        "layout": "presenter",
+        "asset_ids": [
+          "city"
+        ],
+        "labels": [
+          "Một thành phố đã biến mất?"
+        ],
+        "pose": "point",
+        "title": "presenter",
+        "text": ""
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "style": "ink",
+        "layout": "compare",
+        "asset_ids": [
+          "amphora",
+          "scroll"
+        ],
+        "labels": [
+          "Hiện vật",
+          "Lời ghi chép"
+        ],
+        "pose": "explain",
+        "title": "compare",
+        "text": ""
+      },
+      {
+        "start": 18,
+        "end": 24,
+        "style": "ink",
+        "layout": "timeline",
+        "asset_ids": [
+          "house",
+          "city",
+          "flame"
+        ],
+        "labels": [
+          "Khởi đầu",
+          "Phát triển",
+          "Biến mất"
+        ],
+        "pose": "point",
+        "title": "timeline",
+        "text": ""
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "style": "ink",
+        "layout": "map",
+        "asset_ids": [
+          "map"
+        ],
+        "labels": [
+          "Dấu vết của một hành trình"
+        ],
+        "pose": "point",
+        "title": "map",
+        "text": ""
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "style": "ink",
+        "layout": "crowd",
+        "asset_ids": [
+          "tree"
+        ],
+        "labels": [
+          "Những câu chuyện truyền qua nhiều thế hệ"
+        ],
+        "pose": "hold",
+        "title": "crowd",
+        "text": ""
+      }
+    ]
+  }
+}

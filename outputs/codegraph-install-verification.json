@@ -1,0 +1,17 @@
+{
+  "version": "1.6.2",
+  "status": "PASS",
+  "server": {
+    "name": "codegraph",
+    "version": "1.6.2"
+  },
+  "tools": [
+    "codegraph_explore"
+  ],
+  "project": "C:\\Users\\thaii\\Downloads\\New folder\\stickman-animation-studio",
+  "files": 42,
+  "nodes": 815,
+  "edges": 2530,
+  "telemetry": "off",
+  "mcpExplore": "PASS"
+}

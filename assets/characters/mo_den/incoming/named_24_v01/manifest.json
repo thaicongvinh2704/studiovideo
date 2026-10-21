@@ -1,0 +1,472 @@
+{
+  "schema_version": "1.0",
+  "pack_name": "Mo Den - 24 Expressions and Poses",
+  "asset_count": 24,
+  "path_base": "ZIP extraction root",
+  "selection_instructions": [
+    "Choose by emotion, pose, description_en and use_cases_en.",
+    "Return the exact file path from the selected asset. Do not invent file names.",
+    "Use mo_den_01 as the default neutral state and mo_den_24 for explaining.",
+    "Distinguish happy from laughing, worried from scared, and angry from determined.",
+    "Keep full 2048x2048 canvas, same scale and position when replacing assets.",
+    "These are static full-body poses, not rigged sprites or a lip-sync set."
+  ],
+  "assets": [
+    {
+      "id": "mo_den_01",
+      "file": "PNG/mo_den_01_neutral_seated_paws_resting.png",
+      "character": "Mo Den",
+      "emotion": "neutral",
+      "emotion_vi": "Bình thường",
+      "pose": "seated_paws_resting",
+      "description_en": "Attentive open eyes, relaxed brows and small closed mouth. Both front paws rest near the belly.",
+      "use_cases_en": [
+        "Listening",
+        "neutral pause",
+        "default narrator state"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_02",
+      "file": "PNG/mo_den_02_happy_seated_greeting.png",
+      "character": "Mo Den",
+      "emotion": "happy",
+      "emotion_vi": "Vui vẻ",
+      "pose": "seated_greeting",
+      "description_en": "Open bright eyes and a closed smile. One paw is raised in a friendly greeting.",
+      "use_cases_en": [
+        "Greeting",
+        "positive news",
+        "mild happiness"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_03",
+      "file": "PNG/mo_den_03_laughing_seated_paw_on_belly.png",
+      "character": "Mo Den",
+      "emotion": "laughing",
+      "emotion_vi": "Cười lớn",
+      "pose": "seated_paw_on_belly",
+      "description_en": "Eyes squeezed shut and a wide laughing mouth. One paw rests on the belly, the other extends outward.",
+      "use_cases_en": [
+        "Strong amusement",
+        "punchline",
+        "laughter"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_04",
+      "file": "PNG/mo_den_04_sad_seated_head_lowered.png",
+      "character": "Mo Den",
+      "emotion": "sad",
+      "emotion_vi": "Buồn",
+      "pose": "seated_head_lowered",
+      "description_en": "Downcast eyes, raised inner brows and a frown. Head slightly lowered, front paws together.",
+      "use_cases_en": [
+        "Sad news",
+        "sympathy",
+        "subdued moment"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_05",
+      "file": "PNG/mo_den_05_angry_seated_paws_clenched.png",
+      "character": "Mo Den",
+      "emotion": "angry",
+      "emotion_vi": "Tức giận",
+      "pose": "seated_paws_clenched",
+      "description_en": "Narrow eyes, sharply lowered brows and a pronounced frown. Front paws held tensely at the sides.",
+      "use_cases_en": [
+        "Anger",
+        "strong objection",
+        "frustration"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_06",
+      "file": "PNG/mo_den_06_shocked_seated_paws_raised.png",
+      "character": "Mo Den",
+      "emotion": "shocked",
+      "emotion_vi": "Sửng sốt",
+      "pose": "seated_paws_raised",
+      "description_en": "Wide eyes, small pupils and a large open mouth. Both front paws raised near the chest.",
+      "use_cases_en": [
+        "Sudden surprise",
+        "plot twist",
+        "startling discovery"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_07",
+      "file": "PNG/mo_den_07_worried_seated_paws_clasped.png",
+      "character": "Mo Den",
+      "emotion": "worried",
+      "emotion_vi": "Lo lắng",
+      "pose": "seated_paws_clasped",
+      "description_en": "Uneasy sideways glance and wavy closed mouth. Paws clasped near the chest.",
+      "use_cases_en": [
+        "Anticipating a problem",
+        "uncertainty",
+        "awaiting results"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_08",
+      "file": "PNG/mo_den_08_smug_seated_one_paw_shrug.png",
+      "character": "Mo Den",
+      "emotion": "smug",
+      "emotion_vi": "Láu cá",
+      "pose": "seated_one_paw_shrug",
+      "description_en": "Half-lidded eyes, one raised brow and crooked smile. One paw raised in a small shrug.",
+      "use_cases_en": [
+        "Cheeky remark",
+        "knowing smile",
+        "playful sarcasm"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_09",
+      "file": "PNG/mo_den_09_confused_seated_scratching_head.png",
+      "character": "Mo Den",
+      "emotion": "confused",
+      "emotion_vi": "Bối rối",
+      "pose": "seated_scratching_head",
+      "description_en": "Asymmetric brows, upward gaze and uncertain frown. One paw touches the side of the head.",
+      "use_cases_en": [
+        "Not understanding",
+        "contradictory information",
+        "puzzlement"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_10",
+      "file": "PNG/mo_den_10_disgusted_seated_paw_held_out.png",
+      "character": "Mo Den",
+      "emotion": "disgusted",
+      "emotion_vi": "Chán ghét",
+      "pose": "seated_paw_held_out",
+      "description_en": "Squinting eyes and curled mouth with tongue tip visible. One paw held outward.",
+      "use_cases_en": [
+        "Disgust",
+        "aversion",
+        "reacting to something unpleasant"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_11",
+      "file": "PNG/mo_den_11_determined_seated_paws_on_hips.png",
+      "character": "Mo Den",
+      "emotion": "determined",
+      "emotion_vi": "Quyết tâm",
+      "pose": "seated_paws_on_hips",
+      "description_en": "Focused eyes, firm brows and a nearly straight closed mouth. Paws on hips.",
+      "use_cases_en": [
+        "Resolve",
+        "committing to a plan",
+        "facing a challenge"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_12",
+      "file": "PNG/mo_den_12_embarrassed_seated_paws_together.png",
+      "character": "Mo Den",
+      "emotion": "embarrassed",
+      "emotion_vi": "Ngại ngùng",
+      "pose": "seated_paws_together",
+      "description_en": "Downward sideways gaze, awkward small smile and blush marks. Paws together near belly.",
+      "use_cases_en": [
+        "Shyness",
+        "receiving praise",
+        "embarrassment"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_13",
+      "file": "PNG/mo_den_13_curious_seated_paw_near_chin.png",
+      "character": "Mo Den",
+      "emotion": "curious",
+      "emotion_vi": "Tò mò",
+      "pose": "seated_paw_near_chin",
+      "description_en": "Wide sideways-looking eyes and small parted mouth. One paw near chin, other lowered.",
+      "use_cases_en": [
+        "Interest",
+        "asking a question",
+        "noticing a detail"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_14",
+      "file": "PNG/mo_den_14_skeptical_seated_arms_crossed.png",
+      "character": "Mo Den",
+      "emotion": "skeptical",
+      "emotion_vi": "Hoài nghi",
+      "pose": "seated_arms_crossed",
+      "description_en": "Uneven brows, sideways glance and flat unimpressed mouth. Arms crossed.",
+      "use_cases_en": [
+        "Doubt",
+        "questioning a claim",
+        "disbelief"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_15",
+      "file": "PNG/mo_den_15_thinking_seated_chin_rest.png",
+      "character": "Mo Den",
+      "emotion": "thinking",
+      "emotion_vi": "Suy nghĩ",
+      "pose": "seated_chin_rest",
+      "description_en": "Upward gaze and pursed mouth. One paw supports chin, the other supports the arm.",
+      "use_cases_en": [
+        "Analysis",
+        "considering alternatives",
+        "connecting clues"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_16",
+      "file": "PNG/mo_den_16_realization_seated_paw_raised.png",
+      "character": "Mo Den",
+      "emotion": "realization",
+      "emotion_vi": "Nhận ra",
+      "pose": "seated_paw_raised",
+      "description_en": "Bright open eyes and open delighted smile. One paw raised beside the face.",
+      "use_cases_en": [
+        "Aha moment",
+        "finding an answer",
+        "new idea"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_17",
+      "file": "PNG/mo_den_17_relieved_seated_paw_on_chest.png",
+      "character": "Mo Den",
+      "emotion": "relieved",
+      "emotion_vi": "Nhẹ nhõm",
+      "pose": "seated_paw_on_chest",
+      "description_en": "Gently closed eyes and a soft open smile. One paw on chest.",
+      "use_cases_en": [
+        "Danger has passed",
+        "reassurance",
+        "relief"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_18",
+      "file": "PNG/mo_den_18_awkward_smile_seated_paw_behind_neck.png",
+      "character": "Mo Den",
+      "emotion": "awkward_smile",
+      "emotion_vi": "Cười gượng",
+      "pose": "seated_paw_behind_neck",
+      "description_en": "Uneasy open eyes with a stretched toothy grin. One paw behind neck.",
+      "use_cases_en": [
+        "Forced smile",
+        "pretending to be fine",
+        "awkward humor"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_19",
+      "file": "PNG/mo_den_19_scared_seated_paws_near_cheeks.png",
+      "character": "Mo Den",
+      "emotion": "scared",
+      "emotion_vi": "Sợ hãi",
+      "pose": "seated_paws_near_cheeks",
+      "description_en": "Wide eyes, worried brows and clenched teeth. Paws held close to cheeks, ears lowered.",
+      "use_cases_en": [
+        "Immediate fear",
+        "threat",
+        "panic"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_20",
+      "file": "PNG/mo_den_20_disappointed_seated_paws_lowered.png",
+      "character": "Mo Den",
+      "emotion": "disappointed",
+      "emotion_vi": "Thất vọng",
+      "pose": "seated_paws_lowered",
+      "description_en": "Downcast heavy eyelids and small frown. Both front paws lowered.",
+      "use_cases_en": [
+        "Failed expectation",
+        "letdown",
+        "unsuccessful plan"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_21",
+      "file": "PNG/mo_den_21_helpless_seated_both_paws_shrug.png",
+      "character": "Mo Den",
+      "emotion": "helpless",
+      "emotion_vi": "Bất lực",
+      "pose": "seated_both_paws_shrug",
+      "description_en": "Half-lidded eyes and a resigned crooked mouth. Both paws raised in a shrug.",
+      "use_cases_en": [
+        "Nothing can be done",
+        "resignation",
+        "ironic conclusion"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_22",
+      "file": "PNG/mo_den_22_sleepy_seated_yawning.png",
+      "character": "Mo Den",
+      "emotion": "sleepy",
+      "emotion_vi": "Buồn ngủ",
+      "pose": "seated_yawning",
+      "description_en": "Nearly closed eyes and wide yawn. One paw partially covers mouth.",
+      "use_cases_en": [
+        "Fatigue",
+        "boredom gag",
+        "yawning"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_23",
+      "file": "PNG/mo_den_23_proud_seated_paws_on_hips.png",
+      "character": "Mo Den",
+      "emotion": "proud",
+      "emotion_vi": "Tự hào",
+      "pose": "seated_paws_on_hips",
+      "description_en": "Closed eyes and confident closed smile. Chest lifted slightly, paws on hips.",
+      "use_cases_en": [
+        "Achievement",
+        "satisfaction",
+        "self-confidence"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    },
+    {
+      "id": "mo_den_24",
+      "file": "PNG/mo_den_24_explaining_seated_open_paw_gesture.png",
+      "character": "Mo Den",
+      "emotion": "explaining",
+      "emotion_vi": "Giải thích",
+      "pose": "seated_open_paw_gesture",
+      "description_en": "Attentive eyes and an open speaking smile. One paw extended to present an idea.",
+      "use_cases_en": [
+        "Narration",
+        "explanation",
+        "introducing a point"
+      ],
+      "format": "PNG",
+      "width": 2048,
+      "height": 2048,
+      "transparent_background": true,
+      "full_body": true
+    }
+  ]
+}

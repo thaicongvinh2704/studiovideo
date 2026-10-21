@@ -1,0 +1,10 @@
+{
+  "status": "failed",
+  "source_sha256": "e38e26b99d8cade06bc806a921e1dd7b75c3b69f40d626426055d3a4b696391a",
+  "reviewer": "Codex visual inspection",
+  "findings": {
+    "left_hand": "FAIL: crop shows thumb and only three finished finger tips; interior line joins create a mitten shape.",
+    "right_hand": "FAIL: open hand contour contains thumb plus only three other fingertips. Five digits are required for this pose."
+  },
+  "action": "Redraw both hand contours and finger separations; regenerate evidence; do not insert this revision into a scene."
+}

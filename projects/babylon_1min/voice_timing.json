@@ -1,0 +1,103 @@
+{
+  "voice": "Hải Đăng",
+  "engine": "VieNeu-TTS v3 Turbo",
+  "tempo": 0.8124670085777698,
+  "cues": [
+    {
+      "scene": 0,
+      "text": "Một khu rừng mọc trên những tầng lầu, giữa miền đất khô nóng.",
+      "start": 0.25,
+      "end": 3.372
+    },
+    {
+      "scene": 0,
+      "text": "Đó là hình dung nổi tiếng về Vườn treo Babylon.",
+      "start": 3.532,
+      "end": 6.167104166666666
+    },
+    {
+      "scene": 0,
+      "text": "Nhưng khu vườn ấy thực sự ở đâu?",
+      "start": 6.3271041666666665,
+      "end": 8.162020833333333
+    },
+    {
+      "scene": 1,
+      "text": "Theo những mô tả cổ, cây cối được trồng trên các tầng nền nâng cao, tạo cảm giác một ngọn đồi xanh.",
+      "start": 8.502020833333333,
+      "end": 14.240583333333333
+    },
+    {
+      "scene": 1,
+      "text": "Chữ treo không có nghĩa là khu vườn lơ lửng giữa trời.",
+      "start": 14.400583333333334,
+      "end": 17.379604166666667
+    },
+    {
+      "scene": 2,
+      "text": "Nếu có một khu vườn như vậy, cây trên cao sẽ cần nước.",
+      "start": 17.719604166666667,
+      "end": 20.896729166666667
+    },
+    {
+      "scene": 2,
+      "text": "Nước phải được đưa lên rồi phân phối đến các tầng.",
+      "start": 21.056729166666667,
+      "end": 23.7394375
+    },
+    {
+      "scene": 2,
+      "text": "Cơ cấu cụ thể vẫn chưa được xác nhận.",
+      "start": 23.8994375,
+      "end": 25.776020833333334
+    },
+    {
+      "scene": 3,
+      "text": "Vấn đề là tại Babylon, khảo cổ chưa tìm được bằng chứng thuyết phục cho công trình như lời kể.",
+      "start": 26.116020833333334,
+      "end": 31.352229166666667
+    },
+    {
+      "scene": 3,
+      "text": "Một bức tranh phục dựng đẹp không thể thay thế dấu tích.",
+      "start": 31.512229166666668,
+      "end": 34.2256875
+    },
+    {
+      "scene": 4,
+      "text": "Vì thế, có học giả đề xuất một hướng khác: Nineveh, ở phía bắc.",
+      "start": 34.5656875,
+      "end": 38.47445833333333
+    },
+    {
+      "scene": 4,
+      "text": "Nơi đó từng có những khu vườn hoàng gia và hệ thống dẫn nước đồ sộ.",
+      "start": 38.634458333333335,
+      "end": 42.463770833333335
+    },
+    {
+      "scene": 5,
+      "text": "Liệu người viết đời sau đã nhầm tên hai thành phố?",
+      "start": 42.80377083333333,
+      "end": 45.46689583333333
+    },
+    {
+      "scene": 5,
+      "text": "Đó là một giả thuyết được nghiên cứu, chưa phải kết luận cuối cùng.",
+      "start": 45.626895833333336,
+      "end": 49.30070833333333
+    },
+    {
+      "scene": 6,
+      "text": "Sức hút của Vườn treo nằm ở cả hai điều: ý tưởng dựng một ngọn núi xanh bằng kỹ thuật, và bí ẩn về nơi nó từng tồn tại.",
+      "start": 49.640708333333336,
+      "end": 56.836083333333335
+    },
+    {
+      "scene": 6,
+      "text": "Một kỳ quan vẫn đang được tìm lời giải.",
+      "start": 56.99608333333333,
+      "end": 59.117333333333335
+    }
+  ]
+}

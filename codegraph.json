@@ -1,0 +1,13 @@
+{
+  "exclude": [
+    "backups/",
+    "build/",
+    "dist/",
+    "outputs/",
+    "projects/",
+    "assets/",
+    "voices/",
+    ".venv/",
+    "**/__pycache__/"
+  ]
+}

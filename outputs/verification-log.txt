@@ -1,0 +1,93 @@
+PASS 01_startup Native PySide6 window on Windows
+PASS 02_project_save_reopen All 12 scenes and 36 cues preserved
+PASS 03_articulated_walk Independent limbs; bone length invariant in unit tests
+PASS 04_srt UTF-8 BOM and exact cue boundaries
+PASS 05_edit_character Properties, keyframe updates, Undo, native canvas drag and timeline pointer handling
+PASS 06_background PNG loaded and drawn by the actual renderer
+Input #0, wav, from 'C:/Users/thaii/Downloads/New folder/stickman-animation-studio/outputs/voice_test.wav':
+  Duration: 00:00:01.40, bitrate: 353 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 22050 Hz, 1 channels, s16, 352 kb/s
+PASS 07_offline_vietnamese_voice Piper WAV 1.405s; Qt media playback progressed
+VOICE 1/36 duration=2.64s
+VOICE 2/36 duration=2.88s
+VOICE 3/36 duration=2.39s
+VOICE 4/36 duration=2.00s
+VOICE 5/36 duration=2.00s
+VOICE 6/36 duration=2.28s
+VOICE 7/36 duration=2.24s
+VOICE 8/36 duration=2.22s
+VOICE 9/36 duration=2.17s
+VOICE 10/36 duration=2.40s
+VOICE 11/36 duration=2.40s
+VOICE 12/36 duration=2.37s
+VOICE 13/36 duration=2.74s
+VOICE 14/36 duration=1.78s
+VOICE 15/36 duration=2.37s
+VOICE 16/36 duration=2.26s
+VOICE 17/36 duration=2.10s
+VOICE 18/36 duration=2.17s
+VOICE 19/36 duration=2.80s
+VOICE 20/36 duration=2.17s
+VOICE 21/36 duration=2.38s
+VOICE 22/36 duration=2.05s
+VOICE 23/36 duration=2.16s
+VOICE 24/36 duration=2.19s
+VOICE 25/36 duration=2.32s
+VOICE 26/36 duration=2.57s
+VOICE 27/36 duration=2.25s
+VOICE 28/36 duration=2.50s
+VOICE 29/36 duration=2.50s
+VOICE 30/36 duration=2.26s
+VOICE 31/36 duration=2.16s
+VOICE 32/36 duration=1.79s
+VOICE 33/36 duration=2.23s
+VOICE 34/36 duration=1.94s
+VOICE 35/36 duration=2.30s
+VOICE 36/36 duration=2.07s
+Input #0, wav, from 'C:/Users/thaii/Downloads/New folder/stickman-animation-studio/examples/yellow_umbrella/assets/acd6af3f089d_cue_01.wav':
+  Duration: 00:00:02.64, bitrate: 352 kb/s
+  Stream #0:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 22050 Hz, 1 channels, s16, 352 kb/s
+PASS 08_scene_with_voice 36 real voice clips saved in project; all editing dialogs initialized
+RENDER 120/180
+RENDER 180/180
+RENDER 180/180
+PASS 09_mp4_render first_scene_15s.mp4
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:/Users/thaii/Downloads/New folder/stickman-animation-studio/outputs/first_scene_15s.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.101
+  Duration: 00:00:15.00, start: 0.000000, bitrate: 380 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 854x480, 324 kb/s, 12 fps, 12 tbr, 12288 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc62.28.101 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 22050 Hz, mono, fltp, 51 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+PASS 10_mp4_validation ffprobe: H.264, 854x480, 12 FPS, AAC; actual Qt video playback
+PASS 11_first_scene_15s 15.000s MP4, subtitles burned with Vietnamese font
+PASS cancel_atomic_export Existing output preserved; temporary render directory cleaned
+RENDER 120/2160
+RENDER 240/2160
+RENDER 360/2160
+RENDER 480/2160
+RENDER 600/2160
+RENDER 720/2160
+RENDER 840/2160
+RENDER 960/2160
+RENDER 1080/2160
+RENDER 1200/2160
+RENDER 1320/2160
+RENDER 1440/2160
+RENDER 1560/2160
+RENDER 1680/2160
+RENDER 1800/2160
+RENDER 1920/2160
+RENDER 2040/2160
+RENDER 2160/2160
+RENDER 2160/2160
+PASS 12_full_demo_180s 12 scenes reopened and rendered; 36 Piper voice clips; 180.000s verified

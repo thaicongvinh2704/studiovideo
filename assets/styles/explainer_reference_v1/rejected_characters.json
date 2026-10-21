@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rejections": [
+    {
+      "identity": "reference-person-study-02",
+      "source_sha256": "69ac5f5433aa35cb4696886d1156c1985336bf433862fbb8708581069d5e2cfb",
+      "verdict": "rejected_by_user",
+      "reason": "Người dùng loại mẫu: các bộ phận rời rạc, kích thước và ngũ quan thiếu hài hòa, không đạt ba ảnh tham chiếu. QC nội bộ trước đó đã đánh giá sai.",
+      "date": "2026-10-20"
+    }
+  ]
+}

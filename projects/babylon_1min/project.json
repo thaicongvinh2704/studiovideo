@@ -1,0 +1,4756 @@
+{
+  "schema": 1,
+  "name": "Vườn treo Babylon · Kỳ quan ở đâu?",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "eb38faa2c08d",
+      "name": "Một ngọn đồi xanh giữa miền khô nóng",
+      "start": 0,
+      "duration": 8.342020833333333,
+      "background": "white",
+      "objects": [
+        {
+          "id": "3de205279ce3",
+          "kind": "group",
+          "name": "Illustrated background: garden_wide.png",
+          "preset": "Illustrated background: garden_wide.png",
+          "x": 640,
+          "y": 360,
+          "scale": 1,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 8.342020833333333,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "scale": [
+              {
+                "t": 0,
+                "v": 1.13,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.342020833333333,
+                "v": 1.02,
+                "ease": "ease_in_out"
+              }
+            ],
+            "x": [
+              {
+                "t": 0,
+                "v": 615,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.342020833333333,
+                "v": 640,
+                "ease": "ease_in_out"
+              }
+            ],
+            "y": [
+              {
+                "t": 0,
+                "v": 375,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.342020833333333,
+                "v": 360,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {}
+        },
+        {
+          "id": "53f9cae21a50",
+          "kind": "image",
+          "name": "garden_wide",
+          "preset": "garden_wide",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 8.342020833333333,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/garden_wide.png",
+          "fit": "contain",
+          "image_width": 1280,
+          "parent": "3de205279ce3"
+        },
+        {
+          "id": "925439a0cab0",
+          "kind": "group",
+          "name": "Independent foreground plants",
+          "preset": "Independent foreground plants",
+          "x": 275,
+          "y": 580,
+          "scale": 0.76,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 8.342020833333333,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 263,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.342020833333333,
+                "v": 285,
+                "ease": "ease_in_out"
+              }
+            ],
+            "rotation": [
+              {
+                "t": 0,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.35,
+                "v": 0.5311861979208834,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.7,
+                "v": 0.900100442176505,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.0499999999999998,
+                "v": 0.994043202198076,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.4,
+                "v": 0.7843159250844202,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.75,
+                "v": 0.33498815015590466,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.0999999999999996,
+                "v": -0.21667508038737918,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.4499999999999997,
+                "v": -0.7021462887308054,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.8,
+                "v": -0.9731189832251737,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.15,
+                "v": -0.9468137755926089,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.5,
+                "v": -0.6312666378723208,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.8499999999999996,
+                "v": -0.12287399510655005,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.199999999999999,
+                "v": 0.423055397142996,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.55,
+                "v": 0.8397456900489799,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.8999999999999995,
+                "v": 0.9999022585479752,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.25,
+                "v": 0.8545989080882805,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.6,
+                "v": 0.4482243269405865,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.949999999999999,
+                "v": -0.09507820432636095,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.3,
+                "v": -0.6093353160635608,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.6499999999999995,
+                "v": -0.9374467173852933,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.0,
+                "v": -0.979177729151317,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.35,
+                "v": -0.721779953842635,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.699999999999999,
+                "v": -0.24388578068908245,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.049999999999999,
+                "v": 0.30851300545798904,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.342020833333333,
+                "v": 0.7666642220658652,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {}
+        },
+        {
+          "id": "ff31378800c2",
+          "kind": "image",
+          "name": "foreground_plants",
+          "preset": "foreground_plants",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 62,
+          "start": 0,
+          "end": 8.342020833333333,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1100,
+          "height": 619,
+          "file": "assets/foreground_plants.png",
+          "fit": "contain",
+          "image_width": 1100,
+          "parent": "925439a0cab0"
+        },
+        {
+          "id": "f73981973b26",
+          "kind": "image",
+          "name": "small_glint",
+          "preset": "small_glint",
+          "x": 690,
+          "y": 579,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 55,
+          "start": 0,
+          "end": 8.342020833333333,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 678,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.342020833333333,
+                "v": 706,
+                "ease": "ease_in_out"
+              }
+            ],
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0.4,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.45,
+                "v": 0.5593431783614313,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.9,
+                "v": 0.6197337435635153,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.35,
+                "v": 0.5436689653458983,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.8,
+                "v": 0.37838530937607606,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.25,
+                "v": 0.2265244440262371,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.7,
+                "v": 0.18239244262523863,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.15,
+                "v": 0.2733954163570522,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.6,
+                "v": 0.4430202333221197,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.05,
+                "v": 0.5859293505645878,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.5,
+                "v": 0.613375758385919,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.95,
+                "v": 0.5083151515093756,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.4,
+                "v": 0.335990496075372,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.8500000000000005,
+                "v": 0.20341594319052506,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.3,
+                "v": 0.1929207056977676,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.75,
+                "v": 0.3110223589731892,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.2,
+                "v": 0.4843794061907742,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.65,
+                "v": 0.6053365777106863,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.1,
+                "v": 0.5987790909276114,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.342020833333333,
+                "v": 0.46877916568563516,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 120,
+          "height": 25,
+          "file": "assets/small_glint.svg",
+          "fit": "contain",
+          "image_width": 120
+        },
+        {
+          "id": "c0eb3ce3b7fe",
+          "kind": "image",
+          "name": "small_glint",
+          "preset": "small_glint",
+          "x": 940,
+          "y": 601,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 55,
+          "start": 0,
+          "end": 8.342020833333333,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 928,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.342020833333333,
+                "v": 956,
+                "ease": "ease_in_out"
+              }
+            ],
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0.5851236166577372,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.45,
+                "v": 0.6137359302809093,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.9,
+                "v": 0.5096175613306044,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.35,
+                "v": 0.33742634324197823,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.8,
+                "v": 0.20409356211196253,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.25,
+                "v": 0.19241929290010054,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.7,
+                "v": 0.309653293375245,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.15,
+                "v": 0.48299288181965977,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.6,
+                "v": 0.604793630546365,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.05,
+                "v": 0.5994168928607757,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.5,
+                "v": 0.47020163971685747,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.95,
+                "v": 0.29739094829005697,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.4,
+                "v": 0.18830079956180165,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.8500000000000005,
+                "v": 0.21067651779139204,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.3,
+                "v": 0.3506227118305918,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.75,
+                "v": 0.5212323565761806,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.2,
+                "v": 0.616556327934056,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.65,
+                "v": 0.5773981409364517,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.1,
+                "v": 0.4280751524344175,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.342020833333333,
+                "v": 0.2613174062803726,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 155,
+          "height": 25,
+          "file": "assets/small_glint.svg",
+          "fit": "contain",
+          "image_width": 155
+        },
+        {
+          "id": "e075c19fcaa0",
+          "kind": "image",
+          "name": "small_glint",
+          "preset": "small_glint",
+          "x": 1120,
+          "y": 563,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 55,
+          "start": 0,
+          "end": 8.342020833333333,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 1108,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.342020833333333,
+                "v": 1136,
+                "ease": "ease_in_out"
+              }
+            ],
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0.60004543390165,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.45,
+                "v": 0.4716208535938632,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.9,
+                "v": 0.2987194987376204,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.35,
+                "v": 0.18871365258818046,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.8,
+                "v": 0.20991729037328363,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.25,
+                "v": 0.34916288657413375,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.7,
+                "v": 0.5199784895408665,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.15,
+                "v": 0.6162870744785561,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.6,
+                "v": 0.578280708300498,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.05,
+                "v": 0.429561463518886,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.5,
+                "v": 0.26248445724356595,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.95,
+                "v": 0.1808050340069736,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.4,
+                "v": 0.23524637163022788,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.8500000000000005,
+                "v": 0.3920002288248817,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.3,
+                "v": 0.5537219689913386,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.75,
+                "v": 0.6199818846346886,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.2,
+                "v": 0.5496323604754408,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.65,
+                "v": 0.38636067149868597,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.1,
+                "v": 0.23155904826821944,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.342020833333333,
+                "v": 0.1813597839733863,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 105,
+          "height": 25,
+          "file": "assets/small_glint.svg",
+          "fit": "contain",
+          "image_width": 105
+        },
+        {
+          "id": "8ad5f60eafae",
+          "kind": "image",
+          "name": "small_glint",
+          "preset": "small_glint",
+          "x": 790,
+          "y": 622,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 55,
+          "start": 0,
+          "end": 8.342020833333333,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 778,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.342020833333333,
+                "v": 806,
+                "ease": "ease_in_out"
+              }
+            ],
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0.4310464017731708,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.45,
+                "v": 0.2636578944091081,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.9,
+                "v": 0.18093826192630602,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.35,
+                "v": 0.23425665534789575,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.8,
+                "v": 0.39050218525407965,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.25,
+                "v": 0.5526458878845479,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.7,
+                "v": 0.6199960157317682,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.15,
+                "v": 0.5507279283208162,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.6,
+                "v": 0.3878573250267636,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.05,
+                "v": 0.23252736094740634,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.5,
+                "v": 0.18119843059512236,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.95,
+                "v": 0.26574596058850175,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.4,
+                "v": 0.4336656698215374,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.8500000000000005,
+                "v": 0.5806788925839402,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.3,
+                "v": 0.6154899567866301,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.75,
+                "v": 0.5164810824585022,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.2,
+                "v": 0.34513709086069067,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.65,
+                "v": 0.20786313778404203,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.1,
+                "v": 0.18990677831897196,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.342020833333333,
+                "v": 0.30241896797025225,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 95,
+          "height": 25,
+          "file": "assets/small_glint.svg",
+          "fit": "contain",
+          "image_width": 95
+        },
+        {
+          "id": "59d836de8917",
+          "kind": "image",
+          "name": "reading_shade",
+          "preset": "reading_shade",
+          "x": 640,
+          "y": 360,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 80,
+          "start": 0,
+          "end": 8.342020833333333,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/reading_shade.svg",
+          "fit": "contain",
+          "image_width": 1280
+        },
+        {
+          "id": "150046dc081d",
+          "kind": "text",
+          "name": "HÌNH DUNG MỘT KỲ QUAN",
+          "preset": "HÌNH DUNG MỘT KỲ QUAN",
+          "x": 640,
+          "y": 31,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 6.3271041666666665,
+          "expression": "normal",
+          "color": "#e1dfc8",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 26,
+          "text": "HÌNH DUNG MỘT KỲ QUAN",
+          "font_size": 15,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "a0beaa0a7c20",
+          "kind": "text",
+          "name": "VƯỜN TREO BABYLON",
+          "preset": "VƯỜN TREO BABYLON",
+          "x": 640,
+          "y": 78,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 6.3271041666666665,
+          "expression": "normal",
+          "color": "#fff3d5",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 75,
+          "text": "VƯỜN TREO BABYLON",
+          "font_size": 42,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "3cc64e77fbfd",
+          "kind": "text",
+          "name": "KỲ QUAN ẤY Ở ĐÂU?",
+          "preset": "KỲ QUAN ẤY Ở ĐÂU?",
+          "x": 640,
+          "y": 78,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 0,
+          "layer": 90,
+          "start": 6.3271041666666665,
+          "end": 8.342020833333333,
+          "expression": "normal",
+          "color": "#fff3d5",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.3271041666666665,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.677104166666666,
+                "v": 1,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 75,
+          "text": "KỲ QUAN ẤY Ở ĐÂU?",
+          "font_size": 38,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "f472012218f6",
+          "kind": "text",
+          "name": "Minh họa giả định",
+          "preset": "Minh họa giả định",
+          "x": 1112,
+          "y": 598,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 88,
+          "start": 0,
+          "end": 8.342020833333333,
+          "expression": "normal",
+          "color": "#e5e4cc",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 260,
+          "height": 24,
+          "text": "Minh họa giả định",
+          "font_size": 13,
+          "font": "Segoe UI",
+          "bold": false,
+          "align": "center"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "background_color": "#162e31",
+      "style": "illustrated_comic_babylon"
+    },
+    {
+      "id": "0c47c1004439",
+      "name": "Treo nghĩa là gì?",
+      "start": 8.342020833333333,
+      "duration": 9.217583333333334,
+      "background": "white",
+      "objects": [
+        {
+          "id": "89cc40d2fbe9",
+          "kind": "group",
+          "name": "Illustrated background: terrace_close.png",
+          "preset": "Illustrated background: terrace_close.png",
+          "x": 640,
+          "y": 360,
+          "scale": 1,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 9.217583333333334,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "scale": [
+              {
+                "t": 0,
+                "v": 1.07,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.217583333333334,
+                "v": 1.16,
+                "ease": "ease_in_out"
+              }
+            ],
+            "x": [
+              {
+                "t": 0,
+                "v": 650,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.217583333333334,
+                "v": 602,
+                "ease": "ease_in_out"
+              }
+            ],
+            "y": [
+              {
+                "t": 0,
+                "v": 365,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.217583333333334,
+                "v": 380,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {}
+        },
+        {
+          "id": "6d492b6d4d5f",
+          "kind": "image",
+          "name": "terrace_close",
+          "preset": "terrace_close",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 9.217583333333334,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/terrace_close.png",
+          "fit": "contain",
+          "image_width": 1280,
+          "parent": "89cc40d2fbe9"
+        },
+        {
+          "id": "ca006ad1c3c7",
+          "kind": "image",
+          "name": "small_glint",
+          "preset": "small_glint",
+          "x": 773,
+          "y": 465,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 60,
+          "start": 0,
+          "end": 9.217583333333334,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 610,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.217583333333334,
+                "v": 862,
+                "ease": "ease_in_out"
+              }
+            ],
+            "y": [
+              {
+                "t": 0,
+                "v": 413,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.217583333333334,
+                "v": 571,
+                "ease": "ease_in_out"
+              }
+            ],
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.4,
+                "v": 0.45,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.817583333333333,
+                "v": 0.45,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.217583333333334,
+                "v": 0,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 48,
+          "height": 12,
+          "file": "assets/small_glint.svg",
+          "fit": "contain",
+          "image_width": 48
+        },
+        {
+          "id": "8e48c0463f71",
+          "kind": "image",
+          "name": "small_glint",
+          "preset": "small_glint",
+          "x": 773,
+          "y": 465,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 60,
+          "start": 0,
+          "end": 9.217583333333334,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 675,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.217583333333334,
+                "v": 907,
+                "ease": "ease_in_out"
+              }
+            ],
+            "y": [
+              {
+                "t": 0,
+                "v": 447,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.217583333333334,
+                "v": 596,
+                "ease": "ease_in_out"
+              }
+            ],
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.7,
+                "v": 0.45,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.817583333333333,
+                "v": 0.45,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.217583333333334,
+                "v": 0,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 48,
+          "height": 12,
+          "file": "assets/small_glint.svg",
+          "fit": "contain",
+          "image_width": 48
+        },
+        {
+          "id": "dfcfd3b1cbda",
+          "kind": "image",
+          "name": "small_glint",
+          "preset": "small_glint",
+          "x": 773,
+          "y": 465,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 60,
+          "start": 0,
+          "end": 9.217583333333334,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 740,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.217583333333334,
+                "v": 952,
+                "ease": "ease_in_out"
+              }
+            ],
+            "y": [
+              {
+                "t": 0,
+                "v": 481,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.217583333333334,
+                "v": 621,
+                "ease": "ease_in_out"
+              }
+            ],
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.0,
+                "v": 0.45,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.817583333333333,
+                "v": 0.45,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.217583333333334,
+                "v": 0,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 48,
+          "height": 12,
+          "file": "assets/small_glint.svg",
+          "fit": "contain",
+          "image_width": 48
+        },
+        {
+          "id": "3c87be4f9cf4",
+          "kind": "image",
+          "name": "reading_shade",
+          "preset": "reading_shade",
+          "x": 640,
+          "y": 360,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 80,
+          "start": 0,
+          "end": 9.217583333333334,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/reading_shade.svg",
+          "fit": "contain",
+          "image_width": 1280
+        },
+        {
+          "id": "f4fd69022f3a",
+          "kind": "text",
+          "name": "CÂY MỌC TRÊN CÁC TẦNG NỀN",
+          "preset": "CÂY MỌC TRÊN CÁC TẦNG NỀN",
+          "x": 640,
+          "y": 31,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 6.058562500000001,
+          "expression": "normal",
+          "color": "#e1dfc8",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 26,
+          "text": "CÂY MỌC TRÊN CÁC TẦNG NỀN",
+          "font_size": 15,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "9e0ff43d91fe",
+          "kind": "text",
+          "name": "MỘT NGỌN ĐỒI ĐƯỢC XÂY LÊN",
+          "preset": "MỘT NGỌN ĐỒI ĐƯỢC XÂY LÊN",
+          "x": 640,
+          "y": 78,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 6.058562500000001,
+          "expression": "normal",
+          "color": "#fff3d5",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 75,
+          "text": "MỘT NGỌN ĐỒI ĐƯỢC XÂY LÊN",
+          "font_size": 34,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "92fdae71557f",
+          "kind": "text",
+          "name": "“TREO” KHÔNG PHẢI LƠ LỬNG",
+          "preset": "“TREO” KHÔNG PHẢI LƠ LỬNG",
+          "x": 640,
+          "y": 78,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 0,
+          "layer": 90,
+          "start": 6.058562500000001,
+          "end": 9.217583333333334,
+          "expression": "normal",
+          "color": "#fff3d5",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.058562500000001,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.4085625,
+                "v": 1,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 75,
+          "text": "“TREO” KHÔNG PHẢI LƠ LỬNG",
+          "font_size": 34,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "628f5afafb62",
+          "kind": "text",
+          "name": "Hình dung theo mô tả cổ",
+          "preset": "Hình dung theo mô tả cổ",
+          "x": 1090,
+          "y": 597,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 9.217583333333334,
+          "expression": "normal",
+          "color": "#e5e4cc",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 330,
+          "height": 25,
+          "text": "Hình dung theo mô tả cổ",
+          "font_size": 13,
+          "font": "Segoe UI",
+          "bold": false,
+          "align": "center"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "background_color": "#162e31",
+      "style": "illustrated_comic_babylon"
+    },
+    {
+      "id": "f39b32820a49",
+      "name": "Bài toán nước",
+      "start": 17.559604166666666,
+      "duration": 8.396416666666667,
+      "background": "white",
+      "objects": [
+        {
+          "id": "a8f039c431d7",
+          "kind": "group",
+          "name": "Illustrated background: water_section.png",
+          "preset": "Illustrated background: water_section.png",
+          "x": 640,
+          "y": 360,
+          "scale": 1,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 8.396416666666667,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "scale": [
+              {
+                "t": 0,
+                "v": 1,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.396416666666667,
+                "v": 1,
+                "ease": "ease_in_out"
+              }
+            ],
+            "x": [
+              {
+                "t": 0,
+                "v": 640,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.396416666666667,
+                "v": 640,
+                "ease": "ease_in_out"
+              }
+            ],
+            "y": [
+              {
+                "t": 0,
+                "v": 360,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.396416666666667,
+                "v": 360,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {}
+        },
+        {
+          "id": "a698708b6523",
+          "kind": "image",
+          "name": "water_section",
+          "preset": "water_section",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 8.396416666666667,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/water_section.png",
+          "fit": "contain",
+          "image_width": 1280,
+          "parent": "a8f039c431d7"
+        },
+        {
+          "id": "b5af2c92b852",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 60,
+          "start": 0.65,
+          "end": 8.396416666666667,
+          "expression": "normal",
+          "color": "#193f4c",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              143,
+              539
+            ],
+            [
+              143,
+              163
+            ],
+            [
+              176,
+              163
+            ]
+          ],
+          "stroke": 8,
+          "reveal": true,
+          "enter_duration": 2.5
+        },
+        {
+          "id": "033d39811942",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 61,
+          "start": 0.65,
+          "end": 8.396416666666667,
+          "expression": "normal",
+          "color": "#74d4d6",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              143,
+              539
+            ],
+            [
+              143,
+              163
+            ],
+            [
+              176,
+              163
+            ]
+          ],
+          "stroke": 4,
+          "reveal": true,
+          "enter_duration": 2.5
+        },
+        {
+          "id": "3cb713068105",
+          "kind": "shape",
+          "name": "Moving water cue",
+          "preset": "Moving water cue",
+          "x": 143,
+          "y": 539,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 72,
+          "start": 0.7,
+          "end": 3.4000000000000004,
+          "expression": "normal",
+          "color": "#fff3c9",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "y": [
+              {
+                "t": 0.7,
+                "v": 539,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.0999999999999996,
+                "v": 163,
+                "ease": "ease_in_out"
+              }
+            ],
+            "x": [
+              {
+                "t": 0.7,
+                "v": 143,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.0999999999999996,
+                "v": 143,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 8,
+          "height": 8,
+          "shape": "ellipse",
+          "fill": "#fff3c9",
+          "stroke": 0
+        },
+        {
+          "id": "9cc4483f9719",
+          "kind": "shape",
+          "name": "Moving water cue",
+          "preset": "Moving water cue",
+          "x": 143,
+          "y": 539,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 72,
+          "start": 1.4,
+          "end": 4.1,
+          "expression": "normal",
+          "color": "#fff3c9",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "y": [
+              {
+                "t": 1.4,
+                "v": 539,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.8,
+                "v": 163,
+                "ease": "ease_in_out"
+              }
+            ],
+            "x": [
+              {
+                "t": 1.4,
+                "v": 143,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.8,
+                "v": 143,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 8,
+          "height": 8,
+          "shape": "ellipse",
+          "fill": "#fff3c9",
+          "stroke": 0
+        },
+        {
+          "id": "cd40ead50fb4",
+          "kind": "shape",
+          "name": "Moving water cue",
+          "preset": "Moving water cue",
+          "x": 143,
+          "y": 539,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 72,
+          "start": 2.0999999999999996,
+          "end": 4.8,
+          "expression": "normal",
+          "color": "#fff3c9",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "y": [
+              {
+                "t": 2.0999999999999996,
+                "v": 539,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.5,
+                "v": 163,
+                "ease": "ease_in_out"
+              }
+            ],
+            "x": [
+              {
+                "t": 2.0999999999999996,
+                "v": 143,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.5,
+                "v": 143,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 8,
+          "height": 8,
+          "shape": "ellipse",
+          "fill": "#fff3c9",
+          "stroke": 0
+        },
+        {
+          "id": "3b27162c55bf",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 60,
+          "start": 3.4971250000000005,
+          "end": 8.396416666666667,
+          "expression": "normal",
+          "color": "#22434a",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              194,
+              155
+            ],
+            [
+              465,
+              155
+            ]
+          ],
+          "stroke": 7,
+          "reveal": true,
+          "enter_duration": 1.5
+        },
+        {
+          "id": "37f1674f7d1f",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 61,
+          "start": 3.4971250000000005,
+          "end": 8.396416666666667,
+          "expression": "normal",
+          "color": "#74d4d6",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              194,
+              155
+            ],
+            [
+              465,
+              155
+            ]
+          ],
+          "stroke": 3.6,
+          "reveal": true,
+          "enter_duration": 1.5
+        },
+        {
+          "id": "320037450f92",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 60,
+          "start": 3.7771250000000007,
+          "end": 8.396416666666667,
+          "expression": "normal",
+          "color": "#22434a",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              370,
+              289
+            ],
+            [
+              792,
+              289
+            ]
+          ],
+          "stroke": 7,
+          "reveal": true,
+          "enter_duration": 1.5
+        },
+        {
+          "id": "736b4503b3c4",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 61,
+          "start": 3.7771250000000007,
+          "end": 8.396416666666667,
+          "expression": "normal",
+          "color": "#74d4d6",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              370,
+              289
+            ],
+            [
+              792,
+              289
+            ]
+          ],
+          "stroke": 3.6,
+          "reveal": true,
+          "enter_duration": 1.5
+        },
+        {
+          "id": "41bcab880219",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 60,
+          "start": 4.057125000000001,
+          "end": 8.396416666666667,
+          "expression": "normal",
+          "color": "#22434a",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              744,
+              468
+            ],
+            [
+              1043,
+              468
+            ]
+          ],
+          "stroke": 7,
+          "reveal": true,
+          "enter_duration": 1.5
+        },
+        {
+          "id": "626285a8e932",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 61,
+          "start": 4.057125000000001,
+          "end": 8.396416666666667,
+          "expression": "normal",
+          "color": "#74d4d6",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              744,
+              468
+            ],
+            [
+              1043,
+              468
+            ]
+          ],
+          "stroke": 3.6,
+          "reveal": true,
+          "enter_duration": 1.5
+        },
+        {
+          "id": "d1dd277f9eff",
+          "kind": "image",
+          "name": "reading_shade",
+          "preset": "reading_shade",
+          "x": 640,
+          "y": 360,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 80,
+          "start": 0,
+          "end": 8.396416666666667,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/reading_shade.svg",
+          "fit": "contain",
+          "image_width": 1280
+        },
+        {
+          "id": "c25e8e169d34",
+          "kind": "text",
+          "name": "MINH HỌA NGUYÊN LÝ · KHÔNG PHẢI CƠ ",
+          "preset": "MINH HỌA NGUYÊN LÝ · KHÔNG PHẢI CƠ ",
+          "x": 640,
+          "y": 31,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 6.339833333333335,
+          "expression": "normal",
+          "color": "#e1dfc8",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 26,
+          "text": "MINH HỌA NGUYÊN LÝ · KHÔNG PHẢI CƠ CẤU ĐÃ XÁC NHẬN",
+          "font_size": 15,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "04dce3fdc8b0",
+          "kind": "text",
+          "name": "BÀI TOÁN LÀ NƯỚC",
+          "preset": "BÀI TOÁN LÀ NƯỚC",
+          "x": 640,
+          "y": 78,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 6.339833333333335,
+          "expression": "normal",
+          "color": "#fff3d5",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 75,
+          "text": "BÀI TOÁN LÀ NƯỚC",
+          "font_size": 34,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "8247edafdb97",
+          "kind": "text",
+          "name": "CƠ CẤU CỤ THỂ: CHƯA XÁC NHẬN",
+          "preset": "CƠ CẤU CỤ THỂ: CHƯA XÁC NHẬN",
+          "x": 640,
+          "y": 78,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 0,
+          "layer": 90,
+          "start": 6.339833333333335,
+          "end": 8.396416666666667,
+          "expression": "normal",
+          "color": "#fff3d5",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.339833333333335,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.689833333333334,
+                "v": 1,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 75,
+          "text": "CƠ CẤU CỤ THỂ: CHƯA XÁC NHẬN",
+          "font_size": 31,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "background_color": "#162e31",
+      "style": "illustrated_comic_babylon"
+    },
+    {
+      "id": "410d61b2e609",
+      "name": "Hình dung khác với chứng cứ",
+      "start": 25.956020833333334,
+      "duration": 8.449666666666673,
+      "background": "white",
+      "objects": [
+        {
+          "id": "b76756790f4f",
+          "kind": "group",
+          "name": "Illustrated background: excavation.png",
+          "preset": "Illustrated background: excavation.png",
+          "x": 640,
+          "y": 360,
+          "scale": 1,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 8.449666666666673,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "scale": [
+              {
+                "t": 0,
+                "v": 1.02,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.449666666666673,
+                "v": 1.09,
+                "ease": "ease_in_out"
+              }
+            ],
+            "x": [
+              {
+                "t": 0,
+                "v": 640,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.449666666666673,
+                "v": 625,
+                "ease": "ease_in_out"
+              }
+            ],
+            "y": [
+              {
+                "t": 0,
+                "v": 360,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.449666666666673,
+                "v": 365,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {}
+        },
+        {
+          "id": "86c407c68f14",
+          "kind": "image",
+          "name": "excavation",
+          "preset": "excavation",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 8.449666666666673,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/excavation.png",
+          "fit": "contain",
+          "image_width": 1280,
+          "parent": "b76756790f4f"
+        },
+        {
+          "id": "deeedf7013b3",
+          "kind": "image",
+          "name": "reading_shade",
+          "preset": "reading_shade",
+          "x": 640,
+          "y": 360,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 80,
+          "start": 0,
+          "end": 8.449666666666673,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/reading_shade.svg",
+          "fit": "contain",
+          "image_width": 1280
+        },
+        {
+          "id": "7df9270979ce",
+          "kind": "text",
+          "name": "BẰNG CHỨNG Ở BABYLON VẪN CHƯA THUYẾ",
+          "preset": "BẰNG CHỨNG Ở BABYLON VẪN CHƯA THUYẾ",
+          "x": 640,
+          "y": 31,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 8.449666666666673,
+          "expression": "normal",
+          "color": "#e1dfc8",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 26,
+          "text": "BẰNG CHỨNG Ở BABYLON VẪN CHƯA THUYẾT PHỤC",
+          "font_size": 15,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "10ea87ad178f",
+          "kind": "text",
+          "name": "HÌNH DUNG KHÁC VỚI CHỨNG CỨ",
+          "preset": "HÌNH DUNG KHÁC VỚI CHỨNG CỨ",
+          "x": 640,
+          "y": 78,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 8.449666666666673,
+          "expression": "normal",
+          "color": "#fff3d5",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 75,
+          "text": "HÌNH DUNG KHÁC VỚI CHỨNG CỨ",
+          "font_size": 33,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "e063e8086232",
+          "kind": "text",
+          "name": "Cảnh khảo cổ minh họa",
+          "preset": "Cảnh khảo cổ minh họa",
+          "x": 1090,
+          "y": 598,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 8.449666666666673,
+          "expression": "normal",
+          "color": "#e5e4cc",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 330,
+          "height": 25,
+          "text": "Cảnh khảo cổ minh họa",
+          "font_size": 13,
+          "font": "Segoe UI",
+          "bold": false,
+          "align": "center"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "background_color": "#162e31",
+      "style": "illustrated_comic_babylon"
+    },
+    {
+      "id": "06c380866424",
+      "name": "Đổi hướng tìm kiếm",
+      "start": 34.405687500000006,
+      "duration": 8.238083333333329,
+      "background": "white",
+      "objects": [
+        {
+          "id": "007106ed3f63",
+          "kind": "image",
+          "name": "mesopotamia_map",
+          "preset": "mesopotamia_map",
+          "x": 640,
+          "y": 360,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/mesopotamia_map.svg",
+          "fit": "contain",
+          "image_width": 1280
+        },
+        {
+          "id": "c6442f6c22ad",
+          "kind": "text",
+          "name": "LƯỠNG HÀ",
+          "preset": "LƯỠNG HÀ",
+          "x": 1045,
+          "y": 500,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 40,
+          "start": 0,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#947852",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 330,
+          "height": 70,
+          "text": "LƯỠNG HÀ",
+          "font_size": 39,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "3444c6e09071",
+          "kind": "text",
+          "name": "Euphrates",
+          "preset": "Euphrates",
+          "x": 300,
+          "y": 353,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 45,
+          "start": 0,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#3c696e",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 200,
+          "height": 35,
+          "text": "Euphrates",
+          "font_size": 21,
+          "font": "Segoe UI",
+          "bold": false,
+          "align": "center"
+        },
+        {
+          "id": "bd8b45a01790",
+          "kind": "text",
+          "name": "Tigris",
+          "preset": "Tigris",
+          "x": 770,
+          "y": 276,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 45,
+          "start": 0,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#3c696e",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 170,
+          "height": 35,
+          "text": "Tigris",
+          "font_size": 21,
+          "font": "Segoe UI",
+          "bold": false,
+          "align": "center"
+        },
+        {
+          "id": "d0c00d179be7",
+          "kind": "image",
+          "name": "pin",
+          "preset": "pin",
+          "x": 570,
+          "y": 484,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 55,
+          "start": 0,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 40,
+          "height": 56,
+          "file": "assets/pin.svg",
+          "fit": "contain",
+          "image_width": 40
+        },
+        {
+          "id": "3f111de0e3ac",
+          "kind": "text",
+          "name": "BABYLON",
+          "preset": "BABYLON",
+          "x": 397,
+          "y": 506,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#24302e",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 260,
+          "height": 45,
+          "text": "BABYLON",
+          "font_size": 29,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "d9a9b559cba1",
+          "kind": "image",
+          "name": "pin",
+          "preset": "pin",
+          "x": 630,
+          "y": 166,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 0,
+          "layer": 55,
+          "start": 0,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.6,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.0,
+                "v": 1,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 40,
+          "height": 56,
+          "file": "assets/pin.svg",
+          "fit": "contain",
+          "image_width": 40
+        },
+        {
+          "id": "10dc320a0c87",
+          "kind": "text",
+          "name": "NINEVEH",
+          "preset": "NINEVEH",
+          "x": 798,
+          "y": 180,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 0,
+          "layer": 90,
+          "start": 0,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#24302e",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.8,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.2000000000000002,
+                "v": 1,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 260,
+          "height": 45,
+          "text": "NINEVEH",
+          "font_size": 30,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "2ace6793e44e",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 0.9,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              570.0,
+              504.0
+            ],
+            [
+              572.1428571428571,
+              492.85714285714283
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "a710a98f701a",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 0.97,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              574.2857142857143,
+              481.7142857142857
+            ],
+            [
+              576.4285714285714,
+              470.57142857142856
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "862657853e55",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 1.04,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              578.5714285714286,
+              459.42857142857144
+            ],
+            [
+              580.7142857142857,
+              448.2857142857143
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "b9e61464a0a8",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 1.11,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              582.8571428571429,
+              437.14285714285717
+            ],
+            [
+              585.0,
+              426.0
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "8e965912eb3b",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 1.1800000000000002,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              587.1428571428571,
+              414.8571428571429
+            ],
+            [
+              589.2857142857143,
+              403.7142857142857
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "e874655320b1",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 1.25,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              591.4285714285714,
+              392.57142857142856
+            ],
+            [
+              593.5714285714286,
+              381.42857142857144
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "90579cd85f7e",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 1.32,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              595.7142857142857,
+              370.28571428571433
+            ],
+            [
+              597.8571428571429,
+              359.1428571428571
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "41c7ab04aa70",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 1.3900000000000001,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              600.0,
+              348.0
+            ],
+            [
+              602.1428571428571,
+              336.8571428571429
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "662a5505b4f4",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 1.46,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              604.2857142857143,
+              325.7142857142857
+            ],
+            [
+              606.4285714285714,
+              314.57142857142856
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "6431172fa439",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 1.5300000000000002,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              608.5714285714286,
+              303.42857142857144
+            ],
+            [
+              610.7142857142857,
+              292.2857142857143
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "e8d1307d698b",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 1.6,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              612.8571428571429,
+              281.1428571428571
+            ],
+            [
+              615.0,
+              270.0
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "65116674bd2f",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 1.67,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              617.1428571428571,
+              258.8571428571429
+            ],
+            [
+              619.2857142857143,
+              247.71428571428572
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "6327744ca16a",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 1.7400000000000002,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              621.4285714285714,
+              236.5714285714286
+            ],
+            [
+              623.5714285714286,
+              225.4285714285714
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "d0e2ae60d87a",
+          "kind": "shape",
+          "name": "Water / evidence route",
+          "preset": "Water / evidence route",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 48,
+          "start": 1.81,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#ad603b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "shape": "path",
+          "points": [
+            [
+              625.7142857142857,
+              214.28571428571428
+            ],
+            [
+              627.8571428571429,
+              203.1428571428571
+            ]
+          ],
+          "stroke": 2,
+          "reveal": true,
+          "enter_duration": 0.2
+        },
+        {
+          "id": "370fec8bb558",
+          "kind": "image",
+          "name": "halo",
+          "preset": "halo",
+          "x": 630,
+          "y": 193,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 50,
+          "start": 0,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "scale": [
+              {
+                "t": 0,
+                "v": 0.8500000000000001,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.4,
+                "v": 0.9934712181799046,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.8,
+                "v": 1.049914720608301,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.2000000000000002,
+                "v": 0.9850926361102301,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.6,
+                "v": 0.838325171314484,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.0,
+                "v": 0.6986395009384144,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.4000000000000004,
+                "v": 0.6507670782328319,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.8000000000000003,
+                "v": 0.7237466724255358,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.2,
+                "v": 0.8733098409700988,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.6,
+                "v": 1.0087335727698306,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.0,
+                "v": 1.0478716493246765,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.4,
+                "v": 0.9669834385783523,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.800000000000001,
+                "v": 0.8151346437554038,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.2,
+                "v": 0.6844347061828693,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.6000000000000005,
+                "v": 0.6541644541697367,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.0,
+                "v": 0.742685416399913,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.4,
+                "v": 0.8963019650203079,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.800000000000001,
+                "v": 1.0218323629712995,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.2,
+                "v": 1.0431315553098557,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.6000000000000005,
+                "v": 0.9472797377707596,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.0,
+                "v": 0.7924193366669869,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.238083333333329,
+                "v": 0.6724865932836991,
+                "ease": "ease_in_out"
+              }
+            ],
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.8,
+                "v": 0.7,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.238083333333329,
+                "v": 0.7,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 110,
+          "height": 110,
+          "file": "assets/halo.svg",
+          "fit": "contain",
+          "image_width": 110
+        },
+        {
+          "id": "01f6dd89a0a5",
+          "kind": "image",
+          "name": "reading_shade",
+          "preset": "reading_shade",
+          "x": 640,
+          "y": 360,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 80,
+          "start": 0,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/reading_shade.svg",
+          "fit": "contain",
+          "image_width": 1280
+        },
+        {
+          "id": "5f364a0dd5af",
+          "kind": "text",
+          "name": "MỘT HƯỚNG NGHIÊN CỨU KHÁC",
+          "preset": "MỘT HƯỚNG NGHIÊN CỨU KHÁC",
+          "x": 640,
+          "y": 31,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#e1dfc8",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 26,
+          "text": "MỘT HƯỚNG NGHIÊN CỨU KHÁC",
+          "font_size": 15,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "d6ba19e42697",
+          "kind": "text",
+          "name": "HAY LÀ NINEVEH?",
+          "preset": "HAY LÀ NINEVEH?",
+          "x": 640,
+          "y": 78,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#fff3d5",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 75,
+          "text": "HAY LÀ NINEVEH?",
+          "font_size": 38,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "dafc8a4c9db7",
+          "kind": "text",
+          "name": "Sơ đồ vị trí tương đối · không theo",
+          "preset": "Sơ đồ vị trí tương đối · không theo",
+          "x": 1005,
+          "y": 599,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 8.238083333333329,
+          "expression": "normal",
+          "color": "#f1e4c2",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 450,
+          "height": 28,
+          "text": "Sơ đồ vị trí tương đối · không theo tỷ lệ",
+          "font_size": 14,
+          "font": "Segoe UI",
+          "bold": false,
+          "align": "center"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "background_color": "#162e31",
+      "style": "illustrated_comic_babylon"
+    },
+    {
+      "id": "8fa95b581e29",
+      "name": "Giả thuyết nhầm tên",
+      "start": 42.643770833333335,
+      "duration": 6.836937500000005,
+      "background": "white",
+      "objects": [
+        {
+          "id": "d888f66abec0",
+          "kind": "group",
+          "name": "Illustrated background: evidence_table.png",
+          "preset": "Illustrated background: evidence_table.png",
+          "x": 640,
+          "y": 360,
+          "scale": 1,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 6.836937500000005,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "scale": [
+              {
+                "t": 0,
+                "v": 1.04,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.836937500000005,
+                "v": 1.11,
+                "ease": "ease_in_out"
+              }
+            ],
+            "x": [
+              {
+                "t": 0,
+                "v": 640,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.836937500000005,
+                "v": 653,
+                "ease": "ease_in_out"
+              }
+            ],
+            "y": [
+              {
+                "t": 0,
+                "v": 360,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.836937500000005,
+                "v": 353,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {}
+        },
+        {
+          "id": "45aa5f553830",
+          "kind": "image",
+          "name": "evidence_table",
+          "preset": "evidence_table",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 6.836937500000005,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/evidence_table.png",
+          "fit": "contain",
+          "image_width": 1280,
+          "parent": "d888f66abec0"
+        },
+        {
+          "id": "616a851c98e2",
+          "kind": "image",
+          "name": "reading_shade",
+          "preset": "reading_shade",
+          "x": 640,
+          "y": 360,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 80,
+          "start": 0,
+          "end": 6.836937500000005,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/reading_shade.svg",
+          "fit": "contain",
+          "image_width": 1280
+        },
+        {
+          "id": "584bffce30cb",
+          "kind": "text",
+          "name": "CÂU HỎI TỪ NHỮNG NGUỒN TƯ LIỆU",
+          "preset": "CÂU HỎI TỪ NHỮNG NGUỒN TƯ LIỆU",
+          "x": 640,
+          "y": 31,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 2.983125000000001,
+          "expression": "normal",
+          "color": "#e1dfc8",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 26,
+          "text": "CÂU HỎI TỪ NHỮNG NGUỒN TƯ LIỆU",
+          "font_size": 15,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "18b0e33e1dce",
+          "kind": "text",
+          "name": "NHẦM TÊN HAI THÀNH PHỐ?",
+          "preset": "NHẦM TÊN HAI THÀNH PHỐ?",
+          "x": 640,
+          "y": 78,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 2.983125000000001,
+          "expression": "normal",
+          "color": "#fff3d5",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 75,
+          "text": "NHẦM TÊN HAI THÀNH PHỐ?",
+          "font_size": 35,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "6f99dbd7817d",
+          "kind": "text",
+          "name": "GIẢ THUYẾT · CHƯA PHẢI KẾT LUẬN",
+          "preset": "GIẢ THUYẾT · CHƯA PHẢI KẾT LUẬN",
+          "x": 640,
+          "y": 78,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 0,
+          "layer": 90,
+          "start": 2.983125000000001,
+          "end": 6.836937500000005,
+          "expression": "normal",
+          "color": "#fff3d5",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.983125000000001,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.3331250000000012,
+                "v": 1,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 75,
+          "text": "GIẢ THUYẾT · CHƯA PHẢI KẾT LUẬN",
+          "font_size": 31,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "da864cf6961d",
+          "kind": "text",
+          "name": "Bảng đất và phù điêu minh họa",
+          "preset": "Bảng đất và phù điêu minh họa",
+          "x": 1060,
+          "y": 598,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 6.836937500000005,
+          "expression": "normal",
+          "color": "#e5e4cc",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 380,
+          "height": 25,
+          "text": "Bảng đất và phù điêu minh họa",
+          "font_size": 13,
+          "font": "Segoe UI",
+          "bold": false,
+          "align": "center"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "background_color": "#162e31",
+      "style": "illustrated_comic_babylon"
+    },
+    {
+      "id": "f7ee4c5ef92f",
+      "name": "Trở lại kỳ quan",
+      "start": 49.48070833333334,
+      "duration": 10.51929166666666,
+      "background": "white",
+      "objects": [
+        {
+          "id": "723b685eef59",
+          "kind": "group",
+          "name": "Illustrated background: garden_wide.png",
+          "preset": "Illustrated background: garden_wide.png",
+          "x": 640,
+          "y": 360,
+          "scale": 1,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 10.51929166666666,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "scale": [
+              {
+                "t": 0,
+                "v": 1.04,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 10.51929166666666,
+                "v": 1.11,
+                "ease": "ease_in_out"
+              }
+            ],
+            "x": [
+              {
+                "t": 0,
+                "v": 640,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 10.51929166666666,
+                "v": 627,
+                "ease": "ease_in_out"
+              }
+            ],
+            "y": [
+              {
+                "t": 0,
+                "v": 360,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 10.51929166666666,
+                "v": 370,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {}
+        },
+        {
+          "id": "ae795e6337ac",
+          "kind": "image",
+          "name": "garden_wide",
+          "preset": "garden_wide",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 10.51929166666666,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/garden_wide.png",
+          "fit": "contain",
+          "image_width": 1280,
+          "parent": "723b685eef59"
+        },
+        {
+          "id": "e36a6337bab6",
+          "kind": "group",
+          "name": "Independent foreground plants",
+          "preset": "Independent foreground plants",
+          "x": 275,
+          "y": 580,
+          "scale": 0.76,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 10.51929166666666,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 263,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 10.51929166666666,
+                "v": 285,
+                "ease": "ease_in_out"
+              }
+            ],
+            "rotation": [
+              {
+                "t": 0,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.35,
+                "v": 0.5311861979208834,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 0.7,
+                "v": 0.900100442176505,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.0499999999999998,
+                "v": 0.994043202198076,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.4,
+                "v": 0.7843159250844202,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.75,
+                "v": 0.33498815015590466,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.0999999999999996,
+                "v": -0.21667508038737918,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.4499999999999997,
+                "v": -0.7021462887308054,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 2.8,
+                "v": -0.9731189832251737,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.15,
+                "v": -0.9468137755926089,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.5,
+                "v": -0.6312666378723208,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.8499999999999996,
+                "v": -0.12287399510655005,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.199999999999999,
+                "v": 0.423055397142996,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.55,
+                "v": 0.8397456900489799,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.8999999999999995,
+                "v": 0.9999022585479752,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.25,
+                "v": 0.8545989080882805,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.6,
+                "v": 0.4482243269405865,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.949999999999999,
+                "v": -0.09507820432636095,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.3,
+                "v": -0.6093353160635608,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.6499999999999995,
+                "v": -0.9374467173852933,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.0,
+                "v": -0.979177729151317,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.35,
+                "v": -0.721779953842635,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.699999999999999,
+                "v": -0.24388578068908245,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.049999999999999,
+                "v": 0.30851300545798904,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.399999999999999,
+                "v": 0.7666642220658652,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.75,
+                "v": 0.9906073556948704,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.1,
+                "v": 0.9119300681740611,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.45,
+                "v": 0.5546674665997031,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.799999999999999,
+                "v": 0.02795962380486148,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 10.149999999999999,
+                "v": -0.5072895982583391,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 10.5,
+                "v": -0.8875670335815046,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 10.51929166666666,
+                "v": -0.9967018128795512,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {}
+        },
+        {
+          "id": "badef1793275",
+          "kind": "image",
+          "name": "foreground_plants",
+          "preset": "foreground_plants",
+          "x": 0,
+          "y": 0,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 62,
+          "start": 0,
+          "end": 10.51929166666666,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1100,
+          "height": 619,
+          "file": "assets/foreground_plants.png",
+          "fit": "contain",
+          "image_width": 1100,
+          "parent": "e36a6337bab6"
+        },
+        {
+          "id": "46e6dc61a516",
+          "kind": "image",
+          "name": "reading_shade",
+          "preset": "reading_shade",
+          "x": 640,
+          "y": 360,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 80,
+          "start": 0,
+          "end": 10.51929166666666,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/reading_shade.svg",
+          "fit": "contain",
+          "image_width": 1280
+        },
+        {
+          "id": "b64b4b98d953",
+          "kind": "text",
+          "name": "VƯỜN TREO BABYLON",
+          "preset": "VƯỜN TREO BABYLON",
+          "x": 640,
+          "y": 31,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 7.515374999999992,
+          "expression": "normal",
+          "color": "#e1dfc8",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 26,
+          "text": "VƯỜN TREO BABYLON",
+          "font_size": 15,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "458e875520fd",
+          "kind": "text",
+          "name": "MỘT NGỌN NÚI XANH · MỘT BÍ ẨN",
+          "preset": "MỘT NGỌN NÚI XANH · MỘT BÍ ẨN",
+          "x": 640,
+          "y": 78,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 7.515374999999992,
+          "expression": "normal",
+          "color": "#fff3d5",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 75,
+          "text": "MỘT NGỌN NÚI XANH · MỘT BÍ ẨN",
+          "font_size": 33,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "86208d074f7f",
+          "kind": "text",
+          "name": "VẪN ĐANG TÌM LỜI GIẢI",
+          "preset": "VẪN ĐANG TÌM LỜI GIẢI",
+          "x": 640,
+          "y": 78,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 0,
+          "layer": 90,
+          "start": 7.515374999999992,
+          "end": 10.51929166666666,
+          "expression": "normal",
+          "color": "#fff3d5",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.515374999999992,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.865374999999991,
+                "v": 1,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 75,
+          "text": "VẪN ĐANG TÌM LỜI GIẢI",
+          "font_size": 40,
+          "font": "Segoe UI",
+          "bold": true,
+          "align": "center"
+        },
+        {
+          "id": "dc6b3868b39a",
+          "kind": "text",
+          "name": "Minh họa giả định",
+          "preset": "Minh họa giả định",
+          "x": 1112,
+          "y": 598,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 90,
+          "start": 0,
+          "end": 10.51929166666666,
+          "expression": "normal",
+          "color": "#e5e4cc",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 260,
+          "height": 24,
+          "text": "Minh họa giả định",
+          "font_size": 13,
+          "font": "Segoe UI",
+          "bold": false,
+          "align": "center"
+        },
+        {
+          "id": "8cef4703b9c6",
+          "kind": "shape",
+          "name": "Final fade",
+          "preset": "Final fade",
+          "x": 640,
+          "y": 360,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 100,
+          "start": 0,
+          "end": 10.51929166666666,
+          "expression": "normal",
+          "color": "#10282c",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "opacity": [
+              {
+                "t": 0,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.96929166666666,
+                "v": 0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 10.51929166666666,
+                "v": 0.9,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1400,
+          "height": 800,
+          "shape": "card",
+          "fill": "#10282c",
+          "stroke": 0
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "background_color": "#162e31",
+      "style": "illustrated_comic_babylon"
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "ae72bce57554",
+      "start": 0.25,
+      "end": 3.372,
+      "text": "Một khu rừng mọc trên những tầng lầu, giữa miền đất khô nóng.",
+      "role": "Narrator",
+      "scene_id": "eb38faa2c08d"
+    },
+    {
+      "id": "a866ad0d726c",
+      "start": 3.532,
+      "end": 6.167104166666666,
+      "text": "Đó là hình dung nổi tiếng về Vườn treo Babylon.",
+      "role": "Narrator",
+      "scene_id": "eb38faa2c08d"
+    },
+    {
+      "id": "d1a95b505a5a",
+      "start": 6.3271041666666665,
+      "end": 8.162020833333333,
+      "text": "Nhưng khu vườn ấy thực sự ở đâu?",
+      "role": "Narrator",
+      "scene_id": "eb38faa2c08d"
+    },
+    {
+      "id": "07c6679108ee",
+      "start": 8.502020833333333,
+      "end": 14.240583333333333,
+      "text": "Theo những mô tả cổ, cây cối được trồng trên các tầng nền nâng cao, tạo cảm giác một ngọn đồi xanh.",
+      "role": "Narrator",
+      "scene_id": "0c47c1004439"
+    },
+    {
+      "id": "a4eeea4366f9",
+      "start": 14.400583333333334,
+      "end": 17.379604166666667,
+      "text": "Chữ treo không có nghĩa là khu vườn lơ lửng giữa trời.",
+      "role": "Narrator",
+      "scene_id": "0c47c1004439"
+    },
+    {
+      "id": "affd5cc609dc",
+      "start": 17.719604166666667,
+      "end": 20.896729166666667,
+      "text": "Nếu có một khu vườn như vậy, cây trên cao sẽ cần nước.",
+      "role": "Narrator",
+      "scene_id": "f39b32820a49"
+    },
+    {
+      "id": "611e32666fab",
+      "start": 21.056729166666667,
+      "end": 23.7394375,
+      "text": "Nước phải được đưa lên rồi phân phối đến các tầng.",
+      "role": "Narrator",
+      "scene_id": "f39b32820a49"
+    },
+    {
+      "id": "a4c030d2b161",
+      "start": 23.8994375,
+      "end": 25.776020833333334,
+      "text": "Cơ cấu cụ thể vẫn chưa được xác nhận.",
+      "role": "Narrator",
+      "scene_id": "f39b32820a49"
+    },
+    {
+      "id": "3b56a6f340fa",
+      "start": 26.116020833333334,
+      "end": 31.352229166666667,
+      "text": "Vấn đề là tại Babylon, khảo cổ chưa tìm được bằng chứng thuyết phục cho công trình như lời kể.",
+      "role": "Narrator",
+      "scene_id": "410d61b2e609"
+    },
+    {
+      "id": "55e8f68cad55",
+      "start": 31.512229166666668,
+      "end": 34.2256875,
+      "text": "Một bức tranh phục dựng đẹp không thể thay thế dấu tích.",
+      "role": "Narrator",
+      "scene_id": "410d61b2e609"
+    },
+    {
+      "id": "d8b002b64eca",
+      "start": 34.5656875,
+      "end": 38.47445833333333,
+      "text": "Vì thế, có học giả đề xuất một hướng khác: Nineveh, ở phía bắc.",
+      "role": "Narrator",
+      "scene_id": "06c380866424"
+    },
+    {
+      "id": "b11a495fb693",
+      "start": 38.634458333333335,
+      "end": 42.463770833333335,
+      "text": "Nơi đó từng có những khu vườn hoàng gia và hệ thống dẫn nước đồ sộ.",
+      "role": "Narrator",
+      "scene_id": "06c380866424"
+    },
+    {
+      "id": "bf3fb643e767",
+      "start": 42.80377083333333,
+      "end": 45.46689583333333,
+      "text": "Liệu người viết đời sau đã nhầm tên hai thành phố?",
+      "role": "Narrator",
+      "scene_id": "8fa95b581e29"
+    },
+    {
+      "id": "79884cc07bf1",
+      "start": 45.626895833333336,
+      "end": 49.30070833333333,
+      "text": "Đó là một giả thuyết được nghiên cứu, chưa phải kết luận cuối cùng.",
+      "role": "Narrator",
+      "scene_id": "8fa95b581e29"
+    },
+    {
+      "id": "3e832bcb1e56",
+      "start": 49.640708333333336,
+      "end": 56.836083333333335,
+      "text": "Sức hút của Vườn treo nằm ở cả hai điều: ý tưởng dựng một ngọn núi xanh bằng kỹ thuật, và bí ẩn về nơi nó từng tồn tại.",
+      "role": "Narrator",
+      "scene_id": "f7ee4c5ef92f"
+    },
+    {
+      "id": "ec88274a059f",
+      "start": 56.99608333333333,
+      "end": 59.117333333333335,
+      "text": "Một kỳ quan vẫn đang được tìm lời giải.",
+      "role": "Narrator",
+      "scene_id": "f7ee4c5ef92f"
+    }
+  ],
+  "audio": [
+    {
+      "id": "voice",
+      "name": "Hải Đăng · VieNeu-TTS",
+      "file": "assets/narration.wav",
+      "start": 0,
+      "duration": 60,
+      "group": "voice",
+      "volume": 1
+    },
+    {
+      "id": "music",
+      "name": "Nhạc nền nguyên bản",
+      "file": "assets/music_original.wav",
+      "start": 0,
+      "duration": 60,
+      "group": "music",
+      "volume": 0.48,
+      "fade_in": 1.5,
+      "fade_out": 2
+    },
+    {
+      "id": "water_0",
+      "name": "Nước nền tổng hợp",
+      "file": "assets/water_original.wav",
+      "start": 0,
+      "duration": 8.342020833333333,
+      "group": "sfx",
+      "volume": 0.32,
+      "fade_in": 0.5,
+      "fade_out": 0.6
+    },
+    {
+      "id": "water_1",
+      "name": "Nước nền tổng hợp",
+      "file": "assets/water_original.wav",
+      "start": 8.342020833333333,
+      "duration": 9.217583333333334,
+      "group": "sfx",
+      "volume": 0.32,
+      "fade_in": 0.5,
+      "fade_out": 0.6
+    },
+    {
+      "id": "water_2",
+      "name": "Nước nền tổng hợp",
+      "file": "assets/water_original.wav",
+      "start": 17.559604166666666,
+      "duration": 8.396416666666667,
+      "group": "sfx",
+      "volume": 0.32,
+      "fade_in": 0.5,
+      "fade_out": 0.6
+    },
+    {
+      "id": "water_6",
+      "name": "Nước nền tổng hợp",
+      "file": "assets/water_original.wav",
+      "start": 49.48070833333334,
+      "duration": 10.51929166666666,
+      "group": "sfx",
+      "volume": 0.32,
+      "fade_in": 0.5,
+      "fade_out": 0.6
+    },
+    {
+      "id": "transition_2",
+      "name": "Chuyển cảnh nhẹ",
+      "file": "assets/transition_original.wav",
+      "start": 17.559604166666666,
+      "duration": 0.38,
+      "group": "sfx",
+      "volume": 0.4
+    },
+    {
+      "id": "transition_3",
+      "name": "Chuyển cảnh nhẹ",
+      "file": "assets/transition_original.wav",
+      "start": 25.956020833333334,
+      "duration": 0.38,
+      "group": "sfx",
+      "volume": 0.4
+    },
+    {
+      "id": "transition_4",
+      "name": "Chuyển cảnh nhẹ",
+      "file": "assets/transition_original.wav",
+      "start": 34.405687500000006,
+      "duration": 0.38,
+      "group": "sfx",
+      "volume": 0.4
+    },
+    {
+      "id": "transition_5",
+      "name": "Chuyển cảnh nhẹ",
+      "file": "assets/transition_original.wav",
+      "start": 42.643770833333335,
+      "duration": 0.38,
+      "group": "sfx",
+      "volume": 0.4
+    }
+  ],
+  "references": [],
+  "subtitle_style": {
+    "enabled": true,
+    "size": 27,
+    "font": "Segoe UI",
+    "color": "#fff8e9",
+    "background": false,
+    "y": 0.962
+  },
+  "duck_music": true,
+  "render_profile": "final",
+  "encoder_threads": 2,
+  "audio_rate": 48000,
+  "audio_channels": 2
+}

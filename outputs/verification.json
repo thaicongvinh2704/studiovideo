@@ -1,0 +1,55 @@
+{
+  "01_startup": {
+    "status": "PASS",
+    "details": "Native PySide6 window on Windows"
+  },
+  "02_project_save_reopen": {
+    "status": "PASS",
+    "details": "All 12 scenes and 36 cues preserved"
+  },
+  "03_articulated_walk": {
+    "status": "PASS",
+    "details": "Independent limbs; bone length invariant in unit tests"
+  },
+  "04_srt": {
+    "status": "PASS",
+    "details": "UTF-8 BOM and exact cue boundaries"
+  },
+  "05_edit_character": {
+    "status": "PASS",
+    "details": "Properties, keyframe updates, Undo, native canvas drag and timeline pointer handling"
+  },
+  "06_background": {
+    "status": "PASS",
+    "details": "PNG loaded and drawn by the actual renderer"
+  },
+  "07_offline_vietnamese_voice": {
+    "status": "PASS",
+    "details": "Piper WAV 1.405s; Qt media playback progressed"
+  },
+  "08_scene_with_voice": {
+    "status": "PASS",
+    "details": "36 real voice clips saved in project; all editing dialogs initialized"
+  },
+  "09_mp4_render": {
+    "status": "PASS",
+    "details": "first_scene_15s.mp4"
+  },
+  "10_mp4_validation": {
+    "status": "PASS",
+    "details": "ffprobe: H.264, 854x480, 12 FPS, AAC; actual Qt video playback"
+  },
+  "11_first_scene_15s": {
+    "status": "PASS",
+    "details": "15.000s MP4, subtitles burned with Vietnamese font"
+  },
+  "cancel_atomic_export": {
+    "status": "PASS",
+    "details": "Existing output preserved; temporary render directory cleaned"
+  },
+  "12_full_demo_180s": {
+    "status": "PASS",
+    "details": "12 scenes reopened and rendered; 36 Piper voice clips; 180.000s verified"
+  },
+  "elapsed_seconds": 46.0
+}

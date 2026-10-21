@@ -1,0 +1,46 @@
+{
+  "method": "Deterministic programmatic SVG drawing, no image generation AI; PNGs are rendered directly from the SVG with Qt.",
+  "subject": "Imagined elevated garden, art-direction preview rather than archaeological reconstruction.",
+  "samples": [
+    {
+      "style": "01_clean",
+      "svg": "01_clean.svg",
+      "png": "01_clean.png",
+      "authored_shapes": 4988,
+      "groups": 127,
+      "actual_libraries": [
+        "svgpathtools"
+      ],
+      "sha256": "5f829056d5263e8bdb1cf2ad524279004003a1c814d7992181a5ed19500a6a19"
+    },
+    {
+      "style": "02_ink",
+      "svg": "02_ink.svg",
+      "png": "02_ink.png",
+      "authored_shapes": 4988,
+      "groups": 127,
+      "actual_libraries": [
+        "svgpathtools",
+        "perfect-freehand"
+      ],
+      "sha256": "9b3bc8a9c3d91888c8a745d3f1b56e23ebdbacdf4f1c791ba91b39fa3f812c99"
+    },
+    {
+      "style": "03_hatch",
+      "svg": "03_hatch.svg",
+      "png": "03_hatch.png",
+      "authored_shapes": 4988,
+      "groups": 127,
+      "actual_libraries": [
+        "svgpathtools",
+        "roughjs"
+      ],
+      "sha256": "56b68bf4d71bd4ef3afa75ad09f5eee5feb1232827f93cab846c2b0617e7b802"
+    }
+  ],
+  "dependencies": {
+    "perfect_freehand": "1.2.0",
+    "svgpathtools": "1.8.0",
+    "roughjs": "4.6.6"
+  }
+}

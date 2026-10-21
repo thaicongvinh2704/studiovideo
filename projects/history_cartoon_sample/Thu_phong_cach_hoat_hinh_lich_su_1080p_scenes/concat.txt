@@ -1,0 +1,12 @@
+file scene_0001.mp4
+duration 4.8333333333
+file scene_0002.mp4
+duration 3.9000000000
+file scene_0003.mp4
+duration 4.8333333333
+file scene_0004.mp4
+duration 9.1666666667
+file scene_0005.mp4
+duration 4.8333333333
+file scene_0006.mp4
+duration 4.8000000000

@@ -1,0 +1,524 @@
+{
+  "version": 1,
+  "name": "Triển lãm nhỏ của Lan · Câu chuyện kiểm chứng thứ hai",
+  "voice": "assets/narration.wav",
+  "timing": "authored",
+  "rows": [
+    {
+      "start": 0,
+      "end": 9.866666666666667,
+      "cue_start": 0,
+      "cue_end": 9.299591836734693,
+      "style": "ink",
+      "title": "Bắt đầu",
+      "text": "Lan muốn làm một triển lãm nhỏ trong lớp. Bạn ấy có rất nhiều ý tưởng, nhưng chưa biết phải bắt đầu từ đâu. Thay vì dựng ngay một tấm áp phích thật lớn, Lan quyết định ghi lại điều mình muốn kể.",
+      "assets": [
+        "assets/bulb.svg"
+      ],
+      "layout": "focus",
+      "labels": [
+        "MỘT TRIỂN LÃM NHỎ"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "idea",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 9.866666666666667,
+      "end": 20.233333333333334,
+      "cue_start": 9.866666666666667,
+      "cue_end": 19.677097505668932,
+      "style": "ink",
+      "title": "Đặt câu hỏi",
+      "text": "Câu hỏi đầu tiên rất đơn giản: người xem sẽ nhớ điều gì khi bước ra khỏi phòng? Lan không muốn trưng bày mọi thứ cùng một lúc. Bạn ấy chọn một câu chuyện nhỏ, đủ rõ để mọi người có thể theo dõi.",
+      "assets": [
+        "assets/question.svg"
+      ],
+      "layout": "quote",
+      "labels": [
+        "Mình muốn kể điều gì?"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 20.233333333333334,
+      "end": 30.200000000000003,
+      "cue_start": 20.233333333333334,
+      "cue_end": 29.625804988662132,
+      "style": "ink",
+      "title": "Tìm tài liệu",
+      "text": "Lan mở những cuốn sách đã mượn, rồi ghi lại các ý quan trọng lên từng tờ giấy. Có những ý rất hấp dẫn, nhưng chưa liên quan đến câu chuyện. Bạn ấy để chúng sang một bên để dùng vào dịp khác.",
+      "assets": [
+        "assets/book.svg",
+        "assets/document.svg"
+      ],
+      "layout": "compare",
+      "labels": [
+        "Đọc và ghi lại"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 30.200000000000003,
+      "end": 40.2,
+      "cue_start": 30.200000000000003,
+      "cue_end": 39.62730158730159,
+      "style": "ink",
+      "title": "Nhìn quanh",
+      "text": "Tiếp theo, Lan mang máy ảnh đi tìm những chi tiết quanh mình. Một bức tường, một đồ vật cũ, hay một góc sân đều có thể trở thành hình minh họa. Bạn ấy chụp nhiều góc khác nhau trước khi lựa chọn.",
+      "assets": [
+        "assets/camera.svg"
+      ],
+      "layout": "presenter",
+      "labels": [
+        "Những chi tiết quanh mình"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 40.2,
+      "end": 50.53333333333334,
+      "cue_start": 40.2,
+      "cue_end": 49.952380952380956,
+      "style": "ink",
+      "title": "Chọn hình",
+      "text": "Khi xem lại ảnh, Lan nhận ra rằng bức hình đẹp nhất chưa chắc đã là bức hình phù hợp nhất. Hình được chọn cần giúp người xem hiểu câu chuyện. Những chi tiết không liên quan đôi khi làm ý chính trở nên khó thấy.",
+      "assets": [
+        "assets/camera.svg",
+        "assets/magnifier.svg"
+      ],
+      "layout": "compare",
+      "labels": [
+        "Rõ và có ý nghĩa"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 50.53333333333334,
+      "end": 61.00000000000001,
+      "cue_start": 50.53333333333334,
+      "cue_end": 60.42503401360545,
+      "style": "ink",
+      "title": "Đặt các mảnh ghép",
+      "text": "Lan đặt những tờ ghi chú cạnh các bức ảnh. Lần đầu tiên, bạn ấy nhìn thấy cả câu chuyện trên một chiếc bàn. Một số phần trùng nhau, một số phần còn thiếu, và thứ tự ban đầu cũng cần được thay đổi.",
+      "assets": [
+        "assets/document.svg",
+        "assets/camera.svg",
+        "assets/book.svg"
+      ],
+      "layout": "gallery",
+      "labels": [
+        "Đặt các mảnh ghép"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 61.00000000000001,
+      "end": 71.66666666666667,
+      "cue_start": 61.00000000000001,
+      "cue_end": 71.11229024943312,
+      "style": "ink",
+      "title": "Sắp thứ tự",
+      "text": "Bạn ấy thử kể câu chuyện từ đầu đến cuối. Nếu một hình xuất hiện quá sớm, người xem chưa hiểu vì sao nó ở đó. Nếu một thông tin xuất hiện quá muộn, nó không còn giúp giải thích phần trước nữa.",
+      "assets": [
+        "assets/clock.svg",
+        "assets/calendar.svg",
+        "assets/compass.svg"
+      ],
+      "layout": "timeline",
+      "labels": [
+        "Bắt đầu",
+        "Diễn biến",
+        "Kết thúc"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 71.66666666666667,
+      "end": 81.73333333333333,
+      "cue_start": 71.66666666666667,
+      "cue_end": 81.16362811791383,
+      "style": "ink",
+      "title": "Một tấm bản đồ",
+      "text": "Lan vẽ sơ đồ căn phòng để hình dung đường đi của người xem. Mỗi góc có một nhiệm vụ riêng. Góc đầu đặt câu hỏi, góc giữa đưa ra hình ảnh, và góc cuối dành chỗ để mọi người tự suy nghĩ.",
+      "assets": [
+        "assets/map.svg"
+      ],
+      "layout": "map",
+      "labels": [
+        "Đường đi của người xem"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 81.73333333333333,
+      "end": 91.83333333333333,
+      "cue_start": 81.73333333333333,
+      "cue_end": 91.26512471655329,
+      "style": "ink",
+      "title": "Chừa khoảng trống",
+      "text": "Có lúc Lan muốn đặt thật nhiều hình lên một tấm bảng. Nhưng khi lùi ra xa, mọi thứ trở nên chật chội. Bạn ấy bỏ bớt những phần thừa, tăng khoảng cách giữa các hình và để mắt người xem có chỗ nghỉ.",
+      "assets": [
+        "assets/archive.svg"
+      ],
+      "layout": "presenter",
+      "labels": [
+        "Đủ chỗ để nhìn"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 91.83333333333333,
+      "end": 102.06666666666666,
+      "cue_start": 91.83333333333333,
+      "cue_end": 101.49283446712018,
+      "style": "ink",
+      "title": "Viết nhãn",
+      "text": "Phần nhãn cũng cần được sửa. Những câu quá dài được chia thành các ý ngắn. Lan giữ lại những từ cần thiết, rồi đọc thử thành tiếng. Bạn ấy muốn người xem hiểu được nội dung mà không phải đứng đọc quá lâu.",
+      "assets": [
+        "assets/document.svg"
+      ],
+      "layout": "focus",
+      "labels": [
+        "NGẮN VÀ RÕ"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "idea",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 102.06666666666666,
+      "end": 113.1,
+      "cue_start": 102.06666666666666,
+      "cue_end": 112.53886621315192,
+      "style": "ink",
+      "title": "Nhờ một người bạn",
+      "text": "Khi mọi thứ có vẻ đã ổn, Lan nhờ một người bạn xem thử. Bạn ấy không giải thích trước, chỉ quan sát xem người bạn dừng lại ở đâu và hỏi điều gì. Những câu hỏi ấy giúp Lan nhìn thấy các chỗ chưa rõ.",
+      "assets": [
+        "assets/network.svg"
+      ],
+      "layout": "crowd",
+      "labels": [
+        "Thử kể cho người khác"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 113.1,
+      "end": 122.63333333333333,
+      "cue_start": 113.1,
+      "cue_end": 122.06290249433106,
+      "style": "ink",
+      "title": "Lắng nghe",
+      "text": "Có một nhận xét khiến Lan bất ngờ: người bạn hiểu câu chuyện theo một cách khác. Thay vì tranh luận ngay, Lan hỏi thêm lý do. Một hình được đặt sai chỗ đã khiến ý nghĩa của cả đoạn bị thay đổi.",
+      "assets": [
+        "assets/microphone.svg"
+      ],
+      "layout": "quote",
+      "labels": [
+        "Nghe để hiểu"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 122.63333333333333,
+      "end": 133.2,
+      "cue_start": 122.63333333333333,
+      "cue_end": 132.6295238095238,
+      "style": "ink",
+      "title": "Thay đổi",
+      "text": "Lan di chuyển bức hình, sửa lại một nhãn và thay thứ tự của hai phần. Bạn ấy không phải làm lại mọi thứ từ đầu. Nhờ giữ từng thành phần riêng, một thay đổi nhỏ có thể được thử và kiểm tra rất nhanh.",
+      "assets": [
+        "assets/gear.svg"
+      ],
+      "layout": "presenter",
+      "labels": [
+        "Chỉnh từng phần"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 133.2,
+      "end": 144.53333333333333,
+      "cue_start": 133.2,
+      "cue_end": 143.95083900226757,
+      "style": "ink",
+      "title": "Xem tổng thể",
+      "text": "Sau khi sửa các chi tiết, Lan lùi lại để nhìn toàn bộ căn phòng. Mỗi góc có thể đẹp riêng, nhưng chúng vẫn cần đi cùng một câu chuyện. Bạn ấy điều chỉnh màu sắc và cách trình bày để các phần không tranh nhau thu hút chú ý.",
+      "assets": [
+        "assets/globe.svg"
+      ],
+      "layout": "pan",
+      "labels": [
+        "Lùi lại để nhìn rộng hơn"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 144.53333333333333,
+      "end": 155.43333333333334,
+      "cue_start": 144.53333333333333,
+      "cue_end": 154.8778231292517,
+      "style": "ink",
+      "title": "Kiểm tra",
+      "text": "Trước ngày mở cửa, Lan đi kiểm tra từng phần một lần nữa. Nhãn có dễ đọc không, hình có bị che không, và thứ tự có còn đúng với lời giới thiệu không? Những việc nhỏ này giúp tránh nhiều lỗi vào phút cuối.",
+      "assets": [
+        "assets/check.svg",
+        "assets/magnifier.svg"
+      ],
+      "layout": "compare",
+      "labels": [
+        "Đúng nội dung",
+        "Đọc được"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 155.43333333333334,
+      "end": 166.86666666666667,
+      "cue_start": 155.43333333333334,
+      "cue_end": 166.2886621315193,
+      "style": "ink",
+      "title": "Buổi trưng bày",
+      "text": "Rồi căn phòng mở cửa. Có người đi thật nhanh, có người dừng lại rất lâu trước một bức ảnh. Lan nhận ra rằng mình không thể điều khiển mọi cách nhìn. Nhưng bạn ấy có thể chuẩn bị một hành trình đủ rõ để mọi người tự khám phá.",
+      "assets": [
+        "assets/house.svg"
+      ],
+      "layout": "crowd",
+      "labels": [
+        "Câu chuyện được chia sẻ"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 166.86666666666667,
+      "end": 177.86666666666667,
+      "cue_start": 166.86666666666667,
+      "cue_end": 177.29242630385488,
+      "style": "ink",
+      "title": "Điều được giữ lại",
+      "text": "Sau buổi trưng bày, Lan cất lại các tờ ghi chú, ảnh gốc và những nhận xét đã nhận được. Chúng không chỉ là đồ dùng của một buổi triển lãm. Chúng là những mảnh ghép có thể tiếp tục được sửa và sử dụng cho câu chuyện sau.",
+      "assets": [
+        "assets/archive.svg",
+        "assets/book.svg",
+        "assets/bulb.svg"
+      ],
+      "layout": "gallery",
+      "labels": [
+        "Điều được giữ lại"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    },
+    {
+      "start": 177.86666666666667,
+      "end": 190.03333333333333,
+      "cue_start": 177.86666666666667,
+      "cue_end": 189.46503401360545,
+      "style": "ink",
+      "title": "Một câu chuyện tiếp theo",
+      "text": "Câu chuyện về Lan là một tình huống tưởng tượng. Điều đáng giữ lại là cách làm: bắt đầu từ một ý rõ ràng, chọn hình có mục đích, thử kể cho người khác và sẵn sàng sửa. Một sản phẩm tốt được tạo nên qua nhiều lần quan sát như thế.",
+      "assets": [
+        "assets/compass.svg"
+      ],
+      "layout": "presenter",
+      "labels": [
+        "Bắt đầu từ một ý rõ ràng"
+      ],
+      "pose": "explain",
+      "gestures": [
+        {
+          "t": 0,
+          "pose": "rest"
+        },
+        {
+          "t": 0.5,
+          "pose": "explain",
+          "blend": 0.9
+        }
+      ]
+    }
+  ]
+}

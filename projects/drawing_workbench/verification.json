@@ -1,0 +1,12 @@
+{
+  "status": "software_verified",
+  "character_master": "none_approved",
+  "project": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\drawing_workbench\\project.json",
+  "screenshots": [
+    "editor_nodes.png",
+    "editor_references.png",
+    "editor_guides.png"
+  ],
+  "missing_media": [],
+  "layers": 4
+}

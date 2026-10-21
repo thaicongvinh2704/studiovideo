@@ -1,0 +1,40 @@
+{
+  "engine": "quality-2.1",
+  "checks": {
+    "portable_save_load": "PASS",
+    "startup_scene_duplicate_contact_remap_undo": "PASS",
+    "cancel_preserves_existing_file": "PASS",
+    "cache_reuses_only_unchanged_scenes": "PASS",
+    "supersampling_export": "PASS",
+    "full_180s_1080p24_4320_frames_audio_decode": "PASS",
+    "frozen_EXE_startup_voice_save_load_export": "PASS",
+    "bundled_source_29_files_and_36_voice_assets": "PASS"
+  },
+  "max_full_weight_contact_error_world": 0,
+  "handoff_jump_world": 0.0,
+  "renderer_benchmark": {
+    "frames": 300,
+    "seconds": 5.241,
+    "memory_before": {
+      "working_set_mb": 139.9,
+      "peak_working_set_mb": 146.9
+    },
+    "memory_after": {
+      "working_set_mb": 146.2,
+      "peak_working_set_mb": 152.2
+    }
+  },
+  "video_sha256": "17131b26b1a167c34aff604a29fad07a569971e0063020d9ca92041284f5f8b7",
+  "visual_review_scope": "Contact sheets and decoded frames inspected; automated checks do not certify artistic quality.",
+  "frozen_runtime": {
+    "status": "PASS",
+    "frozen": true,
+    "voice_seconds": 1.3699773242630386,
+    "checks": [
+      "startup",
+      "Piper Vietnamese",
+      "save/load",
+      "FFmpeg export and ffprobe validation"
+    ]
+  }
+}

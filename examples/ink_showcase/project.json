@@ -1,0 +1,7099 @@
+{
+  "schema": 1,
+  "name": "Một thành phố không tên · Ink Studio",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "886845c57607",
+      "name": "Một thành phố không tên",
+      "start": 0.0,
+      "duration": 6.9,
+      "background": "white",
+      "objects": [
+        {
+          "id": "597fcd025f4f",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 710,
+          "y": 915,
+          "scale": 4.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 6.9,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.35,
+                "v": -0.1
+              },
+              {
+                "t": 1.2,
+                "v": -0.8000000000000003,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 3.8640000000000008,
+                "v": -0.8000000000000003
+              },
+              {
+                "t": 4.964,
+                "v": -0.19999999999999973,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.35,
+                "v": -0.05
+              },
+              {
+                "t": 0.42,
+                "v": -0.05
+              },
+              {
+                "t": 1.2,
+                "v": -2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 3.8640000000000008,
+                "v": -2.0
+              },
+              {
+                "t": 3.9340000000000006,
+                "v": -2.0
+              },
+              {
+                "t": 4.964,
+                "v": 0.09999999999999964,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.35,
+                "v": 0.1
+              },
+              {
+                "t": 1.2,
+                "v": 0.8000000000000003,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 3.8640000000000008,
+                "v": 0.8000000000000003
+              },
+              {
+                "t": 4.964,
+                "v": 0.6999999999999997,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.35,
+                "v": 0.05
+              },
+              {
+                "t": 0.42,
+                "v": 0.05
+              },
+              {
+                "t": 1.2,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 3.8640000000000008,
+                "v": 2.0
+              },
+              {
+                "t": 3.9340000000000006,
+                "v": 2.0
+              },
+              {
+                "t": 4.964,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": -0.02499999999999991,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 3.8640000000000008,
+                "v": -0.02499999999999991
+              },
+              {
+                "t": 4.964,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": -0.08000000000000007,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 3.8640000000000008,
+                "v": -0.08000000000000007
+              },
+              {
+                "t": 4.964,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 3.8640000000000008,
+                "v": 0
+              },
+              {
+                "t": 4.964,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.35,
+              "v": "question"
+            },
+            {
+              "t": 3.8640000000000008,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.35,
+              "v": "worried"
+            },
+            {
+              "t": 3.8640000000000008,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "06177afbcb39",
+          "kind": "image",
+          "name": "question",
+          "preset": "question",
+          "x": 1040,
+          "y": 180,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.6900000000000001,
+          "end": 6.9,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 190,
+          "height": 190,
+          "file": "assets/question.svg",
+          "fit": "contain",
+          "image_width": 190,
+          "enter": "none"
+        },
+        {
+          "id": "817614cdbdb5",
+          "kind": "shape",
+          "name": "callout",
+          "preset": "callout",
+          "x": 260,
+          "y": 225,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.9,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 350,
+          "height": 210,
+          "shape": "callout",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "5ac8a56cbbd7",
+          "kind": "text",
+          "name": "MỘT THÀNH PHỐ\nKHÔNG CÒN TÊN?",
+          "preset": "MỘT THÀNH PHỐ\nKHÔNG CÒN TÊN?",
+          "x": 260,
+          "y": 215,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 6.9,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 300,
+          "height": 160,
+          "text": "MỘT THÀNH PHỐ\nKHÔNG CÒN TÊN?",
+          "font_size": 36,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "focus",
+      "narration": "Hãy tưởng tượng bạn tìm thấy một tấm bản đồ cũ. Ở giữa bản đồ là một thành phố không còn tên gọi. Chuyện gì đã xảy ra ở nơi ấy?",
+      "style": "ink"
+    },
+    {
+      "id": "a664d8be8fe8",
+      "name": "Những dấu vết đầu tiên",
+      "start": 6.9,
+      "duration": 7.633333333333335,
+      "background": "white",
+      "objects": [
+        {
+          "id": "206181d3811a",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 235,
+          "y": 640,
+          "scale": 2.45,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 7.633333333333335,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.35,
+                "v": -0.1
+              },
+              {
+                "t": 1.2,
+                "v": -0.75,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.2746666666666675,
+                "v": -0.75
+              },
+              {
+                "t": 5.374666666666668,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.35,
+                "v": -0.05
+              },
+              {
+                "t": 0.42,
+                "v": -0.05
+              },
+              {
+                "t": 1.2,
+                "v": 0.6000000000000001,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.2746666666666675,
+                "v": 0.6000000000000001
+              },
+              {
+                "t": 4.344666666666668,
+                "v": 0.6000000000000001
+              },
+              {
+                "t": 5.374666666666668,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.35,
+                "v": 0.1
+              },
+              {
+                "t": 1.2,
+                "v": 1.7699999999999996,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.2746666666666675,
+                "v": 1.7699999999999996
+              },
+              {
+                "t": 5.374666666666668,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.35,
+                "v": 0.05
+              },
+              {
+                "t": 0.42,
+                "v": 0.05
+              },
+              {
+                "t": 1.2,
+                "v": 1.9299999999999997,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.2746666666666675,
+                "v": 1.9299999999999997
+              },
+              {
+                "t": 4.344666666666668,
+                "v": 1.9299999999999997
+              },
+              {
+                "t": 5.374666666666668,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.03500000000000014,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.2746666666666675,
+                "v": 0.03500000000000014
+              },
+              {
+                "t": 5.374666666666668,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.2746666666666675,
+                "v": 0.0
+              },
+              {
+                "t": 5.374666666666668,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.2746666666666675,
+                "v": 0
+              },
+              {
+                "t": 5.374666666666668,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.35,
+              "v": "point"
+            },
+            {
+              "t": 4.2746666666666675,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.35,
+              "v": "happy"
+            },
+            {
+              "t": 4.2746666666666675,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "a26929ac263b",
+          "kind": "image",
+          "name": "city",
+          "preset": "city",
+          "x": 865,
+          "y": 340,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 7.633333333333335,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 435,
+          "file": "assets/city.svg",
+          "fit": "contain",
+          "image_width": 650,
+          "enter": "none"
+        },
+        {
+          "id": "f24d66eb632f",
+          "kind": "text",
+          "name": "Chúng ta thực sự biết điều gì?",
+          "preset": "Chúng ta thực sự biết điều gì?",
+          "x": 865,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 7.633333333333335,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 95,
+          "text": "Chúng ta thực sự biết điều gì?",
+          "font_size": 30,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "presenter",
+      "narration": "Bạn bước qua cổng thành. Những mái nhà đã biến mất, nhưng nền đá vẫn còn. Chỉ từ những dấu vết này, liệu chúng ta có thể kể lại cả một câu chuyện?",
+      "style": "ink"
+    },
+    {
+      "id": "f2f683436ddd",
+      "name": "Hai mảnh ghép",
+      "start": 14.533333333333335,
+      "duration": 8.066666666666666,
+      "background": "white",
+      "objects": [
+        {
+          "id": "86729be03db6",
+          "kind": "image",
+          "name": "amphora",
+          "preset": "amphora",
+          "x": 340,
+          "y": 320,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.066666666666666,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 405,
+          "file": "assets/amphora.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "b319cc0dca0d",
+          "kind": "text",
+          "name": "Dấu vết vật chất",
+          "preset": "Dấu vết vật chất",
+          "x": 340,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.066666666666666,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 95,
+          "text": "Dấu vết vật chất",
+          "font_size": 32,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "41d85fb82282",
+          "kind": "image",
+          "name": "scroll",
+          "preset": "scroll",
+          "x": 940,
+          "y": 320,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 3.2,
+          "end": 8.066666666666666,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 405,
+          "file": "assets/scroll.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "none"
+        },
+        {
+          "id": "5a0fe7374b64",
+          "kind": "text",
+          "name": "Lời ghi chép",
+          "preset": "Lời ghi chép",
+          "x": 940,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 3.2,
+          "end": 8.066666666666666,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 95,
+          "text": "Lời ghi chép",
+          "font_size": 32,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "c1d8503945cc",
+          "kind": "shape",
+          "name": "arrow",
+          "preset": "arrow",
+          "x": 640,
+          "y": 335,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.066666666666666,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 65,
+          "height": 20,
+          "shape": "arrow",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "compare",
+      "narration": "Một chiếc bình và một cuộn giấy xuất hiện. Chiếc bình gợi ra sinh hoạt của cư dân, còn cuộn giấy mang theo lời ghi chép. Hai mảnh ghép chưa chắc đã kể cùng một chuyện.",
+      "style": "ink"
+    },
+    {
+      "id": "5ac0bd6a41be",
+      "name": "Câu hỏi về thời gian",
+      "start": 22.6,
+      "duration": 8.399999999999999,
+      "background": "white",
+      "objects": [
+        {
+          "id": "4f8f4e915d23",
+          "kind": "shape",
+          "name": "arrow",
+          "preset": "arrow",
+          "x": 700,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.399999999999999,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 990,
+          "height": 16,
+          "shape": "arrow",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "79ff2ade9613",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 70,
+          "y": 690,
+          "scale": 1.05,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 8.399999999999999,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.35,
+                "v": -0.1
+              },
+              {
+                "t": 1.2,
+                "v": -0.75,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.35,
+                "v": -0.05
+              },
+              {
+                "t": 0.42,
+                "v": -0.05
+              },
+              {
+                "t": 1.2,
+                "v": 0.6000000000000001,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.35,
+                "v": 0.1
+              },
+              {
+                "t": 1.2,
+                "v": 1.7699999999999996,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.35,
+                "v": 0.05
+              },
+              {
+                "t": 0.42,
+                "v": 0.05
+              },
+              {
+                "t": 1.2,
+                "v": 1.9299999999999997,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.03500000000000014,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "point",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.35,
+              "v": "point"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.35,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "445df294be78",
+          "kind": "image",
+          "name": "house",
+          "preset": "house",
+          "x": 260.0,
+          "y": 300,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2.8,
+          "end": 8.399999999999999,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 245,
+          "file": "assets/house.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "none"
+        },
+        {
+          "id": "6ca42a4a8a84",
+          "kind": "shape",
+          "name": "ellipse",
+          "preset": "ellipse",
+          "x": 260.0,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2.8,
+          "end": 8.399999999999999,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 19,
+          "height": 19,
+          "shape": "ellipse",
+          "fill": "#f6ca45",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "aec4a284f1cc",
+          "kind": "text",
+          "name": "Khởi đầu",
+          "preset": "Khởi đầu",
+          "x": 260.0,
+          "y": 535,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2.8,
+          "end": 8.399999999999999,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 245,
+          "height": 105,
+          "text": "Khởi đầu",
+          "font_size": 27,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "e54b8b743602",
+          "kind": "image",
+          "name": "city",
+          "preset": "city",
+          "x": 685.0,
+          "y": 300,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 4.3,
+          "end": 8.399999999999999,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 245,
+          "file": "assets/city.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "none"
+        },
+        {
+          "id": "6fec86ac4e4e",
+          "kind": "shape",
+          "name": "ellipse",
+          "preset": "ellipse",
+          "x": 685.0,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 4.3,
+          "end": 8.399999999999999,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 19,
+          "height": 19,
+          "shape": "ellipse",
+          "fill": "#f6ca45",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "1013b0f2e854",
+          "kind": "text",
+          "name": "Phát triển",
+          "preset": "Phát triển",
+          "x": 685.0,
+          "y": 535,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 4.3,
+          "end": 8.399999999999999,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 245,
+          "height": 105,
+          "text": "Phát triển",
+          "font_size": 27,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "480e796f03c9",
+          "kind": "image",
+          "name": "clock",
+          "preset": "clock",
+          "x": 1110.0,
+          "y": 300,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 5.8,
+          "end": 8.399999999999999,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 245,
+          "file": "assets/clock.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "none"
+        },
+        {
+          "id": "25d4df337f25",
+          "kind": "shape",
+          "name": "ellipse",
+          "preset": "ellipse",
+          "x": 1110.0,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 5.8,
+          "end": 8.399999999999999,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 19,
+          "height": 19,
+          "shape": "ellipse",
+          "fill": "#f6ca45",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "c44a4c9aac9d",
+          "kind": "text",
+          "name": "Điều gì tiếp theo?",
+          "preset": "Điều gì tiếp theo?",
+          "x": 1110.0,
+          "y": 535,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 5.8,
+          "end": 8.399999999999999,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 245,
+          "height": 105,
+          "text": "Điều gì tiếp theo?",
+          "font_size": 27,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "timeline",
+      "narration": "Trước tiên, hãy đặt từng mảnh ghép lên một dòng thời gian. Một ngôi làng có thể phát triển thành đô thị, rồi thay đổi. Nhưng thứ tự ấy cần được kiểm tra, không thể chỉ đoán.",
+      "style": "ink"
+    },
+    {
+      "id": "46840363f9ea",
+      "name": "Đừng vội kết luận",
+      "start": 31.0,
+      "duration": 8.366666666666667,
+      "background": "white",
+      "objects": [
+        {
+          "id": "9e6a4f8508a0",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 270,
+          "y": 680,
+          "scale": 2.9,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.35,
+                "v": -0.1
+              },
+              {
+                "t": 1.2,
+                "v": -0.30000000000000027,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.685333333333334,
+                "v": -0.30000000000000027
+              },
+              {
+                "t": 5.785333333333334,
+                "v": -0.20000000000000018,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.35,
+                "v": -0.05
+              },
+              {
+                "t": 0.42,
+                "v": -0.05
+              },
+              {
+                "t": 1.2,
+                "v": -1.35,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.685333333333334,
+                "v": -1.35
+              },
+              {
+                "t": 4.7553333333333345,
+                "v": -1.35
+              },
+              {
+                "t": 5.785333333333334,
+                "v": 0.10000000000000009,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.35,
+                "v": 0.1
+              },
+              {
+                "t": 1.2,
+                "v": 0.6499999999999999,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.685333333333334,
+                "v": 0.6499999999999999
+              },
+              {
+                "t": 5.785333333333334,
+                "v": 0.6999999999999997,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.35,
+                "v": 0.05
+              },
+              {
+                "t": 0.42,
+                "v": 0.05
+              },
+              {
+                "t": 1.2,
+                "v": -2.7,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.685333333333334,
+                "v": -2.7
+              },
+              {
+                "t": 4.7553333333333345,
+                "v": -2.7
+              },
+              {
+                "t": 5.785333333333334,
+                "v": -4.283185307179586,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": -0.04499999999999993,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.685333333333334,
+                "v": -0.04499999999999993
+              },
+              {
+                "t": 5.785333333333334,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": -0.1200000000000001,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.685333333333334,
+                "v": -0.1200000000000001
+              },
+              {
+                "t": 5.785333333333334,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.685333333333334,
+                "v": 0
+              },
+              {
+                "t": 5.785333333333334,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.35,
+              "v": "think"
+            },
+            {
+              "t": 4.685333333333334,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.35,
+              "v": "worried"
+            },
+            {
+              "t": 4.685333333333334,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "508c0eec4a38",
+          "kind": "image",
+          "name": "flame",
+          "preset": "flame",
+          "x": 925,
+          "y": 190,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 1.1,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 180,
+          "height": 170,
+          "file": "assets/flame.svg",
+          "fit": "contain",
+          "image_width": 180,
+          "enter": "none"
+        },
+        {
+          "id": "6fc6d6469589",
+          "kind": "shape",
+          "name": "callout",
+          "preset": "callout",
+          "x": 850,
+          "y": 405,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 620,
+          "height": 285,
+          "shape": "callout",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "5cc67a314b08",
+          "kind": "text",
+          "name": "DẤU VẾT\n≠\nKẾT LUẬN",
+          "preset": "DẤU VẾT\n≠\nKẾT LUẬN",
+          "x": 850,
+          "y": 395,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 560,
+          "height": 225,
+          "text": "DẤU VẾT\n≠\nKẾT LUẬN",
+          "font_size": 34,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "quote",
+      "narration": "Nếu nhìn thấy dấu vết của lửa, bạn có thể nghĩ ngay đến một trận cháy. Nhưng một dấu vết riêng lẻ chưa đủ để giải thích vì sao cả thành phố không còn nữa.",
+      "style": "ink"
+    },
+    {
+      "id": "c6d840c9bcca",
+      "name": "Theo một tuyến đường",
+      "start": 39.36666666666667,
+      "duration": 7.733333333333334,
+      "background": "white",
+      "objects": [
+        {
+          "id": "44bbb5f18fc3",
+          "kind": "image",
+          "name": "map",
+          "preset": "map",
+          "x": 820,
+          "y": 355,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 7.733333333333334,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 810,
+          "height": 570,
+          "file": "assets/map.svg",
+          "fit": "contain",
+          "image_width": 810,
+          "enter": "none"
+        },
+        {
+          "id": "33f7600ea0cd",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 190,
+          "y": 650,
+          "scale": 2.15,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 7.733333333333334,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.35,
+                "v": -0.1
+              },
+              {
+                "t": 1.2,
+                "v": -0.75,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.35,
+                "v": -0.05
+              },
+              {
+                "t": 0.42,
+                "v": -0.05
+              },
+              {
+                "t": 1.2,
+                "v": 0.6000000000000001,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.35,
+                "v": 0.1
+              },
+              {
+                "t": 1.2,
+                "v": 1.7699999999999996,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.35,
+                "v": 0.05
+              },
+              {
+                "t": 0.42,
+                "v": 0.05
+              },
+              {
+                "t": 1.2,
+                "v": 1.9299999999999997,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.03500000000000014,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "point",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.35,
+              "v": "point"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.35,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "e9378a638bbe",
+          "kind": "shape",
+          "name": "path",
+          "preset": "path",
+          "x": 820,
+          "y": 355,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2,
+          "end": 7.733333333333334,
+          "expression": "normal",
+          "color": "#dd5146",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 400,
+          "shape": "path",
+          "fill": "#ffffff",
+          "stroke": 4,
+          "points": [
+            [
+              -210,
+              80
+            ],
+            [
+              -140,
+              20
+            ],
+            [
+              -50,
+              -50
+            ],
+            [
+              40,
+              -20
+            ],
+            [
+              120,
+              15
+            ]
+          ],
+          "reveal": true,
+          "enter_duration": 1.5,
+          "enter": "none"
+        },
+        {
+          "id": "5bc51e75013c",
+          "kind": "text",
+          "name": "Theo dấu một hành trình",
+          "preset": "Theo dấu một hành trình",
+          "x": 835,
+          "y": 660,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 7.733333333333334,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 740,
+          "height": 75,
+          "text": "Theo dấu một hành trình",
+          "font_size": 29,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "map",
+      "narration": "Hãy mở rộng bản đồ. Con đường nối thành phố với bến thuyền có thể gợi ra một hướng tìm kiếm khác. Bây giờ, câu chuyện không còn nằm trong một bức tường thành.",
+      "style": "ink"
+    },
+    {
+      "id": "15c3fd3fbf4c",
+      "name": "Những con người",
+      "start": 47.1,
+      "duration": 7.600000000000001,
+      "background": "white",
+      "objects": [
+        {
+          "id": "0e1c87666a30",
+          "kind": "image",
+          "name": "tree",
+          "preset": "tree",
+          "x": 775,
+          "y": 315,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 7.600000000000001,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 700,
+          "height": 440,
+          "file": "assets/tree.svg",
+          "fit": "contain",
+          "image_width": 700,
+          "enter": "none"
+        },
+        {
+          "id": "ed985f97d7b4",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 180,
+          "y": 650,
+          "scale": 1.95,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 7.600000000000001,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.35,
+                "v": -0.1
+              },
+              {
+                "t": 1.2,
+                "v": -0.8999999999999999,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.35,
+                "v": -0.05
+              },
+              {
+                "t": 0.42,
+                "v": -0.05
+              },
+              {
+                "t": 1.2,
+                "v": -1.8,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.35,
+                "v": 0.1
+              },
+              {
+                "t": 1.2,
+                "v": 0.8999999999999995,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.35,
+                "v": 0.05
+              },
+              {
+                "t": 0.42,
+                "v": 0.05
+              },
+              {
+                "t": 1.2,
+                "v": 1.7999999999999998,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "welcome",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.35,
+              "v": "welcome"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.35,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "a017c75ab5c1",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 515,
+          "y": 655,
+          "scale": 1.2,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 7.600000000000001,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "walk",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 515
+              },
+              {
+                "t": 0.5,
+                "v": 515
+              },
+              {
+                "t": 6.600000000000001,
+                "v": 655,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 7.600000000000001,
+                "v": 655
+              }
+            ]
+          },
+          "motions": [
+            {
+              "start": 0.5,
+              "end": 6.600000000000001,
+              "action": "walk",
+              "blend": 0.5
+            }
+          ],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "none",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "walk",
+          "poses": [],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.35,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "67f87495eabc",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 740,
+          "y": 655,
+          "scale": 1.1,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 7.600000000000001,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.35,
+                "v": -0.1
+              },
+              {
+                "t": 1.2,
+                "v": -0.8999999999999999,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.35,
+                "v": -0.05
+              },
+              {
+                "t": 0.42,
+                "v": -0.05
+              },
+              {
+                "t": 1.2,
+                "v": -1.8,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.35,
+                "v": 0.1
+              },
+              {
+                "t": 1.2,
+                "v": 0.8999999999999995,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.35,
+                "v": 0.05
+              },
+              {
+                "t": 0.42,
+                "v": 0.05
+              },
+              {
+                "t": 1.2,
+                "v": 1.7999999999999998,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#ffffff",
+          "shirt_mark": "none",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "welcome",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.35,
+              "v": "welcome"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.35,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "7e0618e226aa",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 1010,
+          "y": 655,
+          "scale": 1.05,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 7.600000000000001,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.35,
+                "v": -0.1
+              },
+              {
+                "t": 1.2,
+                "v": -0.8999999999999999,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.35,
+                "v": -0.05
+              },
+              {
+                "t": 0.42,
+                "v": -0.05
+              },
+              {
+                "t": 1.2,
+                "v": -1.8,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.35,
+                "v": 0.1
+              },
+              {
+                "t": 1.2,
+                "v": 0.8999999999999995,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.35,
+                "v": 0.05
+              },
+              {
+                "t": 0.42,
+                "v": 0.05
+              },
+              {
+                "t": 1.2,
+                "v": 1.7999999999999998,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "none",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "welcome",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.35,
+              "v": "welcome"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.35,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "84030510ff79",
+          "kind": "text",
+          "name": "Ai đã sống ở đây?",
+          "preset": "Ai đã sống ở đây?",
+          "x": 800,
+          "y": 80,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 7.600000000000001,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 780,
+          "height": 85,
+          "text": "Ai đã sống ở đây?",
+          "font_size": 34,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "crowd",
+      "narration": "Và đừng quên những con người. Sau mỗi đồ vật là người làm ra nó, sử dụng nó và mang nó đi. Một câu chuyện tốt cần nhìn thấy cả những cuộc sống ấy.",
+      "style": "ink"
+    },
+    {
+      "id": "657abb6b1e5f",
+      "name": "Kiểm tra nguồn",
+      "start": 54.7,
+      "duration": 8.299999999999997,
+      "background": "white",
+      "objects": [
+        {
+          "id": "b1ec597a42d8",
+          "kind": "shape",
+          "name": "arrow",
+          "preset": "arrow",
+          "x": 700,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.299999999999997,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 990,
+          "height": 16,
+          "shape": "arrow",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "477ec9793165",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 70,
+          "y": 690,
+          "scale": 1.05,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 8.299999999999997,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.35,
+                "v": -0.1
+              },
+              {
+                "t": 1.2,
+                "v": -0.5500000000000003,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.35,
+                "v": -0.05
+              },
+              {
+                "t": 0.42,
+                "v": -0.05
+              },
+              {
+                "t": 1.2,
+                "v": -1.8,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.35,
+                "v": 0.1
+              },
+              {
+                "t": 1.2,
+                "v": 0.5500000000000003,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.35,
+                "v": 0.05
+              },
+              {
+                "t": 0.42,
+                "v": 0.05
+              },
+              {
+                "t": 1.2,
+                "v": 1.7999999999999998,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "read",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.35,
+              "v": "read"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.35,
+              "v": "normal"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "e6ca0912636e",
+          "kind": "image",
+          "name": "document",
+          "preset": "document",
+          "x": 260.0,
+          "y": 300,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.4,
+          "end": 8.299999999999997,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 245,
+          "file": "assets/document.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "none"
+        },
+        {
+          "id": "44f2b711020c",
+          "kind": "shape",
+          "name": "ellipse",
+          "preset": "ellipse",
+          "x": 260.0,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.4,
+          "end": 8.299999999999997,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 19,
+          "height": 19,
+          "shape": "ellipse",
+          "fill": "#f6ca45",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "43ed62a7bed4",
+          "kind": "text",
+          "name": "Ai ghi lại?",
+          "preset": "Ai ghi lại?",
+          "x": 260.0,
+          "y": 535,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.4,
+          "end": 8.299999999999997,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 245,
+          "height": 105,
+          "text": "Ai ghi lại?",
+          "font_size": 27,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "5cfc389d8ae5",
+          "kind": "image",
+          "name": "calendar",
+          "preset": "calendar",
+          "x": 685.0,
+          "y": 300,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2.5,
+          "end": 8.299999999999997,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 245,
+          "file": "assets/calendar.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "none"
+        },
+        {
+          "id": "63fa36d0b457",
+          "kind": "shape",
+          "name": "ellipse",
+          "preset": "ellipse",
+          "x": 685.0,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2.5,
+          "end": 8.299999999999997,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 19,
+          "height": 19,
+          "shape": "ellipse",
+          "fill": "#f6ca45",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "d59976c07714",
+          "kind": "text",
+          "name": "Khi nào?",
+          "preset": "Khi nào?",
+          "x": 685.0,
+          "y": 535,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2.5,
+          "end": 8.299999999999997,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 245,
+          "height": 105,
+          "text": "Khi nào?",
+          "font_size": 27,
+          "font": "Segoe Print",
+          "enter": "none"
+        },
+        {
+          "id": "2556d50a5955",
+          "kind": "image",
+          "name": "magnifier",
+          "preset": "magnifier",
+          "x": 1110.0,
+          "y": 300,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 4.5,
+          "end": 8.299999999999997,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 245,
+          "file": "assets/magnifier.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "none"
+        },
+        {
+          "id": "80d4875ba064",
+          "kind": "shape",
+          "name": "ellipse",
+          "preset": "ellipse",
+          "x": 1110.0,
+          "y": 455,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 4.5,
+          "end": 8.299999999999997,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 19,
+          "height": 19,
+          "shape": "ellipse",
+          "fill": "#f6ca45",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "15aec7cfa47b",
+          "kind": "text",
+          "name": "Dựa vào đâu?",
+          "preset": "Dựa vào đâu?",
+          "x": 1110.0,
+          "y": 535,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 4.5,
+          "end": 8.299999999999997,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 245,
+          "height": 105,
+          "text": "Dựa vào đâu?",
+          "font_size": 27,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "process",
+      "narration": "Khi đọc một tài liệu, hãy hỏi ai đã viết, viết vào lúc nào, và dựa trên điều gì. Những câu hỏi nhỏ này giúp chúng ta hiểu giới hạn của chính nguồn tư liệu.",
+      "style": "ink"
+    },
+    {
+      "id": "590260516055",
+      "name": "Nhìn gần hơn",
+      "start": 63.0,
+      "duration": 8.466666666666669,
+      "background": "white",
+      "objects": [
+        {
+          "id": "2b0103aed3ed",
+          "kind": "image",
+          "name": "book",
+          "preset": "book",
+          "x": 640,
+          "y": 365,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 8.466666666666669,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "scale": [
+              {
+                "t": 0,
+                "v": 1
+              },
+              {
+                "t": 8.466666666666669,
+                "v": 1.12,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1160,
+          "height": 640,
+          "file": "assets/book.svg",
+          "fit": "contain",
+          "image_width": 1160,
+          "enter": "none"
+        },
+        {
+          "id": "06e4a732cd71",
+          "kind": "text",
+          "name": "Nhìn kỹ trước khi kết luận",
+          "preset": "Nhìn kỹ trước khi kết luận",
+          "x": 640,
+          "y": 665,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.466666666666669,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1000,
+          "height": 65,
+          "text": "Nhìn kỹ trước khi kết luận",
+          "font_size": 28,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "pan",
+      "narration": "Đôi khi, thay đổi góc nhìn sẽ làm một chi tiết trở nên rõ ràng. Bạn không cần một câu trả lời thật nhanh. Bạn cần một cách kiểm tra tốt hơn cho câu trả lời ấy.",
+      "style": "ink"
+    },
+    {
+      "id": "5affd3cd71df",
+      "name": "Ý tưởng mới",
+      "start": 71.46666666666667,
+      "duration": 7.900000000000006,
+      "background": "white",
+      "objects": [
+        {
+          "id": "0b5835cdd979",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 710,
+          "y": 915,
+          "scale": 4.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 7.900000000000006,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.35,
+                "v": -0.1
+              },
+              {
+                "t": 1.2,
+                "v": -0.4500000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.424,
+                "v": -0.4500000000000002
+              },
+              {
+                "t": 5.524000000000001,
+                "v": -0.8999999999999999,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.35,
+                "v": -0.05
+              },
+              {
+                "t": 0.42,
+                "v": -0.05
+              },
+              {
+                "t": 1.2,
+                "v": -0.7999999999999998,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.424,
+                "v": -0.7999999999999998
+              },
+              {
+                "t": 4.494000000000001,
+                "v": -0.7999999999999998
+              },
+              {
+                "t": 5.524000000000001,
+                "v": -1.7999999999999998,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.35,
+                "v": 0.1
+              },
+              {
+                "t": 1.2,
+                "v": 1.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.424,
+                "v": 1.0
+              },
+              {
+                "t": 5.524000000000001,
+                "v": 0.9000000000000004,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.35,
+                "v": 0.05
+              },
+              {
+                "t": 0.42,
+                "v": 0.05
+              },
+              {
+                "t": 1.2,
+                "v": 2.95,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.424,
+                "v": 2.95
+              },
+              {
+                "t": 4.494000000000001,
+                "v": 2.95
+              },
+              {
+                "t": 5.524000000000001,
+                "v": 1.7999999999999998,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.424,
+                "v": 0.0
+              },
+              {
+                "t": 5.524000000000001,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.08000000000000007,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.424,
+                "v": 0.08000000000000007
+              },
+              {
+                "t": 5.524000000000001,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.424,
+                "v": 0
+              },
+              {
+                "t": 5.524000000000001,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "welcome",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.35,
+              "v": "idea"
+            },
+            {
+              "t": 4.424,
+              "v": "welcome"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.35,
+              "v": "happy"
+            },
+            {
+              "t": 4.424,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "bb63c360d5f0",
+          "kind": "image",
+          "name": "bulb",
+          "preset": "bulb",
+          "x": 1040,
+          "y": 180,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 2.0,
+          "end": 7.900000000000006,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 190,
+          "height": 190,
+          "file": "assets/bulb.svg",
+          "fit": "contain",
+          "image_width": 190,
+          "enter": "none"
+        },
+        {
+          "id": "73bcf3fd5d0c",
+          "kind": "shape",
+          "name": "callout",
+          "preset": "callout",
+          "x": 260,
+          "y": 225,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 7.900000000000006,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 350,
+          "height": 210,
+          "shape": "callout",
+          "fill": "#ffffff",
+          "stroke": 3,
+          "enter": "none"
+        },
+        {
+          "id": "32576a338788",
+          "kind": "text",
+          "name": "MỘT\nCÁCH NHÌN MỚI",
+          "preset": "MỘT\nCÁCH NHÌN MỚI",
+          "x": 260,
+          "y": 215,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 7.900000000000006,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 300,
+          "height": 160,
+          "text": "MỘT\nCÁCH NHÌN MỚI",
+          "font_size": 36,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "focus",
+      "narration": "Khi một mảnh ghép mới xuất hiện, cách giải thích cũ có thể cần thay đổi. Đó không phải thất bại của việc tìm hiểu. Đó là lúc câu chuyện bắt đầu rõ ràng hơn.",
+      "style": "ink"
+    },
+    {
+      "id": "b67026a764f6",
+      "name": "Giữ sự tò mò",
+      "start": 79.36666666666667,
+      "duration": 8.033333333333331,
+      "background": "white",
+      "objects": [
+        {
+          "id": "97fc80461c6c",
+          "kind": "character",
+          "name": "Người dẫn · Áo đen",
+          "preset": "presenter",
+          "x": 235,
+          "y": 640,
+          "scale": 2.45,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 8.033333333333331,
+          "expression": "normal",
+          "color": "#191919",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0.0,
+                "v": -0.1
+              },
+              {
+                "t": 0.35,
+                "v": -0.1
+              },
+              {
+                "t": 1.2,
+                "v": -0.8999999999999999,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.498666666666667,
+                "v": -0.8999999999999999
+              },
+              {
+                "t": 5.5986666666666665,
+                "v": -0.19999999999999973,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0.0,
+                "v": -0.05
+              },
+              {
+                "t": 0.35,
+                "v": -0.05
+              },
+              {
+                "t": 0.42,
+                "v": -0.05
+              },
+              {
+                "t": 1.2,
+                "v": -1.8,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.498666666666667,
+                "v": -1.8
+              },
+              {
+                "t": 4.568666666666667,
+                "v": -1.8
+              },
+              {
+                "t": 5.5986666666666665,
+                "v": 0.10000000000000053,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0.0,
+                "v": 0.1
+              },
+              {
+                "t": 0.35,
+                "v": 0.1
+              },
+              {
+                "t": 1.2,
+                "v": 0.8999999999999995,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.498666666666667,
+                "v": 0.8999999999999995
+              },
+              {
+                "t": 5.5986666666666665,
+                "v": 0.7000000000000002,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0.0,
+                "v": 0.05
+              },
+              {
+                "t": 0.35,
+                "v": 0.05
+              },
+              {
+                "t": 0.42,
+                "v": 0.05
+              },
+              {
+                "t": 1.2,
+                "v": 1.7999999999999998,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.498666666666667,
+                "v": 1.7999999999999998
+              },
+              {
+                "t": 4.568666666666667,
+                "v": 1.7999999999999998
+              },
+              {
+                "t": 5.5986666666666665,
+                "v": 2.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.498666666666667,
+                "v": 0.0
+              },
+              {
+                "t": 5.5986666666666665,
+                "v": 0.040000000000000036,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.498666666666667,
+                "v": 0.0
+              },
+              {
+                "t": 5.5986666666666665,
+                "v": 0.0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0.0,
+                "v": 0
+              },
+              {
+                "t": 0.35,
+                "v": 0
+              },
+              {
+                "t": 1.2,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              },
+              {
+                "t": 4.498666666666667,
+                "v": 0
+              },
+              {
+                "t": 5.5986666666666665,
+                "v": 0,
+                "ease": "bezier",
+                "bezier": [
+                  0.33,
+                  -0.06,
+                  0.48,
+                  1.04
+                ]
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "torso": 51,
+            "upper_arm": 28,
+            "forearm": 30,
+            "thigh": 32,
+            "shin": 31,
+            "shoulder": 21
+          },
+          "skin": "ink",
+          "character_design": "reference_black",
+          "shirt": "#252525",
+          "shirt_mark": "plus",
+          "pants": "#719aca",
+          "skin_color": "#fbe5bd",
+          "shoes": "#faf9f4",
+          "breath": 0,
+          "stance": 18,
+          "pose": "explain",
+          "poses": [
+            {
+              "t": 0.0,
+              "v": "rest"
+            },
+            {
+              "t": 0.35,
+              "v": "welcome"
+            },
+            {
+              "t": 4.498666666666667,
+              "v": "explain"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "normal"
+            },
+            {
+              "t": 0.35,
+              "v": "happy"
+            },
+            {
+              "t": 4.498666666666667,
+              "v": "happy"
+            }
+          ],
+          "enter": "none"
+        },
+        {
+          "id": "d3e0d4415b05",
+          "kind": "image",
+          "name": "compass",
+          "preset": "compass",
+          "x": 865,
+          "y": 340,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0,
+          "end": 8.033333333333331,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 435,
+          "file": "assets/compass.svg",
+          "fit": "contain",
+          "image_width": 650,
+          "enter": "none"
+        },
+        {
+          "id": "3d1681d0941a",
+          "kind": "text",
+          "name": "Tò mò · Kiểm tra · Kết nối",
+          "preset": "Tò mò · Kiểm tra · Kết nối",
+          "x": 865,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.033333333333331,
+          "expression": "normal",
+          "color": "#191d20",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 95,
+          "text": "Tò mò · Kiểm tra · Kết nối",
+          "font_size": 30,
+          "font": "Segoe Print",
+          "enter": "none"
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "layout": "presenter",
+      "narration": "Thành phố trong câu chuyện này chỉ là tưởng tượng. Nhưng sự tò mò và thói quen kiểm tra bằng chứng thì rất thật. Hãy bắt đầu bằng một câu hỏi, rồi tìm từng mảnh ghép.",
+      "style": "ink"
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "6c6e70daa669",
+      "start": 0.0,
+      "end": 6.431927437641724,
+      "text": "Hãy tưởng tượng bạn tìm thấy một tấm bản đồ cũ. Ở giữa bản đồ là một thành phố không còn tên gọi. Chuyện gì đã xảy ra ở nơi ấy?",
+      "role": "Narrator",
+      "scene_id": "886845c57607"
+    },
+    {
+      "id": "572de686195f",
+      "start": 6.9,
+      "end": 14.063356009070295,
+      "text": "Bạn bước qua cổng thành. Những mái nhà đã biến mất, nhưng nền đá vẫn còn. Chỉ từ những dấu vết này, liệu chúng ta có thể kể lại cả một câu chuyện?",
+      "role": "Narrator",
+      "scene_id": "a664d8be8fe8"
+    },
+    {
+      "id": "47c242a265dd",
+      "start": 14.533333333333335,
+      "end": 22.137868480725626,
+      "text": "Một chiếc bình và một cuộn giấy xuất hiện. Chiếc bình gợi ra sinh hoạt của cư dân, còn cuộn giấy mang theo lời ghi chép. Hai mảnh ghép chưa chắc đã kể cùng một chuyện.",
+      "role": "Narrator",
+      "scene_id": "f2f683436ddd"
+    },
+    {
+      "id": "e64837ecb05a",
+      "start": 22.6,
+      "end": 30.54122448979592,
+      "text": "Trước tiên, hãy đặt từng mảnh ghép lên một dòng thời gian. Một ngôi làng có thể phát triển thành đô thị, rồi thay đổi. Nhưng thứ tự ấy cần được kiểm tra, không thể chỉ đoán.",
+      "role": "Narrator",
+      "scene_id": "5ac0bd6a41be"
+    },
+    {
+      "id": "cd99f8961df2",
+      "start": 31.0,
+      "end": 38.90639455782313,
+      "text": "Nếu nhìn thấy dấu vết của lửa, bạn có thể nghĩ ngay đến một trận cháy. Nhưng một dấu vết riêng lẻ chưa đủ để giải thích vì sao cả thành phố không còn nữa.",
+      "role": "Narrator",
+      "scene_id": "46840363f9ea"
+    },
+    {
+      "id": "1923f69dd231",
+      "start": 39.36666666666667,
+      "end": 46.63451247165533,
+      "text": "Hãy mở rộng bản đồ. Con đường nối thành phố với bến thuyền có thể gợi ra một hướng tìm kiếm khác. Bây giờ, câu chuyện không còn nằm trong một bức tường thành.",
+      "role": "Narrator",
+      "scene_id": "c6d840c9bcca"
+    },
+    {
+      "id": "6ce91f604097",
+      "start": 47.1,
+      "end": 54.21691609977324,
+      "text": "Và đừng quên những con người. Sau mỗi đồ vật là người làm ra nó, sử dụng nó và mang nó đi. Một câu chuyện tốt cần nhìn thấy cả những cuộc sống ấy.",
+      "role": "Narrator",
+      "scene_id": "15c3fd3fbf4c"
+    },
+    {
+      "id": "2c2b7fa51623",
+      "start": 54.7,
+      "end": 62.536734693877555,
+      "text": "Khi đọc một tài liệu, hãy hỏi ai đã viết, viết vào lúc nào, và dựa trên điều gì. Những câu hỏi nhỏ này giúp chúng ta hiểu giới hạn của chính nguồn tư liệu.",
+      "role": "Narrator",
+      "scene_id": "657abb6b1e5f"
+    },
+    {
+      "id": "39304264fb4e",
+      "start": 63.0,
+      "end": 71.0108843537415,
+      "text": "Đôi khi, thay đổi góc nhìn sẽ làm một chi tiết trở nên rõ ràng. Bạn không cần một câu trả lời thật nhanh. Bạn cần một cách kiểm tra tốt hơn cho câu trả lời ấy.",
+      "role": "Narrator",
+      "scene_id": "590260516055"
+    },
+    {
+      "id": "34bc47d14336",
+      "start": 71.46666666666667,
+      "end": 78.89705215419501,
+      "text": "Khi một mảnh ghép mới xuất hiện, cách giải thích cũ có thể cần thay đổi. Đó không phải thất bại của việc tìm hiểu. Đó là lúc câu chuyện bắt đầu rõ ràng hơn.",
+      "role": "Narrator",
+      "scene_id": "5affd3cd71df"
+    },
+    {
+      "id": "8a60844ca861",
+      "start": 79.36666666666667,
+      "end": 86.92476190476191,
+      "text": "Thành phố trong câu chuyện này chỉ là tưởng tượng. Nhưng sự tò mò và thói quen kiểm tra bằng chứng thì rất thật. Hãy bắt đầu bằng một câu hỏi, rồi tìm từng mảnh ghép.",
+      "role": "Narrator",
+      "scene_id": "b67026a764f6"
+    }
+  ],
+  "audio": [
+    {
+      "id": "29b6006dfbb5",
+      "name": "Lời · Một thành phố không tên",
+      "file": "assets/narration.wav",
+      "start": 0.0,
+      "trim": 0.0,
+      "duration": 6.9,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "886845c57607",
+      "waveform": [
+        0.319,
+        0.3844,
+        0.2991,
+        0.3248,
+        0.017,
+        0.5016,
+        0.9489,
+        0.7111,
+        0.2348,
+        0.0609,
+        0.4697,
+        0.8784,
+        0.3031,
+        0.0666,
+        0.1291,
+        0.6063,
+        0.6528,
+        0.0696,
+        0.0658,
+        0.0061,
+        0.3367,
+        0.382,
+        0.2897,
+        0.2286,
+        0.3503,
+        0.5734,
+        0.362,
+        0.123,
+        0.3203,
+        0.549,
+        0.116,
+        0.0703,
+        0.4908,
+        0.3265,
+        0.1521,
+        0.0382,
+        0.4937,
+        0.4025,
+        0.3004,
+        0.1766,
+        0.5388,
+        0.5094,
+        0.359,
+        0.0284,
+        0.3549,
+        0.2008,
+        0.2973,
+        0.1939,
+        0.5566,
+        0.9444,
+        0.8214,
+        0.2945,
+        0.24,
+        0.4528,
+        0.4708,
+        0.4757,
+        0.5518,
+        0.6168,
+        0.4149,
+        0.2151,
+        0.2068,
+        0.9359,
+        0.7153,
+        0.5196,
+        0.3861,
+        0.5475,
+        0.6414,
+        0.3595,
+        0.6897,
+        0.6848,
+        0.0247,
+        0.284,
+        0.3479,
+        0.3232,
+        0.322,
+        0.1091,
+        0.0572,
+        0.6283,
+        0.7346,
+        0.6943,
+        0.3104,
+        0.0552,
+        0.1043,
+        0.4252,
+        0.2048,
+        0.0172,
+        0.7605,
+        0.6339,
+        0.3222,
+        0.0879,
+        0.5696,
+        0.6113,
+        0.4364,
+        0.0875,
+        0.4059,
+        0.3797,
+        0.1676,
+        0.1272,
+        0.9278,
+        0.66,
+        0.1625,
+        0.2273,
+        0.0818,
+        0.5391,
+        0.5235,
+        0.4582,
+        0.3939,
+        0.5902,
+        0.2757,
+        0.0232,
+        0.5986,
+        0.6162,
+        0.5358,
+        0.2346,
+        0.0149,
+        0.532,
+        0.525,
+        0.1721,
+        0.3728,
+        0.5825,
+        0.311,
+        0.5882,
+        0.6883,
+        0.3063,
+        0.5983,
+        0.7734,
+        0.5518,
+        0.3115,
+        0.0322,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0001
+      ],
+      "waveform_hz": 20
+    },
+    {
+      "id": "0ccacb01432a",
+      "name": "Lời · Những dấu vết đầu tiên",
+      "file": "assets/narration.wav",
+      "start": 6.9,
+      "trim": 6.9,
+      "duration": 7.633333333333335,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "a664d8be8fe8",
+      "waveform": [
+        0.6888,
+        1.0,
+        0.4747,
+        0.2369,
+        0.7217,
+        0.7137,
+        0.3656,
+        0.0258,
+        0.5681,
+        0.6242,
+        0.3243,
+        0.5159,
+        0.8701,
+        0.3556,
+        0.2241,
+        0.0215,
+        0.3731,
+        0.4847,
+        0.4875,
+        0.3716,
+        0.5138,
+        0.8924,
+        0.3027,
+        0.1754,
+        0.3162,
+        0.7234,
+        0.7511,
+        0.3705,
+        0.123,
+        0.2601,
+        0.559,
+        0.6946,
+        0.5981,
+        0.4345,
+        0.316,
+        0.3735,
+        0.2997,
+        0.2757,
+        0.6795,
+        0.9336,
+        0.3729,
+        0.2433,
+        0.4609,
+        0.61,
+        0.226,
+        0.0134,
+        0.0055,
+        0.0023,
+        0.4589,
+        0.7333,
+        0.7068,
+        0.4924,
+        0.8293,
+        0.7137,
+        0.3881,
+        0.2069,
+        0.5736,
+        0.5864,
+        0.5544,
+        0.3226,
+        0.7191,
+        0.7389,
+        0.1351,
+        0.0138,
+        0.6459,
+        0.6714,
+        0.5847,
+        0.333,
+        0.2161,
+        0.0907,
+        0.6626,
+        0.6311,
+        0.1396,
+        0.5946,
+        0.5865,
+        0.4162,
+        0.5368,
+        0.1341,
+        0.1214,
+        0.0265,
+        0.9294,
+        0.955,
+        0.4047,
+        0.1593,
+        0.5851,
+        0.6453,
+        0.416,
+        0.1062,
+        0.3178,
+        0.6107,
+        0.6302,
+        0.5949,
+        0.4437,
+        0.3224,
+        0.0202,
+        0.0036,
+        0.1802,
+        0.3656,
+        0.7551,
+        0.8714,
+        0.5486,
+        0.1623,
+        0.4436,
+        0.5595,
+        0.3409,
+        0.1079,
+        0.0202,
+        0.5272,
+        0.4615,
+        0.1674,
+        0.0954,
+        0.3974,
+        0.3249,
+        0.4631,
+        0.9619,
+        0.9384,
+        0.4986,
+        0.2177,
+        0.023,
+        0.6245,
+        0.5719,
+        0.4407,
+        0.3236,
+        0.5404,
+        0.2202,
+        0.1459,
+        0.0075,
+        0.4072,
+        0.3604,
+        0.3325,
+        0.2741,
+        0.498,
+        0.5371,
+        0.1564,
+        0.0182,
+        0.6285,
+        0.6341,
+        0.354,
+        0.0858,
+        0.4429,
+        1.0,
+        0.2402,
+        0.052,
+        0.0186,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.2083
+      ],
+      "waveform_hz": 20
+    },
+    {
+      "id": "19d660585a0a",
+      "name": "Lời · Hai mảnh ghép",
+      "file": "assets/narration.wav",
+      "start": 14.533333333333335,
+      "trim": 14.533333333333335,
+      "duration": 8.066666666666666,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "f2f683436ddd",
+      "waveform": [
+        0.9596,
+        0.9272,
+        0.0297,
+        0.4472,
+        0.5509,
+        0.3107,
+        0.1043,
+        0.5038,
+        0.466,
+        0.3184,
+        0.3156,
+        0.2667,
+        0.1585,
+        0.5143,
+        0.3693,
+        0.4331,
+        0.4794,
+        0.0411,
+        0.2703,
+        0.9572,
+        0.2926,
+        0.0792,
+        0.0638,
+        0.4273,
+        0.718,
+        0.5981,
+        0.1685,
+        0.36,
+        0.3882,
+        0.0374,
+        0.1956,
+        0.7339,
+        0.7715,
+        0.1311,
+        0.0241,
+        0.615,
+        0.7941,
+        0.0955,
+        0.1258,
+        0.5126,
+        0.4431,
+        0.3648,
+        0.2946,
+        0.1962,
+        0.642,
+        0.419,
+        0.1817,
+        0.0835,
+        0.3412,
+        0.3293,
+        0.3043,
+        0.1266,
+        0.011,
+        0.2952,
+        0.278,
+        0.1671,
+        0.3367,
+        0.4199,
+        0.4057,
+        0.0418,
+        0.0323,
+        0.5648,
+        0.2929,
+        0.0734,
+        0.3627,
+        0.3152,
+        0.056,
+        0.6682,
+        0.6476,
+        0.3035,
+        0.2754,
+        0.145,
+        0.0067,
+        0.0012,
+        0.4987,
+        0.5403,
+        0.4237,
+        0.2796,
+        0.0993,
+        0.0321,
+        0.9913,
+        0.7485,
+        0.0963,
+        0.1294,
+        0.2796,
+        0.5325,
+        0.3798,
+        0.1348,
+        0.2754,
+        0.3303,
+        0.3482,
+        0.2107,
+        0.1411,
+        0.1587,
+        0.3724,
+        0.3854,
+        0.3672,
+        0.3161,
+        0.6314,
+        0.5195,
+        0.5247,
+        0.3752,
+        0.0688,
+        0.3922,
+        0.3277,
+        0.0255,
+        0.2685,
+        0.2602,
+        0.2164,
+        0.0394,
+        0.183,
+        0.5989,
+        0.6056,
+        0.2827,
+        0.6926,
+        0.7243,
+        0.4604,
+        0.2144,
+        0.0403,
+        0.3512,
+        0.3497,
+        0.2978,
+        0.0345,
+        0.008,
+        0.102,
+        0.612,
+        0.4789,
+        0.1254,
+        0.5376,
+        0.6649,
+        0.0333,
+        0.0345,
+        0.585,
+        0.4176,
+        0.0663,
+        0.3041,
+        0.8672,
+        0.7939,
+        0.4485,
+        0.1053,
+        0.0469,
+        0.722,
+        0.4157,
+        0.4453,
+        0.5376,
+        0.6375,
+        0.0252,
+        0.1102,
+        0.6672,
+        1.0,
+        0.3741,
+        0.057,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0011
+      ],
+      "waveform_hz": 20
+    },
+    {
+      "id": "8c3f4b9f0073",
+      "name": "Lời · Câu hỏi về thời gian",
+      "file": "assets/narration.wav",
+      "start": 22.6,
+      "trim": 22.6,
+      "duration": 8.399999999999999,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "5ac0bd6a41be",
+      "waveform": [
+        0.8841,
+        0.9584,
+        0.5205,
+        0.0358,
+        0.5298,
+        0.4878,
+        0.5196,
+        0.2891,
+        0.2298,
+        0.0523,
+        0.0047,
+        0.0128,
+        0.1805,
+        0.5604,
+        0.2391,
+        0.162,
+        0.38,
+        0.554,
+        0.1674,
+        0.0118,
+        0.3262,
+        0.5123,
+        0.374,
+        0.341,
+        0.6508,
+        0.5058,
+        0.2462,
+        0.1653,
+        0.0664,
+        0.4117,
+        0.4447,
+        0.2943,
+        0.0572,
+        0.5951,
+        0.8139,
+        0.3719,
+        0.5462,
+        0.7751,
+        0.1728,
+        0.0241,
+        0.4826,
+        0.6171,
+        0.3494,
+        0.2943,
+        0.4159,
+        0.5165,
+        0.6297,
+        0.2792,
+        0.4907,
+        0.5894,
+        0.3616,
+        0.2274,
+        0.1739,
+        0.9742,
+        0.9529,
+        0.2805,
+        0.5909,
+        0.7672,
+        0.7385,
+        0.3819,
+        0.5451,
+        0.5444,
+        0.4111,
+        0.2943,
+        0.0643,
+        0.3384,
+        0.0186,
+        0.4479,
+        0.8436,
+        0.7437,
+        0.0944,
+        0.1971,
+        0.2948,
+        0.1858,
+        0.0082,
+        0.2016,
+        0.9741,
+        0.9764,
+        0.155,
+        0.086,
+        0.3122,
+        0.3677,
+        0.3727,
+        0.3588,
+        0.813,
+        0.5182,
+        0.0425,
+        0.3931,
+        0.3951,
+        0.2635,
+        0.1142,
+        0.0219,
+        0.0036,
+        0.0013,
+        0.0024,
+        0.0169,
+        0.8673,
+        0.9449,
+        0.9434,
+        0.0834,
+        0.3495,
+        0.506,
+        0.665,
+        0.506,
+        0.5816,
+        0.397,
+        0.1117,
+        0.4146,
+        0.5484,
+        0.3214,
+        0.0786,
+        0.4714,
+        0.5493,
+        0.5715,
+        0.0229,
+        0.608,
+        0.4418,
+        0.2111,
+        0.3277,
+        0.7568,
+        0.514,
+        0.341,
+        0.0257,
+        0.726,
+        0.7692,
+        0.3774,
+        0.3053,
+        0.9947,
+        0.6235,
+        0.0338,
+        0.2813,
+        0.9254,
+        0.718,
+        0.2025,
+        0.0999,
+        0.0338,
+        0.4066,
+        0.3775,
+        0.3004,
+        0.1693,
+        0.0082,
+        0.0801,
+        0.4132,
+        0.2206,
+        0.1792,
+        0.4762,
+        0.7892,
+        0.6172,
+        0.4873,
+        0.0491,
+        0.3076,
+        0.3512,
+        0.312,
+        0.3517,
+        0.4476,
+        0.4515,
+        0.2433,
+        0.2303,
+        0.051,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "waveform_hz": 20
+    },
+    {
+      "id": "502df8edf963",
+      "name": "Lời · Đừng vội kết luận",
+      "file": "assets/narration.wav",
+      "start": 31.0,
+      "trim": 31.0,
+      "duration": 8.366666666666667,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "46840363f9ea",
+      "waveform": [
+        0.4031,
+        0.9749,
+        0.9963,
+        0.3457,
+        0.1799,
+        0.401,
+        0.4403,
+        0.3055,
+        0.1388,
+        0.3829,
+        0.4724,
+        0.2458,
+        0.0952,
+        0.2945,
+        0.5628,
+        0.4725,
+        0.3962,
+        0.222,
+        0.0384,
+        0.4879,
+        0.3955,
+        0.0203,
+        0.0107,
+        0.6541,
+        0.7658,
+        0.2418,
+        0.4911,
+        0.5753,
+        0.3727,
+        0.2205,
+        0.0744,
+        0.0049,
+        0.0017,
+        0.0552,
+        0.4809,
+        0.5714,
+        0.1506,
+        0.0984,
+        0.3266,
+        0.3244,
+        0.0218,
+        0.3189,
+        0.5979,
+        0.5161,
+        0.1877,
+        0.2068,
+        0.3021,
+        0.1235,
+        0.0893,
+        0.0757,
+        0.1112,
+        0.3494,
+        0.3393,
+        0.3249,
+        0.1019,
+        0.5251,
+        0.5423,
+        0.3393,
+        0.2087,
+        0.1211,
+        0.6206,
+        0.6279,
+        0.026,
+        0.2683,
+        0.4918,
+        0.1109,
+        0.0803,
+        0.166,
+        0.2447,
+        0.2659,
+        0.2735,
+        0.2828,
+        0.1454,
+        0.2885,
+        0.4671,
+        0.4576,
+        0.2256,
+        0.5781,
+        0.9915,
+        0.6759,
+        0.0322,
+        0.4255,
+        0.5252,
+        0.6088,
+        0.1443,
+        0.4393,
+        0.4227,
+        0.2071,
+        0.0172,
+        0.1455,
+        0.3136,
+        0.3105,
+        0.207,
+        0.2045,
+        0.4088,
+        0.3539,
+        0.2649,
+        0.1334,
+        0.0814,
+        0.3278,
+        0.3659,
+        0.2792,
+        0.4532,
+        0.4505,
+        0.4564,
+        0.4384,
+        0.2578,
+        0.4639,
+        0.4349,
+        0.377,
+        0.2294,
+        0.0314,
+        0.3546,
+        0.3187,
+        0.2019,
+        0.0139,
+        0.262,
+        0.3099,
+        0.0279,
+        0.0131,
+        0.0746,
+        0.1037,
+        0.3571,
+        0.3721,
+        0.3585,
+        0.258,
+        0.0182,
+        0.3407,
+        0.3642,
+        0.3394,
+        0.0352,
+        0.3478,
+        0.385,
+        0.2618,
+        0.0552,
+        0.2244,
+        0.273,
+        0.2295,
+        0.1899,
+        0.0108,
+        0.5186,
+        0.5923,
+        0.5831,
+        0.1459,
+        0.1385,
+        0.4237,
+        0.2132,
+        0.0482,
+        0.3029,
+        0.5118,
+        0.4214,
+        0.2303,
+        0.4712,
+        0.3896,
+        0.1532,
+        0.4183,
+        0.3047,
+        0.0571,
+        0.0079,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "waveform_hz": 20
+    },
+    {
+      "id": "d4f6994a008c",
+      "name": "Lời · Theo một tuyến đường",
+      "file": "assets/narration.wav",
+      "start": 39.36666666666667,
+      "trim": 39.36666666666667,
+      "duration": 7.733333333333334,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "c6d840c9bcca",
+      "waveform": [
+        0.2587,
+        0.9622,
+        0.6313,
+        0.2447,
+        0.1795,
+        0.7518,
+        0.9327,
+        0.6442,
+        0.3732,
+        0.0846,
+        0.8792,
+        0.7361,
+        0.2993,
+        0.1362,
+        0.7569,
+        0.83,
+        0.4227,
+        0.2574,
+        0.7047,
+        0.674,
+        0.6378,
+        0.4409,
+        0.2804,
+        0.6643,
+        0.5156,
+        0.2139,
+        0.6727,
+        0.7287,
+        0.3506,
+        0.3787,
+        0.6193,
+        0.3521,
+        0.1257,
+        0.2274,
+        0.3247,
+        0.2721,
+        0.1877,
+        0.0151,
+        0.4932,
+        0.6051,
+        0.6101,
+        0.4043,
+        0.036,
+        0.4221,
+        0.4026,
+        0.1526,
+        0.9813,
+        0.8246,
+        0.2364,
+        0.062,
+        0.1353,
+        0.4026,
+        0.7599,
+        0.2712,
+        0.215,
+        0.3616,
+        0.3479,
+        0.0493,
+        0.3445,
+        0.7017,
+        0.675,
+        0.3039,
+        0.0894,
+        0.2348,
+        0.6378,
+        0.4814,
+        0.187,
+        0.0905,
+        0.0252,
+        0.4446,
+        0.3717,
+        0.2494,
+        0.4572,
+        0.4266,
+        0.084,
+        0.3279,
+        0.5566,
+        0.2803,
+        0.1223,
+        0.0125,
+        0.4869,
+        0.3997,
+        0.355,
+        0.2754,
+        0.0103,
+        0.2903,
+        0.7543,
+        0.2335,
+        0.0484,
+        0.0904,
+        0.2835,
+        0.2162,
+        0.1036,
+        0.8361,
+        0.8254,
+        0.3979,
+        0.069,
+        0.8265,
+        0.7012,
+        0.6974,
+        0.4965,
+        0.2694,
+        0.0204,
+        0.0057,
+        0.5757,
+        0.5291,
+        0.4442,
+        0.0761,
+        0.4807,
+        0.5102,
+        0.4611,
+        0.2163,
+        0.0197,
+        0.3306,
+        0.6556,
+        0.2894,
+        0.2565,
+        0.0479,
+        0.8037,
+        0.6245,
+        0.325,
+        0.3381,
+        0.4308,
+        0.2704,
+        0.2772,
+        0.1628,
+        0.3837,
+        0.3871,
+        0.2257,
+        0.2359,
+        0.874,
+        0.5958,
+        0.0326,
+        0.1717,
+        0.6138,
+        0.3744,
+        0.0126,
+        0.5102,
+        0.9705,
+        0.3428,
+        0.2339,
+        0.347,
+        0.3421,
+        0.3668,
+        0.3059,
+        0.1908,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0032
+      ],
+      "waveform_hz": 20
+    },
+    {
+      "id": "3e2bcef6a00f",
+      "name": "Lời · Những con người",
+      "file": "assets/narration.wav",
+      "start": 47.1,
+      "trim": 47.1,
+      "duration": 7.600000000000001,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "15c3fd3fbf4c",
+      "waveform": [
+        0.8795,
+        1.0,
+        0.8241,
+        0.664,
+        0.6237,
+        0.5004,
+        0.3797,
+        0.5782,
+        0.9878,
+        0.5044,
+        0.3388,
+        0.3391,
+        0.1012,
+        0.0154,
+        0.4919,
+        0.5116,
+        0.3234,
+        0.3467,
+        0.593,
+        0.9325,
+        0.9163,
+        0.8182,
+        0.4396,
+        0.0809,
+        0.0075,
+        0.6292,
+        0.583,
+        0.5156,
+        0.5647,
+        0.6037,
+        0.2693,
+        0.5909,
+        0.9293,
+        0.9052,
+        0.775,
+        0.11,
+        0.6022,
+        0.4544,
+        0.0271,
+        0.0587,
+        0.3404,
+        0.7422,
+        0.5188,
+        0.3363,
+        0.517,
+        0.988,
+        0.6154,
+        0.2889,
+        0.5544,
+        0.5212,
+        0.2822,
+        0.2,
+        0.2286,
+        0.4302,
+        0.385,
+        0.2518,
+        0.4778,
+        0.4925,
+        0.5184,
+        0.2878,
+        0.0209,
+        0.006,
+        0.0057,
+        0.4895,
+        0.4375,
+        0.485,
+        0.1621,
+        0.5661,
+        0.696,
+        0.0927,
+        0.1859,
+        0.4548,
+        0.4319,
+        0.4248,
+        0.4868,
+        0.3208,
+        0.0219,
+        0.6501,
+        0.4556,
+        0.4839,
+        0.4291,
+        0.3674,
+        0.5854,
+        0.5793,
+        0.4054,
+        0.3166,
+        0.3934,
+        0.3875,
+        0.1118,
+        0.8865,
+        0.8913,
+        0.0959,
+        0.3604,
+        0.5667,
+        0.4117,
+        0.209,
+        0.0724,
+        0.3877,
+        0.5504,
+        0.0805,
+        0.0853,
+        0.332,
+        0.4511,
+        0.437,
+        0.015,
+        0.006,
+        0.5536,
+        0.66,
+        0.3994,
+        0.4064,
+        0.361,
+        0.5564,
+        0.5359,
+        0.3746,
+        0.244,
+        0.3854,
+        0.6189,
+        0.6028,
+        0.3342,
+        0.0197,
+        0.353,
+        0.4594,
+        0.3727,
+        0.2967,
+        0.1672,
+        0.3293,
+        0.478,
+        0.0918,
+        0.0955,
+        0.2027,
+        0.9904,
+        0.69,
+        0.0518,
+        0.0377,
+        0.5381,
+        0.2963,
+        0.1512,
+        0.4872,
+        0.5709,
+        0.3858,
+        0.3552,
+        0.0758,
+        0.0114,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0001
+      ],
+      "waveform_hz": 20
+    },
+    {
+      "id": "24089aada0e3",
+      "name": "Lời · Kiểm tra nguồn",
+      "file": "assets/narration.wav",
+      "start": 54.7,
+      "trim": 54.7,
+      "duration": 8.299999999999997,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "657abb6b1e5f",
+      "waveform": [
+        0.0889,
+        0.573,
+        0.5315,
+        0.6979,
+        0.6384,
+        0.1422,
+        0.2456,
+        0.4346,
+        0.3825,
+        0.0214,
+        0.4229,
+        0.3665,
+        0.4243,
+        0.4058,
+        0.3794,
+        1.0,
+        0.7928,
+        0.1726,
+        0.0428,
+        0.0059,
+        0.0026,
+        0.0866,
+        0.3703,
+        0.1551,
+        0.1694,
+        0.1688,
+        0.1404,
+        0.2994,
+        0.3962,
+        0.3652,
+        0.1785,
+        0.1247,
+        0.2271,
+        0.3477,
+        0.4058,
+        0.3544,
+        0.4348,
+        0.291,
+        0.1168,
+        0.014,
+        0.589,
+        0.4874,
+        0.0348,
+        0.0151,
+        0.0066,
+        0.002,
+        0.0212,
+        0.6151,
+        0.5229,
+        0.0234,
+        0.0188,
+        0.5403,
+        0.4743,
+        0.4516,
+        0.3255,
+        0.4903,
+        0.2808,
+        0.0848,
+        0.3922,
+        0.4998,
+        0.4356,
+        0.4004,
+        0.3866,
+        0.313,
+        0.0487,
+        0.0034,
+        0.0359,
+        0.5608,
+        0.6591,
+        0.571,
+        0.4368,
+        0.0415,
+        0.5192,
+        0.6531,
+        0.2863,
+        0.125,
+        0.0811,
+        0.4583,
+        0.3117,
+        0.3574,
+        0.9734,
+        0.8807,
+        0.2578,
+        0.2131,
+        0.4873,
+        0.3664,
+        0.37,
+        0.2546,
+        0.4047,
+        0.5256,
+        0.0773,
+        0.0322,
+        0.5272,
+        0.5477,
+        0.4159,
+        0.2621,
+        0.2921,
+        0.4451,
+        0.4108,
+        0.3487,
+        0.1699,
+        0.1483,
+        0.3644,
+        0.3724,
+        0.3094,
+        0.2906,
+        0.1747,
+        0.4981,
+        0.4496,
+        0.4397,
+        0.2509,
+        0.067,
+        0.4848,
+        0.542,
+        0.3371,
+        0.0211,
+        0.0904,
+        0.424,
+        0.3066,
+        0.1547,
+        0.0438,
+        0.3806,
+        0.3409,
+        0.1761,
+        0.369,
+        0.8914,
+        0.633,
+        0.3005,
+        0.0647,
+        0.4711,
+        0.6604,
+        0.2114,
+        0.1645,
+        0.2231,
+        0.3442,
+        0.1935,
+        0.1159,
+        0.0196,
+        0.4213,
+        0.8436,
+        0.4365,
+        0.0397,
+        0.3001,
+        0.3438,
+        0.2721,
+        0.1404,
+        0.3028,
+        0.8403,
+        0.9537,
+        0.3083,
+        0.0678,
+        0.3602,
+        0.3087,
+        0.641,
+        0.9566,
+        0.2679,
+        0.048,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0002
+      ],
+      "waveform_hz": 20
+    },
+    {
+      "id": "aa6d4cb80f3f",
+      "name": "Lời · Nhìn gần hơn",
+      "file": "assets/narration.wav",
+      "start": 63.0,
+      "trim": 63.0,
+      "duration": 8.466666666666669,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "590260516055",
+      "waveform": [
+        0.2545,
+        0.9771,
+        0.9724,
+        0.6909,
+        0.1077,
+        0.0841,
+        0.2675,
+        0.2619,
+        0.1745,
+        0.0108,
+        0.0761,
+        0.3636,
+        0.4327,
+        0.1863,
+        0.7563,
+        0.585,
+        0.503,
+        0.2547,
+        0.0795,
+        0.0798,
+        0.335,
+        0.2818,
+        0.0145,
+        0.1832,
+        0.2868,
+        0.4549,
+        0.4254,
+        0.2964,
+        0.1124,
+        0.1888,
+        0.3705,
+        0.1736,
+        0.2529,
+        0.3796,
+        0.4255,
+        0.2407,
+        0.3711,
+        0.3956,
+        0.0408,
+        0.0429,
+        0.2936,
+        0.2218,
+        0.2941,
+        0.4558,
+        0.4389,
+        0.0198,
+        0.0318,
+        0.7592,
+        0.6237,
+        0.406,
+        0.3152,
+        0.2217,
+        0.4614,
+        0.5282,
+        0.343,
+        0.2093,
+        0.0193,
+        0.4813,
+        0.1718,
+        0.2019,
+        0.0137,
+        0.2972,
+        0.2923,
+        0.2915,
+        0.2362,
+        0.1548,
+        0.2085,
+        0.9201,
+        0.9943,
+        0.3167,
+        0.2505,
+        0.1336,
+        0.4503,
+        0.1812,
+        0.1455,
+        0.1653,
+        0.6903,
+        0.4016,
+        0.4287,
+        0.5779,
+        0.5627,
+        0.0737,
+        0.0971,
+        0.5302,
+        0.4085,
+        0.2733,
+        0.0448,
+        0.4526,
+        0.4246,
+        0.3163,
+        0.1682,
+        0.3104,
+        0.5365,
+        0.5342,
+        0.6324,
+        0.3029,
+        0.2662,
+        0.5694,
+        0.1494,
+        0.19,
+        0.5622,
+        0.5832,
+        0.3586,
+        0.2293,
+        0.0171,
+        0.1867,
+        0.9202,
+        0.8526,
+        0.23,
+        0.2092,
+        0.3937,
+        0.8569,
+        0.7953,
+        0.4032,
+        0.6686,
+        0.6387,
+        0.0727,
+        0.4653,
+        0.349,
+        0.0124,
+        0.0069,
+        0.4015,
+        1.0,
+        0.4486,
+        0.1928,
+        0.1441,
+        0.0644,
+        0.3785,
+        0.3396,
+        0.0288,
+        0.4586,
+        0.4695,
+        0.3437,
+        0.1773,
+        0.5216,
+        0.6177,
+        0.291,
+        0.2733,
+        0.0478,
+        0.4315,
+        0.3953,
+        0.3485,
+        0.5467,
+        0.488,
+        0.3054,
+        0.029,
+        0.4846,
+        0.4948,
+        0.3614,
+        0.271,
+        0.6842,
+        0.6,
+        0.4774,
+        0.2863,
+        0.4159,
+        0.6458,
+        0.5967,
+        0.4379,
+        0.2839,
+        0.0495,
+        0.0064,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "waveform_hz": 20
+    },
+    {
+      "id": "2942db9e0abd",
+      "name": "Lời · Ý tưởng mới",
+      "file": "assets/narration.wav",
+      "start": 71.46666666666667,
+      "trim": 71.46666666666667,
+      "duration": 7.900000000000006,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "5affd3cd71df",
+      "waveform": [
+        0.1418,
+        0.6404,
+        0.6449,
+        0.436,
+        0.9664,
+        0.9872,
+        0.126,
+        0.4362,
+        0.4193,
+        0.3727,
+        0.179,
+        0.1226,
+        0.1727,
+        0.3223,
+        0.2587,
+        0.2288,
+        0.0255,
+        0.2551,
+        0.6571,
+        0.7543,
+        0.3964,
+        0.0288,
+        0.4124,
+        0.3913,
+        0.0456,
+        0.3279,
+        0.5287,
+        0.6686,
+        0.0808,
+        0.0108,
+        0.0024,
+        0.404,
+        0.4155,
+        0.0291,
+        0.021,
+        0.4679,
+        0.4651,
+        0.3454,
+        0.2272,
+        0.0716,
+        0.2561,
+        0.3179,
+        0.0176,
+        0.0099,
+        0.0488,
+        0.3431,
+        0.1717,
+        0.0999,
+        0.2413,
+        0.2953,
+        0.2063,
+        0.2425,
+        0.6823,
+        0.7667,
+        0.4439,
+        0.0714,
+        0.2822,
+        0.5305,
+        0.2688,
+        0.1267,
+        0.3342,
+        0.434,
+        0.162,
+        0.7904,
+        0.448,
+        0.3433,
+        0.1353,
+        0.2179,
+        0.9125,
+        0.9884,
+        0.8658,
+        0.2281,
+        0.5892,
+        0.6233,
+        0.1878,
+        0.2755,
+        0.5834,
+        0.4383,
+        0.2731,
+        0.3195,
+        0.3341,
+        0.0243,
+        0.0875,
+        0.579,
+        0.5602,
+        0.2127,
+        0.1269,
+        0.0053,
+        0.749,
+        0.8282,
+        0.1089,
+        0.5197,
+        0.9234,
+        0.1535,
+        0.038,
+        0.0902,
+        0.4586,
+        0.4548,
+        0.357,
+        0.3955,
+        0.8348,
+        0.5625,
+        0.3544,
+        0.128,
+        0.0122,
+        0.3046,
+        0.9201,
+        0.7546,
+        0.7853,
+        0.4918,
+        0.5485,
+        0.6441,
+        0.4969,
+        0.7125,
+        0.6175,
+        0.019,
+        0.0782,
+        0.6201,
+        0.4485,
+        0.3521,
+        0.0968,
+        0.4084,
+        0.4446,
+        0.1495,
+        0.1203,
+        0.7096,
+        0.4585,
+        0.0226,
+        0.2466,
+        1.0,
+        0.8554,
+        0.9042,
+        0.6655,
+        0.2505,
+        0.0352,
+        0.5623,
+        0.3067,
+        0.2634,
+        0.0365,
+        0.4198,
+        0.4333,
+        0.433,
+        0.2909,
+        0.3472,
+        0.5022,
+        0.5392,
+        0.3571,
+        0.1647,
+        0.006,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "waveform_hz": 20
+    },
+    {
+      "id": "cc72e2a0c04d",
+      "name": "Lời · Giữ sự tò mò",
+      "file": "assets/narration.wav",
+      "start": 79.36666666666667,
+      "trim": 79.36666666666667,
+      "duration": 8.033333333333331,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "b67026a764f6",
+      "waveform": [
+        0.3387,
+        0.5625,
+        0.3285,
+        0.269,
+        0.2178,
+        0.7019,
+        0.701,
+        0.3239,
+        0.0311,
+        0.3954,
+        0.2338,
+        0.028,
+        0.5339,
+        0.5366,
+        0.5017,
+        0.0258,
+        0.4622,
+        0.5078,
+        0.3906,
+        0.239,
+        0.4128,
+        0.4828,
+        0.43,
+        0.2536,
+        0.0351,
+        0.3486,
+        0.3532,
+        0.3306,
+        0.2639,
+        0.5285,
+        0.5613,
+        0.0627,
+        0.4146,
+        0.7418,
+        0.3522,
+        0.1603,
+        0.4399,
+        1.0,
+        0.7654,
+        0.2351,
+        0.1507,
+        0.5514,
+        0.6315,
+        0.4426,
+        0.3496,
+        0.0239,
+        0.5211,
+        0.2283,
+        0.1539,
+        0.0288,
+        0.5592,
+        0.4258,
+        0.3885,
+        0.2425,
+        0.4354,
+        0.3331,
+        0.3869,
+        0.4393,
+        0.1128,
+        0.5704,
+        0.5401,
+        0.1666,
+        0.2268,
+        0.359,
+        0.4713,
+        0.255,
+        0.0157,
+        0.4617,
+        0.4138,
+        0.2395,
+        0.009,
+        0.3915,
+        0.9267,
+        0.7146,
+        0.1991,
+        0.015,
+        0.3758,
+        0.3363,
+        0.3285,
+        0.476,
+        0.5312,
+        0.3348,
+        0.3246,
+        0.0632,
+        0.4446,
+        0.3684,
+        0.2368,
+        0.1421,
+        0.0096,
+        0.417,
+        0.384,
+        0.1729,
+        0.6267,
+        0.5761,
+        0.0228,
+        0.3435,
+        0.4848,
+        0.5458,
+        0.0278,
+        0.2735,
+        0.3683,
+        0.3656,
+        0.5501,
+        0.6252,
+        0.0785,
+        0.1638,
+        0.9934,
+        0.8008,
+        0.766,
+        0.698,
+        0.6315,
+        0.5344,
+        0.362,
+        0.4937,
+        0.6209,
+        0.1477,
+        0.0946,
+        0.6123,
+        0.6334,
+        0.3737,
+        0.1947,
+        0.4494,
+        0.4765,
+        0.5534,
+        0.3564,
+        0.2472,
+        0.084,
+        0.0076,
+        0.0023,
+        0.0056,
+        0.9789,
+        0.9985,
+        0.9193,
+        0.3839,
+        0.0425,
+        0.4235,
+        0.4705,
+        0.3679,
+        0.2951,
+        0.4994,
+        0.5567,
+        0.374,
+        0.3637,
+        0.3682,
+        0.5615,
+        0.4952,
+        0.2927,
+        0.0995,
+        0.3378,
+        0.3889,
+        0.0658,
+        0.0115,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "waveform_hz": 20
+    }
+  ],
+  "references": [],
+  "subtitle_style": {
+    "enabled": false,
+    "size": 26,
+    "font": "Segoe UI",
+    "color": "#ffffff",
+    "background": true,
+    "y": 0.96
+  },
+  "duck_music": true,
+  "audio_rate": 48000,
+  "audio_channels": 2,
+  "render_profile": "final",
+  "storyboard": {
+    "version": 1,
+    "name": "Một thành phố không tên · Ink Studio",
+    "voice": "assets/narration.wav",
+    "timing": "authored",
+    "rows": [
+      {
+        "start": 0,
+        "end": 6.9,
+        "cue_start": 0,
+        "cue_end": 6.431927437641724,
+        "title": "Một thành phố không tên",
+        "text": "Hãy tưởng tượng bạn tìm thấy một tấm bản đồ cũ. Ở giữa bản đồ là một thành phố không còn tên gọi. Chuyện gì đã xảy ra ở nơi ấy?",
+        "style": "ink",
+        "layout": "focus",
+        "assets": [
+          "assets/question.svg"
+        ],
+        "labels": [
+          "MỘT THÀNH PHỐ\nKHÔNG CÒN TÊN?"
+        ],
+        "pose": "question",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.35,
+            "pose": "question",
+            "blend": 0.85
+          },
+          {
+            "t": 3.8640000000000008,
+            "pose": "explain",
+            "blend": 1.1
+          }
+        ],
+        "show_title": false
+      },
+      {
+        "start": 6.9,
+        "end": 14.533333333333335,
+        "cue_start": 6.9,
+        "cue_end": 14.063356009070295,
+        "title": "Những dấu vết đầu tiên",
+        "text": "Bạn bước qua cổng thành. Những mái nhà đã biến mất, nhưng nền đá vẫn còn. Chỉ từ những dấu vết này, liệu chúng ta có thể kể lại cả một câu chuyện?",
+        "style": "ink",
+        "layout": "presenter",
+        "assets": [
+          "assets/city.svg"
+        ],
+        "labels": [
+          "Chúng ta thực sự biết điều gì?"
+        ],
+        "pose": "point",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.35,
+            "pose": "point",
+            "blend": 0.85
+          },
+          {
+            "t": 4.2746666666666675,
+            "pose": "explain",
+            "blend": 1.1
+          }
+        ],
+        "show_title": false
+      },
+      {
+        "start": 14.533333333333335,
+        "end": 22.6,
+        "cue_start": 14.533333333333335,
+        "cue_end": 22.137868480725626,
+        "title": "Hai mảnh ghép",
+        "text": "Một chiếc bình và một cuộn giấy xuất hiện. Chiếc bình gợi ra sinh hoạt của cư dân, còn cuộn giấy mang theo lời ghi chép. Hai mảnh ghép chưa chắc đã kể cùng một chuyện.",
+        "style": "ink",
+        "layout": "compare",
+        "assets": [
+          "assets/amphora.svg",
+          "assets/scroll.svg"
+        ],
+        "labels": [
+          "Dấu vết vật chất",
+          "Lời ghi chép"
+        ],
+        "pose": "explain",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.35,
+            "pose": "explain",
+            "blend": 0.85
+          }
+        ],
+        "show_title": false,
+        "reveal_times": [
+          0,
+          3.2
+        ]
+      },
+      {
+        "start": 22.6,
+        "end": 31.0,
+        "cue_start": 22.6,
+        "cue_end": 30.54122448979592,
+        "title": "Câu hỏi về thời gian",
+        "text": "Trước tiên, hãy đặt từng mảnh ghép lên một dòng thời gian. Một ngôi làng có thể phát triển thành đô thị, rồi thay đổi. Nhưng thứ tự ấy cần được kiểm tra, không thể chỉ đoán.",
+        "style": "ink",
+        "layout": "timeline",
+        "assets": [
+          "assets/house.svg",
+          "assets/city.svg",
+          "assets/clock.svg"
+        ],
+        "labels": [
+          "Khởi đầu",
+          "Phát triển",
+          "Điều gì tiếp theo?"
+        ],
+        "pose": "point",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.35,
+            "pose": "point",
+            "blend": 0.85
+          }
+        ],
+        "show_title": false,
+        "reveal_times": [
+          2.8,
+          4.3,
+          5.8
+        ]
+      },
+      {
+        "start": 31.0,
+        "end": 39.36666666666667,
+        "cue_start": 31.0,
+        "cue_end": 38.90639455782313,
+        "title": "Đừng vội kết luận",
+        "text": "Nếu nhìn thấy dấu vết của lửa, bạn có thể nghĩ ngay đến một trận cháy. Nhưng một dấu vết riêng lẻ chưa đủ để giải thích vì sao cả thành phố không còn nữa.",
+        "style": "ink",
+        "layout": "quote",
+        "assets": [
+          "assets/flame.svg"
+        ],
+        "labels": [
+          "DẤU VẾT\n≠\nKẾT LUẬN"
+        ],
+        "pose": "think",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.35,
+            "pose": "think",
+            "blend": 0.85
+          },
+          {
+            "t": 4.685333333333334,
+            "pose": "explain",
+            "blend": 1.1
+          }
+        ],
+        "show_title": false,
+        "reveal_times": [
+          1.1
+        ]
+      },
+      {
+        "start": 39.36666666666667,
+        "end": 47.1,
+        "cue_start": 39.36666666666667,
+        "cue_end": 46.63451247165533,
+        "title": "Theo một tuyến đường",
+        "text": "Hãy mở rộng bản đồ. Con đường nối thành phố với bến thuyền có thể gợi ra một hướng tìm kiếm khác. Bây giờ, câu chuyện không còn nằm trong một bức tường thành.",
+        "style": "ink",
+        "layout": "map",
+        "assets": [
+          "assets/map.svg"
+        ],
+        "labels": [
+          "Theo dấu một hành trình"
+        ],
+        "pose": "point",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.35,
+            "pose": "point",
+            "blend": 0.85
+          }
+        ],
+        "show_title": false,
+        "route": [
+          [
+            -210,
+            80
+          ],
+          [
+            -140,
+            20
+          ],
+          [
+            -50,
+            -50
+          ],
+          [
+            40,
+            -20
+          ],
+          [
+            120,
+            15
+          ]
+        ],
+        "route_start": 2
+      },
+      {
+        "start": 47.1,
+        "end": 54.7,
+        "cue_start": 47.1,
+        "cue_end": 54.21691609977324,
+        "title": "Những con người",
+        "text": "Và đừng quên những con người. Sau mỗi đồ vật là người làm ra nó, sử dụng nó và mang nó đi. Một câu chuyện tốt cần nhìn thấy cả những cuộc sống ấy.",
+        "style": "ink",
+        "layout": "crowd",
+        "assets": [
+          "assets/tree.svg"
+        ],
+        "labels": [
+          "Ai đã sống ở đây?"
+        ],
+        "pose": "welcome",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.35,
+            "pose": "welcome",
+            "blend": 0.85
+          }
+        ],
+        "show_title": false
+      },
+      {
+        "start": 54.7,
+        "end": 63.0,
+        "cue_start": 54.7,
+        "cue_end": 62.536734693877555,
+        "title": "Kiểm tra nguồn",
+        "text": "Khi đọc một tài liệu, hãy hỏi ai đã viết, viết vào lúc nào, và dựa trên điều gì. Những câu hỏi nhỏ này giúp chúng ta hiểu giới hạn của chính nguồn tư liệu.",
+        "style": "ink",
+        "layout": "process",
+        "assets": [
+          "assets/document.svg",
+          "assets/calendar.svg",
+          "assets/magnifier.svg"
+        ],
+        "labels": [
+          "Ai ghi lại?",
+          "Khi nào?",
+          "Dựa vào đâu?"
+        ],
+        "pose": "read",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.35,
+            "pose": "read",
+            "blend": 0.85
+          }
+        ],
+        "show_title": false,
+        "reveal_times": [
+          0.4,
+          2.5,
+          4.5
+        ]
+      },
+      {
+        "start": 63.0,
+        "end": 71.46666666666667,
+        "cue_start": 63.0,
+        "cue_end": 71.0108843537415,
+        "title": "Nhìn gần hơn",
+        "text": "Đôi khi, thay đổi góc nhìn sẽ làm một chi tiết trở nên rõ ràng. Bạn không cần một câu trả lời thật nhanh. Bạn cần một cách kiểm tra tốt hơn cho câu trả lời ấy.",
+        "style": "ink",
+        "layout": "pan",
+        "assets": [
+          "assets/book.svg"
+        ],
+        "labels": [
+          "Nhìn kỹ trước khi kết luận"
+        ],
+        "pose": "rest",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.35,
+            "pose": "rest",
+            "blend": 0.85
+          }
+        ],
+        "show_title": false
+      },
+      {
+        "start": 71.46666666666667,
+        "end": 79.36666666666667,
+        "cue_start": 71.46666666666667,
+        "cue_end": 78.89705215419501,
+        "title": "Ý tưởng mới",
+        "text": "Khi một mảnh ghép mới xuất hiện, cách giải thích cũ có thể cần thay đổi. Đó không phải thất bại của việc tìm hiểu. Đó là lúc câu chuyện bắt đầu rõ ràng hơn.",
+        "style": "ink",
+        "layout": "focus",
+        "assets": [
+          "assets/bulb.svg"
+        ],
+        "labels": [
+          "MỘT\nCÁCH NHÌN MỚI"
+        ],
+        "pose": "idea",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.35,
+            "pose": "idea",
+            "blend": 0.85
+          },
+          {
+            "t": 4.424,
+            "pose": "welcome",
+            "blend": 1.1
+          }
+        ],
+        "show_title": false,
+        "reveal_times": [
+          2.0
+        ]
+      },
+      {
+        "start": 79.36666666666667,
+        "end": 87.4,
+        "cue_start": 79.36666666666667,
+        "cue_end": 86.92476190476191,
+        "title": "Giữ sự tò mò",
+        "text": "Thành phố trong câu chuyện này chỉ là tưởng tượng. Nhưng sự tò mò và thói quen kiểm tra bằng chứng thì rất thật. Hãy bắt đầu bằng một câu hỏi, rồi tìm từng mảnh ghép.",
+        "style": "ink",
+        "layout": "presenter",
+        "assets": [
+          "assets/compass.svg"
+        ],
+        "labels": [
+          "Tò mò · Kiểm tra · Kết nối"
+        ],
+        "pose": "welcome",
+        "gestures": [
+          {
+            "t": 0,
+            "pose": "rest"
+          },
+          {
+            "t": 0.35,
+            "pose": "welcome",
+            "blend": 0.85
+          },
+          {
+            "t": 4.498666666666667,
+            "pose": "explain",
+            "blend": 1.1
+          }
+        ],
+        "show_title": false
+      }
+    ]
+  }
+}

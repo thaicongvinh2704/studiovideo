@@ -1,0 +1,78 @@
+{
+  "status": "PASS",
+  "checks": {
+    "original_srt": "64 cues, exact text and timestamps preserved",
+    "media": {
+      "width": 1920,
+      "height": 1080,
+      "fps": "30/1",
+      "frames": "9000",
+      "duration": "300.000000",
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "channels": 2,
+      "sample_rate": "48000",
+      "size_bytes": 22560056
+    },
+    "full_decode": "PASS",
+    "frame_clock": {
+      "frame_count": 9000,
+      "max_gap_seconds": 0.033334000000024844,
+      "min_gap_seconds": 0.033332999999970525
+    },
+    "narration_sync_samples": [
+      {
+        "cue": 1,
+        "lag_ms": 0.0,
+        "correlation": 0.97126
+      },
+      {
+        "cue": 8,
+        "lag_ms": 0.0,
+        "correlation": 0.99986
+      },
+      {
+        "cue": 16,
+        "lag_ms": 0.0,
+        "correlation": 0.99996
+      },
+      {
+        "cue": 24,
+        "lag_ms": 0.0,
+        "correlation": 0.99998
+      },
+      {
+        "cue": 32,
+        "lag_ms": 0.0,
+        "correlation": 0.99997
+      },
+      {
+        "cue": 40,
+        "lag_ms": 0.0,
+        "correlation": 0.99999
+      },
+      {
+        "cue": 48,
+        "lag_ms": 0.0,
+        "correlation": 0.99999
+      },
+      {
+        "cue": 56,
+        "lag_ms": 0.0,
+        "correlation": 0.99997
+      },
+      {
+        "cue": 64,
+        "lag_ms": 0.0,
+        "correlation": 0.99998
+      }
+    ],
+    "sound_levels": [
+      "mean_volume: -19.6 dB",
+      "max_volume: -4.5 dB"
+    ],
+    "frozen_studio_project_open": "PASS"
+  },
+  "visual_review": "Source previews reviewed; decoded MP4 frames require final inspection",
+  "sha256": "4217ec52b6aa8d079a906d25aea8cbee1e012d3f6a72a715c19d62d6a7094cff"
+}

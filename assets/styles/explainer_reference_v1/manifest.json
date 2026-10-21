@@ -1,0 +1,10 @@
+{
+  "id": "explainer-reference-v1",
+  "version": 1,
+  "source": "Three user-provided screenshots, 2026-10-20. Required visual direction; reference use only.",
+  "references": [
+    {"file": "reference_01.png", "sha256": "d9e9aa6fd66164a67a49a3cf835a03a36fa931f0b2c2ad3c4e7e2c1f10ecb15a", "focus": "full figure, grip, silhouette", "person_crop": [215, 95, 305, 455]},
+    {"file": "reference_02.png", "sha256": "a348c62556843c2ab14a4c80561d70b6b128d8d2a62714b96d178ae04613002f", "focus": "face, shoulder, elbow, pointing hand", "person_crop": [40, 95, 240, 370]},
+    {"file": "reference_03.png", "sha256": "27c92ef5af9707052bd467c111913205ea1349a8a16955a9410470dce1ac1ed5", "focus": "finished face, hair, pointing hand, mixed photo layout", "person_crop": [22, 230, 335, 465]}
+  ]
+}

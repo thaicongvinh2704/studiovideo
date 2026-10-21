@@ -1,28 +1,32 @@
+# Local runtimes, downloaded caches and reproducible builds.
 .venv/
-.envs/
-node_modules/
-ui/node_modules/
-ui/dist/
-data/
+venv/
 __pycache__/
+*.py[cod]
+node_modules/
+.deps/
+.models/
+.cache/
 .pytest_cache/
-*.pyc
-runtime.json
-logs/
-vendor/
+.codegraph/
+build/
+dist/
 
-# Local sessions, installed worker state, and generated client paths.
-reports/
-config/workers.json
-config/runtime-paths.json
-config/codex.toml
-config/antigravity.json
+# Credentials and machine-local settings are never published.
 .env
 .env.*
 !.env.example
-*.safetensors
-*.ckpt
-*.gguf
-*.onnx
-*.pt
-*.pth
+*.pem
+*.p12
+*.pfx
+credentials.json
+token.json
+
+# Partial downloads, temporary files and local Git safety snapshots.
+*.download
+*.tmp
+*.log
+backups/git/
+
+# Project source, examples, artwork, QC and rendered deliverables are included.
+# Large audio/video/archive/model files use Git LFS (see .gitattributes).

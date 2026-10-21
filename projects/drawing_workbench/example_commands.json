@@ -1,0 +1,24 @@
+[
+  {
+    "op": "move_node",
+    "layer": 0,
+    "item": 0,
+    "command": 1,
+    "argument": 5,
+    "point": [190, 385]
+  },
+  {
+    "op": "split_segment",
+    "layer": 0,
+    "item": 0,
+    "command": 2
+  },
+  {
+    "op": "restyle_stroke",
+    "layer": 2,
+    "item": 0,
+    "width": 10,
+    "thinning": 0.5,
+    "smoothing": 0.65
+  }
+]

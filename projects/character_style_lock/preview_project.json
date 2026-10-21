@@ -1,0 +1,101 @@
+{
+  "schema": 1,
+  "name": "Đối chiếu nhân vật gốc và cảnh cùng nét vẽ",
+  "width": 1920,
+  "height": 1080,
+  "fps": 24,
+  "scenes": [
+    {
+      "id": "dd1aa15c9475",
+      "name": "Cảnh mới",
+      "start": 0.0,
+      "duration": 5.0,
+      "background": "white",
+      "objects": [
+        {
+          "id": "e660212b1014",
+          "kind": "image",
+          "name": "village_flat_ink",
+          "preset": "village_flat_ink",
+          "x": 640,
+          "y": 360,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 0,
+          "start": 0.0,
+          "end": 5,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1280,
+          "height": 720,
+          "file": "assets/village_flat_ink.png",
+          "fit": "contain",
+          "image_width": 1280
+        },
+        {
+          "id": "3a1c1e81ffc3",
+          "kind": "image",
+          "name": "presenter_master",
+          "preset": "presenter_master",
+          "x": 240,
+          "y": 433,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 5,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 441.37,
+          "height": 480,
+          "file": "assets/presenter_master.png",
+          "fit": "contain",
+          "image_width": 441.37,
+          "crop": [
+            0,
+            0,
+            0.98,
+            0.99
+          ]
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    }
+  ],
+  "subtitles": [],
+  "audio": [],
+  "references": [],
+  "subtitle_style": {
+    "enabled": false,
+    "size": 30,
+    "font": "Segoe UI",
+    "color": "#ffffff",
+    "background": true,
+    "y": 0.88
+  },
+  "duck_music": true
+}

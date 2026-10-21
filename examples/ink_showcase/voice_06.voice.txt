@@ -1,0 +1,1 @@
+Hãy mở rộng bản đồ. Con đường nối thành phố với bến thuyền có thể gợi ra một hướng tìm kiếm khác. Bây giờ, câu chuyện không còn nằm trong một bức tường thành.|speed=0.93

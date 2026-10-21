@@ -1,0 +1,58 @@
+[
+  {
+    "scene": 1,
+    "start": 0,
+    "end": 8.342020833333333,
+    "name": "Một ngọn đồi xanh giữa miền khô nóng",
+    "purpose": "Reveal the imagined wonder, then open a question that is answered with appropriate uncertainty.",
+    "narration": "Một khu rừng mọc trên những tầng lầu, giữa miền đất khô nóng. Đó là hình dung nổi tiếng về Vườn treo Babylon. Nhưng khu vườn ấy thực sự ở đâu?"
+  },
+  {
+    "scene": 2,
+    "start": 8.342020833333333,
+    "end": 17.559604166666666,
+    "name": "Treo nghĩa là gì?",
+    "purpose": "Show trees rooted in elevated terraces rather than floating in the sky.",
+    "narration": "Theo những mô tả cổ, cây cối được trồng trên các tầng nền nâng cao, tạo cảm giác một ngọn đồi xanh. Chữ treo không có nghĩa là khu vườn lơ lửng giữa trời."
+  },
+  {
+    "scene": 3,
+    "start": 17.559604166666666,
+    "end": 25.956020833333334,
+    "name": "Bài toán nước",
+    "purpose": "Trace a conceptual water path without claiming a specific unverified irrigation machine.",
+    "narration": "Nếu có một khu vườn như vậy, cây trên cao sẽ cần nước. Nước phải được đưa lên rồi phân phối đến các tầng. Cơ cấu cụ thể vẫn chưa được xác nhận."
+  },
+  {
+    "scene": 4,
+    "start": 25.956020833333334,
+    "end": 34.405687500000006,
+    "name": "Hình dung khác với chứng cứ",
+    "purpose": "Cut from lush reconstruction to archaeological illustration and identify the evidentiary gap.",
+    "narration": "Vấn đề là tại Babylon, khảo cổ chưa tìm được bằng chứng thuyết phục cho công trình như lời kể. Một bức tranh phục dựng đẹp không thể thay thế dấu tích."
+  },
+  {
+    "scene": 5,
+    "start": 34.405687500000006,
+    "end": 42.643770833333335,
+    "name": "Đổi hướng tìm kiếm",
+    "purpose": "Locate Babylon and Nineveh on a schematic map without presenting the alternative as settled fact.",
+    "narration": "Vì thế, có học giả đề xuất một hướng khác: Nineveh, ở phía bắc. Nơi đó từng có những khu vườn hoàng gia và hệ thống dẫn nước đồ sộ."
+  },
+  {
+    "scene": 6,
+    "start": 42.643770833333335,
+    "end": 49.48070833333334,
+    "name": "Giả thuyết nhầm tên",
+    "purpose": "Show written accounts as material being interpreted, with the hypothesis clearly labelled.",
+    "narration": "Liệu người viết đời sau đã nhầm tên hai thành phố? Đó là một giả thuyết được nghiên cứu, chưa phải kết luận cuối cùng."
+  },
+  {
+    "scene": 7,
+    "start": 49.48070833333334,
+    "end": 60,
+    "name": "Trở lại kỳ quan",
+    "purpose": "Return to the opening image with a distinction between imaginative reconstruction and historical certainty.",
+    "narration": "Sức hút của Vườn treo nằm ở cả hai điều: ý tưởng dựng một ngọn núi xanh bằng kỹ thuật, và bí ẩn về nơi nó từng tồn tại. Một kỳ quan vẫn đang được tìm lời giải."
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "status": "preview_only_pending_user_review",
+  "source_sha256": "23e105d51bc466ee597930e957768f34bd6a9c95447afb27a7a4b70f94b0e578",
+  "latest_reference": "user_reference.png",
+  "reviewer": "Codex visual inspection",
+  "notes": {
+    "reference_style": "Đã xem cả ba ảnh chuẩn cũ và ảnh người giản lược mới. Bản này chủ đích theo ảnh mới: đầu lớn, áo cổ bẻ, thân dưới liền và tay tối giản; không đánh giá như mẫu người đầy đủ cũ.",
+    "proportions": "Đầu lớn gần bằng tổng thân áo và thân dưới, vai hẹp hơn đầu giống ảnh mới. Mặt bản vector hơi rộng, tóc góc cạnh hơn tham chiếu; chưa coi là khớp hoàn toàn.",
+    "face_hair": "Hai mắt oval có chấm phản sáng, mày và miệng cân. Không thêm mũi hoặc tai lộ vì ảnh mới lược bỏ chúng; tóc là mảng khép kín có vài lọn lớn.",
+    "left_hand": "Đã xem cận: tay bên trái ảnh là một mảng tròn giản lược nằm dưới tay áo như ảnh mới, không phải bàn tay chi tiết có ngón. Không ghi đạt tiêu chí ngón tay của mẫu cũ.",
+    "right_hand": "Đã xem cận: tay bên phải ảnh cùng tỷ lệ và cách giản lược, không bị cắt ngoài canvas. Giữ thiết kế đối xứng như mẫu mới.",
+    "limb_connections": "Tay nằm sau tay áo, đầu nối với vùng cổ áo. Đã đưa lớp cổ ra sau mặt để không cắt ngang viền cằm. Thân dưới liền khối theo yêu cầu mới.",
+    "clothing": "Cổ bẻ, hai tay áo, đường nẹp và hai cúc có kết thúc rõ. Cạp bao quanh thân dưới, không có mảng da rò qua thân áo.",
+    "line_fill": "Đường vector bo tròn, màu phẳng. Bóng áo/quần là mảng phẳng rõ ranh giới; chưa tái tạo gradient mềm của ảnh người dùng.",
+    "identity": "Mẫu mới dựng riêng bằng 24 path, không tái sử dụng study-01/study-02 hoặc ảnh sinh vừa rồi. Toàn bộ nét có dữ liệu chỉnh được trong bàn vẽ.",
+    "small_size": "Đã xem thumbnail: đầu, mắt, áo có cổ và hai tay đọc được; cúc vẫn phân biệt được. Không dựa trên log hoặc kiểm tra phần mềm để khẳng định đẹp.",
+    "crop_overlap": "Tóc và hai tay nằm trọn trong ảnh. Đã xem so sánh với ảnh mới và ba ảnh cũ; không crop để che các khác biệt có chủ đích.",
+    "static_delivery": "Chỉ giao preview và bản vẽ nháp chỉnh được, không cài thành mẫu mặc định hoặc đưa qua cổng xuất video. Chờ nhận xét của người dùng."
+  },
+  "approved_master": false
+}

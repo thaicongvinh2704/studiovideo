@@ -1,0 +1,2219 @@
+{
+  "schema": 1,
+  "name": "Chiếc Ô Nghiêng Về Phía Con",
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "scenes": [
+    {
+      "id": "cd700c13b6bd",
+      "name": "01 · Cha dắt con dưới mưa",
+      "start": 0.0,
+      "duration": 15.0,
+      "background": "rain",
+      "objects": [
+        {
+          "id": "426eff3ec11b",
+          "kind": "character",
+          "name": "father",
+          "preset": "father",
+          "x": 430,
+          "y": 575,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "happy",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "umbrella_walk",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 300,
+                "ease": "linear"
+              },
+              {
+                "t": 15,
+                "v": 560,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "father"
+        },
+        {
+          "id": "70779fb0e9db",
+          "kind": "character",
+          "name": "son",
+          "preset": "son",
+          "x": 565,
+          "y": 575,
+          "scale": 0.95,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "happy",
+          "color": "#242938",
+          "age": "child",
+          "speed": 1.35,
+          "amplitude": 1.0,
+          "action": "walk",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 435,
+                "ease": "linear"
+              },
+              {
+                "t": 15,
+                "v": 695,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "son"
+        },
+        {
+          "id": "be3b47771854",
+          "kind": "prop",
+          "name": "umbrella",
+          "preset": "umbrella",
+          "x": 520,
+          "y": 400,
+          "scale": 1.0,
+          "rotation": 28,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#f6c945",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [
+            {
+              "t": 0,
+              "character": "426eff3ec11b",
+              "joint": "hand_r"
+            }
+          ],
+          "rig": {}
+        }
+      ],
+      "effects": [
+        "rain",
+        "ripple",
+        "fade"
+      ],
+      "camera": {
+        "keys": {
+          "x": [
+            {
+              "t": 0,
+              "v": 590
+            },
+            {
+              "t": 15,
+              "v": 680,
+              "ease": "linear"
+            }
+          ]
+        },
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    },
+    {
+      "id": "d612d983eb21",
+      "name": "02 · Bước nhảy qua vũng nước",
+      "start": 15.0,
+      "duration": 15.0,
+      "background": "rain",
+      "objects": [
+        {
+          "id": "3fb6d932ab57",
+          "kind": "character",
+          "name": "father",
+          "preset": "father",
+          "x": 430,
+          "y": 575,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "happy",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "reach",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 430,
+                "ease": "linear"
+              },
+              {
+                "t": 15,
+                "v": 475,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "father"
+        },
+        {
+          "id": "9d800d05f072",
+          "kind": "character",
+          "name": "son",
+          "preset": "son",
+          "x": 565,
+          "y": 575,
+          "scale": 0.95,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "happy",
+          "color": "#242938",
+          "age": "child",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "jump",
+          "keys": {
+            "x": [
+              {
+                "t": 2,
+                "v": 540,
+                "ease": "linear"
+              },
+              {
+                "t": 6,
+                "v": 660,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "son"
+        },
+        {
+          "id": "1ae3bd2206b7",
+          "kind": "prop",
+          "name": "umbrella",
+          "preset": "umbrella",
+          "x": 520,
+          "y": 400,
+          "scale": 1.0,
+          "rotation": 28,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#f6c945",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [
+            {
+              "t": 0,
+              "character": "3fb6d932ab57",
+              "joint": "hand_r"
+            }
+          ],
+          "rig": {}
+        }
+      ],
+      "effects": [
+        "rain",
+        "ripple",
+        "fade"
+      ],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    },
+    {
+      "id": "8616bfd77d59",
+      "name": "03 · Mẹ chờ trước cửa",
+      "start": 30.0,
+      "duration": 15.0,
+      "background": "home",
+      "objects": [
+        {
+          "id": "39376cc2ff2a",
+          "kind": "character",
+          "name": "father",
+          "preset": "father",
+          "x": 430,
+          "y": 575,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "happy",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "hold",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "father"
+        },
+        {
+          "id": "4e50c6bcff15",
+          "kind": "character",
+          "name": "son",
+          "preset": "son",
+          "x": 780,
+          "y": 575,
+          "scale": 0.95,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "happy",
+          "color": "#242938",
+          "age": "child",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "son"
+        },
+        {
+          "id": "7fd172615894",
+          "kind": "character",
+          "name": "mother",
+          "preset": "mother",
+          "x": 620,
+          "y": 575,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "reach",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 710,
+                "ease": "linear"
+              },
+              {
+                "t": 5,
+                "v": 535,
+                "ease": "ease_in_out"
+              }
+            ],
+            "hand_l_x": [
+              {
+                "t": 5,
+                "v": -65,
+                "ease": "linear"
+              },
+              {
+                "t": 9,
+                "v": -105,
+                "ease": "ease_in_out"
+              }
+            ],
+            "hand_l_y": [
+              {
+                "t": 5,
+                "v": -160,
+                "ease": "linear"
+              },
+              {
+                "t": 9,
+                "v": -185,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "mother"
+        },
+        {
+          "id": "d4dfa09c12e0",
+          "kind": "prop",
+          "name": "towel",
+          "preset": "towel",
+          "x": 640,
+          "y": 570,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [
+            {
+              "t": 0,
+              "character": "7fd172615894",
+              "joint": "hand_l"
+            }
+          ],
+          "rig": {}
+        }
+      ],
+      "effects": [
+        "fade"
+      ],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    },
+    {
+      "id": "99653a1c310f",
+      "name": "04 · Những năm tháng lớn lên",
+      "start": 45.0,
+      "duration": 15.0,
+      "background": "street",
+      "objects": [
+        {
+          "id": "1aec92ef9417",
+          "kind": "character",
+          "name": "son",
+          "preset": "son",
+          "x": 565,
+          "y": 575,
+          "scale": 1.03,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "happy",
+          "color": "#242938",
+          "age": "teen",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "walk",
+          "keys": {
+            "scale": [
+              {
+                "t": 0,
+                "v": 0.78,
+                "ease": "linear"
+              },
+              {
+                "t": 15,
+                "v": 1.14,
+                "ease": "ease_in_out"
+              }
+            ],
+            "x": [
+              {
+                "t": 0,
+                "v": 400,
+                "ease": "linear"
+              },
+              {
+                "t": 15,
+                "v": 820,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "son"
+        }
+      ],
+      "effects": [
+        "leaves",
+        "fade"
+      ],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    },
+    {
+      "id": "20f225df672d",
+      "name": "05 · Con muốn đi một mình",
+      "start": 60.0,
+      "duration": 15.0,
+      "background": "street",
+      "objects": [
+        {
+          "id": "d24e47fbc67b",
+          "kind": "character",
+          "name": "father",
+          "preset": "father",
+          "x": 430,
+          "y": 575,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "sad",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "give",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "father"
+        },
+        {
+          "id": "5412027dde9b",
+          "kind": "character",
+          "name": "son",
+          "preset": "son",
+          "x": 565,
+          "y": 575,
+          "scale": 1.03,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "angry",
+          "color": "#242938",
+          "age": "teen",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "point",
+          "keys": {
+            "x": [
+              {
+                "t": 5,
+                "v": 580,
+                "ease": "linear"
+              },
+              {
+                "t": 15,
+                "v": 900,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [
+            {
+              "start": 0,
+              "end": 5,
+              "action": "point"
+            },
+            {
+              "start": 5,
+              "end": 15,
+              "action": "walk"
+            }
+          ],
+          "attachment": [],
+          "rig": {},
+          "character_id": "son"
+        },
+        {
+          "id": "67c956925af6",
+          "kind": "prop",
+          "name": "umbrella",
+          "preset": "umbrella",
+          "x": 520,
+          "y": 400,
+          "scale": 1.0,
+          "rotation": 28,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#f6c945",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [
+            {
+              "t": 0,
+              "character": "d24e47fbc67b",
+              "joint": "hand_r"
+            }
+          ],
+          "rig": {}
+        }
+      ],
+      "effects": [
+        "fade"
+      ],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    },
+    {
+      "id": "d989c6ee0994",
+      "name": "06 · Chiếc ô chờ đợi",
+      "start": 75.0,
+      "duration": 15.0,
+      "background": "rain",
+      "objects": [
+        {
+          "id": "9768722e97bf",
+          "kind": "character",
+          "name": "father",
+          "preset": "father",
+          "x": 430,
+          "y": 575,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "sad",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "hold",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "father"
+        },
+        {
+          "id": "d992ab950090",
+          "kind": "prop",
+          "name": "umbrella",
+          "preset": "umbrella",
+          "x": 520,
+          "y": 400,
+          "scale": 1.0,
+          "rotation": 28,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#f6c945",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "rotation": [
+              {
+                "t": 0,
+                "v": 10,
+                "ease": "linear"
+              },
+              {
+                "t": 15,
+                "v": 24,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [
+            {
+              "t": 0,
+              "character": "9768722e97bf",
+              "joint": "hand_r"
+            }
+          ],
+          "rig": {}
+        }
+      ],
+      "effects": [
+        "rain",
+        "ripple",
+        "fade"
+      ],
+      "camera": {
+        "keys": {
+          "zoom": [
+            {
+              "t": 0,
+              "v": 1
+            },
+            {
+              "t": 15,
+              "v": 1.12
+            }
+          ]
+        },
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    },
+    {
+      "id": "37aa3be7c54a",
+      "name": "07 · Cuộc gọi của cha",
+      "start": 90.0,
+      "duration": 15.0,
+      "background": "street",
+      "objects": [
+        {
+          "id": "59b49cd238b6",
+          "kind": "character",
+          "name": "son",
+          "preset": "son",
+          "x": 630,
+          "y": 575,
+          "scale": 1.03,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "hold",
+          "keys": {
+            "hand_r_y": [
+              {
+                "t": 0,
+                "v": -105,
+                "ease": "linear"
+              },
+              {
+                "t": 3,
+                "v": -180,
+                "ease": "ease_in_out"
+              }
+            ],
+            "hand_r_x": [
+              {
+                "t": 0,
+                "v": 65,
+                "ease": "linear"
+              },
+              {
+                "t": 3,
+                "v": 32,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "hand_r": [
+              32,
+              -180
+            ]
+          },
+          "character_id": "son"
+        },
+        {
+          "id": "f4763bf54b31",
+          "kind": "prop",
+          "name": "phone",
+          "preset": "phone",
+          "x": 640,
+          "y": 570,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [
+            {
+              "t": 0,
+              "character": "59b49cd238b6",
+              "joint": "hand_r"
+            }
+          ],
+          "rig": {}
+        }
+      ],
+      "effects": [
+        "fade"
+      ],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    },
+    {
+      "id": "4d5a9778c3bc",
+      "name": "08 · Chiếc ô được sửa lại",
+      "start": 105.0,
+      "duration": 15.0,
+      "background": "home",
+      "objects": [
+        {
+          "id": "7cdb38630c8a",
+          "kind": "character",
+          "name": "son",
+          "preset": "son",
+          "x": 630,
+          "y": 575,
+          "scale": 1.03,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "hold",
+          "keys": {
+            "hand_r_y": [
+              {
+                "t": 0,
+                "v": -105,
+                "ease": "linear"
+              },
+              {
+                "t": 3,
+                "v": -180,
+                "ease": "ease_in_out"
+              }
+            ],
+            "hand_r_x": [
+              {
+                "t": 0,
+                "v": 65,
+                "ease": "linear"
+              },
+              {
+                "t": 3,
+                "v": 32,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "hand_r": [
+              32,
+              -180
+            ]
+          },
+          "character_id": "son"
+        },
+        {
+          "id": "bfefc55a6c3d",
+          "kind": "prop",
+          "name": "phone",
+          "preset": "phone",
+          "x": 640,
+          "y": 570,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [
+            {
+              "t": 0,
+              "character": "7cdb38630c8a",
+              "joint": "hand_r"
+            }
+          ],
+          "rig": {}
+        },
+        {
+          "id": "fc3b8aec6a3e",
+          "kind": "prop",
+          "name": "umbrella",
+          "preset": "umbrella",
+          "x": 880,
+          "y": 550,
+          "scale": 0.6,
+          "rotation": 28,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#f6c945",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {}
+        }
+      ],
+      "effects": [
+        "fade"
+      ],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    },
+    {
+      "id": "de6db0e2a7e0",
+      "name": "09 · Đường về nhà",
+      "start": 120.0,
+      "duration": 15.0,
+      "background": "street",
+      "objects": [
+        {
+          "id": "f6ee4930bb5b",
+          "kind": "character",
+          "name": "son",
+          "preset": "son",
+          "x": 565,
+          "y": 575,
+          "scale": 1.03,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "worried",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "run",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 230,
+                "ease": "linear"
+              },
+              {
+                "t": 15,
+                "v": 920,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "son"
+        },
+        {
+          "id": "eb539c142391",
+          "kind": "prop",
+          "name": "bag",
+          "preset": "bag",
+          "x": 640,
+          "y": 570,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [
+            {
+              "t": 0,
+              "character": "f6ee4930bb5b",
+              "joint": "hand_l"
+            }
+          ],
+          "rig": {}
+        }
+      ],
+      "effects": [
+        "leaves",
+        "fade"
+      ],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    },
+    {
+      "id": "897b9041ee88",
+      "name": "10 · Cha già trước cổng",
+      "start": 135.0,
+      "duration": 15.0,
+      "background": "home",
+      "objects": [
+        {
+          "id": "ed0e5ceb100a",
+          "kind": "character",
+          "name": "father",
+          "preset": "father",
+          "x": 700,
+          "y": 575,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "worried",
+          "color": "#242938",
+          "age": "elderly",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "hold",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "father"
+        },
+        {
+          "id": "73cb7f52b560",
+          "kind": "prop",
+          "name": "umbrella",
+          "preset": "umbrella",
+          "x": 520,
+          "y": 400,
+          "scale": 1.0,
+          "rotation": 28,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#f6c945",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [
+            {
+              "t": 0,
+              "character": "ed0e5ceb100a",
+              "joint": "hand_r"
+            }
+          ],
+          "rig": {}
+        }
+      ],
+      "effects": [
+        "rain",
+        "ripple",
+        "fade"
+      ],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    },
+    {
+      "id": "39b461675645",
+      "name": "11 · Lần này, con che cho cha",
+      "start": 150.0,
+      "duration": 15.0,
+      "background": "rain",
+      "objects": [
+        {
+          "id": "540da9d0cf0d",
+          "kind": "character",
+          "name": "father",
+          "preset": "father",
+          "x": 720,
+          "y": 575,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "happy",
+          "color": "#242938",
+          "age": "elderly",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "give",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "hand_r": [
+              -42,
+              -142
+            ]
+          },
+          "character_id": "father"
+        },
+        {
+          "id": "17b33c8b51c1",
+          "kind": "character",
+          "name": "son",
+          "preset": "son",
+          "x": 330,
+          "y": 575,
+          "scale": 1.03,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "happy",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "walk",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 330,
+                "ease": "linear"
+              },
+              {
+                "t": 6,
+                "v": 610,
+                "ease": "ease_in_out"
+              }
+            ],
+            "hand_r_y": [
+              {
+                "t": 8,
+                "v": -142,
+                "ease": "linear"
+              },
+              {
+                "t": 12,
+                "v": -185,
+                "ease": "ease_in_out"
+              }
+            ],
+            "hand_r_x": [
+              {
+                "t": 8,
+                "v": 68,
+                "ease": "linear"
+              },
+              {
+                "t": 12,
+                "v": 76,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [
+            {
+              "start": 0,
+              "end": 6,
+              "action": "walk"
+            },
+            {
+              "start": 6,
+              "end": 9,
+              "action": "receive"
+            },
+            {
+              "start": 9,
+              "end": 15,
+              "action": "hold"
+            }
+          ],
+          "attachment": [],
+          "rig": {
+            "hand_r": [
+              68,
+              -142
+            ]
+          },
+          "character_id": "son"
+        },
+        {
+          "id": "231eec481cc2",
+          "kind": "prop",
+          "name": "umbrella",
+          "preset": "umbrella",
+          "x": 520,
+          "y": 400,
+          "scale": 1.0,
+          "rotation": 28,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "normal",
+          "color": "#f6c945",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "rotation": [
+              {
+                "t": 8,
+                "v": -12,
+                "ease": "linear"
+              },
+              {
+                "t": 12,
+                "v": 20,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [
+            {
+              "t": 0,
+              "character": "540da9d0cf0d",
+              "joint": "hand_r"
+            },
+            {
+              "t": 8,
+              "character": "17b33c8b51c1",
+              "joint": "hand_r"
+            }
+          ],
+          "rig": {}
+        }
+      ],
+      "effects": [
+        "rain",
+        "ripple",
+        "fade"
+      ],
+      "camera": {
+        "keys": {
+          "zoom": [
+            {
+              "t": 0,
+              "v": 1
+            },
+            {
+              "t": 15,
+              "v": 1.15
+            }
+          ],
+          "x": [
+            {
+              "t": 0,
+              "v": 640
+            },
+            {
+              "t": 15,
+              "v": 660
+            }
+          ]
+        },
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    },
+    {
+      "id": "5bff18b4b3df",
+      "name": "12 · Gia đình đoàn tụ",
+      "start": 165.0,
+      "duration": 15.0,
+      "background": "home",
+      "objects": [
+        {
+          "id": "14200969d527",
+          "kind": "character",
+          "name": "father",
+          "preset": "father",
+          "x": 630,
+          "y": 575,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "happy",
+          "color": "#242938",
+          "age": "elderly",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "hug",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 560,
+                "ease": "linear"
+              },
+              {
+                "t": 5,
+                "v": 630,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "father"
+        },
+        {
+          "id": "50fccbeb03a3",
+          "kind": "character",
+          "name": "son",
+          "preset": "son",
+          "x": 750,
+          "y": 575,
+          "scale": 1.03,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "happy",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "hug",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 710,
+                "ease": "linear"
+              },
+              {
+                "t": 5,
+                "v": 750,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "son"
+        },
+        {
+          "id": "7a46d6971662",
+          "kind": "character",
+          "name": "mother",
+          "preset": "mother",
+          "x": 850,
+          "y": 575,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 15.0,
+          "expression": "happy",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "hug",
+          "keys": {
+            "x": [
+              {
+                "t": 0,
+                "v": 970,
+                "ease": "linear"
+              },
+              {
+                "t": 5,
+                "v": 850,
+                "ease": "ease_in_out"
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "character_id": "mother"
+        }
+      ],
+      "effects": [
+        "fade"
+      ],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": []
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "00a4b8f97f29",
+      "start": 0,
+      "end": 5,
+      "text": "Ngày còn nhỏ, tôi luôn đi dưới chiếc ô vàng của cha.",
+      "role": "Narrator"
+    },
+    {
+      "id": "4484cfd15a7b",
+      "start": 5,
+      "end": 10,
+      "text": "Mưa rơi trên con đường quen thuộc, cha bước chậm theo tôi.",
+      "role": "Narrator"
+    },
+    {
+      "id": "893cd4296545",
+      "start": 10,
+      "end": 15,
+      "text": "Chiếc ô nghiêng về phía con, còn vai cha thì ướt.",
+      "role": "Narrator"
+    },
+    {
+      "id": "c62989a65dd9",
+      "start": 15,
+      "end": 20,
+      "text": "Tôi thích nhảy qua những vũng nước sau cơn mưa.",
+      "role": "Narrator"
+    },
+    {
+      "id": "cc2d1f019054",
+      "start": 20,
+      "end": 25,
+      "text": "Cha đưa tay giữ lấy tôi trước mỗi bước nhảy.",
+      "role": "Narrator"
+    },
+    {
+      "id": "ee5967ec0025",
+      "start": 25,
+      "end": 30,
+      "text": "Khi ấy, tôi chỉ biết cười, chưa hiểu sự chở che.",
+      "role": "Narrator"
+    },
+    {
+      "id": "d6bb7615590c",
+      "start": 30,
+      "end": 35,
+      "text": "Mẹ đứng chờ hai cha con trước cánh cửa nhỏ.",
+      "role": "Narrator"
+    },
+    {
+      "id": "ffe2f5707c32",
+      "start": 35,
+      "end": 40,
+      "text": "Mẹ lau những giọt nước trên vai áo của cha.",
+      "role": "Narrator"
+    },
+    {
+      "id": "4121f2308796",
+      "start": 40,
+      "end": 45,
+      "text": "Cha cười và nói rằng con không bị ướt là được.",
+      "role": "Narrator"
+    },
+    {
+      "id": "829a3e1f2358",
+      "start": 45,
+      "end": 50,
+      "text": "Thời gian trôi qua, đôi chân tôi dài thêm từng ngày.",
+      "role": "Narrator"
+    },
+    {
+      "id": "b6512a303896",
+      "start": 50,
+      "end": 55,
+      "text": "Những bước chân nhỏ dần trở thành bước chân vội vã.",
+      "role": "Narrator"
+    },
+    {
+      "id": "3391f8b41f43",
+      "start": 55,
+      "end": 60,
+      "text": "Chiếc ô vàng vẫn ở đó, bình lặng cạnh cửa nhà.",
+      "role": "Narrator"
+    },
+    {
+      "id": "f3c4d8aa2d6c",
+      "start": 60,
+      "end": 65,
+      "text": "Lên tuổi thiếu niên, tôi muốn tự đi con đường của mình.",
+      "role": "Narrator"
+    },
+    {
+      "id": "c4b5b2abef42",
+      "start": 65,
+      "end": 70,
+      "text": "Tôi lắc đầu khi cha mang ô đến đón.",
+      "role": "Narrator"
+    },
+    {
+      "id": "b67f89805a46",
+      "start": 70,
+      "end": 75,
+      "text": "Cha hạ bàn tay xuống, rồi lặng lẽ nhìn theo.",
+      "role": "Narrator"
+    },
+    {
+      "id": "62530122492c",
+      "start": 75,
+      "end": 80,
+      "text": "Chiều hôm ấy, cha đứng một mình giữa tiếng mưa.",
+      "role": "Narrator"
+    },
+    {
+      "id": "e456f0daace2",
+      "start": 80,
+      "end": 85,
+      "text": "Chiếc ô vàng không còn một đứa trẻ đi bên cạnh.",
+      "role": "Narrator"
+    },
+    {
+      "id": "276884a6b0a2",
+      "start": 85,
+      "end": 90,
+      "text": "Nhưng cha vẫn giữ thói quen nghiêng ô về phía ấy.",
+      "role": "Narrator"
+    },
+    {
+      "id": "07c742811603",
+      "start": 90,
+      "end": 95,
+      "text": "Lớn lên, tôi sống xa nhà, bận rộn với những cuộc hẹn.",
+      "role": "Narrator"
+    },
+    {
+      "id": "0edda59b7d36",
+      "start": 95,
+      "end": 100,
+      "text": "Điện thoại reo. Cha hỏi tôi có mang ô theo không.",
+      "role": "Narrator"
+    },
+    {
+      "id": "88d73a8928cd",
+      "start": 100,
+      "end": 105,
+      "text": "Tôi đáp vội rằng mình ổn, rồi im lặng thật lâu.",
+      "role": "Narrator"
+    },
+    {
+      "id": "8c7ee672d3ef",
+      "start": 105,
+      "end": 110,
+      "text": "Mẹ gửi cho tôi một bức hình chiếc ô cũ.",
+      "role": "Narrator"
+    },
+    {
+      "id": "88bc09c919c9",
+      "start": 110,
+      "end": 115,
+      "text": "Cha vừa sửa lại nan ô, dù màu vàng đã bạc.",
+      "role": "Narrator"
+    },
+    {
+      "id": "39abfc939a30",
+      "start": 115,
+      "end": 120,
+      "text": "Có những điều được giữ lại chỉ vì một người thương.",
+      "role": "Narrator"
+    },
+    {
+      "id": "7b126de07da9",
+      "start": 120,
+      "end": 125,
+      "text": "Tôi gấp công việc lại và đặt vé trở về nhà.",
+      "role": "Narrator"
+    },
+    {
+      "id": "82913179f4cb",
+      "start": 125,
+      "end": 130,
+      "text": "Trong chiếc túi nhỏ, tôi mang theo lời chưa kịp nói.",
+      "role": "Narrator"
+    },
+    {
+      "id": "33891144d6dd",
+      "start": 130,
+      "end": 135,
+      "text": "Con đường cũ hiện ra, cùng một buổi chiều có mưa.",
+      "role": "Narrator"
+    },
+    {
+      "id": "7fe128b97c57",
+      "start": 135,
+      "end": 140,
+      "text": "Cha đã già, đứng trước cổng và nhìn ra đầu ngõ.",
+      "role": "Narrator"
+    },
+    {
+      "id": "8da908616e28",
+      "start": 140,
+      "end": 145,
+      "text": "Bàn tay cầm ô run nhẹ, mái tóc đã bạc nhiều.",
+      "role": "Narrator"
+    },
+    {
+      "id": "42d5b21f309b",
+      "start": 145,
+      "end": 150,
+      "text": "Tôi bước đến gần cha, chậm như cha từng bước.",
+      "role": "Narrator"
+    },
+    {
+      "id": "94c5a00bd01d",
+      "start": 150,
+      "end": 155,
+      "text": "Cha đưa chiếc ô sang. Lần này, tôi nhận lấy.",
+      "role": "Narrator"
+    },
+    {
+      "id": "69bdd68607e8",
+      "start": 155,
+      "end": 160,
+      "text": "Tôi nâng ô lên và nghiêng về phía cha.",
+      "role": "Narrator"
+    },
+    {
+      "id": "c6d236269136",
+      "start": 160,
+      "end": 165,
+      "text": "Mưa chạm vào vai tôi. Cha nhìn tôi và mỉm cười.",
+      "role": "Narrator"
+    },
+    {
+      "id": "a8b50f2ea458",
+      "start": 165,
+      "end": 170,
+      "text": "Mẹ vẫn đứng chờ trước cánh cửa ngày xưa.",
+      "role": "Narrator"
+    },
+    {
+      "id": "a1ff9f32dd21",
+      "start": 170,
+      "end": 175,
+      "text": "Ba người cùng bước vào nhà, trong một vòng tay ấm.",
+      "role": "Narrator"
+    },
+    {
+      "id": "b971acd99716",
+      "start": 175,
+      "end": 180,
+      "text": "Chiếc ô vẫn nghiêng. Chỉ có người cầm ô đã đổi.",
+      "role": "Narrator"
+    }
+  ],
+  "audio": [
+    {
+      "id": "voice_1",
+      "cue_id": "00a4b8f97f29",
+      "name": "Narrator 1",
+      "file": "assets/acd6af3f089d_cue_01.wav",
+      "start": 0,
+      "duration": 2.6354648526077096,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_2",
+      "cue_id": "4484cfd15a7b",
+      "name": "Narrator 2",
+      "file": "assets/bb6aa5e9c338_cue_02.wav",
+      "start": 5,
+      "duration": 2.8792743764172335,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_3",
+      "cue_id": "893cd4296545",
+      "name": "Narrator 3",
+      "file": "assets/6aa62990b2d7_cue_03.wav",
+      "start": 10,
+      "duration": 2.391655328798186,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_4",
+      "cue_id": "c62989a65dd9",
+      "name": "Narrator 4",
+      "file": "assets/ee5802f99289_cue_04.wav",
+      "start": 15,
+      "duration": 1.9969160997732427,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_5",
+      "cue_id": "cc2d1f019054",
+      "name": "Narrator 5",
+      "file": "assets/afd8a21b6624_cue_05.wav",
+      "start": 20,
+      "duration": 1.9969160997732427,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_6",
+      "cue_id": "ee5967ec0025",
+      "name": "Narrator 6",
+      "file": "assets/582d6c479413_cue_06.wav",
+      "start": 25,
+      "duration": 2.2755555555555556,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_7",
+      "cue_id": "d6bb7615590c",
+      "name": "Narrator 7",
+      "file": "assets/56611fcba748_cue_07.wav",
+      "start": 30,
+      "duration": 2.2407256235827666,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_8",
+      "cue_id": "ffe2f5707c32",
+      "name": "Narrator 8",
+      "file": "assets/aef73f81d09b_cue_08.wav",
+      "start": 35,
+      "duration": 2.2175056689342405,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_9",
+      "cue_id": "4121f2308796",
+      "name": "Narrator 9",
+      "file": "assets/f7b5f1d42c15_cue_09.wav",
+      "start": 40,
+      "duration": 2.1710657596371883,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_10",
+      "cue_id": "829a3e1f2358",
+      "name": "Narrator 10",
+      "file": "assets/9c8483ad9bc9_cue_10.wav",
+      "start": 45,
+      "duration": 2.403265306122449,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_11",
+      "cue_id": "b6512a303896",
+      "name": "Narrator 11",
+      "file": "assets/6829c6b3ddc5_cue_11.wav",
+      "start": 50,
+      "duration": 2.403265306122449,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_12",
+      "cue_id": "3391f8b41f43",
+      "name": "Narrator 12",
+      "file": "assets/3daa32d05180_cue_12.wav",
+      "start": 55,
+      "duration": 2.36843537414966,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_13",
+      "cue_id": "f3c4d8aa2d6c",
+      "name": "Narrator 13",
+      "file": "assets/e028a930c5aa_cue_13.wav",
+      "start": 60,
+      "duration": 2.7399546485260773,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_14",
+      "cue_id": "c4b5b2abef42",
+      "name": "Narrator 14",
+      "file": "assets/26f49d3ea812_cue_14.wav",
+      "start": 65,
+      "duration": 1.7763265306122449,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_15",
+      "cue_id": "b67f89805a46",
+      "name": "Narrator 15",
+      "file": "assets/947b6fa3e53e_cue_15.wav",
+      "start": 70,
+      "duration": 2.36843537414966,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_16",
+      "cue_id": "62530122492c",
+      "name": "Narrator 16",
+      "file": "assets/ea7c7e49842f_cue_16.wav",
+      "start": 75,
+      "duration": 2.2639455782312927,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_17",
+      "cue_id": "e456f0daace2",
+      "name": "Narrator 17",
+      "file": "assets/5cf878af63c9_cue_17.wav",
+      "start": 80,
+      "duration": 2.10140589569161,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_18",
+      "cue_id": "276884a6b0a2",
+      "name": "Narrator 18",
+      "file": "assets/d813784c9c58_cue_18.wav",
+      "start": 85,
+      "duration": 2.1710657596371883,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_19",
+      "cue_id": "07c742811603",
+      "name": "Narrator 19",
+      "file": "assets/ad5bbe507539_cue_19.wav",
+      "start": 90,
+      "duration": 2.7980045351473923,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_20",
+      "cue_id": "0edda59b7d36",
+      "name": "Narrator 20",
+      "file": "assets/400e71fca37b_cue_20.wav",
+      "start": 95,
+      "duration": 2.1710657596371883,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_21",
+      "cue_id": "88d73a8928cd",
+      "name": "Narrator 21",
+      "file": "assets/de565e6c3c03_cue_21.wav",
+      "start": 100,
+      "duration": 2.380045351473923,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_22",
+      "cue_id": "8c7ee672d3ef",
+      "name": "Narrator 22",
+      "file": "assets/c95f024d03a2_cue_22.wav",
+      "start": 105,
+      "duration": 2.0549659863945577,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_23",
+      "cue_id": "88bc09c919c9",
+      "name": "Narrator 23",
+      "file": "assets/0e14aa3d3ab7_cue_23.wav",
+      "start": 110,
+      "duration": 2.159455782312925,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_24",
+      "cue_id": "39abfc939a30",
+      "name": "Narrator 24",
+      "file": "assets/e748a14f73d2_cue_24.wav",
+      "start": 115,
+      "duration": 2.1942857142857144,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_25",
+      "cue_id": "7b126de07da9",
+      "name": "Narrator 25",
+      "file": "assets/a2e8b206b885_cue_25.wav",
+      "start": 120,
+      "duration": 2.3219954648526078,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_26",
+      "cue_id": "82913179f4cb",
+      "name": "Narrator 26",
+      "file": "assets/1fddc3a25aa9_cue_26.wav",
+      "start": 125,
+      "duration": 2.5658049886621317,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_27",
+      "cue_id": "33891144d6dd",
+      "name": "Narrator 27",
+      "file": "assets/ba696d3689c3_cue_27.wav",
+      "start": 130,
+      "duration": 2.2523356009070294,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_28",
+      "cue_id": "7fe128b97c57",
+      "name": "Narrator 28",
+      "file": "assets/6a7172c2fb30_cue_28.wav",
+      "start": 135,
+      "duration": 2.4961451247165534,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_29",
+      "cue_id": "8da908616e28",
+      "name": "Narrator 29",
+      "file": "assets/0a81f13160bd_cue_29.wav",
+      "start": 140,
+      "duration": 2.4961451247165534,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_30",
+      "cue_id": "42d5b21f309b",
+      "name": "Narrator 30",
+      "file": "assets/8ba70bcacf13_cue_30.wav",
+      "start": 145,
+      "duration": 2.2639455782312927,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_31",
+      "cue_id": "94c5a00bd01d",
+      "name": "Narrator 31",
+      "file": "assets/33b21c464079_cue_31.wav",
+      "start": 150,
+      "duration": 2.159455782312925,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_32",
+      "cue_id": "69bdd68607e8",
+      "name": "Narrator 32",
+      "file": "assets/902c9c873809_cue_32.wav",
+      "start": 155,
+      "duration": 1.787936507936508,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_33",
+      "cue_id": "c6d236269136",
+      "name": "Narrator 33",
+      "file": "assets/1e298d8eb020_cue_33.wav",
+      "start": 160,
+      "duration": 2.2291156462585033,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_34",
+      "cue_id": "a8b50f2ea458",
+      "name": "Narrator 34",
+      "file": "assets/8381767bc093_cue_34.wav",
+      "start": 165,
+      "duration": 1.9388662131519274,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_35",
+      "cue_id": "a1ff9f32dd21",
+      "name": "Narrator 35",
+      "file": "assets/bf007172a0dc_cue_35.wav",
+      "start": 170,
+      "duration": 2.2987755102040817,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    },
+    {
+      "id": "voice_36",
+      "cue_id": "b971acd99716",
+      "name": "Narrator 36",
+      "file": "assets/b375e82aaa70_cue_36.wav",
+      "start": 175,
+      "duration": 2.066575963718821,
+      "group": "voice",
+      "volume": 1,
+      "trim": 0,
+      "fade_in": 0,
+      "fade_out": 0,
+      "mute": false
+    }
+  ],
+  "references": [],
+  "subtitle_style": {
+    "enabled": true,
+    "size": 30,
+    "font": "Segoe UI",
+    "color": "#ffffff",
+    "background": true,
+    "y": 0.88
+  },
+  "duck_music": true
+}

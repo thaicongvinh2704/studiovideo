@@ -1,0 +1,77 @@
+{
+  "engine": "VieNeu-TTS v3 Turbo 3.8.3",
+  "model": "pnnbao-ump/VieNeu-TTS-v3-Turbo",
+  "voice": "Hải Đăng",
+  "requested_name": "Nguyễn Việt Cường",
+  "requested_name_found": false,
+  "clarification": "User requested a Vietnamese repo voice; no verified preset for the originally requested name was found.",
+  "repo": "https://github.com/pnnbao97/VieNeu-TTS",
+  "length": 60,
+  "rate": 48000,
+  "cues": [
+    {
+      "index": 0,
+      "start": 0.2,
+      "end": 8.078646,
+      "text": "Nhìn năm ngọn tháp này, anh em thấy một ngôi đền. Nhưng người Khmer xưa lại đặt cả một vũ trụ vào đó. Không chỉ là chuyện xây cho to hay trang trí cho đẹp.",
+      "raw_seconds": 7.592,
+      "tempo": 0.962595652173913
+    },
+    {
+      "index": 1,
+      "start": 8.328646,
+      "end": 16.62225,
+      "text": "Đây là Angkor Wat, ở Campuchia, được xây vào đầu thế kỷ mười hai, dưới thời vua Suryavarman đệ nhị. Nó thuộc quần thể kinh đô của đế chế Khmer.",
+      "raw_seconds": 7.991104166666666,
+      "tempo": 0.962595652173913
+    },
+    {
+      "index": 2,
+      "start": 16.87225,
+      "end": 23.771313,
+      "text": "Ban đầu, đền thờ thần Vishnu của Ấn Độ giáo. Hình khắc trên tường còn kể lại những câu chuyện thần thoại. Và năm tháp không chỉ để nhìn cho oai.",
+      "raw_seconds": 6.649375,
+      "tempo": 0.962595652173913
+    },
+    {
+      "index": 3,
+      "start": 24.021313,
+      "end": 31.026521,
+      "text": "Chúng tượng trưng cho năm đỉnh núi Meru, ngọn núi thiêng trong quan niệm về vũ trụ. Hãy nhìn từ trên xuống: một tháp ở giữa, bốn tháp ở bốn góc.",
+      "raw_seconds": 6.754229166666667,
+      "tempo": 0.962595652173913
+    },
+    {
+      "index": 4,
+      "start": 31.276521,
+      "end": 37.002604,
+      "text": "Còn hào nước bao quanh? Đó là hình ảnh đại dương. Bước qua hào, anh em đang tiến vào một thế giới thiêng được dựng bằng đá.",
+      "raw_seconds": 5.519458333333334,
+      "tempo": 0.962595652173913
+    },
+    {
+      "index": 5,
+      "start": 37.252604,
+      "end": 44.757562,
+      "text": "Về sau, nơi này trở thành chốn thờ Phật. Sự thay đổi ấy vẫn để lại dấu vết ngay bên trong đền. Một công trình, nhưng mang nhiều lớp lịch sử.",
+      "raw_seconds": 7.2359375,
+      "tempo": 0.962595652173913
+    },
+    {
+      "index": 6,
+      "start": 45.007562,
+      "end": 50.815188,
+      "text": "Và đừng tưởng ngôi đền từng bị quên lãng hoàn toàn. Người địa phương và các nhà sư vẫn biết đến, vẫn lui tới nơi này.",
+      "raw_seconds": 5.597958333333334,
+      "tempo": 0.962595652173913
+    },
+    {
+      "index": 7,
+      "start": 51.065188,
+      "end": 59.373479,
+      "text": "Lần tới nhìn năm ngọn tháp, hãy thử đọc chúng như một bản đồ vũ trụ. Hào nước, tầng nền, ngọn tháp: mỗi phần là một dấu gợi ý. Ngôi đền kể nhiều hơn mình tưởng.",
+      "raw_seconds": 8.0091875,
+      "tempo": 0.962595652173913
+    }
+  ]
+}

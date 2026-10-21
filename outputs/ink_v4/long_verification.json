@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "test_kind": "technical load, not an authored story",
+  "rendered_engine": "ink-user-reference-4.3",
+  "current_engine": "ink-user-reference-4.4",
+  "needs_final_character_rerender": true,
+  "scope": "Load and codec test of 4.3; current 4.4 character gait verified separately in verification_v4.json",
+  "scenes": 126,
+  "duration": "1260.000000",
+  "frames": "37800",
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "decode": "PASS"
+}

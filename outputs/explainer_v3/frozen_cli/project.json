@@ -1,0 +1,2330 @@
+{
+  "schema": 1,
+  "name": "Những mảnh ghép lịch sử · Studio",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "scenes": [
+    {
+      "id": "305a4d23e0f0",
+      "name": "Vì sao lịch sử còn khoảng trống?",
+      "start": 0.0,
+      "duration": 8.333333333333334,
+      "background": "white",
+      "objects": [
+        {
+          "id": "13990dbc6153",
+          "kind": "text",
+          "name": "Vì sao lịch sử còn khoảng trống?",
+          "preset": "Vì sao lịch sử còn khoảng trống?",
+          "x": 640,
+          "y": 76,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.333333333333334,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 100,
+          "text": "Vì sao lịch sử còn khoảng trống?",
+          "font_size": 38,
+          "bold": true,
+          "align": "left",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "b06a6a7218b4",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 230,
+          "y": 590,
+          "scale": 1.65,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 8.333333333333334,
+          "expression": "worried",
+          "color": "#20262a",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.8
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": -2.0
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 0.8
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": 2.0
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "shoulder": 19
+          },
+          "skin": "illustrated",
+          "shirt": "#f4c44f",
+          "pants": "#426c8c",
+          "skin_color": "#f1c6a2",
+          "pose": "question",
+          "poses": [
+            {
+              "t": 0,
+              "v": "question"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "worried"
+            }
+          ],
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "14ba0c308dbc",
+          "kind": "image",
+          "name": "thanh_co",
+          "preset": "thanh_co",
+          "x": 820,
+          "y": 350,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.333333333333334,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 660,
+          "height": 350,
+          "file": "assets/thanh_co.svg",
+          "fit": "contain",
+          "image_width": 660,
+          "enter": "fade",
+          "enter_duration": 0.28
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "narration": "Lịch sử không phải một cuốn sách còn nguyên mọi trang. Điều chúng ta biết được ghép lại từ những dấu vết còn sót lại. Vậy điều gì xảy ra khi một phần dấu vết biến mất?",
+      "layout": "presenter"
+    },
+    {
+      "id": "90c79d934911",
+      "name": "Hai nguồn, hai góc nhìn",
+      "start": 8.333333333333334,
+      "duration": 8.366666666666669,
+      "background": "white",
+      "objects": [
+        {
+          "id": "042f5d2b785f",
+          "kind": "text",
+          "name": "Hai nguồn, hai góc nhìn",
+          "preset": "Hai nguồn, hai góc nhìn",
+          "x": 640,
+          "y": 76,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666669,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 100,
+          "text": "Hai nguồn, hai góc nhìn",
+          "font_size": 38,
+          "bold": true,
+          "align": "left",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "e3ef235ec293",
+          "kind": "image",
+          "name": "hien_vat",
+          "preset": "hien_vat",
+          "x": 335,
+          "y": 345,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666669,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 520,
+          "height": 330,
+          "file": "assets/hien_vat.svg",
+          "fit": "contain",
+          "image_width": 520,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "f4bd609a6cbe",
+          "kind": "text",
+          "name": "Hiện vật",
+          "preset": "Hiện vật",
+          "x": 335,
+          "y": 568,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666669,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 520,
+          "height": 70,
+          "text": "Hiện vật",
+          "font_size": 30,
+          "bold": true,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "a1e0af5245b4",
+          "kind": "image",
+          "name": "van_ban",
+          "preset": "van_ban",
+          "x": 945,
+          "y": 345,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666669,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 520,
+          "height": 330,
+          "file": "assets/van_ban.svg",
+          "fit": "contain",
+          "image_width": 520,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "395a365a7f91",
+          "kind": "text",
+          "name": "Văn bản",
+          "preset": "Văn bản",
+          "x": 945,
+          "y": 568,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666669,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 520,
+          "height": 70,
+          "text": "Văn bản",
+          "font_size": 30,
+          "bold": true,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "2ae3be5d2ec5",
+          "kind": "shape",
+          "name": "So sánh",
+          "preset": "So sánh",
+          "x": 640,
+          "y": 340,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666669,
+          "expression": "normal",
+          "color": "#d45d47",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 64,
+          "height": 64,
+          "shape": "arrow",
+          "enter": "fade",
+          "enter_duration": 0.28
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "narration": "Một chiếc bình có thể kể về đời sống thường ngày. Một văn bản ghi lại cách người xưa nhìn thế giới. Mỗi nguồn cho ta một góc nhìn, và mỗi nguồn cũng có giới hạn riêng.",
+      "layout": "compare"
+    },
+    {
+      "id": "3064eebc1f12",
+      "name": "Từ dấu vết đến cách giải thích",
+      "start": 16.700000000000003,
+      "duration": 8.366666666666667,
+      "background": "white",
+      "objects": [
+        {
+          "id": "13f3cce875e8",
+          "kind": "text",
+          "name": "Từ dấu vết đến cách giải thích",
+          "preset": "Từ dấu vết đến cách giải thích",
+          "x": 640,
+          "y": 76,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 100,
+          "text": "Từ dấu vết đến cách giải thích",
+          "font_size": 38,
+          "bold": true,
+          "align": "left",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "c35e9e121b3d",
+          "kind": "shape",
+          "name": "Đường nối",
+          "preset": "Đường nối",
+          "x": 640,
+          "y": 352,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#263840",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1070,
+          "height": 20,
+          "shape": "arrow",
+          "stroke": 5,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "4fc7260a1ad7",
+          "kind": "image",
+          "name": "hien_vat",
+          "preset": "hien_vat",
+          "x": 120.0,
+          "y": 265,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 150,
+          "file": "assets/hien_vat.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "a02e461dcf21",
+          "kind": "shape",
+          "name": "Mốc",
+          "preset": "Mốc",
+          "x": 120.0,
+          "y": 352,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#263840",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 24,
+          "height": 24,
+          "shape": "ellipse",
+          "fill": "#e7b441",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "2fc331198850",
+          "kind": "text",
+          "name": "Phát hiện",
+          "preset": "Phát hiện",
+          "x": 120.0,
+          "y": 440,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 240,
+          "height": 120,
+          "text": "Phát hiện",
+          "font_size": 26,
+          "bold": true,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "4b7c1a459411",
+          "kind": "image",
+          "name": "van_ban",
+          "preset": "van_ban",
+          "x": 640.0,
+          "y": 265,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.45,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 150,
+          "file": "assets/van_ban.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "8a078332c1f1",
+          "kind": "shape",
+          "name": "Mốc",
+          "preset": "Mốc",
+          "x": 640.0,
+          "y": 352,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#263840",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 24,
+          "height": 24,
+          "shape": "ellipse",
+          "fill": "#e7b441",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "91b0ce96007e",
+          "kind": "text",
+          "name": "Bối cảnh",
+          "preset": "Bối cảnh",
+          "x": 640.0,
+          "y": 440,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.45,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 240,
+          "height": 120,
+          "text": "Bối cảnh",
+          "font_size": 26,
+          "bold": true,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "9dc176a76831",
+          "kind": "image",
+          "name": "doi_chieu",
+          "preset": "doi_chieu",
+          "x": 1160.0,
+          "y": 265,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.9,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 150,
+          "file": "assets/doi_chieu.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "50477a11af4e",
+          "kind": "shape",
+          "name": "Mốc",
+          "preset": "Mốc",
+          "x": 1160.0,
+          "y": 352,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#263840",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 24,
+          "height": 24,
+          "shape": "ellipse",
+          "fill": "#e7b441",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "c5d52e582975",
+          "kind": "text",
+          "name": "Đối chiếu",
+          "preset": "Đối chiếu",
+          "x": 1160.0,
+          "y": 440,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.9,
+          "end": 8.366666666666667,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 240,
+          "height": 120,
+          "text": "Đối chiếu",
+          "font_size": 26,
+          "bold": true,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "338c6f608117",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 1120,
+          "y": 655,
+          "scale": 0.65,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 8.366666666666667,
+          "expression": "happy",
+          "color": "#20262a",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -1.15
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": -1.65
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 0.18
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": -0.5
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "shoulder": 19
+          },
+          "skin": "illustrated",
+          "shirt": "#f4c44f",
+          "pants": "#426c8c",
+          "skin_color": "#f1c6a2",
+          "pose": "point_left",
+          "poses": [
+            {
+              "t": 0,
+              "v": "point_left"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "happy"
+            }
+          ],
+          "enter": "fade",
+          "enter_duration": 0.28
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "narration": "Công việc nghiên cứu bắt đầu từ việc tìm thấy dấu vết, xác định bối cảnh, rồi đối chiếu nhiều nguồn. Một cách giải thích có thể thay đổi khi xuất hiện bằng chứng mới.",
+      "layout": "timeline"
+    },
+    {
+      "id": "bf5a249092b1",
+      "name": "Một dấu hỏi chưa phải lời giải",
+      "start": 25.06666666666667,
+      "duration": 9.0,
+      "background": "white",
+      "objects": [
+        {
+          "id": "9225ebcc71df",
+          "kind": "text",
+          "name": "Một dấu hỏi chưa phải lời giải",
+          "preset": "Một dấu hỏi chưa phải lời giải",
+          "x": 640,
+          "y": 76,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 9.0,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 100,
+          "text": "Một dấu hỏi chưa phải lời giải",
+          "font_size": 38,
+          "bold": true,
+          "align": "left",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "9d545801a857",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 240,
+          "y": 610,
+          "scale": 1.7,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 9.0,
+          "expression": "worried",
+          "color": "#20262a",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.3
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": -1.35
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 0.65
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": -2.7
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "shoulder": 19
+          },
+          "skin": "illustrated",
+          "shirt": "#f4c44f",
+          "pants": "#426c8c",
+          "skin_color": "#f1c6a2",
+          "pose": "think",
+          "poses": [
+            {
+              "t": 0,
+              "v": "think"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "worried"
+            }
+          ],
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "663f6cfdd7db",
+          "kind": "shape",
+          "name": "Bong bóng",
+          "preset": "Bong bóng",
+          "x": 820,
+          "y": 365,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 9.0,
+          "expression": "normal",
+          "color": "#27373d",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 650,
+          "height": 350,
+          "shape": "callout",
+          "text": "Đã biết → Có căn cứ\nSuy đoán → Cần kiểm tra\nChưa biết → Tiếp tục tìm hiểu",
+          "font_size": 32,
+          "fill": "#fff5d8",
+          "stroke": 3,
+          "enter": "fade",
+          "enter_duration": 0.28
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "narration": "Nếu chỉ nhìn một mảnh ghép, chúng ta rất dễ tưởng tượng ra toàn bộ câu chuyện. Điều cần làm là phân biệt điều đã biết, điều suy đoán, và điều vẫn chưa có đủ bằng chứng.",
+      "layout": "quote"
+    },
+    {
+      "id": "13885d7ca17e",
+      "name": "Những dấu vết kết nối",
+      "start": 34.06666666666667,
+      "duration": 8.466666666666669,
+      "background": "white",
+      "objects": [
+        {
+          "id": "a3e46467ddfc",
+          "kind": "text",
+          "name": "Những dấu vết kết nối",
+          "preset": "Những dấu vết kết nối",
+          "x": 640,
+          "y": 76,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.466666666666669,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 100,
+          "text": "Những dấu vết kết nối",
+          "font_size": 38,
+          "bold": true,
+          "align": "left",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "efc9edab805c",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 230,
+          "y": 590,
+          "scale": 1.65,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 8.466666666666669,
+          "expression": "happy",
+          "color": "#20262a",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.18
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": 0.5
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 1.15
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": 1.65
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "shoulder": 19
+          },
+          "skin": "illustrated",
+          "shirt": "#f4c44f",
+          "pants": "#426c8c",
+          "skin_color": "#f1c6a2",
+          "pose": "point",
+          "poses": [
+            {
+              "t": 0,
+              "v": "point"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "happy"
+            }
+          ],
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "7e787a2769c4",
+          "kind": "image",
+          "name": "ban_do",
+          "preset": "ban_do",
+          "x": 820,
+          "y": 350,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.466666666666669,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 660,
+          "height": 350,
+          "file": "assets/ban_do.svg",
+          "fit": "contain",
+          "image_width": 660,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "2be36aaed9e5",
+          "kind": "text",
+          "name": "Không gian • Tuyến đường • Bằng chứ",
+          "preset": "Không gian • Tuyến đường • Bằng chứ",
+          "x": 820,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.466666666666669,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 660,
+          "height": 100,
+          "text": "Không gian • Tuyến đường • Bằng chứng",
+          "font_size": 26,
+          "enter": "fade",
+          "enter_duration": 0.28
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "narration": "Bản đồ giúp đặt các dấu vết vào không gian. Một tuyến đường có thể gợi ra sự liên hệ giữa những nơi xa nhau. Nhưng mối liên hệ ấy vẫn cần được kiểm tra bằng các nguồn khác.",
+      "layout": "presenter"
+    },
+    {
+      "id": "a2393186bc2f",
+      "name": "Đặt câu hỏi theo từng bước",
+      "start": 42.53333333333334,
+      "duration": 8.266666666666666,
+      "background": "white",
+      "objects": [
+        {
+          "id": "9e127e1bbe46",
+          "kind": "text",
+          "name": "Đặt câu hỏi theo từng bước",
+          "preset": "Đặt câu hỏi theo từng bước",
+          "x": 640,
+          "y": 76,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.266666666666666,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 100,
+          "text": "Đặt câu hỏi theo từng bước",
+          "font_size": 38,
+          "bold": true,
+          "align": "left",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "d3db97214450",
+          "kind": "shape",
+          "name": "Đường nối",
+          "preset": "Đường nối",
+          "x": 640,
+          "y": 352,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.266666666666666,
+          "expression": "normal",
+          "color": "#263840",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1070,
+          "height": 20,
+          "shape": "arrow",
+          "stroke": 5,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "615e08f27788",
+          "kind": "image",
+          "name": "van_ban",
+          "preset": "van_ban",
+          "x": 120.0,
+          "y": 265,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.266666666666666,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 150,
+          "file": "assets/van_ban.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "bb6ab4a64e0e",
+          "kind": "shape",
+          "name": "Mốc",
+          "preset": "Mốc",
+          "x": 120.0,
+          "y": 352,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.266666666666666,
+          "expression": "normal",
+          "color": "#263840",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 24,
+          "height": 24,
+          "shape": "ellipse",
+          "fill": "#e7b441",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "0a00ae23aa2a",
+          "kind": "text",
+          "name": "Nguồn gốc?",
+          "preset": "Nguồn gốc?",
+          "x": 120.0,
+          "y": 440,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.266666666666666,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 240,
+          "height": 120,
+          "text": "Nguồn gốc?",
+          "font_size": 26,
+          "bold": true,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "67e14ecde3f1",
+          "kind": "image",
+          "name": "hien_vat",
+          "preset": "hien_vat",
+          "x": 640.0,
+          "y": 265,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.45,
+          "end": 8.266666666666666,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 150,
+          "file": "assets/hien_vat.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "37a26715f5de",
+          "kind": "shape",
+          "name": "Mốc",
+          "preset": "Mốc",
+          "x": 640.0,
+          "y": 352,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.266666666666666,
+          "expression": "normal",
+          "color": "#263840",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 24,
+          "height": 24,
+          "shape": "ellipse",
+          "fill": "#e7b441",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "22a92fcf046c",
+          "kind": "text",
+          "name": "Bối cảnh?",
+          "preset": "Bối cảnh?",
+          "x": 640.0,
+          "y": 440,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.45,
+          "end": 8.266666666666666,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 240,
+          "height": 120,
+          "text": "Bối cảnh?",
+          "font_size": 26,
+          "bold": true,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "3f697912740b",
+          "kind": "image",
+          "name": "doi_chieu",
+          "preset": "doi_chieu",
+          "x": 1160.0,
+          "y": 265,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.9,
+          "end": 8.266666666666666,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 230,
+          "height": 150,
+          "file": "assets/doi_chieu.svg",
+          "fit": "contain",
+          "image_width": 230,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "e56ea7d11dc0",
+          "kind": "shape",
+          "name": "Mốc",
+          "preset": "Mốc",
+          "x": 1160.0,
+          "y": 352,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.266666666666666,
+          "expression": "normal",
+          "color": "#263840",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 24,
+          "height": 24,
+          "shape": "ellipse",
+          "fill": "#e7b441",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "2014c5bcabbd",
+          "kind": "text",
+          "name": "Kiểm chứng?",
+          "preset": "Kiểm chứng?",
+          "x": 1160.0,
+          "y": 440,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.9,
+          "end": 8.266666666666666,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 240,
+          "height": 120,
+          "text": "Kiểm chứng?",
+          "font_size": 26,
+          "bold": true,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "618b82a5e6ec",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 1120,
+          "y": 655,
+          "scale": 0.65,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 8.266666666666666,
+          "expression": "happy",
+          "color": "#20262a",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -1.15
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": -1.65
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 0.18
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": -0.5
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "shoulder": 19
+          },
+          "skin": "illustrated",
+          "shirt": "#f4c44f",
+          "pants": "#426c8c",
+          "skin_color": "#f1c6a2",
+          "pose": "point_left",
+          "poses": [
+            {
+              "t": 0,
+              "v": "point_left"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "happy"
+            }
+          ],
+          "enter": "fade",
+          "enter_duration": 0.28
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "narration": "Thay vì đi thẳng đến một kết luận hấp dẫn, hãy hỏi: nguồn này đến từ đâu, được tạo ra trong hoàn cảnh nào, và có nguồn độc lập nào giúp kiểm chứng hay không?",
+      "layout": "process"
+    },
+    {
+      "id": "1c8bcbb45b32",
+      "name": "Nhìn rộng hơn một khung hình",
+      "start": 50.800000000000004,
+      "duration": 8.100000000000001,
+      "background": "white",
+      "objects": [
+        {
+          "id": "a8a9ae7f42ef",
+          "kind": "text",
+          "name": "Nhìn rộng hơn một khung hình",
+          "preset": "Nhìn rộng hơn một khung hình",
+          "x": 640,
+          "y": 76,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.100000000000001,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 100,
+          "text": "Nhìn rộng hơn một khung hình",
+          "font_size": 38,
+          "bold": true,
+          "align": "left",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "6270c5d28e13",
+          "kind": "image",
+          "name": "thanh_co",
+          "preset": "thanh_co",
+          "x": 340,
+          "y": 265,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 8.100000000000001,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 200,
+          "file": "assets/thanh_co.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "d22f15cfe4b2",
+          "kind": "image",
+          "name": "hien_vat",
+          "preset": "hien_vat",
+          "x": 940,
+          "y": 265,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.5,
+          "end": 8.100000000000001,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 200,
+          "file": "assets/hien_vat.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "8ff9d53305ea",
+          "kind": "image",
+          "name": "giao_thuong",
+          "preset": "giao_thuong",
+          "x": 340,
+          "y": 500,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 1.0,
+          "end": 8.100000000000001,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 200,
+          "file": "assets/giao_thuong.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "3363c263f96b",
+          "kind": "image",
+          "name": "doi_chieu",
+          "preset": "doi_chieu",
+          "x": 940,
+          "y": 500,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 1.5,
+          "end": 8.100000000000001,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 510,
+          "height": 200,
+          "file": "assets/doi_chieu.svg",
+          "fit": "contain",
+          "image_width": 510,
+          "enter": "fade",
+          "enter_duration": 0.28
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "narration": "Khi thay đổi góc nhìn, chúng ta có thể nhận ra những chi tiết trước đó bị bỏ qua. Một câu chuyện thuyết phục cần được xây dựng từ nhiều mảnh ghép phù hợp với nhau.",
+      "layout": "gallery"
+    },
+    {
+      "id": "fcbef57282db",
+      "name": "Giữ sự tò mò, cùng sự thận trọng",
+      "start": 58.900000000000006,
+      "duration": 9.700000000000003,
+      "background": "white",
+      "objects": [
+        {
+          "id": "d69b1d1c10c4",
+          "kind": "text",
+          "name": "Giữ sự tò mò, cùng sự thận trọng",
+          "preset": "Giữ sự tò mò, cùng sự thận trọng",
+          "x": 640,
+          "y": 76,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 9.700000000000003,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 1120,
+          "height": 100,
+          "text": "Giữ sự tò mò, cùng sự thận trọng",
+          "font_size": 38,
+          "bold": true,
+          "align": "left",
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "c8980201134b",
+          "kind": "character",
+          "name": "Người dẫn",
+          "preset": "presenter",
+          "x": 230,
+          "y": 590,
+          "scale": 1.65,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 9.700000000000003,
+          "expression": "happy",
+          "color": "#20262a",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {
+            "bone_arm_l": [
+              {
+                "t": 0,
+                "v": -0.9
+              }
+            ],
+            "bone_fore_l": [
+              {
+                "t": 0,
+                "v": -1.8
+              }
+            ],
+            "bone_arm_r": [
+              {
+                "t": 0,
+                "v": 0.9
+              }
+            ],
+            "bone_fore_r": [
+              {
+                "t": 0,
+                "v": 1.8
+              }
+            ],
+            "bone_torso": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_head": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ],
+            "bone_lift": [
+              {
+                "t": 0,
+                "v": 0
+              }
+            ]
+          },
+          "motions": [],
+          "attachment": [],
+          "rig": {
+            "shoulder": 19
+          },
+          "skin": "illustrated",
+          "shirt": "#f4c44f",
+          "pants": "#426c8c",
+          "skin_color": "#f1c6a2",
+          "pose": "welcome",
+          "poses": [
+            {
+              "t": 0,
+              "v": "welcome"
+            }
+          ],
+          "expressions": [
+            {
+              "t": 0,
+              "v": "happy"
+            }
+          ],
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "7329e5eb836f",
+          "kind": "image",
+          "name": "doi_chieu",
+          "preset": "doi_chieu",
+          "x": 820,
+          "y": 350,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 9.700000000000003,
+          "expression": "normal",
+          "color": "#242938",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 660,
+          "height": 350,
+          "file": "assets/doi_chieu.svg",
+          "fit": "contain",
+          "image_width": 660,
+          "enter": "fade",
+          "enter_duration": 0.28
+        },
+        {
+          "id": "5ab7d6c2214c",
+          "kind": "text",
+          "name": "Tò mò • Đối chiếu • Thận trọng",
+          "preset": "Tò mò • Đối chiếu • Thận trọng",
+          "x": 820,
+          "y": 590,
+          "scale": 1.0,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 9.700000000000003,
+          "expression": "normal",
+          "color": "#18252b",
+          "age": "adult",
+          "speed": 1.0,
+          "amplitude": 1.0,
+          "action": "idle",
+          "keys": {},
+          "motions": [],
+          "attachment": [],
+          "rig": {},
+          "width": 660,
+          "height": 100,
+          "text": "Tò mò • Đối chiếu • Thận trọng",
+          "font_size": 26,
+          "enter": "fade",
+          "enter_duration": 0.28
+        }
+      ],
+      "effects": [],
+      "camera": {
+        "keys": {},
+        "follow": ""
+      },
+      "subtitle_ids": [],
+      "audio_ids": [],
+      "narration": "Những khoảng trống khiến lịch sử trở nên thú vị. Hãy giữ sự tò mò, nhưng luôn hỏi về bằng chứng. Một câu hỏi tốt có thể đưa chúng ta đến gần sự thật hơn một câu trả lời quá vội vàng.",
+      "layout": "presenter"
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "a8fc616146c0",
+      "start": 0.0,
+      "end": 7.75546485260771,
+      "text": "Lịch sử không phải một cuốn sách còn nguyên mọi trang. Điều chúng ta biết được ghép lại từ những dấu vết còn sót lại. Vậy điều gì xảy ra khi một phần dấu vết biến mất?",
+      "role": "Narrator",
+      "scene_id": "305a4d23e0f0"
+    },
+    {
+      "id": "fdac5503f7c8",
+      "start": 8.333333333333334,
+      "end": 16.135238095238094,
+      "text": "Một chiếc bình có thể kể về đời sống thường ngày. Một văn bản ghi lại cách người xưa nhìn thế giới. Mỗi nguồn cho ta một góc nhìn, và mỗi nguồn cũng có giới hạn riêng.",
+      "role": "Narrator",
+      "scene_id": "90c79d934911"
+    },
+    {
+      "id": "2aa8cae26da5",
+      "start": 16.700000000000003,
+      "end": 24.490294784580502,
+      "text": "Công việc nghiên cứu bắt đầu từ việc tìm thấy dấu vết, xác định bối cảnh, rồi đối chiếu nhiều nguồn. Một cách giải thích có thể thay đổi khi xuất hiện bằng chứng mới.",
+      "role": "Narrator",
+      "scene_id": "3064eebc1f12"
+    },
+    {
+      "id": "a9ae28539c44",
+      "start": 25.06666666666667,
+      "end": 33.507120181405895,
+      "text": "Nếu chỉ nhìn một mảnh ghép, chúng ta rất dễ tưởng tượng ra toàn bộ câu chuyện. Điều cần làm là phân biệt điều đã biết, điều suy đoán, và điều vẫn chưa có đủ bằng chứng.",
+      "role": "Narrator",
+      "scene_id": "bf5a249092b1"
+    },
+    {
+      "id": "9526e7506baf",
+      "start": 34.06666666666667,
+      "end": 41.9730612244898,
+      "text": "Bản đồ giúp đặt các dấu vết vào không gian. Một tuyến đường có thể gợi ra sự liên hệ giữa những nơi xa nhau. Nhưng mối liên hệ ấy vẫn cần được kiểm tra bằng các nguồn khác.",
+      "role": "Narrator",
+      "scene_id": "13885d7ca17e"
+    },
+    {
+      "id": "40b8e0072815",
+      "start": 42.53333333333334,
+      "end": 50.242358276644,
+      "text": "Thay vì đi thẳng đến một kết luận hấp dẫn, hãy hỏi: nguồn này đến từ đâu, được tạo ra trong hoàn cảnh nào, và có nguồn độc lập nào giúp kiểm chứng hay không?",
+      "role": "Narrator",
+      "scene_id": "a2393186bc2f"
+    },
+    {
+      "id": "fc514aa80015",
+      "start": 50.800000000000004,
+      "end": 58.33487528344671,
+      "text": "Khi thay đổi góc nhìn, chúng ta có thể nhận ra những chi tiết trước đó bị bỏ qua. Một câu chuyện thuyết phục cần được xây dựng từ nhiều mảnh ghép phù hợp với nhau.",
+      "role": "Narrator",
+      "scene_id": "1c8bcbb45b32"
+    },
+    {
+      "id": "c045e2e79079",
+      "start": 58.900000000000006,
+      "end": 68.03705215419501,
+      "text": "Những khoảng trống khiến lịch sử trở nên thú vị. Hãy giữ sự tò mò, nhưng luôn hỏi về bằng chứng. Một câu hỏi tốt có thể đưa chúng ta đến gần sự thật hơn một câu trả lời quá vội vàng.",
+      "role": "Narrator",
+      "scene_id": "fcbef57282db"
+    }
+  ],
+  "audio": [
+    {
+      "id": "73fb35ca0296",
+      "name": "Lời · Vì sao lịch sử còn khoảng trống?",
+      "file": "assets/narration.wav",
+      "start": 0.0,
+      "trim": 0.0,
+      "duration": 8.333333333333334,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "305a4d23e0f0"
+    },
+    {
+      "id": "7d07988c98e2",
+      "name": "Lời · Hai nguồn, hai góc nhìn",
+      "file": "assets/narration.wav",
+      "start": 8.333333333333334,
+      "trim": 8.333333333333334,
+      "duration": 8.366666666666669,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "90c79d934911"
+    },
+    {
+      "id": "1beed4a1aca6",
+      "name": "Lời · Từ dấu vết đến cách giải thích",
+      "file": "assets/narration.wav",
+      "start": 16.700000000000003,
+      "trim": 16.700000000000003,
+      "duration": 8.366666666666667,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "3064eebc1f12"
+    },
+    {
+      "id": "5b6f70f0efdf",
+      "name": "Lời · Một dấu hỏi chưa phải lời giải",
+      "file": "assets/narration.wav",
+      "start": 25.06666666666667,
+      "trim": 25.06666666666667,
+      "duration": 9.0,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "bf5a249092b1"
+    },
+    {
+      "id": "fde2a2ae3753",
+      "name": "Lời · Những dấu vết kết nối",
+      "file": "assets/narration.wav",
+      "start": 34.06666666666667,
+      "trim": 34.06666666666667,
+      "duration": 8.466666666666669,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "13885d7ca17e"
+    },
+    {
+      "id": "0f97a23bfcfb",
+      "name": "Lời · Đặt câu hỏi theo từng bước",
+      "file": "assets/narration.wav",
+      "start": 42.53333333333334,
+      "trim": 42.53333333333334,
+      "duration": 8.266666666666666,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "a2393186bc2f"
+    },
+    {
+      "id": "f36aa8c41224",
+      "name": "Lời · Nhìn rộng hơn một khung hình",
+      "file": "assets/narration.wav",
+      "start": 50.800000000000004,
+      "trim": 50.800000000000004,
+      "duration": 8.100000000000001,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "1c8bcbb45b32"
+    },
+    {
+      "id": "a11abe8934a2",
+      "name": "Lời · Giữ sự tò mò, cùng sự thận trọng",
+      "file": "assets/narration.wav",
+      "start": 58.900000000000006,
+      "trim": 58.900000000000006,
+      "duration": 9.700000000000003,
+      "group": "voice",
+      "volume": 1,
+      "scene_id": "fcbef57282db"
+    }
+  ],
+  "references": [],
+  "subtitle_style": {
+    "enabled": false,
+    "size": 26,
+    "font": "Segoe UI",
+    "color": "#ffffff",
+    "background": true,
+    "y": 0.96
+  },
+  "duck_music": true,
+  "audio_rate": 48000,
+  "audio_channels": 2,
+  "render_profile": "final",
+  "storyboard": {
+    "version": 1,
+    "name": "Những mảnh ghép lịch sử · Studio",
+    "voice": "assets/narration.wav",
+    "timing": "srt",
+    "rows": [
+      {
+        "start": 0,
+        "end": 8.333333333333334,
+        "title": "Vì sao lịch sử còn khoảng trống?",
+        "text": "Lịch sử không phải một cuốn sách còn nguyên mọi trang. Điều chúng ta biết được ghép lại từ những dấu vết còn sót lại. Vậy điều gì xảy ra khi một phần dấu vết biến mất?",
+        "layout": "presenter",
+        "assets": [
+          "assets/thanh_co.svg"
+        ],
+        "labels": [],
+        "pose": "question",
+        "cue_start": 0,
+        "cue_end": 7.75546485260771
+      },
+      {
+        "start": 8.333333333333334,
+        "end": 16.700000000000003,
+        "title": "Hai nguồn, hai góc nhìn",
+        "text": "Một chiếc bình có thể kể về đời sống thường ngày. Một văn bản ghi lại cách người xưa nhìn thế giới. Mỗi nguồn cho ta một góc nhìn, và mỗi nguồn cũng có giới hạn riêng.",
+        "layout": "compare",
+        "assets": [
+          "assets/hien_vat.svg",
+          "assets/van_ban.svg"
+        ],
+        "labels": [
+          "Hiện vật",
+          "Văn bản"
+        ],
+        "pose": "point",
+        "cue_start": 8.333333333333334,
+        "cue_end": 16.135238095238094
+      },
+      {
+        "start": 16.700000000000003,
+        "end": 25.06666666666667,
+        "title": "Từ dấu vết đến cách giải thích",
+        "text": "Công việc nghiên cứu bắt đầu từ việc tìm thấy dấu vết, xác định bối cảnh, rồi đối chiếu nhiều nguồn. Một cách giải thích có thể thay đổi khi xuất hiện bằng chứng mới.",
+        "layout": "timeline",
+        "assets": [
+          "assets/hien_vat.svg",
+          "assets/van_ban.svg",
+          "assets/doi_chieu.svg"
+        ],
+        "labels": [
+          "Phát hiện",
+          "Bối cảnh",
+          "Đối chiếu"
+        ],
+        "pose": "point",
+        "cue_start": 16.700000000000003,
+        "cue_end": 24.490294784580502
+      },
+      {
+        "start": 25.06666666666667,
+        "end": 34.06666666666667,
+        "title": "Một dấu hỏi chưa phải lời giải",
+        "text": "Nếu chỉ nhìn một mảnh ghép, chúng ta rất dễ tưởng tượng ra toàn bộ câu chuyện. Điều cần làm là phân biệt điều đã biết, điều suy đoán, và điều vẫn chưa có đủ bằng chứng.",
+        "layout": "quote",
+        "assets": [],
+        "labels": [
+          "Đã biết → Có căn cứ",
+          "Suy đoán → Cần kiểm tra",
+          "Chưa biết → Tiếp tục tìm hiểu"
+        ],
+        "pose": "think",
+        "cue_start": 25.06666666666667,
+        "cue_end": 33.507120181405895
+      },
+      {
+        "start": 34.06666666666667,
+        "end": 42.53333333333334,
+        "title": "Những dấu vết kết nối",
+        "text": "Bản đồ giúp đặt các dấu vết vào không gian. Một tuyến đường có thể gợi ra sự liên hệ giữa những nơi xa nhau. Nhưng mối liên hệ ấy vẫn cần được kiểm tra bằng các nguồn khác.",
+        "layout": "presenter",
+        "assets": [
+          "assets/ban_do.svg"
+        ],
+        "labels": [
+          "Không gian",
+          "Tuyến đường",
+          "Bằng chứng"
+        ],
+        "pose": "point",
+        "cue_start": 34.06666666666667,
+        "cue_end": 41.9730612244898
+      },
+      {
+        "start": 42.53333333333334,
+        "end": 50.800000000000004,
+        "title": "Đặt câu hỏi theo từng bước",
+        "text": "Thay vì đi thẳng đến một kết luận hấp dẫn, hãy hỏi: nguồn này đến từ đâu, được tạo ra trong hoàn cảnh nào, và có nguồn độc lập nào giúp kiểm chứng hay không?",
+        "layout": "process",
+        "assets": [
+          "assets/van_ban.svg",
+          "assets/hien_vat.svg",
+          "assets/doi_chieu.svg"
+        ],
+        "labels": [
+          "Nguồn gốc?",
+          "Bối cảnh?",
+          "Kiểm chứng?"
+        ],
+        "pose": "explain",
+        "cue_start": 42.53333333333334,
+        "cue_end": 50.242358276644
+      },
+      {
+        "start": 50.800000000000004,
+        "end": 58.900000000000006,
+        "title": "Nhìn rộng hơn một khung hình",
+        "text": "Khi thay đổi góc nhìn, chúng ta có thể nhận ra những chi tiết trước đó bị bỏ qua. Một câu chuyện thuyết phục cần được xây dựng từ nhiều mảnh ghép phù hợp với nhau.",
+        "layout": "gallery",
+        "assets": [
+          "assets/thanh_co.svg",
+          "assets/hien_vat.svg",
+          "assets/giao_thuong.svg",
+          "assets/doi_chieu.svg"
+        ],
+        "labels": [],
+        "pose": "welcome",
+        "cue_start": 50.800000000000004,
+        "cue_end": 58.33487528344671
+      },
+      {
+        "start": 58.900000000000006,
+        "end": 68.60000000000001,
+        "title": "Giữ sự tò mò, cùng sự thận trọng",
+        "text": "Những khoảng trống khiến lịch sử trở nên thú vị. Hãy giữ sự tò mò, nhưng luôn hỏi về bằng chứng. Một câu hỏi tốt có thể đưa chúng ta đến gần sự thật hơn một câu trả lời quá vội vàng.",
+        "layout": "presenter",
+        "assets": [
+          "assets/doi_chieu.svg"
+        ],
+        "labels": [
+          "Tò mò",
+          "Đối chiếu",
+          "Thận trọng"
+        ],
+        "pose": "welcome",
+        "cue_start": 58.900000000000006,
+        "cue_end": 68.03705215419501
+      }
+    ]
+  }
+}
