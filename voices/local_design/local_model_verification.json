@@ -1,0 +1,12 @@
+{
+  "models": [
+    {
+      "file": "VoxCPM2-BaseLM-Q8_0.gguf",
+      "sha256": "0113177abd11303503bf0b705e1613ec5f0a8508cc74a7dfd0f99312b962a962"
+    },
+    {
+      "file": "VoxCPM2-Acoustic-F16.gguf",
+      "sha256": "5bde898488ad635ff55d24da53543768fa33d5e5cdc538ce190e5ef831038e85"
+    }
+  ]
+}

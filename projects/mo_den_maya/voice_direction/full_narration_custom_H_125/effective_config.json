@@ -1,0 +1,57 @@
+{
+  "profile": {
+    "version": 1,
+    "engine": "voxcpm2-gguf-local",
+    "name": "Mỏ Đen · custom H · Bắc",
+    "status": "user_selected_for_maya",
+    "language": "vi-VN",
+    "region": "Bắc",
+    "region_basis": "User requested Northern Vietnamese and selected this generated audition.",
+    "selected_audition": "projects\\mo_den_maya\\voice_direction\\local_custom_voices_nam_v3\\08_nam_custom_H_1_25x.wav",
+    "selected_audition_sha256": "5c60cc8104b003ca66e399cf9709d51f327139a488714f86b3b2e4a445dcbc4d",
+    "reference": "voices/references/mo_den_custom_H/H_native.wav",
+    "reference_sha256": "230ecebba03b9b47cbb27a0f9dfa757eefa5ccb2fd73e3ac51252e61fa93c68d",
+    "native_reference_reason": "Exact unretimed original of selected H; apply 1.25x once after synthesis, avoiding double speed.",
+    "reference_transcript": "Khoan đã! Nghe thì có lý, nhưng bằng chứng đâu? Mình là Mỏ Đen. Cùng mình soi từng dấu vết nhé. Đừng vội kéo người ngoài hành tinh vào, cứ để họ nghỉ một hôm đã! Có khi câu trả lời nằm ngay dưới chân mình đấy. Thử nghe sáu thanh: ma, má, mà, mả, mã, mạ.",
+    "source_prompt": "A native Vietnamese man from Hanoi speaking Vietnamese in a consistent standard Northern accent, with clear Northern vowels and six distinct Vietnamese lexical tones. Natural adult mid-range pitch. A male voice around thirty with a distinctive soft husky edge, slightly breathy texture and light resonance. Easygoing conversational rhythm, understated teasing humor and friendly curiosity. Spoken intimacy, never a solemn announcement or dramatic narration.",
+    "source_seed": 284617,
+    "production_speed": 1.25,
+    "additional_pitch_semitones": 0,
+    "selection_scope": "Maya full narration",
+    "listening_qc": "User selected audition; new full narration still pending listening."
+  },
+  "settings": {
+    "reference_sha256": "69377222bee5ddeb038452f8e44ca202b118d5eb7d2c58a7876e25c4527b718e",
+    "models": {
+      "VoxCPM2-BaseLM-Q8_0.gguf": "0113177abd11303503bf0b705e1613ec5f0a8508cc74a7dfd0f99312b962a962",
+      "VoxCPM2-Acoustic-F16.gguf": "5bde898488ad635ff55d24da53543768fa33d5e5cdc538ce190e5ef831038e85"
+    },
+    "engine": "VoxCPM2 GGUF clone API",
+    "seed": 284617,
+    "max_steps": 350,
+    "timesteps": 10,
+    "cfg": 2.0,
+    "temperature": 1.0,
+    "text_normalization": "Original Vietnamese text, no aliases or punctuation replacements",
+    "reference_rate": 16000,
+    "reference_origin": "Unretimed native original of selected H",
+    "backend": "Vulkan",
+    "gpu_layers": 29,
+    "context_capacity": 2048,
+    "reference_prefill": "Compact active patches; one-reference cache in a single-model batch process; numerical compaction error verified 0"
+  },
+  "beats": 36,
+  "semantic_units": 169,
+  "source_cues": 275,
+  "speed_multiplier": 1.25,
+  "pitch_multiplier": 1.0,
+  "source_files": {
+    "00_DOC_TRUOC_VA_PROMPT_CODEX.md": "b715fbc0c9d8923d932e82c4c006800e93312b8219533dae2a238ec980c76fbc",
+    "01_Loi_Ke_Sach.txt": "bba07ffefe43c109163d44fc041d4693c164a9aaf9a313631ff5d2f113dad434",
+    "02_Dao_Dien_Giong_Viet.json": "fb742cc2234d4eb8b99122fc879fae1d65e4b2b43d73ca1df0c3f7b844f5f7b5",
+    "03_Maya_Timecode_Tham_Chieu.srt": "76ddaaeb0452d3c5c45aa7f04a08bdb34da52371724f7a088406240eb0aafabd"
+  },
+  "reading_edit_ledger": [],
+  "emphasis_scope": "Modest whole semantic unit gain/pace, no aligned syllable control",
+  "independent_listening_qc": "Pending; selected short audition does not pass all narration"
+}

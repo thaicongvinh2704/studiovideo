@@ -1,0 +1,50 @@
+[
+  {
+    "type": "file",
+    "oid": "e9d1589b2f9f393305ce3662faa01f796bb2d8ca",
+    "size": 1702,
+    "path": ".gitattributes"
+  },
+  {
+    "type": "file",
+    "oid": "48446aba0b17329c8c35cdea573238ef90408ac9",
+    "size": 3560,
+    "path": "README.md"
+  },
+  {
+    "type": "file",
+    "oid": "03d30096fe02d9842a2a03054bac080a75144ff7",
+    "size": 1825096352,
+    "lfs": {
+      "oid": "5bde898488ad635ff55d24da53543768fa33d5e5cdc538ce190e5ef831038e85",
+      "size": 1825096352,
+      "pointerSize": 135
+    },
+    "xetHash": "4264c34ad8e0d704babef53fde6e784ab3c1dfe2dfd9dea2baf3f25499a4b384",
+    "path": "VoxCPM2-Acoustic-F16.gguf"
+  },
+  {
+    "type": "file",
+    "oid": "95f6dc3cb3ecb7c3947e77402535afea73e2ed7f",
+    "size": 3247980544,
+    "lfs": {
+      "oid": "8be62e899f8f32b3c2109c99950b46671135a8f40b27b1df720f6823d36cc59e",
+      "size": 3247980544,
+      "pointerSize": 135
+    },
+    "xetHash": "d3c1dd957a7aa9a7849927d7a1cbc22d3e1e553215bb70e402a045ef0cc64799",
+    "path": "VoxCPM2-BaseLM-F16.gguf"
+  },
+  {
+    "type": "file",
+    "oid": "3f2429fce18b704b0fce0bdb82048a2112a94d3c",
+    "size": 1727309920,
+    "lfs": {
+      "oid": "0113177abd11303503bf0b705e1613ec5f0a8508cc74a7dfd0f99312b962a962",
+      "size": 1727309920,
+      "pointerSize": 135
+    },
+    "xetHash": "6a1236a1734d71a10a0b1a658d8f035ce709181ad7dfcd6728f1703a74aad6cd",
+    "path": "VoxCPM2-BaseLM-Q8_0.gguf"
+  }
+]

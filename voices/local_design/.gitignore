@@ -1,0 +1,6 @@
+/models/
+/downloads/
+/vendor/
+/build*/
+*.log
+*.partial

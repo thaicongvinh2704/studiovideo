@@ -1,0 +1,62 @@
+{
+  "completed": true,
+  "variants": [
+    {
+      "id": "01_custom_A",
+      "seed": 20261021,
+      "prompt": "A young adult Vietnamese man speaking Vietnamese with Northern Hanoi pronunciation. Medium pitch, light vocal weight, clear Vietnamese tones, playful and mischievous, a subtle smile, nimble conversational storytelling, brisk natural pacing. Forward clear timbre, a hint of nasality, crisp consonants, friendly impish curiosity and dry understated humor.",
+      "native_seconds": 17.12,
+      "original_sha256": "56937094fd4e37c722d124bc9f63f2708ea1d83a7ad726ce24447a5a7c0e0547",
+      "file": "01_custom_A_1_25x.wav",
+      "seconds": 13.696,
+      "sha256": "268942204b3299f64b4a1daf94996118060ec208da7b37e88a325955d3e78df0",
+      "loudness": {
+        "input_i": -18.74,
+        "input_tp": -1.9,
+        "input_lra": 2.1,
+        "input_thresh": -28.96
+      }
+    },
+    {
+      "id": "02_custom_B",
+      "seed": 20261022,
+      "prompt": "A young adult Vietnamese man speaking Vietnamese with Northern Hanoi pronunciation. Medium pitch, light vocal weight, clear Vietnamese tones, playful and mischievous, a subtle smile, nimble conversational storytelling, brisk natural pacing. Round smooth timbre with a little air at phrase endings, relaxed throat, warm cheeky delivery, quick witty phrasing.",
+      "native_seconds": 17.28,
+      "original_sha256": "4aa49ee4d20cc618c8ba59540a64a06ba959a93a24b63e5f32501840e5abedeb",
+      "file": "02_custom_B_1_25x.wav",
+      "seconds": 13.762916666666667,
+      "sha256": "936e655346da36367fde0cfe134e878b025195f95af8b5126824e9e73ab5adb2",
+      "loudness": {
+        "input_i": -18.74,
+        "input_tp": -2.24,
+        "input_lra": 3.4,
+        "input_thresh": -28.98
+      }
+    },
+    {
+      "id": "03_custom_C",
+      "seed": 20261023,
+      "prompt": "A young adult Vietnamese man speaking Vietnamese with Northern Hanoi pronunciation. Medium pitch, light vocal weight, clear Vietnamese tones, playful and mischievous, a subtle smile, nimble conversational storytelling, brisk natural pacing. Lightly grainy papery timbre, bright clear vowels, springy rhythmic phrasing, expressive curiosity and a restrained teasing smile.",
+      "native_seconds": 22.24,
+      "original_sha256": "4f28049200e8a851b850d52e2e1794b210ee6067144e5896f2e7d468297310b1",
+      "file": "03_custom_C_1_25x.wav",
+      "seconds": 17.792,
+      "sha256": "c05e5e9a9a0bc2a20c96df1f143c00b0302b6be488654d0e37da204e7c0c584e",
+      "loudness": {
+        "input_i": -18.75,
+        "input_tp": -1.8,
+        "input_lra": 2.4,
+        "input_thresh": -29.06
+      }
+    }
+  ],
+  "engine": "VoxCPM2 local via llama.cpp-omni",
+  "offline": true,
+  "preset": null,
+  "reference_audio": null,
+  "new_speakers_by_description": true,
+  "default_voice_unchanged": true,
+  "preview_speed": 1.25,
+  "listening_qc": "PENDING_USER_LISTENING: pronunciation, full audible text, accent, naturalness and playfulness are not passed by technical checks.",
+  "persistence": "Originals, descriptions and seeds retained. A new generation may vary; lock approved generated voice as a local reference before full production."
+}

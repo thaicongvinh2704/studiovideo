@@ -1,0 +1,356 @@
+{
+  "excerpt_source_cues": [
+    252,
+    258
+  ],
+  "slug": "03_nhin_lai_su_sup_do",
+  "seed": 20261023,
+  "text": "Điều khiến tôi nghĩ mãi là người sống lúc ấy có nhận ra bước ngoặt hay không. Hay với họ, đó chỉ là thêm một mùa khó khăn mà gia đình phải cố vượt qua? Sử sách nhìn được cả một quãng dài. Người trong cuộc thì không biết trước chuyện gì sẽ đến. Chúng ta nhìn lại và gọi cả chuỗi ấy là sự sụp đổ. Người sống trong chuỗi ấy phải giải quyết từng ngày. Có lẽ vì thế mà câu hỏi ở đầu video vẫn rất gần gũi. Nếu là bạn, đến khi nào bạn sẽ quyết định rời đi?",
+  "text_origin": "Exact spans of beats[].text; source_cues used only for traceability.",
+  "baseline_config": {
+    "text": "Điều khiến tôi nghĩ mãi là người sống lúc ấy có nhận ra bước ngoặt hay không. Hay với họ, đó chỉ là thêm một mùa khó khăn mà gia đình phải cố vượt qua? Sử sách nhìn được cả một quãng dài. Người trong cuộc thì không biết trước chuyện gì sẽ đến. Chúng ta nhìn lại và gọi cả chuỗi ấy là sự sụp đổ. Người sống trong chuỗi ấy phải giải quyết từng ngày. Có lẽ vì thế mà câu hỏi ở đầu video vẫn rất gần gũi. Nếu là bạn, đến khi nào bạn sẽ quyết định rời đi?",
+    "profile_sha256": "04a8c62e3168ae6bc918fb8d6b6ec47859b496e6e1a9115bca479f51dfc52f66",
+    "seed": 20261023,
+    "sdk": "3.8.3",
+    "pipeline": "current ReferenceSynthesizer.synthesize v1"
+  },
+  "directed_units": [
+    {
+      "beat_id": "beat_33",
+      "source_cue_ids": [
+        252,
+        253,
+        254
+      ],
+      "text": "Điều khiến tôi nghĩ mãi là người sống lúc ấy có nhận ra bước ngoặt hay không. Hay với họ, đó chỉ là thêm một mùa khó khăn mà gia đình phải cố vượt qua? Sử sách nhìn được cả một quãng dài. Người trong cuộc thì không biết trước chuyện gì sẽ đến.",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 0.98,
+      "gain_db": 0.0,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "matched_emphasis_phrases": [],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Suy tư, đồng cảm",
+        "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+        "emotion_intensity": "vừa",
+        "emphasis_phrases": [
+          "từng ngày",
+          "bạn sẽ quyết định rời đi"
+        ],
+        "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+      },
+      "actual_engine_chunks": [
+        "điều khiến tôi nghĩ mãi là người sống lúc ấy có nhận ra bước ngoặt hay không. hay với họ, đó chỉ là thêm một mùa khó khăn mà gia đình phải cố vượt qua? sử sách nhìn được cả một quãng dài. người trong cuộc thì không biết trước chuyện gì sẽ đến."
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "beat_id": "beat_33",
+      "source_cue_ids": [
+        255
+      ],
+      "text": "Chúng ta nhìn lại và gọi cả chuỗi ấy là sự sụp đổ.",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 0.98,
+      "gain_db": 0.0,
+      "pause": {
+        "target_ms": 300,
+        "source": "pause_event",
+        "reason": "Đổi góc nhìn từ người nhìn lại sang người sống trong sự kiện.",
+        "replaces_beat_pause": false
+      },
+      "matched_emphasis_phrases": [],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Suy tư, đồng cảm",
+        "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+        "emotion_intensity": "vừa",
+        "emphasis_phrases": [
+          "từng ngày",
+          "bạn sẽ quyết định rời đi"
+        ],
+        "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+      },
+      "actual_engine_chunks": [
+        "chúng ta nhìn lại và gọi cả chuỗi ấy là sự sụp đổ."
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "beat_id": "beat_33",
+      "source_cue_ids": [
+        256
+      ],
+      "text": "Người sống trong chuỗi ấy phải giải quyết từng ngày.",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 0.9702,
+      "gain_db": 0.45,
+      "pause": {
+        "target_ms": 600,
+        "source": "pause_event",
+        "reason": "Điểm nhấn từng ngày cần khoảng nghỉ sau câu.",
+        "replaces_beat_pause": false
+      },
+      "matched_emphasis_phrases": [
+        "từng ngày"
+      ],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Suy tư, đồng cảm",
+        "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+        "emotion_intensity": "vừa",
+        "emphasis_phrases": [
+          "từng ngày",
+          "bạn sẽ quyết định rời đi"
+        ],
+        "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+      },
+      "actual_engine_chunks": [
+        "người sống trong chuỗi ấy phải giải quyết từng ngày."
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "beat_id": "beat_33",
+      "source_cue_ids": [
+        257
+      ],
+      "text": "Có lẽ vì thế mà câu hỏi ở đầu video vẫn rất gần gũi.",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 0.98,
+      "gain_db": 0.0,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "matched_emphasis_phrases": [],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Suy tư, đồng cảm",
+        "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+        "emotion_intensity": "vừa",
+        "emphasis_phrases": [
+          "từng ngày",
+          "bạn sẽ quyết định rời đi"
+        ],
+        "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+      },
+      "actual_engine_chunks": [
+        "có lẽ vì thế mà câu hỏi ở đầu video vẫn rất gần gũi."
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "beat_id": "beat_33",
+      "source_cue_ids": [
+        258
+      ],
+      "text": "Nếu là bạn, đến khi nào bạn sẽ quyết định rời đi?",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 0.9702,
+      "gain_db": 0.45,
+      "pause": {
+        "target_ms": 700,
+        "source": "pause_event",
+        "reason": "Để người nghe cân nhắc câu hỏi.",
+        "replaces_beat_pause": true
+      },
+      "matched_emphasis_phrases": [
+        "bạn sẽ quyết định rời đi"
+      ],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Suy tư, đồng cảm",
+        "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+        "emotion_intensity": "vừa",
+        "emphasis_phrases": [
+          "từng ngày",
+          "bạn sẽ quyết định rời đi"
+        ],
+        "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+      },
+      "actual_engine_chunks": [
+        "nếu là bạn, đến khi nào bạn sẽ quyết định rời đi?"
+      ],
+      "actual_engine_gaps": []
+    }
+  ],
+  "pause_log": [
+    {
+      "after_source_cue": 254,
+      "requested_total_ms": 350,
+      "estimated_existing_trailing_ms": 100.0,
+      "estimated_next_leading_ms": 70.0,
+      "added_ms": 180.0,
+      "source": "semantic_boundary",
+      "replaces_beat_pause": false,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    },
+    {
+      "after_source_cue": 255,
+      "requested_total_ms": 300,
+      "estimated_existing_trailing_ms": 180.0,
+      "estimated_next_leading_ms": 60.0,
+      "added_ms": 60.0,
+      "source": "pause_event",
+      "replaces_beat_pause": false,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    },
+    {
+      "after_source_cue": 256,
+      "requested_total_ms": 600,
+      "estimated_existing_trailing_ms": 130.0,
+      "estimated_next_leading_ms": 70.0,
+      "added_ms": 400.0,
+      "source": "pause_event",
+      "replaces_beat_pause": false,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    },
+    {
+      "after_source_cue": 257,
+      "requested_total_ms": 350,
+      "estimated_existing_trailing_ms": 200.0,
+      "estimated_next_leading_ms": 70.0,
+      "added_ms": 80.0,
+      "source": "semantic_boundary",
+      "replaces_beat_pause": false,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    },
+    {
+      "after_source_cue": 258,
+      "requested_total_ms": 700,
+      "estimated_existing_trailing_ms": 140.0,
+      "estimated_next_leading_ms": 0.0,
+      "added_ms": 560.0,
+      "source": "pause_event",
+      "replaces_beat_pause": true,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    }
+  ],
+  "directed_timing": [
+    {
+      "start_seconds": 0.0,
+      "end_seconds": 12.756604166666667,
+      "source_cue_ids": [
+        252,
+        253,
+        254
+      ],
+      "text": "Điều khiến tôi nghĩ mãi là người sống lúc ấy có nhận ra bước ngoặt hay không. Hay với họ, đó chỉ là thêm một mùa khó khăn mà gia đình phải cố vượt qua? Sử sách nhìn được cả một quãng dài. Người trong cuộc thì không biết trước chuyện gì sẽ đến.",
+      "pause_target": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "pace_multiplier": 0.98,
+      "gain_db": 0.0
+    },
+    {
+      "start_seconds": 12.936604166666667,
+      "end_seconds": 15.626770833333333,
+      "source_cue_ids": [
+        255
+      ],
+      "text": "Chúng ta nhìn lại và gọi cả chuỗi ấy là sự sụp đổ.",
+      "pause_target": {
+        "target_ms": 300,
+        "source": "pause_event",
+        "reason": "Đổi góc nhìn từ người nhìn lại sang người sống trong sự kiện.",
+        "replaces_beat_pause": false
+      },
+      "pace_multiplier": 0.98,
+      "gain_db": 0.0
+    },
+    {
+      "start_seconds": 15.686770833333334,
+      "end_seconds": 17.965833333333336,
+      "source_cue_ids": [
+        256
+      ],
+      "text": "Người sống trong chuỗi ấy phải giải quyết từng ngày.",
+      "pause_target": {
+        "target_ms": 600,
+        "source": "pause_event",
+        "reason": "Điểm nhấn từng ngày cần khoảng nghỉ sau câu.",
+        "replaces_beat_pause": false
+      },
+      "pace_multiplier": 0.9702,
+      "gain_db": 0.45
+    },
+    {
+      "start_seconds": 18.365833333333335,
+      "end_seconds": 21.489895833333335,
+      "source_cue_ids": [
+        257
+      ],
+      "text": "Có lẽ vì thế mà câu hỏi ở đầu video vẫn rất gần gũi.",
+      "pause_target": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "pace_multiplier": 0.98,
+      "gain_db": 0.0
+    },
+    {
+      "start_seconds": 21.569895833333334,
+      "end_seconds": 24.199583333333333,
+      "source_cue_ids": [
+        258
+      ],
+      "text": "Nếu là bạn, đến khi nào bạn sẽ quyết định rời đi?",
+      "pause_target": {
+        "target_ms": 700,
+        "source": "pause_event",
+        "reason": "Để người nghe cân nhắc câu hỏi.",
+        "replaces_beat_pause": true
+      },
+      "pace_multiplier": 0.9702,
+      "gain_db": 0.45
+    }
+  ],
+  "comparison_target_lufs": -18.529999999999998,
+  "audio": [
+    {
+      "version": "A",
+      "file": "03_nhin_lai_su_sup_do\\A_pipeline_hien_tai.wav",
+      "seconds": 23.281,
+      "sha256": "4a54def48ea7e09fc6f4ae54b8d23e4c79c41959971c5bc89634a116001e38bb",
+      "loudness": {
+        "input_i": -18.53,
+        "input_tp": -2.29,
+        "input_lra": 2.1,
+        "input_thresh": -28.73
+      },
+      "linear_comparison_gain_db": -0.29999999999999716,
+      "text_sha256": "fa7866cd010e236ef744fd8023cb88254540a5aee491e6ef9eed5cafcc724c63"
+    },
+    {
+      "version": "B",
+      "file": "03_nhin_lai_su_sup_do\\B_dao_dien_json.wav",
+      "seconds": 24.76,
+      "sha256": "3a6f3c06f093bf491713693ec112f8045943a67df6de651745cc78bb83a7fbc0",
+      "loudness": {
+        "input_i": -18.53,
+        "input_tp": -1.5,
+        "input_lra": 1.9,
+        "input_thresh": -28.78
+      },
+      "linear_comparison_gain_db": 0.05000000000000071,
+      "text_sha256": "fa7866cd010e236ef744fd8023cb88254540a5aee491e6ef9eed5cafcc724c63"
+    }
+  ],
+  "pronunciation_terms_in_excerpt": [],
+  "listening_status": "CHƯA NGHE KIỂM TRA; không suy ra đạt từ chỉ số.",
+  "normalized_reading_edits": [],
+  "normalization_note": "Giữ nguyên lời và chính tả tên; chỉ gộp khoảng trắng. Số đã viết bằng chữ. Không bịa phiên âm."
+}

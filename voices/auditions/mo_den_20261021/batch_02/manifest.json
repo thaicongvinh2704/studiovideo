@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "engine": "VieNeu-TTS v3 Turbo 3.8.3",
+  "source": "installed preset catalog",
+  "source_repo": "https://github.com/pnnbao97/VieNeu-TTS",
+  "text": "Khoan đã! Nghe thì có lý, nhưng bằng chứng đâu? Mình là Mỏ Đen. Cùng mình lần theo từng dấu vết nhé. Biết đâu, điều thú vị nhất lại nằm ở chi tiết mà chúng ta vừa bỏ qua!",
+  "conditions": "Same text, seed, sampling, unaltered pitch and tempo; no music; -18 LUFS target.",
+  "status": "auditions_only_no_voice_selected",
+  "listening_review": "not_performed",
+  "candidates": [
+    {
+      "id": "05_thien_minh",
+      "voice": "Thiện Minh",
+      "catalog_label": "⭐ Thiện Minh — Nam · Bắc · Phong cách kể chuyện",
+      "file": "05_thien_minh.wav",
+      "seconds": 9.63,
+      "peak": 0.79437,
+      "rms": 0.13655,
+      "finite": true,
+      "sha256": "6ce09f6c2c4c0d2304f9a1e787b17d82bc47ce766cd145ffb209a45d1ff66c25",
+      "generated_seconds": 5.13
+    },
+    {
+      "id": "06_pham_tuyen",
+      "voice": "Phạm Tuyên",
+      "catalog_label": "Phạm Tuyên — Nam · Bắc · Phong cách tự nhiên",
+      "file": "06_pham_tuyen.wav",
+      "seconds": 9.27,
+      "peak": 0.79431,
+      "rms": 0.131,
+      "finite": true,
+      "sha256": "774ca74486383855d08b2020b6097a5d11253dc7d56b464a442834e34310aeae",
+      "generated_seconds": 4.77
+    },
+    {
+      "id": "07_adam",
+      "voice": "Adam",
+      "catalog_label": "Adam — Nam · Nam · Giọng đọc tự nhiên",
+      "file": "07_adam.wav",
+      "seconds": 8.94,
+      "peak": 0.79434,
+      "rms": 0.12369,
+      "finite": true,
+      "sha256": "62999644162fe1f28a0fbdab78797baf09c17623d9bc6a11f7e71bcda13c1c13",
+      "generated_seconds": 4.82
+    },
+    {
+      "id": "08_quang_son",
+      "voice": "Quang Sơn",
+      "catalog_label": "⭐ Quang Sơn — Nam · Trung · Phong cách tự nhiên",
+      "file": "08_quang_son.wav",
+      "seconds": 11.63,
+      "peak": 0.79428,
+      "rms": 0.1245,
+      "finite": true,
+      "sha256": "fa2559329eb766f4439069d314384b3775bde3bbd634bce9a4bc376f9dff696b",
+      "generated_seconds": 6.19
+    },
+    {
+      "id": "09_ngoc_huyen",
+      "voice": "Ngọc Huyền",
+      "catalog_label": "⭐ Ngọc Huyền — Nữ · Bắc · Giọng đọc tự nhiên",
+      "file": "09_ngoc_huyen.wav",
+      "seconds": 9.76,
+      "peak": 0.71158,
+      "rms": 0.12941,
+      "finite": true,
+      "sha256": "fba5edc5177f7496a83b75379f09a9d77ef65eb9c0b07a461f49be1b65a09977",
+      "generated_seconds": 4.85
+    },
+    {
+      "id": "10_thuc_doan",
+      "voice": "Thục Đoan",
+      "catalog_label": "Thục Đoan — Nữ · Nam · Phong cách kể chuyện",
+      "file": "10_thuc_doan.wav",
+      "seconds": 11.0,
+      "peak": 0.79434,
+      "rms": 0.12925,
+      "finite": true,
+      "sha256": "a6c7e170b21c1e8385a52ff5e4c92bff403c2847572598fb11ce9e9da1a6f677",
+      "generated_seconds": 5.61
+    }
+  ]
+}

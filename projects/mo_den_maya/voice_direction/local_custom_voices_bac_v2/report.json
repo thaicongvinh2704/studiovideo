@@ -1,0 +1,62 @@
+{
+  "completed": true,
+  "variants": [
+    {
+      "id": "04_bac_custom_D",
+      "seed": 20261104,
+      "prompt": "Native Vietnamese man from Hanoi, speaking standard Northern Vietnamese only. Consistent Hanoi vowel pronunciation and all six Northern Vietnamese lexical tones, including distinct hoi and nga tones. No Southern or Central Vietnamese accent. Young adult male, medium speaking pitch, light vocal weight, lively conversational storytelling with a subtle mischievous smile. Clear natural phrasing and crisp words. A clear forward youthful timbre with a small nasal edge, nimble witty articulation, friendly teasing humor and spontaneous curiosity, like chatting with a close friend.",
+      "native_seconds": 20.48,
+      "original_sha256": "37267e36068c9c271198ae43bc4ebadc1fe91ebb9ef61b934327f1a083732d5b",
+      "file": "04_bac_custom_D_1_25x.wav",
+      "seconds": 16.320416666666667,
+      "sha256": "a170add553a820477ec856d856d43bb0b7f9338ddd61afe3c6d1563832e73976",
+      "loudness": {
+        "input_i": -20.87,
+        "input_tp": -3.94,
+        "input_lra": 3.4,
+        "input_thresh": -31.31
+      }
+    },
+    {
+      "id": "05_bac_custom_E",
+      "seed": 20261105,
+      "prompt": "Native Vietnamese man from Hanoi, speaking standard Northern Vietnamese only. Consistent Hanoi vowel pronunciation and all six Northern Vietnamese lexical tones, including distinct hoi and nga tones. No Southern or Central Vietnamese accent. Young adult male, medium speaking pitch, light vocal weight, lively conversational storytelling with a subtle mischievous smile. Clear natural phrasing and crisp words. A rounded light clean timbre, buoyant rhythm, relaxed open vowels, a friendly cheeky grin and playful surprise at questions. Intimate informal delivery, not a solemn narrator.",
+      "native_seconds": 21.28,
+      "original_sha256": "6c46a9331c8af57e8296a2a8b63d8f64576812f233e2043156b6dd02aece5c2a",
+      "file": "05_bac_custom_E_1_25x.wav",
+      "seconds": 17.024,
+      "sha256": "20d90ff8bec93820bcfa3c2adfcf8f3fe746a3aee749886ed030fc2dad07487d",
+      "loudness": {
+        "input_i": -20.86,
+        "input_tp": -2.38,
+        "input_lra": 2.3,
+        "input_thresh": -31.24
+      }
+    },
+    {
+      "id": "06_bac_custom_F",
+      "seed": 20261106,
+      "prompt": "Native Vietnamese man from Hanoi, speaking standard Northern Vietnamese only. Consistent Hanoi vowel pronunciation and all six Northern Vietnamese lexical tones, including distinct hoi and nga tones. No Southern or Central Vietnamese accent. Young adult male, medium speaking pitch, light vocal weight, lively conversational storytelling with a subtle mischievous smile. Clear natural phrasing and crisp words. A slightly textured airy youthful timbre, agile phrasing, understated deadpan wit and a soft amused smile, light resonance rather than heavy chest resonance.",
+      "native_seconds": 17.12,
+      "original_sha256": "fca5347efa660adaeb83e720ba6ba336f3506e0214985e67dca2cd3e1f77f69e",
+      "file": "06_bac_custom_F_1_25x.wav",
+      "seconds": 13.696,
+      "sha256": "48e1de8d9cc359d7c683729f55c544ca2046481a33ef7372f186a1ce185e0ac7",
+      "loudness": {
+        "input_i": -20.86,
+        "input_tp": -1.8,
+        "input_lra": 2.5,
+        "input_thresh": -30.94
+      }
+    }
+  ],
+  "engine": "VoxCPM2 local via llama.cpp-omni",
+  "offline": true,
+  "preset": null,
+  "reference_audio": null,
+  "new_speakers_by_description": true,
+  "default_voice_unchanged": true,
+  "preview_speed": 1.25,
+  "listening_qc": "PENDING_USER_LISTENING: pronunciation, full audible text, accent, naturalness and playfulness are not passed by technical checks.",
+  "persistence": "Originals, descriptions and seeds retained. A new generation may vary; lock approved generated voice as a local reference before full production."
+}

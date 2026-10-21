@@ -1,0 +1,61 @@
+{
+  "method": "Measured semantic synthesis units / 1.25, approximate after time stretch",
+  "units": [
+    {
+      "unit": 1,
+      "text": "Giữa rừng nhiệt đới, những ngôi đền vẫn đứng đó. Người xây chúng biết quan sát bầu trời, trữ nước, thậm chí dùng khoáng vật để lọc nước uống. Vậy mà rồi, nhiều người vẫn phải rời thành phố.",
+      "beat_id": "beat_01",
+      "source_cue_ids": [
+        1,
+        2,
+        3
+      ],
+      "final_start_seconds": 0.0,
+      "final_end_seconds": 8.32,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "added_ms": 240.0
+      },
+      "raw_sha256": "52fe1e3dd42875f6c9b78fc799bf728389cecada3c15d8cca7b6126172e3c2f1"
+    },
+    {
+      "unit": 2,
+      "text": "Nếu đã làm được từng ấy việc, vì sao họ không thể tiếp tục sống ở đây?",
+      "beat_id": "beat_01",
+      "source_cue_ids": [
+        4
+      ],
+      "final_start_seconds": 8.512,
+      "final_end_seconds": 11.744316666666666,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "added_ms": 200.0
+      },
+      "raw_sha256": "e11509e97e0c9d4c93ba27512f97ad8f5ba9158157841c31c9f6bf12aca16e3e"
+    },
+    {
+      "unit": 3,
+      "text": "Có một điều cần làm rõ ngay: người Maya không biến mất. Họ vẫn sống đến hôm nay.",
+      "beat_id": "beat_01",
+      "source_cue_ids": [
+        5
+      ],
+      "final_start_seconds": 11.904316666666666,
+      "final_end_seconds": 15.98055,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "added_ms": 290.0
+      },
+      "raw_sha256": "01c69af8951d7294b1a805bb956066385ec1caacb38b2cbe48272f6c1e08c7da"
+    }
+  ]
+}

@@ -1,0 +1,3265 @@
+{
+  "srt": {
+    "file": "C:\\Users\\ADMIN\\Downloads\\Mo_Den_Maya_Giong_Ke_Tu_Nhien.srt",
+    "sha256": "76ddaaeb0452d3c5c45aa7f04a08bdb34da52371724f7a088406240eb0aafabd",
+    "cues": 275,
+    "duration_seconds": 1023.726,
+    "syllable_like_tokens": 4049,
+    "timing_issues": [],
+    "voice_alignment": "not_yet_generated_or_aligned"
+  },
+  "packs": [
+    {
+      "label": "maya_48",
+      "source": "C:\\Users\\ADMIN\\Downloads\\Mo_Den_Maya_48_Anh_151_198_v1 (1).zip",
+      "sha256": "f773993fd16c084d1d5dac9e1149bc855c94d50b25df3d23aae5be498e76169c",
+      "crc_error": null,
+      "items": [
+        {
+          "id": 151,
+          "name": "Đô thị Maya được duy trì",
+          "file": "01_boi_canh/do_thi/151_do_thi_duoc_duy_tri.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "9b8659e10b777a80918093fbc159b0474174006a1f4a5b26625ce6ccc5354cef",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 152,
+          "name": "Đô thị Maya xuống cấp",
+          "file": "01_boi_canh/do_thi/152_do_thi_xuong_cap.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "0aa6dbac45a8ce1ce0e34e84f4adbfe6afc9acf2b43ca55d8a1e0653bab1da77",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 153,
+          "name": "Đô thị Maya có cây mọc lấn",
+          "file": "01_boi_canh/do_thi/153_do_thi_cay_moc_lan.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "2b28faf06912c31bb1e22f67bf493889594e5c2cbff8f86e763d43f4431af573",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 154,
+          "name": "Chợ có nhiều hàng hóa",
+          "file": "01_boi_canh/cho/154_cho_du_hang.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "a795d7eac3fb1f569673748e9ec62afa5972d00f27410e5dc39a4194183b5b6a",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 155,
+          "name": "Chợ còn ít hàng hóa",
+          "file": "01_boi_canh/cho/155_cho_it_hang.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "fa8f274a90bb3ca9a5b298dc87439423581e46d827d17488a66e360b16c6ae65",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 156,
+          "name": "Chợ bỏ trống",
+          "file": "01_boi_canh/cho/156_cho_bo_trong.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "7f86056c7d4b9f389b5231550e1ea802fcaf453bb0ce99b8cf70b7ec49945745",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 157,
+          "name": "Hồ chứa đầy nước",
+          "file": "01_boi_canh/ho_chua/157_ho_chua_day_nuoc.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "2304313b0eb8b05c256c8eb82e11457ca03feefb08ea881e6a351e4b0072cb7b",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 158,
+          "name": "Hồ chứa có mực nước thấp",
+          "file": "01_boi_canh/ho_chua/158_ho_chua_nuoc_thap.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "01956d27dcc74eba93ba386adbdcf6370b726c36ba360d0cc10fa478834f66e5",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 159,
+          "name": "Hồ chứa gần cạn",
+          "file": "01_boi_canh/ho_chua/159_ho_chua_gan_can.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "49b31dc5741babb663e12b92eaa01da63293cb0a373a9ea413d6e5491e201aec",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 160,
+          "name": "Hồ tự nhiên",
+          "file": "01_boi_canh/ho_tram_tich/160_ho_tram_tich_nguyen_ven.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "5ada3f58f737ba5c7c8ec1c074f4d20ecb49bd71767fb3971ab4cd87a5b552c3",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 161,
+          "name": "Hồ và mặt cắt trầm tích minh họa",
+          "file": "01_boi_canh/ho_tram_tich/161_ho_tram_tich_mat_cat_minh_hoa.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "911ad0bc589b6812f826085830236ba1c90a79eb71cb75310676a8f8f206b54b",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 162,
+          "name": "Vị trí lấy mẫu trầm tích minh họa",
+          "file": "01_boi_canh/ho_tram_tich/162_ho_tram_tich_vi_tri_lay_mau.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "764655d905ead5e0bc6613336fd4e0c3b39c9fadd113e9bb33b5559d1bba2f9a",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 163,
+          "name": "Ruộng ngô xanh tốt",
+          "file": "01_boi_canh/ruong_ngo/163_ruong_ngo_xanh_tot.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "b237ef3d4b812909a071521af56733eeb36499fd434554028af98cb8b211d53c",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 164,
+          "name": "Ruộng ngô héo",
+          "file": "01_boi_canh/ruong_ngo/164_ruong_ngo_heo.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "00c52cbbba7f52bbbccf96b352509dd97203f7ec048622d3f0733559e9efb3ef",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 165,
+          "name": "Ruộng ngô thất mùa",
+          "file": "01_boi_canh/ruong_ngo/165_ruong_ngo_that_mua.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "f7388b5d6af7578fc2e886e999c92042ec93fb0638c9b09d56eb4b57968ef033",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 166,
+          "name": "Kho lương đầy",
+          "file": "01_boi_canh/kho_luong/166_kho_luong_day.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "53e8951064bc7930f220f41dadf6b535694ec11f77e39449c5bb635bbafe51f7",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 167,
+          "name": "Kho lương còn ít",
+          "file": "01_boi_canh/kho_luong/167_kho_luong_con_it.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "eb9f357825a89ab9dfe6d4d36231d8bd5728803c207c905c903920bee0623a2d",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 168,
+          "name": "Kho lương gần trống",
+          "file": "01_boi_canh/kho_luong/168_kho_luong_gan_trong.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "1266e2fc534891aa916625daa84e762af7ba3f47a87632955c90e3483ad6835e",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 169,
+          "name": "Đường nối khu dân cư thông suốt",
+          "file": "01_boi_canh/duong_noi/169_duong_noi_thong_suot.png",
+          "size": [
+            1671,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "b46ceb7c7e7bdc80b7a6691c2c30470850fb31c059324f392e7853356077f205",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 170,
+          "name": "Đường nối khu dân cư hư hại",
+          "file": "01_boi_canh/duong_noi/170_duong_noi_hu_hai.png",
+          "size": [
+            1671,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "23696514cb1d66d49f3dd0accfbdf910739fe208a4d2dc57a80eec75e3cc7d37",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 171,
+          "name": "Đường nối khu dân cư bị chặn",
+          "file": "01_boi_canh/duong_noi/171_duong_noi_bi_chan.png",
+          "size": [
+            1671,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "312302a413ad3c431c4a12d88e6819da420ebe6401a1a4fc5bc17efcfc420b1f",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 172,
+          "name": "Nhà và sân đang có sinh hoạt",
+          "file": "01_boi_canh/nha_san/172_nha_va_san_sinh_hoat.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "efbe6ebc1f8004795b7ef7a9ab2535dc1e29fa3c72219b3a81a947ce49815e77",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 173,
+          "name": "Nhà và sân chuẩn bị rời đi",
+          "file": "01_boi_canh/nha_san/173_nha_va_san_chuan_bi_roi_di.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "ee4fcdf433183585274163709730c17fcd99168cf30b5a41eb8ea970705a5ed4",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 174,
+          "name": "Nhà và sân bỏ trống",
+          "file": "01_boi_canh/nha_san/174_nha_va_san_bo_trong.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "b20c26ecbe8db0b0178181630a737b6767e4fe96c9bc09fc41d07e94abffb18d",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 175,
+          "name": "Khu công trình trước hỏa hoạn",
+          "file": "01_boi_canh/khu_chay/175_khu_chay_nguyen_ven.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "ebf407b4e6925c16c16063285ca75f8978b2366852fa7406eed0e5ee1d3a57a4",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 176,
+          "name": "Khu công trình đang cháy",
+          "file": "01_boi_canh/khu_chay/176_khu_chay_chay_hu_hai.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "44d117da98b182e94bd78b24c6f72415c7ba0a128ecc09e92caadaefafd3b876",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 177,
+          "name": "Dấu tích sau hỏa hoạn",
+          "file": "01_boi_canh/khu_chay/177_khu_chay_dau_tich.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "8019f5fd38d1057ca5d08575ac948d5c406e909856649ada5010df005d9993ed",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 178,
+          "name": "Cung điện và khu dân cư được duy trì",
+          "file": "01_boi_canh/quyen_luc/178_quyen_luc_duoc_duy_tri.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "9f64d133d79929db4c4a94287311bf746c6040ee4938f8b1b6cd42b2a08b79c9",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 179,
+          "name": "Cung điện xuống cấp, khu dân cư còn sinh hoạt",
+          "file": "01_boi_canh/quyen_luc/179_quyen_luc_suy_yeu.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "aaaf4507b963d2a1f33dd091e301bd325dd7b20f2c4151b341e31aea008765ba",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 180,
+          "name": "Cung điện xuống cấp, khu dân cư thưa dần",
+          "file": "01_boi_canh/quyen_luc/180_quyen_luc_dan_cu_thua_dan.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "5957519de72b196a63d12401e32d298fce433ffb76495b8bbe5ba0fb9fcc313f",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 181,
+          "name": "Đoạn kênh đá hở",
+          "file": "02_vat_the/ha_tang_nuoc/181_kenh_da_ho.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "faf0d045aea7d347c568534e209e8cdf71905e7ac2fb09ee10c79fd1ed62e5b7",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 182,
+          "name": "Đập đất đá nhỏ minh họa",
+          "file": "02_vat_the/ha_tang_nuoc/182_dap_dat_da_nho.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "e3e75961a86e7d0d214b7cbc8975522358aa5e1ca6c032fd731e8e6332fdb03e",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 183,
+          "name": "Miệng dẫn nước bằng đá",
+          "file": "02_vat_the/ha_tang_nuoc/183_cua_dan_nuoc_da.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "0fd8d57e0bd830e72eac616a4fdff9f8d2c540edc7ebed08af2bb655930d8725",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 184,
+          "name": "Thạch anh minh họa",
+          "file": "02_vat_the/khoang_vat/184_thach_anh_minh_hoa.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "ef8b53d91a0e49a087500d78844c1d80044fdb21051712d979cc7473372ccfa3",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 185,
+          "name": "Đá chứa zeolit minh họa",
+          "file": "02_vat_the/khoang_vat/185_da_chua_zeolit_minh_hoa.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "e1885c0948e518cda2ac59ef9df07e228033ec2c6938e750b4c57621da9b49d9",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 186,
+          "name": "Chu sa và bột sắc tố minh họa",
+          "file": "02_vat_the/khoang_vat/186_chu_sa_minh_hoa.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "9c2b8f0b17765b606c209116089b109fbef75bde6f42e51fa79348ce8dd12382",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 187,
+          "name": "Lõi trầm tích phân lớp minh họa",
+          "file": "02_vat_the/bang_chung/187_loi_tram_tich.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "11270b85021152347d090fc53dd75affa7510942848f9d55ccec4fde9f3fec51",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 188,
+          "name": "Măng đá minh họa",
+          "file": "02_vat_the/bang_chung/188_mang_da.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "ae510a29c97aaa05d6d3587aa20a7795e9dfc7f5df4522252c4a52107edec730",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 189,
+          "name": "Thạch cao dạng selenit minh họa",
+          "file": "02_vat_the/bang_chung/189_thach_cao_minh_hoa.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "aca53039b452c9d3443afda869941fc6a4de07243ff6abcfca1d68ba07cd9c3e",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 190,
+          "name": "Cây ngô khỏe",
+          "file": "02_vat_the/nong_nghiep/190_cay_ngo_khoe.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "0c65c78de9a643bb68955c63fbc28d18218cb88a493b7ade3d5a4298a852259d",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 191,
+          "name": "Cây ngô héo",
+          "file": "02_vat_the/nong_nghiep/191_cay_ngo_heo.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "1bf723d9b6c2864a720d4984fb7a6ee80fc2930e1d9dbc701a8d322808bd60b8",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 192,
+          "name": "Hạt ngô để giống",
+          "file": "02_vat_the/nong_nghiep/192_hat_ngo_de_giong.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "8173c5a361d8f08fd200caac360ece83dba39c3e135362b735187bd30686b331",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 193,
+          "name": "Mảng nở hoa vi khuẩn lam minh họa",
+          "file": "02_vat_the/nuoc_moi_truong/193_mang_no_hoa_vi_khuan_lam.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "e2b9ab9cd71dcbdee61a6b00a6adbe45983934bfb6df5672848263d651fd860d",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 194,
+          "name": "Dòng chảy mang bùn và sắc tố minh họa",
+          "file": "02_vat_the/nuoc_moi_truong/194_dong_chay_mang_bun_sac_to.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "8c3908a45c90c2fb487bcf04c46d099ab7e9ba83e8a0ce23b2c78ffdb9b30b02",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 195,
+          "name": "Giọt nước",
+          "file": "02_vat_the/nuoc_moi_truong/195_giot_nuoc.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "321ccaa6f1e810d367e60c7ae428da8ca777ca52d0114a063eb6c2d7b5939d2c",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 196,
+          "name": "Điện thoại màn hình trống — ví von hiện đại",
+          "file": "02_vat_the/vi_von_hien_dai/196_dien_thoai_man_hinh_trong.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "119000c260a0f4408e6447faeb085a5e4770e8099b88cd0ee8dc787f36e1368b",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 197,
+          "name": "Bồn nước xem mức nước — ví von hiện đại",
+          "file": "02_vat_the/vi_von_hien_dai/197_bon_nuoc_xem_muc.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "9046c1a20e6b3aec14677abd7fa51dad369ded4aae0226bab729a12cf1b79d3f",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": 198,
+          "name": "Lịch bàn trống — ví von hiện đại",
+          "file": "02_vat_the/vi_von_hien_dai/198_lich_ban_trang.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "5825a19816a2439e3a5dc80bcaf5a3e47621a0765d23f469e1a4ba6f3537559f",
+          "catalog_hash_matches": true
+        }
+      ],
+      "visual_review": "not_approved_by_technical_checks"
+    },
+    {
+      "label": "generic_150",
+      "source": "C:\\Users\\ADMIN\\Downloads\\Mo_Den_150_Anh_Tai_Su_Dung_v1.zip",
+      "sha256": "3b4590bc173e41490e4f1f4264a03b4024212c8c131de06272a1025a0ed8260b",
+      "crc_error": null,
+      "items": [
+        {
+          "id": "001",
+          "name": "Bình gốm đựng nước",
+          "file": "01_doi_song/001_doi_song_binh_gom_dung_nuoc.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "3baa764e44b56a1af440c0687844754ba3aba01f1b98050f482e8e36f56142d9",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "002",
+          "name": "Bát đất nung",
+          "file": "01_doi_song/002_doi_song_bat_dat_nung.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "18f237cd5610cfac553cf5eee4bcc1ab389b831f750a7f88fab9e6f6f99b119d",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "003",
+          "name": "Giỏ có quai",
+          "file": "01_doi_song/003_doi_song_gio_co_quai.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "228fc1df389167cdda653ef11e6316124aff2332bc8bfad624b00d9c65f6bbab",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "004",
+          "name": "Túi đeo vai",
+          "file": "01_doi_song/004_doi_song_tui_deo_vai.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "d4233ce69b9a5d8afab41ac76ae1371ad7de265c854ea28a48bcfa7dcc826984",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "005",
+          "name": "Ghế đẩu",
+          "file": "01_doi_song/005_doi_song_ghe_dau.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "3d15670f15782788b1c497688a983a6b1340d2972738c633d7b09a0f0fd1457f",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "006",
+          "name": "Bàn gỗ",
+          "file": "01_doi_song/006_doi_song_ban_go.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "425be7c682093f8069664ac456e83bb4041dac31f3c4b504bad54df465654201",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "007",
+          "name": "Giường gỗ",
+          "file": "01_doi_song/007_doi_song_giuong_go.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "4115d56188fbaae0f9faa14c952ce18da214a8803b30784966858dfdf21c7834",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "008",
+          "name": "Bếp củi",
+          "file": "01_doi_song/008_doi_song_bep_cui.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "9639a89651d772601503a7c52a51921643126fd3ae5c85e35c5b1b2301b6e694",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "009",
+          "name": "Nồi có nắp",
+          "file": "01_doi_song/009_doi_song_noi_co_nap.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "cb80e84b42a64853d069dc47bdf9175e09105e2eeca482a24534ccef2ac789e7",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "010",
+          "name": "Muôi gỗ",
+          "file": "01_doi_song/010_doi_song_muoi_go.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "21c90ddc076c5c6f7d1de18769aa99592eb154ac52b87ddcfffb2b12a81dff13",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "011",
+          "name": "Cốc có quai",
+          "file": "01_doi_song/011_doi_song_coc_co_quai.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "d4839eed727dd897ebc2b5533b579ced64adb9b947bb5d54ca8bebef0466e2bf",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "012",
+          "name": "Đĩa",
+          "file": "01_doi_song/012_doi_song_dia.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "35f1d01a080e1ed1fe221c613d8ba551ec2079090e05904fff93f556da8ed18a",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "013",
+          "name": "Chiếu cuộn",
+          "file": "01_doi_song/013_doi_song_chieu_cuon.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "cb766802d1e1084a78213568c5b582d518f10ece1a2d9157d487e2aecf0b5a05",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "014",
+          "name": "Chăn gấp",
+          "file": "01_doi_song/014_doi_song_chan_gap.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "5d714e518c1ddfe4030df04a78809718cb70dc6f593b027c05eb34bc116a2d7e",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "015",
+          "name": "Xô gỗ",
+          "file": "01_doi_song/015_doi_song_xo_go.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "29a03c60f4e038e7e55fca12501efe93ecc476c7e605b7e4fb56291c21977b89",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "016",
+          "name": "Chổi",
+          "file": "01_doi_song/016_doi_song_choi.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "35c53582a481abc9d2eb4c2b272ca40af599590a3d47836e8089f8d07215769b",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "017",
+          "name": "Con suốt kéo sợi",
+          "file": "01_doi_song/017_doi_song_con_suot_keo_soi.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "025e90d71b9b907764138cdf9c865191753398c166ef264b51d49d12305da059",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "018",
+          "name": "Cối và chày",
+          "file": "01_doi_song/018_doi_song_coi_va_chay.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "edd0577807099e9df24ed3f8001814abce972e1eb32cd6510a29af32e30d680c",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "019",
+          "name": "Kính thiên văn",
+          "file": "02_nghien_cuu/019_nghien_cuu_kinh_thien_van.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "f8ff6d6d0c3fd9fd1a47300bd7e236962199e417053fdf0daa0c66d91a507446",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "020",
+          "name": "Kính hiển vi",
+          "file": "02_nghien_cuu/020_nghien_cuu_kinh_hien_vi.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "6be1100e585274a24fd2e53708fb62d729e82b0b81b37bbffd69879d353311c2",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "021",
+          "name": "Quả địa cầu minh họa",
+          "file": "02_nghien_cuu/021_nghien_cuu_qua_dia_cau_minh_hoa.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "002772f88cf635f6cc5a455fc26f1bd21efd5b9b37b68c0c889a099868193883",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "022",
+          "name": "Hộp lưu mẫu",
+          "file": "02_nghien_cuu/022_nghien_cuu_hop_luu_mau.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "4e8adc6d15e0064fcf2a8cfcea1a3623427bacbc7106b56f74ff9956f1ba80b2",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "023",
+          "name": "Bảng kẹp giấy",
+          "file": "02_nghien_cuu/023_nghien_cuu_bang_kep_giay.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "11f27e840964eb788a82cf0399ce034dd6bff9409da2d18a166aff8370d18bff",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "024",
+          "name": "Thước cặp",
+          "file": "02_nghien_cuu/024_nghien_cuu_thuoc_cap.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "27989d7446f7cd5649c790d63b4ac933071066740c791e1c3ec9c7327eea0c8b",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "025",
+          "name": "Thước gỗ",
+          "file": "02_nghien_cuu/025_nghien_cuu_thuoc_go.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "cbd6d5806bc83a1036c72b49e1ff29197e17db62f9ceda5cf890dc03401915a8",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "026",
+          "name": "Đồng hồ mặt trời",
+          "file": "02_nghien_cuu/026_nghien_cuu_dong_ho_mat_troi.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "f76c16bee5633ed9d37dea728a9449e7924c6a4f1a6787e51b03a4dfe993a8ee",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "027",
+          "name": "Kính lục phân",
+          "file": "02_nghien_cuu/027_nghien_cuu_kinh_luc_phan.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "0b39bc9ab2da00d9d15c023396c8223f31785bf34bd3a8c19c39aa8fdf9adc6d",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "028",
+          "name": "Ống nhòm",
+          "file": "02_nghien_cuu/028_nghien_cuu_ong_nhom.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "5bf65e2724c6fa71a998974a356416f5689f83d3290763ecd39ccfe8a6c16c5b",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "029",
+          "name": "Đèn bàn",
+          "file": "02_nghien_cuu/029_nghien_cuu_den_ban.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "9da073787c458b352b50d8837a775df97b15a227dc4156a84df09feb0d46315b",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "030",
+          "name": "Bộ đàm",
+          "file": "02_nghien_cuu/030_nghien_cuu_bo_dam.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "af033c849e28789c0f9a8d7abffff35f079c17288a414e459ed2214640c89c28",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "031",
+          "name": "Ống đựng mẫu",
+          "file": "02_nghien_cuu/031_nghien_cuu_ong_dung_mau.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "66e049bfdd2824c71cc953c0a875c6e426d43dbd84fdd6584af233ba19822a4b",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "032",
+          "name": "Lam kính",
+          "file": "02_nghien_cuu/032_nghien_cuu_lam_kinh.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "826dfeef4eebf39bfa995393220dd047d2b3df81407488fcc55886f0b04b833d",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "033",
+          "name": "Nhiệt kế",
+          "file": "02_nghien_cuu/033_nghien_cuu_nhiet_ke.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "01f2d90e2cb837c1d9343e0d0aaec30726ac21817ca01a9a320947298e76851d",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "034",
+          "name": "Thước khảo cổ hình chữ L",
+          "file": "02_nghien_cuu/034_nghien_cuu_thuoc_khao_co_hinh_chu_l.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "c6a8a64d7131049606d3fc87da2814f7b6a86c8006657220b56b9887798eaf73",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "035",
+          "name": "Vòm đá",
+          "file": "03_kien_truc/035_kien_truc_vom_da.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "562a06f7fc8a273aee0fdf75fb1b396a2ed13b6c6c7e2e7c4583dc94524ed10c",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "036",
+          "name": "Đoạn tường đá",
+          "file": "03_kien_truc/036_kien_truc_doan_tuong_da.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "f3e6e63d3794c835a05374ba8e565e254c6bb8997bf0933d40c5266d60d3d31e",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "037",
+          "name": "Cột đá",
+          "file": "03_kien_truc/037_kien_truc_cot_da.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "fbe1e54909c7cb3a8be35b08284ab991cb8eb204d8784faae59abc9b0ab41130",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "038",
+          "name": "Bậc thang đá",
+          "file": "03_kien_truc/038_kien_truc_bac_thang_da.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "360892fc91e33ba7ab6ee3f5bc22ed1def3052c44db984fe8466d846f0ca3acd",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "039",
+          "name": "Cửa sổ",
+          "file": "03_kien_truc/039_kien_truc_cua_so.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "19873dbdec236a6ba875a23e86a02d997efaa3635fd179e386e922e90a5d87ec",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "040",
+          "name": "Giếng đá",
+          "file": "03_kien_truc/040_kien_truc_gieng_da.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "bccb758cbb620e028078dadd0f2721094cfa2fce089fefccf91cdf5687606194",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "041",
+          "name": "Cầu gỗ",
+          "file": "03_kien_truc/041_kien_truc_cau_go.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "8c6a5165796c421efba9217497512f119e28d9c146448b0764a48d1ef463538d",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "042",
+          "name": "Tháp canh",
+          "file": "03_kien_truc/042_kien_truc_thap_canh.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "88e8ddf6686aa9aed33175388b6e301b16988cc163534098e47357ee782c715f",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "043",
+          "name": "Móng công trình",
+          "file": "03_kien_truc/043_kien_truc_mong_cong_trinh.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "61a78c1aea51d7d6b399b63e5ff6d181afa6716e6bdac1d0c5559d84c472bf0a",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "044",
+          "name": "Nhà đá",
+          "file": "03_kien_truc/044_kien_truc_nha_da.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "5c6d5058da678588dbae346d7e3a876bd5a38814d16a73d204a20f81bdc08ee2",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "045",
+          "name": "Khung cửa đá",
+          "file": "03_kien_truc/045_kien_truc_khung_cua_da.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "1659b094d959bc8ec0985307f6b95cc84c88dc6e1483a47f1f6667509fb1875a",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "046",
+          "name": "Vì kèo mái gỗ",
+          "file": "03_kien_truc/046_kien_truc_vi_keo_mai_go.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "47c49fe45b516ffea5f075212ce6b273db388015cb51d3a2648d80d629e96b9b",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "047",
+          "name": "Mái tranh",
+          "file": "03_kien_truc/047_kien_truc_mai_tranh.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "576448ddd59d4d713610b23113e2fb122589d9c5e3ae8c290192b9e9fd8a357a",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "048",
+          "name": "Mái ngói",
+          "file": "03_kien_truc/048_kien_truc_mai_ngoi.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "fbb58bfba5b0126b79919cf86d69aa6a47de51b9e794e063e000b85b590acd00",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "049",
+          "name": "Ống khói",
+          "file": "03_kien_truc/049_kien_truc_ong_khoi.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "c87b832b6e8b8230fea84165f74fb1099fbb23ad999fad00b9eaf1ba35cf2ba9",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "050",
+          "name": "Đài phun nước",
+          "file": "03_kien_truc/050_kien_truc_dai_phun_nuoc.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "8857b1895c9f82d2a0aa58c93a2cafac20b5f56c7cba1a74ab7da0c6f3c7cfdc",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "051",
+          "name": "Hàng rào gỗ",
+          "file": "03_kien_truc/051_kien_truc_hang_rao_go.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "f9ffae3f1865e0037e357acea3855198911f30fdfcff1f25f55b186b5f33f820",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "052",
+          "name": "Nhịp cầu dẫn nước",
+          "file": "03_kien_truc/052_kien_truc_nhip_cau_dan_nuoc.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "6d246f8a156e5bb66b819d6caaf08716cabe602a4d5e916c91444280c97c9f26",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "053",
+          "name": "Khối đá đẽo",
+          "file": "04_vat_lieu/053_vat_lieu_khoi_da_deo.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "002876180e39fef85a6d00abc95ad918f01d1e6de42a5d54d77a21f5326cc577",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "054",
+          "name": "Chồng gạch",
+          "file": "04_vat_lieu/054_vat_lieu_chong_gach.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "54df66c839f4223f55361953ba98339410fce4e9ee7410bc6fa1e8edfbb87e9d",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "055",
+          "name": "Khúc gỗ",
+          "file": "04_vat_lieu/055_vat_lieu_khuc_go.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "afe00955d87baab92bd1d3baf4b46118c44280a59648f1a9c9c31cd11a2c2652",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "056",
+          "name": "Chồng ván gỗ",
+          "file": "04_vat_lieu/056_vat_lieu_chong_van_go.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "c2da3bee7631c76d01278293ee5a0d602e51ab9035d8e49989e3bd7c6bea92ab",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "057",
+          "name": "Cuộn dây thừng",
+          "file": "04_vat_lieu/057_vat_lieu_cuon_day_thung.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "c0e7bb46ac0f892c2ba41c86787114d1ce44fe6cdf6140e7c7d5b179fdb8692f",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "058",
+          "name": "Mảnh gốm vỡ",
+          "file": "04_vat_lieu/058_vat_lieu_manh_gom_vo.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "7d941444c3867dfd6e376325d96e6d1aceceddb5fe876c5c70810e4be769508a",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "059",
+          "name": "Phiến đá nứt",
+          "file": "04_vat_lieu/059_vat_lieu_phien_da_nut.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "01acddc7c29c028bb99ce236a44416218c7d8c2ec3876dfb9b9e9dac85d4b4fe",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "060",
+          "name": "Gỗ cháy",
+          "file": "04_vat_lieu/060_vat_lieu_go_chay.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "779a6751f5f02d6283f156c71ac157b36c34a2f164f54ea708f92d4d428e91a1",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "061",
+          "name": "Dấu bánh xe trên đất",
+          "file": "04_vat_lieu/061_vat_lieu_dau_banh_xe_tren_dat.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "a25ea8d8053fd426ec69d520ca7c5f491b7010ec14779070ae701ef831a39982",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "062",
+          "name": "Gạch đất",
+          "file": "04_vat_lieu/062_vat_lieu_gach_dat.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "331673452f87600c38385ecef5ed13dff72a7e2dba21e24f2f4ff0670d85d855",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "063",
+          "name": "Bó sậy",
+          "file": "04_vat_lieu/063_vat_lieu_bo_say.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "1c376265043836702cb5fc7efd6cdd28cfeba778562db727e867cf53f32e7771",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "064",
+          "name": "Cuộn vải",
+          "file": "04_vat_lieu/064_vat_lieu_cuon_vai.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "80064d3f00dd9aafd521a3062dd812cd48119705852fccfd7d5802539c8f07fc",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "065",
+          "name": "Thỏi đồng minh họa",
+          "file": "04_vat_lieu/065_vat_lieu_thoi_dong_minh_hoa.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "b00d3fa533af042bbecd28725a491e23cafe6a28a5427a272e9e87b1d26f39ff",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "066",
+          "name": "Mảnh đá",
+          "file": "04_vat_lieu/066_vat_lieu_manh_da.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "7b45ddb5e7200ee0cf805e04d903b892af402ab9e37153179300d5769280f8de",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "067",
+          "name": "Túi tiền",
+          "file": "05_kinh_te/067_kinh_te_tui_tien.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "9b2a952b5e642b5d3b99d9c1f05ce74be0aa40ee520880baf837fef8eee8e5b7",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "068",
+          "name": "Chồng tiền xu minh họa",
+          "file": "05_kinh_te/068_kinh_te_chong_tien_xu_minh_hoa.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "178e7d5d3a3e09be6a1e07ffd38629d84e5714f11aaf9be1a552431b4c3fa66f",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "069",
+          "name": "Thỏi kim loại",
+          "file": "05_kinh_te/069_kinh_te_thoi_kim_loai.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "b250b0cf74f28722fd5144329f458027542c322939272d9f99ba92519142e76e",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "070",
+          "name": "Thùng hàng gỗ",
+          "file": "05_kinh_te/070_kinh_te_thung_hang_go.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "ba07f4b5c21da00e4ddf05811057d696b866a1e95129c6e28709444c055791c3",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "071",
+          "name": "Quầy hàng",
+          "file": "05_kinh_te/071_kinh_te_quay_hang.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "24a1083a82cf08c1fa73dab539c35774a0da81f767942797a1983bb5a605d0bb",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "072",
+          "name": "Bao hạt",
+          "file": "05_kinh_te/072_kinh_te_bao_hat.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "858149f341f933cd62d96293cad2784fdeaae09145a29143e6f6b4bd178c1395",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "073",
+          "name": "Bình chứa hai quai",
+          "file": "05_kinh_te/073_kinh_te_binh_chua_hai_quai.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "f072b467a09d1aa256aefec59c263eb793c225eed77052baf04bf224a8b696de",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "074",
+          "name": "Xe đẩy gỗ",
+          "file": "05_kinh_te/074_kinh_te_xe_day_go.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "a6ad6f7acdeca91e5a4cc4d87e5e4373f8f82cdc0f27cad6a912c5924775d9d6",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "075",
+          "name": "Kiện hàng buộc dây",
+          "file": "05_kinh_te/075_kinh_te_kien_hang_buoc_day.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "e397703373ad515de6e56fecbb2aac9df202c432afd67d8193326e37370fbb45",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "076",
+          "name": "Cân đòn",
+          "file": "05_kinh_te/076_kinh_te_can_don.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "f43c33fe55f831ed013ed0ed6514535414101bb98599e2f67bcd56ab6f8e30f0",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "077",
+          "name": "Thẻ đất sét",
+          "file": "05_kinh_te/077_kinh_te_the_dat_set.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "b4befe4075cddb9312758ca6a69d9da855f0e5aaa0d9d25240bfd7b9b7ed9511",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "078",
+          "name": "Thùng gỗ",
+          "file": "05_kinh_te/078_kinh_te_thung_go.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "4cfd8244184aa8576139e859609d69f63fb065c48c1bed4a21609059d5ceb9fe",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "079",
+          "name": "Mẹt đan",
+          "file": "05_kinh_te/079_kinh_te_met_dan.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "639f7d74c74946c1bf3ea4c661d393095e7715cc8728e702237653e8a79ebb9f",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "080",
+          "name": "Kệ hàng",
+          "file": "05_kinh_te/080_kinh_te_ke_hang.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "b6da7b657859885a22cfc6ebf0ab59cb1049396f5f7cf700caeead54ed91345c",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "081",
+          "name": "Vách đá",
+          "file": "06_dia_hinh/081_dia_hinh_vach_da.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "45965c036b91a51fd062e128148b07acf896a8eca47b9885d1a93b847c644bbe",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "082",
+          "name": "Thung lũng",
+          "file": "06_dia_hinh/082_dia_hinh_thung_lung.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "94cb6f45d831314afd4cfaaa9d7a8a498d967fc4e4419004686cbd478ead6860",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "083",
+          "name": "Đảo đá",
+          "file": "06_dia_hinh/083_dia_hinh_dao_da.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "4c27368dc9d5b0694b980a517b56de07db16ded0e0b9050d49a8edad4cb63bf9",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "084",
+          "name": "Bờ biển",
+          "file": "06_dia_hinh/084_dia_hinh_bo_bien.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "2ce23a12df34729dcd5bf8e3cfb5f560f0ce6ec7ea20efc1d279748246f22a1a",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "085",
+          "name": "Đầm lầy",
+          "file": "06_dia_hinh/085_dia_hinh_dam_lay.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "837be2ed33949885b9a1e906fe3ea4a08589499c6c13bb03586d0fa4d3862ace",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "086",
+          "name": "Cửa hang",
+          "file": "06_dia_hinh/086_dia_hinh_cua_hang.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "f54e02fcefd5ca1bc35642987a508337950779fc501a4fa515f677494c16091b",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "087",
+          "name": "Núi lửa ngủ yên",
+          "file": "06_dia_hinh/087_dia_hinh_nui_lua_ngu_yen.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "6b77c37d4cba3647f8f6fd35e290f110a3984b7ee5fbaa360bae12c2d53380b0",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "088",
+          "name": "Sông băng",
+          "file": "06_dia_hinh/088_dia_hinh_song_bang.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "00ab9f67f7c46db8472166926986489651f2ebe61fabf3e6ec6a89aa8c257738",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "089",
+          "name": "Thác nước",
+          "file": "06_dia_hinh/089_dia_hinh_thac_nuoc.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "820ffc6a1e4afd78abf69765121723b264fed58785ff27054305432d4ff57559",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "090",
+          "name": "Núi bàn",
+          "file": "06_dia_hinh/090_dia_hinh_nui_ban.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "e0a1f769d3c92551af0fbb81e63cfeb3964caa4f365953ebcc59f30dffc803d0",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "091",
+          "name": "Hẻm núi",
+          "file": "06_dia_hinh/091_dia_hinh_hem_nui.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "87a458c18761dfe15a7c1009112e57ce3aef5b581e53cc93b9dea6e4d22cc40e",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "092",
+          "name": "Ốc đảo",
+          "file": "06_dia_hinh/092_dia_hinh_oc_dao.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "838961be2eef1393b6cb09b9e15191386e51fde57dc321d2ba5880f3fb1cf968",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "093",
+          "name": "Đụn cát",
+          "file": "06_dia_hinh/093_dia_hinh_dun_cat.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "e2938891af1eb3d3de2321d5352b98cd6b9b30bb4fb78f6832e9062ab8f96e2e",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "094",
+          "name": "Cụm cây rừng",
+          "file": "06_dia_hinh/094_dia_hinh_cum_cay_rung.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "b196c074cad236d799f6cca1b6c709cf8e3c340db217da74bc14b658f508ae1e",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "095",
+          "name": "Châu thổ minh họa",
+          "file": "06_dia_hinh/095_dia_hinh_chau_tho_minh_hoa.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "dbd45a593baa0ee71ede0d681d76ac2bf699d69db59806eab835ab174fc0042c",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "096",
+          "name": "Đỉnh núi tuyết",
+          "file": "06_dia_hinh/096_dia_hinh_dinh_nui_tuyet.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "296d1c5a41ea3d8a3328fdb10ff7127beea147a93dfccd0a46546464a7ca75e4",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "097",
+          "name": "Cây cọ",
+          "file": "07_sinh_vat/097_sinh_vat_cay_co.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "ed0e56b8eab15ca1a84c5421dcdf5d4ba55e4c4a2900c751a5d51de42c717985",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "098",
+          "name": "Cây tán rộng",
+          "file": "07_sinh_vat/098_sinh_vat_cay_tan_rong.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "81f70a228dabcefb7145787cc783cb4ab86cdcac1125904b9fbb34aae2a11e1e",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "099",
+          "name": "Cây lá kim",
+          "file": "07_sinh_vat/099_sinh_vat_cay_la_kim.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "429525d23300976e80debc24e8167cf63a44bcf23a4289e9237a79a7325f9936",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "100",
+          "name": "Dương xỉ",
+          "file": "07_sinh_vat/100_sinh_vat_duong_xi.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "3115c1d96285a70b40d62d01dada2c8d0cd7d0c84f03c08d5b122561d7091393",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "101",
+          "name": "Bụi cỏ",
+          "file": "07_sinh_vat/101_sinh_vat_bui_co.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "84ca6522dad76099400ec7163dacda04f96af539ff730b2d25d2c943316653a5",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "102",
+          "name": "Bông lúa mì",
+          "file": "07_sinh_vat/102_sinh_vat_bong_lua_mi.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "ef4c685d3e11a1b58db5fdfa10ae25b46b38a5ca36e6394f029aaba06fbb7b94",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "103",
+          "name": "Bắp ngô",
+          "file": "07_sinh_vat/103_sinh_vat_bap_ngo.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "90fbc2761c1f1f334f6ca592ad1f301136fa25a4e3f1995464423c5d0f37df00",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "104",
+          "name": "Ngựa",
+          "file": "07_sinh_vat/104_sinh_vat_ngua.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "d833bc9698fc9bcc030055adbbc831ae74493522ce92a2db8d45f72defcf41e4",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "105",
+          "name": "Lừa",
+          "file": "07_sinh_vat/105_sinh_vat_lua.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "84d54790d07d47192c4b8d15d22220549b7718fa061a56e185e76562f0258d95",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "106",
+          "name": "Lạc đà một bướu",
+          "file": "07_sinh_vat/106_sinh_vat_lac_da_mot_buou.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "fbab3d51da6f786afe4d8903dc7dabc203c401b3b3932df8b9e06521a5805889",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "107",
+          "name": "Chó",
+          "file": "07_sinh_vat/107_sinh_vat_cho.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "c5101ed3d170292f6940dd82f4937556c0ae1fa083f65ef5c2f1fec7334ead59",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "108",
+          "name": "Quạ",
+          "file": "07_sinh_vat/108_sinh_vat_qua.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "f2da22244b69a2f15b4e35f072f4c76294975dac5b8b7053657b8edf53fafba0",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "109",
+          "name": "Cá",
+          "file": "07_sinh_vat/109_sinh_vat_ca.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "b379fd26c5ff624bedb18b4954d10bba10b8bb50488be313f62bdab8e53e6af8",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "110",
+          "name": "Bọ cánh cứng",
+          "file": "07_sinh_vat/110_sinh_vat_bo_canh_cung.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "d8f32b484e82d0a4e26281650fb92ae48e29ba4f7e4a774e62c4896013448c10",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "111",
+          "name": "Gió cuốn lá",
+          "file": "08_bien_co/111_bien_co_gio_cuon_la.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "bf337347990107f6646b51e6db80432524c12d531c45655376fb2da59987c9ab",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "112",
+          "name": "Mây giông và sét",
+          "file": "08_bien_co/112_bien_co_may_giong_va_set.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "0b088746a731a03da0817d4a9698f534b1bc73ec193a43685373c7cce1c23450",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "113",
+          "name": "Ngập lụt",
+          "file": "08_bien_co/113_bien_co_ngap_lut.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "1abaa795a221222113714660227739ada8ccec27e181887ea13c17d4f77f5c66",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "114",
+          "name": "Đất hạn và cây héo",
+          "file": "08_bien_co/114_bien_co_dat_han_va_cay_heo.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "e585d324332d36023c18edc32e9c1f6ac2ae2ca745cf8ad603fe531cb66213db",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "115",
+          "name": "Cháy rừng",
+          "file": "08_bien_co/115_bien_co_chay_rung.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "78c889f61365d2ee8c777fc5b04ff8c0e643636e95c45e193b64e46a5fe8167e",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "116",
+          "name": "Mây tuyết",
+          "file": "08_bien_co/116_bien_co_may_tuyet.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "f8aeb75cf279fa9288d7c61b6739694d85a85763251eb7c0e19b0bcba6a8301e",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "117",
+          "name": "Khe nứt đất",
+          "file": "08_bien_co/117_bien_co_khe_nut_dat.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "e5ffe505d5c97b32a55fc562b4f6c87c017915ef27156a56661fc6dac2d883df",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "118",
+          "name": "Sạt lở",
+          "file": "08_bien_co/118_bien_co_sat_lo.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "df0e809e0396180fc471928cb68ca206e2bc822ea9742523e0540fec5189341e",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "119",
+          "name": "Bão cát",
+          "file": "08_bien_co/119_bien_co_bao_cat.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "2ff2f2200eb259cf384743dc0e1934ca0932c043b37950ae8de3cd043f539062",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "120",
+          "name": "Núi lửa phun trào",
+          "file": "08_bien_co/120_bien_co_nui_lua_phun_trao.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "792bbfd9567b002f38a50c6747f6828eb4e627a193ef90fe7a98cb4adad256b3",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "121",
+          "name": "Mây mưa",
+          "file": "08_bien_co/121_bien_co_may_mua.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "44a36abdaa6c4e1350a87df449e3a7e4fabf92bda329d4252271d55a019c19eb",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "122",
+          "name": "Cây đổ",
+          "file": "08_bien_co/122_bien_co_cay_do.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "4818c4d065dd3a1ed9be8148c978ba3e06808d8d098d1f5ee62b8d90dd22f322",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "123",
+          "name": "Bong bóng lời thoại",
+          "file": "09_suy_luan/123_suy_luan_bong_bong_loi_thoai.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "75c07be166e46ff0ad38ec28cfd938668b94a5df05bd92c806dd1c97403bfe71",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "124",
+          "name": "Thẻ manh mối liên kết",
+          "file": "09_suy_luan/124_suy_luan_the_manh_moi_lien_ket.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "d835825adf844b8972e67ea022cbe77caa5fc006afcedb3f5d1e48e1e632f4fb",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "125",
+          "name": "Mảnh ghép còn thiếu",
+          "file": "09_suy_luan/125_suy_luan_manh_ghep_con_thieu.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "981a33895c6b47c13589411991dd0fb8c59abcb5edcb7e67f4805493982c033c",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "126",
+          "name": "Chồng thẻ tài liệu",
+          "file": "09_suy_luan/126_suy_luan_chong_the_tai_lieu.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "4d58626942d32973bfdeb9689599e3aee82f6a8da40a4903c441dbc8ce4c5223",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "127",
+          "name": "Rào chắn đường",
+          "file": "09_suy_luan/127_suy_luan_rao_chan_duong.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "cb7ad487fbf84cc083a48b77684796e61fbb34e07c0f5ecd502261c4a8ef46c0",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "128",
+          "name": "Đường phân nhánh",
+          "file": "09_suy_luan/128_suy_luan_duong_phan_nhanh.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "737539e1899bf3f0b5d62c950bec8f1e53e6be4d84f7aaaffd461604c75187c4",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "129",
+          "name": "Chuỗi domino",
+          "file": "09_suy_luan/129_suy_luan_chuoi_domino.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "a57fd32235725ca4c7f59313dca3e07ada44474904f468b6bc35e95888781f1c",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "130",
+          "name": "Liên kết nét đứt",
+          "file": "09_suy_luan/130_suy_luan_lien_ket_net_dut.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "3ee26ff370cfd9437b72d4b22f997dc07e999dea3a59018e9d7f344a567ccba6",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "131",
+          "name": "Đường cụt",
+          "file": "09_suy_luan/131_suy_luan_duong_cut.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "45c9f904da2680b73020e726d8cc185e8068cb4a3d143bbfb4824cdf7614e897",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "132",
+          "name": "Mảnh gốm ghép lại",
+          "file": "09_suy_luan/132_suy_luan_manh_gom_ghep_lai.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "aafc90b3a351f8db071d57d47c608e23b4f20bf193d2f3909c8996a341b276e2",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "133",
+          "name": "Tài liệu hội tụ",
+          "file": "09_suy_luan/133_suy_luan_tai_lieu_hoi_tu.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "4c529b0e542b419f5c819aa06363883c58f39aaa0ba1eee40d618eb80901cd81",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "134",
+          "name": "Tờ giấy lộ lớp bên dưới",
+          "file": "09_suy_luan/134_suy_luan_to_giay_lo_lop_ben_duoi.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "1e66a44cc245ac1e9f226284e7ff3889361f3022ce7d11119b3e4970a9df5093",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "135",
+          "name": "Khối đá với mũi tên xoay",
+          "file": "09_suy_luan/135_suy_luan_khoi_da_voi_mui_ten_xoay.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "2387ef6b324cc8a225764597bac6208620fb93445709538933eb7ca4ddb11f0a",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "136",
+          "name": "Thẻ có dấu kiểm",
+          "file": "09_suy_luan/136_suy_luan_the_co_dau_kiem.png",
+          "size": [
+            1254,
+            1254
+          ],
+          "mode": "RGBA",
+          "alpha_extrema": [
+            0,
+            255
+          ],
+          "qt_decode_ok": true,
+          "sha256": "7881e22bb8cd7b556d18047cb2cfbabe31601c8f215d40399f43319ceb6fba9d",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "137",
+          "name": "Khu khai quật",
+          "file": "10_boi_canh/137_boi_canh_khu_khai_quat.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "19d790bdb97acad5d9a4f7ed4d6f1ba0d53ba6a4ef2512dc71c474310caed10d",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "138",
+          "name": "Đường làng",
+          "file": "10_boi_canh/138_boi_canh_duong_lang.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "e90658f3c051603b2427e7b1b74f39be2e006405529a83af435ae29d0700e87f",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "139",
+          "name": "Quảng trường chợ",
+          "file": "10_boi_canh/139_boi_canh_quang_truong_cho.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "3ee6b20851696785d9cd41336a2d1424b1cb5ce54cf8d0a71617df49fbfbc7bf",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "140",
+          "name": "Bến nước",
+          "file": "10_boi_canh/140_boi_canh_ben_nuoc.png",
+          "size": [
+            1672,
+            940
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "3dae392ed6299f34b9300ad3c0897344c3bc54b5f6385c2e08b411469c144c6a",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "141",
+          "name": "Kho chứa hàng",
+          "file": "10_boi_canh/141_boi_canh_kho_chua_hang.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "26e91f14cb5bc295134534ab2408320c4a390003c02e60d33ff4873ca0779c3c",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "142",
+          "name": "Xưởng thủ công",
+          "file": "10_boi_canh/142_boi_canh_xuong_thu_cong.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "fea0c402784528f3363339e081c517d89ab0137aea733949f01331b75a823bdf",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "143",
+          "name": "Tàn tích",
+          "file": "10_boi_canh/143_boi_canh_tan_tich.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "ce7ae7b3bf99d9cc3a1c5a6c0910f7de284d75b7a13cd0befdddde97c6c48f9f",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "144",
+          "name": "Đường qua núi",
+          "file": "10_boi_canh/144_boi_canh_duong_qua_nui.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "b39c03dfc24cd0a418b7d89183f0ff599d9c31260f93dd35772d93f7b54bb8dd",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "145",
+          "name": "Khoảng trống trong rừng",
+          "file": "10_boi_canh/145_boi_canh_khoang_trong_trong_rung.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "52bfbaa8ac929a863c12885b7d2744b33aa830692f537817d44a7899aa3984c2",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "146",
+          "name": "Lòng sông cạn",
+          "file": "10_boi_canh/146_boi_canh_long_song_can.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "ff495233e533d17fb395e75981aa29aedfeda30a0f9438f6cc3c91e04075d5b8",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "147",
+          "name": "Điểm nghỉ ven biển",
+          "file": "10_boi_canh/147_boi_canh_diem_nghi_ven_bien.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "c72e73384e05cac882ead0ed501943ae5fb6307188bb075a01d1fe6f35111977",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "148",
+          "name": "Hành lang đá",
+          "file": "10_boi_canh/148_boi_canh_hanh_lang_da.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "a4ad50fc567882304166dfdc839fc66be1fb37249e01dce4cafdacb636534606",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "149",
+          "name": "Phòng nghiên cứu có bảng trống",
+          "file": "10_boi_canh/149_boi_canh_phong_nghien_cuu_co_bang_trong.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "7be96a267bf9a01b85d4c01421e4e9bf62f28ff29b650871a13e6a2968edf6a4",
+          "catalog_hash_matches": true
+        },
+        {
+          "id": "150",
+          "name": "Sân lúc chạng vạng",
+          "file": "10_boi_canh/150_boi_canh_san_luc_chang_vang.png",
+          "size": [
+            1672,
+            941
+          ],
+          "mode": "RGB",
+          "alpha_extrema": null,
+          "qt_decode_ok": true,
+          "sha256": "e23344d72577f92d6185ce6e48df3d096d369ff2a6e1e491b713160ecfe0e991",
+          "catalog_hash_matches": true
+        }
+      ],
+      "visual_review": "not_approved_by_technical_checks"
+    }
+  ]
+}

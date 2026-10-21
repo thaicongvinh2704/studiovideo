@@ -1,0 +1,78 @@
+{
+  "completed": true,
+  "variants": [
+    {
+      "id": "07_nam_custom_G",
+      "seed": 715903,
+      "prompt": "A native Vietnamese man from Hanoi speaking Vietnamese in a consistent standard Northern accent, with clear Northern vowels and six distinct Vietnamese lexical tones. Natural adult mid-range pitch. A youthful male voice in his early twenties, lean and bright, dry close conversational sound, clipped agile consonants, casually cheeky and energetic like a witty young friend. Quick relaxed phrasing with an amused smile, no heavy chest resonance.",
+      "native_seconds": 18.24,
+      "original_sha256": "db75a5b33a89f91f81db4cdccb80ccd61d2331cdd7c282329a9c52fb57ec1d45",
+      "file": "07_nam_custom_G_1_25x.wav",
+      "seconds": 14.592,
+      "sha256": "811e9cc322529a7d40d9e5409af2d8247d610d0da725182a3c1c49cebc171f89",
+      "loudness": {
+        "input_i": -20.54,
+        "input_tp": -3.71,
+        "input_lra": 1.7,
+        "input_thresh": -30.77
+      }
+    },
+    {
+      "id": "08_nam_custom_H",
+      "seed": 284617,
+      "prompt": "A native Vietnamese man from Hanoi speaking Vietnamese in a consistent standard Northern accent, with clear Northern vowels and six distinct Vietnamese lexical tones. Natural adult mid-range pitch. A male voice around thirty with a distinctive soft husky edge, slightly breathy texture and light resonance. Easygoing conversational rhythm, understated teasing humor and friendly curiosity. Spoken intimacy, never a solemn announcement or dramatic narration.",
+      "native_seconds": 21.44,
+      "original_sha256": "230ecebba03b9b47cbb27a0f9dfa757eefa5ccb2fd73e3ac51252e61fa93c68d",
+      "file": "08_nam_custom_H_1_25x.wav",
+      "seconds": 17.152,
+      "sha256": "5c60cc8104b003ca66e399cf9709d51f327139a488714f86b3b2e4a445dcbc4d",
+      "loudness": {
+        "input_i": -20.55,
+        "input_tp": -2.46,
+        "input_lra": 4.1,
+        "input_thresh": -31.29
+      }
+    },
+    {
+      "id": "09_nam_custom_I",
+      "seed": 963052,
+      "prompt": "A native Vietnamese man from Hanoi speaking Vietnamese in a consistent standard Northern accent, with clear Northern vowels and six distinct Vietnamese lexical tones. Natural adult mid-range pitch. A youthful quirky male character voice, narrow focused nasal resonance and a slightly reedy texture, an impish grin, lively rhythmic articulation, mischievous quick questions. An expressive adult voice with springy conversational phrasing, not a child or falsetto.",
+      "native_seconds": 18.56,
+      "original_sha256": "4b20abec9a6a350707697235f4d6dd5160df05426f888623288a5e352d11408b",
+      "file": "09_nam_custom_I_1_25x.wav",
+      "seconds": 14.785916666666667,
+      "sha256": "94d082230f7cdcb07ec6195d202e1f3625e13d94cdec5cf09ff40bfd6d306880",
+      "loudness": {
+        "input_i": -20.55,
+        "input_tp": -1.8,
+        "input_lra": 1.7,
+        "input_thresh": -30.7
+      }
+    },
+    {
+      "id": "10_nam_custom_J",
+      "seed": 438279,
+      "prompt": "A native Vietnamese man from Hanoi speaking Vietnamese in a consistent standard Northern accent, with clear Northern vowels and six distinct Vietnamese lexical tones. Natural adult mid-range pitch. A clean open resonant male voice in his mid twenties, smooth light tenor with clear ringing vowels and almost no rasp, friendly comic confidence, animated curious questions and an effortless smiling delivery. Relaxed throat, medium pitch, no booming low voice.",
+      "native_seconds": 19.68,
+      "original_sha256": "264ccbb2eddcbd42e74c881b42271f9e707b9146f212e2fc62b1fa3d3d2b6e39",
+      "file": "10_nam_custom_J_1_25x.wav",
+      "seconds": 15.744,
+      "sha256": "c31fb9e0f5a6eef6e74cee2572686e1f13891f9064980a25ec21ab80a9db3f0b",
+      "loudness": {
+        "input_i": -20.55,
+        "input_tp": -3.96,
+        "input_lra": 2.2,
+        "input_thresh": -30.88
+      }
+    }
+  ],
+  "engine": "VoxCPM2 local via llama.cpp-omni",
+  "offline": true,
+  "preset": null,
+  "reference_audio": null,
+  "new_speakers_by_description": true,
+  "default_voice_unchanged": true,
+  "preview_speed": 1.25,
+  "listening_qc": "PENDING_USER_LISTENING: pronunciation, full audible text, accent, naturalness and playfulness are not passed by technical checks.",
+  "persistence": "Originals, descriptions and seeds retained. A new generation may vary; lock approved generated voice as a local reference before full production."
+}

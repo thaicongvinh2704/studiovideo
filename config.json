@@ -4,5 +4,5 @@
   "encoder_threads": 2,
   "language": "vi",
   "default_fps": 24,
-  "voice_model": "vi_VN-vais1000-medium"
+  "voice_model": "mo_den_EFp49inlLuQ_04.voice.json"
 }

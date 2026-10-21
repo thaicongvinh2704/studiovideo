@@ -1,0 +1,137 @@
+[
+  {
+    "beat_id": "beat_01",
+    "source_cue_ids": [
+      1,
+      2,
+      3
+    ],
+    "text": "Giữa rừng nhiệt đới, những ngôi đền vẫn đứng đó. Người xây chúng biết quan sát bầu trời, trữ nước, thậm chí dùng khoáng vật để lọc nước uống. Vậy mà rồi, nhiều người vẫn phải rời thành phố.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vì sao",
+        "người Maya không biến mất"
+      ],
+      "direction": "Câu hỏi ở cue 4 chân thành; cue 5 rõ ràng, không giật gân. Giới thiệu Mỏ Đen gần gũi."
+    },
+    "actual_engine_chunks": [
+      "giữa rừng nhiệt đới, những ngôi đền vẫn đứng đó. người xây chúng biết quan sát bầu trời, trữ nước, thậm chí dùng khoáng vật để lọc nước uống. vậy mà rồi, nhiều người vẫn phải rời thành phố."
+    ],
+    "actual_engine_gaps": []
+  },
+  {
+    "beat_id": "beat_01",
+    "source_cue_ids": [
+      4
+    ],
+    "text": "Nếu đã làm được từng ấy việc, vì sao họ không thể tiếp tục sống ở đây?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "vì sao"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vì sao",
+        "người Maya không biến mất"
+      ],
+      "direction": "Câu hỏi ở cue 4 chân thành; cue 5 rõ ràng, không giật gân. Giới thiệu Mỏ Đen gần gũi."
+    },
+    "actual_engine_chunks": [
+      "nếu đã làm được từng ấy việc, vì sao họ không thể tiếp tục sống ở đây?"
+    ],
+    "actual_engine_gaps": []
+  },
+  {
+    "beat_id": "beat_01",
+    "source_cue_ids": [
+      5
+    ],
+    "text": "Có một điều cần làm rõ ngay: người Maya không biến mất. Họ vẫn sống đến hôm nay.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "người Maya không biến mất"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vì sao",
+        "người Maya không biến mất"
+      ],
+      "direction": "Câu hỏi ở cue 4 chân thành; cue 5 rõ ràng, không giật gân. Giới thiệu Mỏ Đen gần gũi."
+    },
+    "actual_engine_chunks": [
+      "có một điều cần làm rõ ngay, người maya không biến mất. họ vẫn sống đến hôm nay."
+    ],
+    "actual_engine_gaps": []
+  },
+  {
+    "beat_id": "beat_01",
+    "source_cue_ids": [
+      6,
+      7
+    ],
+    "text": "Nhiều thành phố suy tàn. Những triều đại mất quyền lực. Nhưng chuyện gì đã đẩy cuộc sống ở đó đến chỗ khó giữ được như trước?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 0,
+      "source": "partial_excerpt_end",
+      "reason": "Không áp nghỉ cuối beat ở phần trích chưa hết beat.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vì sao",
+        "người Maya không biến mất"
+      ],
+      "direction": "Câu hỏi ở cue 4 chân thành; cue 5 rõ ràng, không giật gân. Giới thiệu Mỏ Đen gần gũi."
+    },
+    "actual_engine_chunks": [
+      "nhiều thành phố suy tàn. những triều đại mất quyền lực. nhưng chuyện gì đã đẩy cuộc sống ở đó đến chỗ khó giữ được như trước?"
+    ],
+    "actual_engine_gaps": []
+  }
+]

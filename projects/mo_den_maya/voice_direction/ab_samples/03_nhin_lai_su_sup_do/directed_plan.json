@@ -1,0 +1,168 @@
+[
+  {
+    "beat_id": "beat_33",
+    "source_cue_ids": [
+      252,
+      253,
+      254
+    ],
+    "text": "Điều khiến tôi nghĩ mãi là người sống lúc ấy có nhận ra bước ngoặt hay không. Hay với họ, đó chỉ là thêm một mùa khó khăn mà gia đình phải cố vượt qua? Sử sách nhìn được cả một quãng dài. Người trong cuộc thì không biết trước chuyện gì sẽ đến.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy tư, đồng cảm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "từng ngày",
+        "bạn sẽ quyết định rời đi"
+      ],
+      "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+    },
+    "actual_engine_chunks": [
+      "điều khiến tôi nghĩ mãi là người sống lúc ấy có nhận ra bước ngoặt hay không. hay với họ, đó chỉ là thêm một mùa khó khăn mà gia đình phải cố vượt qua? sử sách nhìn được cả một quãng dài. người trong cuộc thì không biết trước chuyện gì sẽ đến."
+    ],
+    "actual_engine_gaps": []
+  },
+  {
+    "beat_id": "beat_33",
+    "source_cue_ids": [
+      255
+    ],
+    "text": "Chúng ta nhìn lại và gọi cả chuỗi ấy là sự sụp đổ.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 300,
+      "source": "pause_event",
+      "reason": "Đổi góc nhìn từ người nhìn lại sang người sống trong sự kiện.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy tư, đồng cảm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "từng ngày",
+        "bạn sẽ quyết định rời đi"
+      ],
+      "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+    },
+    "actual_engine_chunks": [
+      "chúng ta nhìn lại và gọi cả chuỗi ấy là sự sụp đổ."
+    ],
+    "actual_engine_gaps": []
+  },
+  {
+    "beat_id": "beat_33",
+    "source_cue_ids": [
+      256
+    ],
+    "text": "Người sống trong chuỗi ấy phải giải quyết từng ngày.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 600,
+      "source": "pause_event",
+      "reason": "Điểm nhấn từng ngày cần khoảng nghỉ sau câu.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "từng ngày"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy tư, đồng cảm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "từng ngày",
+        "bạn sẽ quyết định rời đi"
+      ],
+      "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+    },
+    "actual_engine_chunks": [
+      "người sống trong chuỗi ấy phải giải quyết từng ngày."
+    ],
+    "actual_engine_gaps": []
+  },
+  {
+    "beat_id": "beat_33",
+    "source_cue_ids": [
+      257
+    ],
+    "text": "Có lẽ vì thế mà câu hỏi ở đầu video vẫn rất gần gũi.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy tư, đồng cảm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "từng ngày",
+        "bạn sẽ quyết định rời đi"
+      ],
+      "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+    },
+    "actual_engine_chunks": [
+      "có lẽ vì thế mà câu hỏi ở đầu video vẫn rất gần gũi."
+    ],
+    "actual_engine_gaps": []
+  },
+  {
+    "beat_id": "beat_33",
+    "source_cue_ids": [
+      258
+    ],
+    "text": "Nếu là bạn, đến khi nào bạn sẽ quyết định rời đi?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 700,
+      "source": "pause_event",
+      "reason": "Để người nghe cân nhắc câu hỏi.",
+      "replaces_beat_pause": true
+    },
+    "matched_emphasis_phrases": [
+      "bạn sẽ quyết định rời đi"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy tư, đồng cảm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "từng ngày",
+        "bạn sẽ quyết định rời đi"
+      ],
+      "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+    },
+    "actual_engine_chunks": [
+      "nếu là bạn, đến khi nào bạn sẽ quyết định rời đi?"
+    ],
+    "actual_engine_gaps": []
+  }
+]

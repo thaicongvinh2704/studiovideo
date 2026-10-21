@@ -1,0 +1,30 @@
+{
+  "engine": "VoxCPM2-BaseLM Q8_0 + Acoustic F16 / llama.cpp-omni",
+  "runtime_commit": "a64932ec615e1463158129feaf2f0752d0c07a2e",
+  "official_model": "https://huggingface.co/openbmb/VoxCPM2",
+  "supported_language": "Vietnamese explicitly listed among 30 languages on official model card",
+  "cloning": "Public C++ generate_with_clone(text, reference_wav, params), 16k input / 48k output",
+  "reference_scope": "Audio-conditioned timbre and potentially delivery; not guaranteed exact performance copying",
+  "direction_applied": [
+    "Original beat text and protected semantic spans",
+    "Complete-sentence synthesis units",
+    "Meaning-based pause top-up",
+    "Modest whole-unit pace/gain; final 1.25x once, pitch unchanged"
+  ],
+  "not_claimed": [
+    "Exact phrase-level stress without alignment",
+    "Native JSON emotional direction interpretation",
+    "Verified Vietnamese tones, Northern accent, speaker consistency or every audible word from signal metrics"
+  ],
+  "model_controls": {
+    "cfg_value": 2.0,
+    "inference_timesteps": 10,
+    "temperature": 1.0,
+    "seed": 284617,
+    "max_steps": 350
+  },
+  "memory_overlay": "BaseLM and ResidualLM context capacity 2048 instead of 32768; original vendor source preserved",
+  "listening_qc": "Pending user listening; selected H audition is accepted but full narration is not automatically approved",
+  "network_for_synthesis": false,
+  "paid_api": false
+}

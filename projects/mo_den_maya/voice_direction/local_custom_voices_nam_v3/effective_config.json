@@ -1,0 +1,46 @@
+{
+  "engine": "VoxCPM2 Q8_0 BaseLM + F16 acoustic",
+  "backend": "CPU",
+  "runtime_commit": "a64932ec615e1463158129feaf2f0752d0c07a2e",
+  "binary_sha256": "0cfee687ea51f70746489485f03c39da22ad265f7149d44abee7250d63eb6bce",
+  "model_verification": "voices\\local_design\\local_model_verification.json",
+  "mode": "Voice Design",
+  "offline": true,
+  "reference_audio": null,
+  "preset": null,
+  "text": "Khoan đã! Nghe thì có lý, nhưng bằng chứng đâu? Mình là Mỏ Đen. Cùng mình soi từng dấu vết nhé. Đừng vội kéo người ngoài hành tinh vào, cứ để họ nghỉ một hôm đã! Có khi câu trả lời nằm ngay dưới chân mình đấy. Thử nghe sáu thanh: ma, má, mà, mả, mã, mạ.",
+  "normalization_edits": [],
+  "designs": [
+    {
+      "id": "07_nam_custom_G",
+      "seed": 715903,
+      "prompt": "A native Vietnamese man from Hanoi speaking Vietnamese in a consistent standard Northern accent, with clear Northern vowels and six distinct Vietnamese lexical tones. Natural adult mid-range pitch. A youthful male voice in his early twenties, lean and bright, dry close conversational sound, clipped agile consonants, casually cheeky and energetic like a witty young friend. Quick relaxed phrasing with an amused smile, no heavy chest resonance."
+    },
+    {
+      "id": "08_nam_custom_H",
+      "seed": 284617,
+      "prompt": "A native Vietnamese man from Hanoi speaking Vietnamese in a consistent standard Northern accent, with clear Northern vowels and six distinct Vietnamese lexical tones. Natural adult mid-range pitch. A male voice around thirty with a distinctive soft husky edge, slightly breathy texture and light resonance. Easygoing conversational rhythm, understated teasing humor and friendly curiosity. Spoken intimacy, never a solemn announcement or dramatic narration."
+    },
+    {
+      "id": "09_nam_custom_I",
+      "seed": 963052,
+      "prompt": "A native Vietnamese man from Hanoi speaking Vietnamese in a consistent standard Northern accent, with clear Northern vowels and six distinct Vietnamese lexical tones. Natural adult mid-range pitch. A youthful quirky male character voice, narrow focused nasal resonance and a slightly reedy texture, an impish grin, lively rhythmic articulation, mischievous quick questions. An expressive adult voice with springy conversational phrasing, not a child or falsetto."
+    },
+    {
+      "id": "10_nam_custom_J",
+      "seed": 438279,
+      "prompt": "A native Vietnamese man from Hanoi speaking Vietnamese in a consistent standard Northern accent, with clear Northern vowels and six distinct Vietnamese lexical tones. Natural adult mid-range pitch. A clean open resonant male voice in his mid twenties, smooth light tenor with clear ringing vowels and almost no rasp, friendly comic confidence, animated curious questions and an effortless smiling delivery. Relaxed throat, medium pitch, no booming low voice."
+    }
+  ],
+  "inference": {
+    "cfg": 2.0,
+    "timesteps": 10,
+    "temperature": 1.0,
+    "max_steps": 350,
+    "omp_threads": 6
+  },
+  "preview_speed_multiplier": 1.25,
+  "postprocess_pitch_shift_semitones": 0,
+  "regions": "Northern Vietnamese requested by description; listening verification pending.",
+  "default_voice_changed": false
+}

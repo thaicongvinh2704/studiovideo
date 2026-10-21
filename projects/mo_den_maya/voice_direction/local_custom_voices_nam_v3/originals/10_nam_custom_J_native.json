@@ -1,0 +1,29 @@
+{
+  "key": "9aade3ee58fd9e0d10c59f46a906b01c6be24a3f5f25a32d52518ca4cb18b632",
+  "request": {
+    "text": "(A native Vietnamese man from Hanoi speaking Vietnamese in a consistent standard Northern accent, with clear Northern vowels and six distinct Vietnamese lexical tones. Natural adult mid-range pitch. A clean open resonant male voice in his mid twenties, smooth light tenor with clear ringing vowels and almost no rasp, friendly comic confidence, animated curious questions and an effortless smiling delivery. Relaxed throat, medium pitch, no booming low voice.)Khoan đã! Nghe thì có lý, nhưng bằng chứng đâu? Mình là Mỏ Đen. Cùng mình soi từng dấu vết nhé. Đừng vội kéo người ngoài hành tinh vào, cứ để họ nghỉ một hôm đã! Có khi câu trả lời nằm ngay dưới chân mình đấy. Thử nghe sáu thanh: ma, má, mà, mả, mã, mạ.",
+    "seed": 438279,
+    "binary": "0cfee687ea51f70746489485f03c39da22ad265f7149d44abee7250d63eb6bce",
+    "inference": {
+      "cfg": 2.0,
+      "timesteps": 10,
+      "temperature": 1.0,
+      "max_steps": 350,
+      "omp_threads": 6
+    },
+    "models": {
+      "models": [
+        {
+          "file": "VoxCPM2-BaseLM-Q8_0.gguf",
+          "sha256": "0113177abd11303503bf0b705e1613ec5f0a8508cc74a7dfd0f99312b962a962"
+        },
+        {
+          "file": "VoxCPM2-Acoustic-F16.gguf",
+          "sha256": "5bde898488ad635ff55d24da53543768fa33d5e5cdc538ce190e5ef831038e85"
+        }
+      ]
+    }
+  },
+  "elapsed_seconds": 126.54700000002049,
+  "original_sha256": "264ccbb2eddcbd42e74c881b42271f9e707b9146f212e2fc62b1fa3d3d2b6e39"
+}

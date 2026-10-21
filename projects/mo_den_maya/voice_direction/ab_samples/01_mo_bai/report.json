@@ -1,0 +1,302 @@
+{
+  "excerpt_source_cues": [
+    1,
+    7
+  ],
+  "slug": "01_mo_bai",
+  "seed": 20261021,
+  "text": "Giữa rừng nhiệt đới, những ngôi đền vẫn đứng đó. Người xây chúng biết quan sát bầu trời, trữ nước, thậm chí dùng khoáng vật để lọc nước uống. Vậy mà rồi, nhiều người vẫn phải rời thành phố. Nếu đã làm được từng ấy việc, vì sao họ không thể tiếp tục sống ở đây? Có một điều cần làm rõ ngay: người Maya không biến mất. Họ vẫn sống đến hôm nay. Nhiều thành phố suy tàn. Những triều đại mất quyền lực. Nhưng chuyện gì đã đẩy cuộc sống ở đó đến chỗ khó giữ được như trước?",
+  "text_origin": "Exact spans of beats[].text; source_cues used only for traceability.",
+  "baseline_config": {
+    "text": "Giữa rừng nhiệt đới, những ngôi đền vẫn đứng đó. Người xây chúng biết quan sát bầu trời, trữ nước, thậm chí dùng khoáng vật để lọc nước uống. Vậy mà rồi, nhiều người vẫn phải rời thành phố. Nếu đã làm được từng ấy việc, vì sao họ không thể tiếp tục sống ở đây? Có một điều cần làm rõ ngay: người Maya không biến mất. Họ vẫn sống đến hôm nay. Nhiều thành phố suy tàn. Những triều đại mất quyền lực. Nhưng chuyện gì đã đẩy cuộc sống ở đó đến chỗ khó giữ được như trước?",
+    "profile_sha256": "04a8c62e3168ae6bc918fb8d6b6ec47859b496e6e1a9115bca479f51dfc52f66",
+    "seed": 20261021,
+    "sdk": "3.8.3",
+    "pipeline": "current ReferenceSynthesizer.synthesize v1"
+  },
+  "directed_units": [
+    {
+      "beat_id": "beat_01",
+      "source_cue_ids": [
+        1,
+        2,
+        3
+      ],
+      "text": "Giữa rừng nhiệt đới, những ngôi đền vẫn đứng đó. Người xây chúng biết quan sát bầu trời, trữ nước, thậm chí dùng khoáng vật để lọc nước uống. Vậy mà rồi, nhiều người vẫn phải rời thành phố.",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 1.0,
+      "gain_db": 0.0,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "matched_emphasis_phrases": [],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Tò mò, điềm tĩnh",
+        "pace_relative_to_natural_voice": "vừa",
+        "emotion_intensity": "nhẹ",
+        "emphasis_phrases": [
+          "vì sao",
+          "người Maya không biến mất"
+        ],
+        "direction": "Câu hỏi ở cue 4 chân thành; cue 5 rõ ràng, không giật gân. Giới thiệu Mỏ Đen gần gũi."
+      },
+      "actual_engine_chunks": [
+        "giữa rừng nhiệt đới, những ngôi đền vẫn đứng đó. người xây chúng biết quan sát bầu trời, trữ nước, thậm chí dùng khoáng vật để lọc nước uống. vậy mà rồi, nhiều người vẫn phải rời thành phố."
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "beat_id": "beat_01",
+      "source_cue_ids": [
+        4
+      ],
+      "text": "Nếu đã làm được từng ấy việc, vì sao họ không thể tiếp tục sống ở đây?",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 0.99,
+      "gain_db": 0.3,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "matched_emphasis_phrases": [
+        "vì sao"
+      ],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Tò mò, điềm tĩnh",
+        "pace_relative_to_natural_voice": "vừa",
+        "emotion_intensity": "nhẹ",
+        "emphasis_phrases": [
+          "vì sao",
+          "người Maya không biến mất"
+        ],
+        "direction": "Câu hỏi ở cue 4 chân thành; cue 5 rõ ràng, không giật gân. Giới thiệu Mỏ Đen gần gũi."
+      },
+      "actual_engine_chunks": [
+        "nếu đã làm được từng ấy việc, vì sao họ không thể tiếp tục sống ở đây?"
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "beat_id": "beat_01",
+      "source_cue_ids": [
+        5
+      ],
+      "text": "Có một điều cần làm rõ ngay: người Maya không biến mất. Họ vẫn sống đến hôm nay.",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 0.99,
+      "gain_db": 0.3,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "matched_emphasis_phrases": [
+        "người Maya không biến mất"
+      ],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Tò mò, điềm tĩnh",
+        "pace_relative_to_natural_voice": "vừa",
+        "emotion_intensity": "nhẹ",
+        "emphasis_phrases": [
+          "vì sao",
+          "người Maya không biến mất"
+        ],
+        "direction": "Câu hỏi ở cue 4 chân thành; cue 5 rõ ràng, không giật gân. Giới thiệu Mỏ Đen gần gũi."
+      },
+      "actual_engine_chunks": [
+        "có một điều cần làm rõ ngay, người maya không biến mất. họ vẫn sống đến hôm nay."
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "beat_id": "beat_01",
+      "source_cue_ids": [
+        6,
+        7
+      ],
+      "text": "Nhiều thành phố suy tàn. Những triều đại mất quyền lực. Nhưng chuyện gì đã đẩy cuộc sống ở đó đến chỗ khó giữ được như trước?",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 1.0,
+      "gain_db": 0.0,
+      "pause": {
+        "target_ms": 0,
+        "source": "partial_excerpt_end",
+        "reason": "Không áp nghỉ cuối beat ở phần trích chưa hết beat.",
+        "replaces_beat_pause": false
+      },
+      "matched_emphasis_phrases": [],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Tò mò, điềm tĩnh",
+        "pace_relative_to_natural_voice": "vừa",
+        "emotion_intensity": "nhẹ",
+        "emphasis_phrases": [
+          "vì sao",
+          "người Maya không biến mất"
+        ],
+        "direction": "Câu hỏi ở cue 4 chân thành; cue 5 rõ ràng, không giật gân. Giới thiệu Mỏ Đen gần gũi."
+      },
+      "actual_engine_chunks": [
+        "nhiều thành phố suy tàn. những triều đại mất quyền lực. nhưng chuyện gì đã đẩy cuộc sống ở đó đến chỗ khó giữ được như trước?"
+      ],
+      "actual_engine_gaps": []
+    }
+  ],
+  "pause_log": [
+    {
+      "after_source_cue": 3,
+      "requested_total_ms": 350,
+      "estimated_existing_trailing_ms": 120.0,
+      "estimated_next_leading_ms": 110.0,
+      "added_ms": 120.0,
+      "source": "semantic_boundary",
+      "replaces_beat_pause": false,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    },
+    {
+      "after_source_cue": 4,
+      "requested_total_ms": 350,
+      "estimated_existing_trailing_ms": 0.0,
+      "estimated_next_leading_ms": 70.0,
+      "added_ms": 280.0,
+      "source": "semantic_boundary",
+      "replaces_beat_pause": false,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    },
+    {
+      "after_source_cue": 5,
+      "requested_total_ms": 350,
+      "estimated_existing_trailing_ms": 180.0,
+      "estimated_next_leading_ms": 100.0,
+      "added_ms": 70.0,
+      "source": "semantic_boundary",
+      "replaces_beat_pause": false,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    },
+    {
+      "after_source_cue": 7,
+      "requested_total_ms": 0,
+      "estimated_existing_trailing_ms": 30.0,
+      "estimated_next_leading_ms": 0.0,
+      "added_ms": 0.0,
+      "source": "partial_excerpt_end",
+      "replaces_beat_pause": false,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    }
+  ],
+  "directed_timing": [
+    {
+      "start_seconds": 0.0,
+      "end_seconds": 9.184770833333333,
+      "source_cue_ids": [
+        1,
+        2,
+        3
+      ],
+      "text": "Giữa rừng nhiệt đới, những ngôi đền vẫn đứng đó. Người xây chúng biết quan sát bầu trời, trữ nước, thậm chí dùng khoáng vật để lọc nước uống. Vậy mà rồi, nhiều người vẫn phải rời thành phố.",
+      "pause_target": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "pace_multiplier": 1.0,
+      "gain_db": 0.0
+    },
+    {
+      "start_seconds": 9.304770833333333,
+      "end_seconds": 12.826791666666665,
+      "source_cue_ids": [
+        4
+      ],
+      "text": "Nếu đã làm được từng ấy việc, vì sao họ không thể tiếp tục sống ở đây?",
+      "pause_target": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "pace_multiplier": 0.99,
+      "gain_db": 0.3
+    },
+    {
+      "start_seconds": 13.106791666666664,
+      "end_seconds": 17.316041666666663,
+      "source_cue_ids": [
+        5
+      ],
+      "text": "Có một điều cần làm rõ ngay: người Maya không biến mất. Họ vẫn sống đến hôm nay.",
+      "pause_target": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "pace_multiplier": 0.99,
+      "gain_db": 0.3
+    },
+    {
+      "start_seconds": 17.386041666666664,
+      "end_seconds": 23.426854166666665,
+      "source_cue_ids": [
+        6,
+        7
+      ],
+      "text": "Nhiều thành phố suy tàn. Những triều đại mất quyền lực. Nhưng chuyện gì đã đẩy cuộc sống ở đó đến chỗ khó giữ được như trước?",
+      "pause_target": {
+        "target_ms": 0,
+        "source": "partial_excerpt_end",
+        "reason": "Không áp nghỉ cuối beat ở phần trích chưa hết beat.",
+        "replaces_beat_pause": false
+      },
+      "pace_multiplier": 1.0,
+      "gain_db": 0.0
+    }
+  ],
+  "comparison_target_lufs": -18.21,
+  "audio": [
+    {
+      "version": "A",
+      "file": "01_mo_bai\\A_pipeline_hien_tai.wav",
+      "seconds": 23.472,
+      "sha256": "116ce04d486a0d3400953949798ed8d3ba32a66e4ee2f338be0f888c2e539ab9",
+      "loudness": {
+        "input_i": -18.21,
+        "input_tp": -1.67,
+        "input_lra": 1.9,
+        "input_thresh": -28.36
+      },
+      "linear_comparison_gain_db": 0.3299999999999983,
+      "text_sha256": "d4a9d074a1183d9530e2e76e844c3d12ab9cec7d767080665298e6c0ac78ef24"
+    },
+    {
+      "version": "B",
+      "file": "01_mo_bai\\B_dao_dien_json.wav",
+      "seconds": 23.427,
+      "sha256": "9d715c626dcfecd3a7d6eab2a6ec2bc971765cd79ec24cdc774e0206449011f5",
+      "loudness": {
+        "input_i": -18.21,
+        "input_tp": -1.5,
+        "input_lra": 1.4,
+        "input_thresh": -28.33
+      },
+      "linear_comparison_gain_db": 0.1999999999999993,
+      "text_sha256": "d4a9d074a1183d9530e2e76e844c3d12ab9cec7d767080665298e6c0ac78ef24"
+    }
+  ],
+  "pronunciation_terms_in_excerpt": [
+    "Maya"
+  ],
+  "listening_status": "CHƯA NGHE KIỂM TRA; không suy ra đạt từ chỉ số.",
+  "normalized_reading_edits": [],
+  "normalization_note": "Giữ nguyên lời và chính tả tên; chỉ gộp khoảng trắng. Số đã viết bằng chữ. Không bịa phiên âm."
+}

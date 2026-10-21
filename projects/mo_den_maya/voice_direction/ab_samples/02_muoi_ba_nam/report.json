@@ -1,0 +1,361 @@
+{
+  "excerpt_source_cues": [
+    111,
+    117
+  ],
+  "slug": "02_muoi_ba_nam",
+  "seed": 20261022,
+  "text": "Ở tây bắc Yucatán, một nghiên cứu năm hai nghìn hai mươi lăm dùng măng đá để tìm dấu vết những đợt hạn kéo dài nhiều năm. Trong hồ sơ ấy, có một giai đoạn hạn kéo dài khoảng mười ba năm. Mười ba năm. Điều đó không có nghĩa suốt thời gian ấy chẳng rơi một giọt mưa nào. Nhưng theo cách nghiên cứu xác định, tình trạng hạn đã kéo dài qua hết mùa vụ này đến mùa vụ khác.",
+  "text_origin": "Exact spans of beats[].text; source_cues used only for traceability.",
+  "baseline_config": {
+    "text": "Ở tây bắc Yucatán, một nghiên cứu năm hai nghìn hai mươi lăm dùng măng đá để tìm dấu vết những đợt hạn kéo dài nhiều năm. Trong hồ sơ ấy, có một giai đoạn hạn kéo dài khoảng mười ba năm. Mười ba năm. Điều đó không có nghĩa suốt thời gian ấy chẳng rơi một giọt mưa nào. Nhưng theo cách nghiên cứu xác định, tình trạng hạn đã kéo dài qua hết mùa vụ này đến mùa vụ khác.",
+    "profile_sha256": "04a8c62e3168ae6bc918fb8d6b6ec47859b496e6e1a9115bca479f51dfc52f66",
+    "seed": 20261022,
+    "sdk": "3.8.3",
+    "pipeline": "current ReferenceSynthesizer.synthesize v1"
+  },
+  "directed_units": [
+    {
+      "beat_id": "beat_15",
+      "source_cue_ids": [
+        111,
+        112
+      ],
+      "text": "Ở tây bắc Yucatán, một nghiên cứu năm hai nghìn hai mươi lăm dùng măng đá để tìm dấu vết những đợt hạn kéo dài nhiều năm.",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 0.98,
+      "gain_db": 0.0,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "matched_emphasis_phrases": [],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+        "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+        "emotion_intensity": "vừa",
+        "emphasis_phrases": [
+          "mười ba năm",
+          "mùa vụ này đến mùa vụ khác"
+        ],
+        "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+      },
+      "actual_engine_chunks": [
+        "ở tây bắc yucatán, một nghiên cứu năm hai nghìn hai mươi lăm dùng măng đá để tìm dấu vết những đợt hạn kéo dài nhiều năm."
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "beat_id": "beat_15",
+      "source_cue_ids": [
+        113
+      ],
+      "text": "Trong hồ sơ ấy, có một giai đoạn hạn kéo dài khoảng mười ba năm.",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 0.9702,
+      "gain_db": 0.45,
+      "pause": {
+        "target_ms": 650,
+        "source": "pause_event",
+        "reason": "Để thông tin mười ba năm đọng lại trước lần lặp.",
+        "replaces_beat_pause": false
+      },
+      "matched_emphasis_phrases": [
+        "mười ba năm"
+      ],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+        "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+        "emotion_intensity": "vừa",
+        "emphasis_phrases": [
+          "mười ba năm",
+          "mùa vụ này đến mùa vụ khác"
+        ],
+        "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+      },
+      "actual_engine_chunks": [
+        "trong hồ sơ ấy, có một giai đoạn hạn kéo dài khoảng mười ba năm."
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "beat_id": "beat_15",
+      "source_cue_ids": [
+        114
+      ],
+      "text": "Mười ba năm.",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 0.9702,
+      "gain_db": 0.15,
+      "pause": {
+        "target_ms": 650,
+        "source": "pause_event",
+        "reason": "Lần lặp ngắn, sau đó chuyển sang giải thích phạm vi.",
+        "replaces_beat_pause": false
+      },
+      "matched_emphasis_phrases": [
+        "mười ba năm"
+      ],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+        "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+        "emotion_intensity": "vừa",
+        "emphasis_phrases": [
+          "mười ba năm",
+          "mùa vụ này đến mùa vụ khác"
+        ],
+        "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+      },
+      "actual_engine_chunks": [
+        "mười ba năm."
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "beat_id": "beat_15",
+      "source_cue_ids": [
+        115
+      ],
+      "text": "Điều đó không có nghĩa suốt thời gian ấy chẳng rơi một giọt mưa nào.",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 0.98,
+      "gain_db": 0.0,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "matched_emphasis_phrases": [],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+        "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+        "emotion_intensity": "vừa",
+        "emphasis_phrases": [
+          "mười ba năm",
+          "mùa vụ này đến mùa vụ khác"
+        ],
+        "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+      },
+      "actual_engine_chunks": [
+        "điều đó không có nghĩa suốt thời gian ấy chẳng rơi một giọt mưa nào."
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "beat_id": "beat_15",
+      "source_cue_ids": [
+        116,
+        117
+      ],
+      "text": "Nhưng theo cách nghiên cứu xác định, tình trạng hạn đã kéo dài qua hết mùa vụ này đến mùa vụ khác.",
+      "text_origin": "beats[].text",
+      "pace_multiplier": 0.9702,
+      "gain_db": 0.45,
+      "pause": {
+        "target_ms": 650,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "matched_emphasis_phrases": [
+        "mùa vụ này đến mùa vụ khác"
+      ],
+      "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+      "original_editorial_direction": {
+        "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+        "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+        "emotion_intensity": "vừa",
+        "emphasis_phrases": [
+          "mười ba năm",
+          "mùa vụ này đến mùa vụ khác"
+        ],
+        "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+      },
+      "actual_engine_chunks": [
+        "nhưng theo cách nghiên cứu xác định, tình trạng hạn đã kéo dài qua hết mùa vụ này đến mùa vụ khác."
+      ],
+      "actual_engine_gaps": []
+    }
+  ],
+  "pause_log": [
+    {
+      "after_source_cue": 112,
+      "requested_total_ms": 350,
+      "estimated_existing_trailing_ms": 140.0,
+      "estimated_next_leading_ms": 100.0,
+      "added_ms": 110.0,
+      "source": "semantic_boundary",
+      "replaces_beat_pause": false,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    },
+    {
+      "after_source_cue": 113,
+      "requested_total_ms": 650,
+      "estimated_existing_trailing_ms": 150.0,
+      "estimated_next_leading_ms": 110.0,
+      "added_ms": 390.0,
+      "source": "pause_event",
+      "replaces_beat_pause": false,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    },
+    {
+      "after_source_cue": 114,
+      "requested_total_ms": 650,
+      "estimated_existing_trailing_ms": 10.0,
+      "estimated_next_leading_ms": 100.0,
+      "added_ms": 540.0,
+      "source": "pause_event",
+      "replaces_beat_pause": false,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    },
+    {
+      "after_source_cue": 115,
+      "requested_total_ms": 350,
+      "estimated_existing_trailing_ms": 90.0,
+      "estimated_next_leading_ms": 110.0,
+      "added_ms": 150.0,
+      "source": "semantic_boundary",
+      "replaces_beat_pause": false,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    },
+    {
+      "after_source_cue": 117,
+      "requested_total_ms": 650,
+      "estimated_existing_trailing_ms": 60.0,
+      "estimated_next_leading_ms": 0.0,
+      "added_ms": 590.0,
+      "source": "beat_end",
+      "replaces_beat_pause": false,
+      "method": "Complete sentence/inference boundary; quiet-edge estimate at -46 dBFS. No word cuts or silence trims."
+    }
+  ],
+  "directed_timing": [
+    {
+      "start_seconds": 0.0,
+      "end_seconds": 5.987791666666666,
+      "source_cue_ids": [
+        111,
+        112
+      ],
+      "text": "Ở tây bắc Yucatán, một nghiên cứu năm hai nghìn hai mươi lăm dùng măng đá để tìm dấu vết những đợt hạn kéo dài nhiều năm.",
+      "pause_target": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "pace_multiplier": 0.98,
+      "gain_db": 0.0
+    },
+    {
+      "start_seconds": 6.097791666666667,
+      "end_seconds": 9.779354166666668,
+      "source_cue_ids": [
+        113
+      ],
+      "text": "Trong hồ sơ ấy, có một giai đoạn hạn kéo dài khoảng mười ba năm.",
+      "pause_target": {
+        "target_ms": 650,
+        "source": "pause_event",
+        "reason": "Để thông tin mười ba năm đọng lại trước lần lặp.",
+        "replaces_beat_pause": false
+      },
+      "pace_multiplier": 0.9702,
+      "gain_db": 0.45
+    },
+    {
+      "start_seconds": 10.169354166666668,
+      "end_seconds": 11.045916666666669,
+      "source_cue_ids": [
+        114
+      ],
+      "text": "Mười ba năm.",
+      "pause_target": {
+        "target_ms": 650,
+        "source": "pause_event",
+        "reason": "Lần lặp ngắn, sau đó chuyển sang giải thích phạm vi.",
+        "replaces_beat_pause": false
+      },
+      "pace_multiplier": 0.9702,
+      "gain_db": 0.15
+    },
+    {
+      "start_seconds": 11.58591666666667,
+      "end_seconds": 14.88354166666667,
+      "source_cue_ids": [
+        115
+      ],
+      "text": "Điều đó không có nghĩa suốt thời gian ấy chẳng rơi một giọt mưa nào.",
+      "pause_target": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "pace_multiplier": 0.98,
+      "gain_db": 0.0
+    },
+    {
+      "start_seconds": 15.03354166666667,
+      "end_seconds": 20.029937500000003,
+      "source_cue_ids": [
+        116,
+        117
+      ],
+      "text": "Nhưng theo cách nghiên cứu xác định, tình trạng hạn đã kéo dài qua hết mùa vụ này đến mùa vụ khác.",
+      "pause_target": {
+        "target_ms": 650,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false
+      },
+      "pace_multiplier": 0.9702,
+      "gain_db": 0.45
+    }
+  ],
+  "comparison_target_lufs": -18.0,
+  "audio": [
+    {
+      "version": "A",
+      "file": "02_muoi_ba_nam\\A_pipeline_hien_tai.wav",
+      "seconds": 18.157,
+      "sha256": "86d21e40e1885e5dc2841ab81edb771471be3e5c8d62c11f30461dcc06adf272",
+      "loudness": {
+        "input_i": -18.01,
+        "input_tp": -1.63,
+        "input_lra": 1.6,
+        "input_thresh": -28.11
+      },
+      "linear_comparison_gain_db": 0.370000000000001,
+      "text_sha256": "0f263c1bc425e90c2092ec2d8a37f063678f6907d62a1a92d5b19d0dcf72c0cb"
+    },
+    {
+      "version": "B",
+      "file": "02_muoi_ba_nam\\B_dao_dien_json.wav",
+      "seconds": 20.62,
+      "sha256": "c8a4326c315a723f5e75615c24ecaeebca253048072a9f41222e2147e04e7964",
+      "loudness": {
+        "input_i": -17.99,
+        "input_tp": -1.57,
+        "input_lra": 1.8,
+        "input_thresh": -28.39
+      },
+      "linear_comparison_gain_db": -0.019999999999999574,
+      "text_sha256": "0f263c1bc425e90c2092ec2d8a37f063678f6907d62a1a92d5b19d0dcf72c0cb"
+    }
+  ],
+  "pronunciation_terms_in_excerpt": [
+    "Yucatán",
+    "măng đá"
+  ],
+  "listening_status": "CHƯA NGHE KIỂM TRA; không suy ra đạt từ chỉ số.",
+  "normalized_reading_edits": [],
+  "normalization_note": "Giữ nguyên lời và chính tả tên; chỉ gộp khoảng trắng. Số đã viết bằng chữ. Không bịa phiên âm."
+}

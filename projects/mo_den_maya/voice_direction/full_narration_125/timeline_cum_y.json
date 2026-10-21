@@ -1,0 +1,4168 @@
+{
+  "method": "Measured concatenated inference-unit boundaries / 1.25; no forced word alignment.",
+  "boundary_precision": "Approximate after whole-track rubberband; not 275 source cue alignment.",
+  "units": [
+    {
+      "unit": 1,
+      "beat_id": "beat_01",
+      "source_cue_ids": [
+        1,
+        2,
+        3
+      ],
+      "text": "Giữa rừng nhiệt đới, những ngôi đền vẫn đứng đó. Người xây chúng biết quan sát bầu trời, trữ nước, thậm chí dùng khoáng vật để lọc nước uống. Vậy mà rồi, nhiều người vẫn phải rời thành phố.",
+      "base_start_seconds": 0.0,
+      "base_end_seconds": 9.184770833333333,
+      "final_start_seconds": 0.0,
+      "final_end_seconds": 7.347816666666667,
+      "raw_sha256": "bcf85e2df1d28dfb998053f9fe92011c4cf27d49d96b4eb1bc5e39e1cfbeeb54",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 120.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 120.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 2,
+      "beat_id": "beat_01",
+      "source_cue_ids": [
+        4
+      ],
+      "text": "Nếu đã làm được từng ấy việc, vì sao họ không thể tiếp tục sống ở đây?",
+      "base_start_seconds": 9.304770833333333,
+      "base_end_seconds": 12.826791666666667,
+      "final_start_seconds": 7.443816666666666,
+      "final_end_seconds": 10.261433333333333,
+      "raw_sha256": "11c084f73b199b46bafd819c1d46f75ac9996fd9545c32eba0eba746a4d9efaf",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 280.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 3,
+      "beat_id": "beat_01",
+      "source_cue_ids": [
+        5
+      ],
+      "text": "Có một điều cần làm rõ ngay: người Maya không biến mất. Họ vẫn sống đến hôm nay.",
+      "base_start_seconds": 13.106791666666666,
+      "base_end_seconds": 17.316041666666667,
+      "final_start_seconds": 10.485433333333333,
+      "final_end_seconds": 13.852833333333333,
+      "raw_sha256": "73e43e70813feb69b2ac429297121ce0ebc804e84d2f4c596a5b6678b4abda49",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 180.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 60.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 4,
+      "beat_id": "beat_01",
+      "source_cue_ids": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "text": "Nhiều thành phố suy tàn. Những triều đại mất quyền lực. Nhưng chuyện gì đã đẩy cuộc sống ở đó đến chỗ khó giữ được như trước? Tôi là Mỏ Đen. Hôm nay, chúng ta mở lại hồ sơ Maya. Bắt đầu từ những dấu vết còn lại dưới đất, dưới nước và trên đá.",
+      "base_start_seconds": 17.376041666666666,
+      "base_end_seconds": 30.472833333333334,
+      "final_start_seconds": 13.900833333333333,
+      "final_end_seconds": 24.37826666666667,
+      "raw_sha256": "5eb17677db45559b3640cdc610908c9abc6273517e9f47707b5aff7f927c0ba8",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 120.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 120.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 5,
+      "beat_id": "beat_01",
+      "source_cue_ids": [
+        10,
+        11
+      ],
+      "text": "Một thành phố từng cháy. Những hồ nước bị ô nhiễm. Và một nơi khiến lời giải về hạn hán trở nên khó nói hơn.",
+      "base_start_seconds": 30.592833333333335,
+      "base_end_seconds": 36.54591666666666,
+      "final_start_seconds": 24.47426666666667,
+      "final_end_seconds": 29.23673333333333,
+      "raw_sha256": "31a0617101cca77ee2ccce1d4bfd0ae183adb85def34b8450746563204696a51",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 450,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 120.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 230.0,
+        "final_target_ms": 360.0
+      }
+    },
+    {
+      "unit": 6,
+      "beat_id": "beat_02",
+      "source_cue_ids": [
+        12,
+        13,
+        14
+      ],
+      "text": "Trước hết, thử hình dung chuyện này xảy ra ở khu bạn sống. Nhà vẫn còn tốt, đường vẫn đi được. Nhưng nước bắt đầu thiếu. Bạn cố xoay xở. Rồi thực phẩm cũng khó kiếm hơn.",
+      "base_start_seconds": 36.77591666666667,
+      "base_end_seconds": 45.875625,
+      "final_start_seconds": 29.420733333333335,
+      "final_end_seconds": 36.7005,
+      "raw_sha256": "7685619df32bf55e8d42ffa13707eda49d381755b007e1fdc8709fecaa5c802f",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 80.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 7,
+      "beat_id": "beat_02",
+      "source_cue_ids": [
+        15
+      ],
+      "text": "Người quen lần lượt chuyển đi. Đến lúc nào bạn cũng tính chuyện dọn nhà?",
+      "base_start_seconds": 45.955625,
+      "base_end_seconds": 49.5635625,
+      "final_start_seconds": 36.7645,
+      "final_end_seconds": 39.650850000000005,
+      "raw_sha256": "6b3b2c2a0ddbd26bcd0c5c9bb25a26178bf90e767d71333ca99f6da3e3ccc7f4",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 90.0,
+        "added_ms": 90.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 8,
+      "beat_id": "beat_02",
+      "source_cue_ids": [
+        16,
+        17,
+        18
+      ],
+      "text": "Đó chỉ là một tình huống giả định. Nhưng nó giúp ta hình dung sự suy tàn từ phía những người phải sống trong đó. Chẳng ai họp cả thành phố để thông báo: từ ngày mai, chúng ta chính thức trở thành di tích.",
+      "base_start_seconds": 49.6535625,
+      "base_end_seconds": 60.369125,
+      "final_start_seconds": 39.72285,
+      "final_end_seconds": 48.2953,
+      "raw_sha256": "bd889794ea81d65b42c396ff5a36c94f539935b3509f5064aa86d985f4f577c1",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 250,
+        "source": "pause_event",
+        "reason": "Nghỉ nhẹ sau câu đùa, không thêm tiếng cười.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 100.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 40.0,
+        "final_target_ms": 200.0
+      }
+    },
+    {
+      "unit": 9,
+      "beat_id": "beat_02",
+      "source_cue_ids": [
+        19
+      ],
+      "text": "Mỗi gia đình có thể đứng trước một lựa chọn khác nhau.",
+      "base_start_seconds": 60.409125,
+      "base_end_seconds": 63.04689583333333,
+      "final_start_seconds": 48.3273,
+      "final_end_seconds": 50.43751666666667,
+      "raw_sha256": "a982b76bc2ac3ca07384f7555fb79aef46dd13fb6b2d8b35373cf13e73eea230",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 110.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 170.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 10,
+      "beat_id": "beat_02",
+      "source_cue_ids": [
+        20
+      ],
+      "text": "Khi nhìn lại, ta thấy cả một thành phố vắng người. Còn lúc ấy, họ phải tính từng ngày.",
+      "base_start_seconds": 63.21689583333333,
+      "base_end_seconds": 67.51204166666666,
+      "final_start_seconds": 50.57351666666666,
+      "final_end_seconds": 54.009633333333326,
+      "raw_sha256": "40ce6505a818fd20de991ebf567cd0f54b3f09fb30cb6150cf4101140592eb12",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 100.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 140.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 11,
+      "beat_id": "beat_02",
+      "source_cue_ids": [
+        21
+      ],
+      "text": "Đền đài ở lại rất lâu. Vì thế, chúng dễ chiếm hết sự chú ý của chúng ta.",
+      "base_start_seconds": 67.65204166666666,
+      "base_end_seconds": 71.90425,
+      "final_start_seconds": 54.12163333333333,
+      "final_end_seconds": 57.5234,
+      "raw_sha256": "2519e267c8c18a6351c677017808c4097fcafd91685e571938f2dfdc0faba07d",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 450,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 340.0,
+        "final_target_ms": 360.0
+      }
+    },
+    {
+      "unit": 12,
+      "beat_id": "beat_03",
+      "source_cue_ids": [
+        22
+      ],
+      "text": "Thế giới Maya trải rộng trên một phần miền nam Mexico và Trung Mỹ ngày nay.",
+      "base_start_seconds": 72.24425,
+      "base_end_seconds": 76.15627083333334,
+      "final_start_seconds": 57.795399999999994,
+      "final_end_seconds": 60.92501666666667,
+      "raw_sha256": "c18aa0c1e1485bae9840b4d934dc204fc2c39ab968461d5f3b6558cc36f866da",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 120.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 130.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 13,
+      "beat_id": "beat_03",
+      "source_cue_ids": [
+        23
+      ],
+      "text": "Nơi đó không có một thủ đô duy nhất.",
+      "base_start_seconds": 76.28627083333333,
+      "base_end_seconds": 78.09022916666666,
+      "final_start_seconds": 61.029016666666664,
+      "final_end_seconds": 62.47218333333333,
+      "raw_sha256": "267551aaf5ca78f15439a388b96dc8fde0d6c0bf1c5024be0bfe7ee92a504f94",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 180.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 70.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 14,
+      "beat_id": "beat_03",
+      "source_cue_ids": [
+        24,
+        25,
+        26
+      ],
+      "text": "Trong thời kỳ Cổ điển, nhiều thành bang cùng tồn tại, mỗi nơi có triều đại và quan hệ riêng. Bạn cứ hình dung nhiều trung tâm quyền lực, chứ không phải một ông vua cai quản tất cả. Bởi vậy, sẽ không có một ngày mà cả thế giới Maya cùng sụp đổ.",
+      "base_start_seconds": 78.16022916666667,
+      "base_end_seconds": 91.17197916666667,
+      "final_start_seconds": 62.52818333333333,
+      "final_end_seconds": 72.93758333333334,
+      "raw_sha256": "1e5fa781306b9c70aa02e675d9029fc2cd5e290c291ad4f34227e8ef825bbe19",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 250.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 15,
+      "beat_id": "beat_03",
+      "source_cue_ids": [
+        27,
+        28,
+        29
+      ],
+      "text": "Có nơi gặp khủng hoảng sớm, có nơi tiếp tục phát triển. Thời kỳ Cổ điển thường được tính từ khoảng năm hai trăm năm mươi đến chín trăm sau Công nguyên. Về cuối thời kỳ ấy, nhiều trung tâm ở vùng đất thấp phía nam suy giảm mạnh.",
+      "base_start_seconds": 91.42197916666667,
+      "base_end_seconds": 102.64779166666666,
+      "final_start_seconds": 73.13758333333334,
+      "final_end_seconds": 82.11823333333334,
+      "raw_sha256": "dc4f37e0a9ff3d8e97d34e997ab8a426cbfdf46321cc659b1bf5ebbeeb2acfd9",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 160.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 80.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 16,
+      "beat_id": "beat_03",
+      "source_cue_ids": [
+        30
+      ],
+      "text": "Tốc độ và mức độ suy giảm cũng khác nhau giữa các nơi.",
+      "base_start_seconds": 102.72779166666666,
+      "base_end_seconds": 105.8203125,
+      "final_start_seconds": 82.18223333333333,
+      "final_end_seconds": 84.65625,
+      "raw_sha256": "d7e8347a99ceeca2087c8db3d3655453a765273eeae3027a96335eb86e019bcc",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 240.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 17,
+      "beat_id": "beat_04",
+      "source_cue_ids": [
+        31,
+        32,
+        33
+      ],
+      "text": "Người Maya có chữ viết, toán học và những hệ thống lịch phức tạp. Để dựng được các công trình lớn, họ cần kiến thức và rất nhiều sự phối hợp. Nhìn những thành tựu ấy, hẳn bạn cũng muốn hỏi: tại sao họ vẫn không vượt qua được?",
+      "base_start_seconds": 106.0603125,
+      "base_end_seconds": 117.54127083333333,
+      "final_start_seconds": 84.84825,
+      "final_end_seconds": 94.03301666666667,
+      "raw_sha256": "31e60ae5333aad6987724e9f730d3d0e5db3009853fbdb3d15bfd2308e13d4a1",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 240.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 18,
+      "beat_id": "beat_04",
+      "source_cue_ids": [
+        34
+      ],
+      "text": "Có lẽ vì ta đang kỳ vọng quá nhiều vào sự tài giỏi.",
+      "base_start_seconds": 117.78127083333334,
+      "base_end_seconds": 120.44427083333333,
+      "final_start_seconds": 94.22501666666668,
+      "final_end_seconds": 96.35541666666667,
+      "raw_sha256": "906c4c7963f5e8e81662946b8a2d8ca09ace2af6d6c816c452e15202aa977e58",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 120.0,
+        "added_ms": 230.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 19,
+      "beat_id": "beat_04",
+      "source_cue_ids": [
+        35,
+        36
+      ],
+      "text": "Biết quan sát mùa mưa là một chuyện. Có đủ nước khi mùa mưa thất thường lại là chuyện khác.",
+      "base_start_seconds": 120.67427083333334,
+      "base_end_seconds": 124.92647916666667,
+      "final_start_seconds": 96.53941666666667,
+      "final_end_seconds": 99.94118333333333,
+      "raw_sha256": "a3f4bb96ad09c7eab098f22816b212855e3d3b96f9b57f1f28d28b31a20d0359",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 60.0,
+        "next_leading_ms": 50.0,
+        "added_ms": 240.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 20,
+      "beat_id": "beat_04",
+      "source_cue_ids": [
+        37
+      ],
+      "text": "Kiến thức giúp họ ứng phó, nhưng không bảo đảm rằng mọi cách ứng phó đều đủ sức.",
+      "base_start_seconds": 125.16647916666666,
+      "base_end_seconds": 129.032125,
+      "final_start_seconds": 100.13318333333333,
+      "final_end_seconds": 103.2257,
+      "raw_sha256": "efed9cf3fceeb1bc3e0a8d56d047d0ded14ca829fbd5d907ede1a717244b1f19",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 90.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 160.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 21,
+      "beat_id": "beat_04",
+      "source_cue_ids": [
+        38,
+        39,
+        40
+      ],
+      "text": "Cuộc sống còn phụ thuộc vào quan hệ giữa các thành bang. Họ kết liên minh, cạnh tranh, rồi cũng giao chiến. Những công trình lộng lẫy vừa cho thấy kỹ thuật, vừa thể hiện quyền lực của người cho xây chúng.",
+      "base_start_seconds": 129.192125,
+      "base_end_seconds": 139.315625,
+      "final_start_seconds": 103.3537,
+      "final_end_seconds": 111.45250000000001,
+      "raw_sha256": "8698a54f04f52985c2b9ec93b14e4826d5965588aa2fe620f7b83b041d8db95a",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 400,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 50.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 240.0,
+        "final_target_ms": 320.0
+      }
+    },
+    {
+      "unit": 22,
+      "beat_id": "beat_05",
+      "source_cue_ids": [
+        41,
+        42,
+        43
+      ],
+      "text": "Nhưng để hiểu vì sao người dân rời đi, ta cần nhìn xuống thấp hơn. Rời những đỉnh đền. Xuống nơi người ta lấy nước. Một tượng đài có thể chờ xây thêm vài năm.",
+      "base_start_seconds": 139.555625,
+      "base_end_seconds": 147.71291666666667,
+      "final_start_seconds": 111.6445,
+      "final_end_seconds": 118.17033333333333,
+      "raw_sha256": "fc72bec9a6ae8ad534716dd4a14f02071eb90659ea69a253228478517ab18ee3",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 300,
+        "source": "pause_event",
+        "reason": "Tách ý tượng đài có thể chờ với nước uống không thể chờ.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 70.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 130.0,
+        "final_target_ms": 240.0
+      }
+    },
+    {
+      "unit": 23,
+      "beat_id": "beat_05",
+      "source_cue_ids": [
+        44
+      ],
+      "text": "Nước uống thì không thể chờ lâu như vậy.",
+      "base_start_seconds": 147.84291666666667,
+      "base_end_seconds": 149.859,
+      "final_start_seconds": 118.27433333333333,
+      "final_end_seconds": 119.8872,
+      "raw_sha256": "59f1bace8a126582be7312361124b39d7995dd4e9fae7c9ae6130af4eb06d83e",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 550,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 160.0,
+        "next_leading_ms": 120.0,
+        "added_ms": 270.0,
+        "final_target_ms": 440.0
+      }
+    },
+    {
+      "unit": 24,
+      "beat_id": "beat_06",
+      "source_cue_ids": [
+        45
+      ],
+      "text": "Điểm dừng đầu tiên là Tikal, ở Guatemala ngày nay.",
+      "base_start_seconds": 150.129,
+      "base_end_seconds": 153.275625,
+      "final_start_seconds": 120.10319999999999,
+      "final_end_seconds": 122.62049999999999,
+      "raw_sha256": "66fa0dc2d874ff12b84ddcbd34a4bc2eac670c1f26d20097b2e4ec07275a2731",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 240.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 25,
+      "beat_id": "beat_06",
+      "source_cue_ids": [
+        46
+      ],
+      "text": "Giữ đủ nước qua mùa khô là một bài toán sống còn tại đây.",
+      "base_start_seconds": 153.515625,
+      "base_end_seconds": 156.60814583333334,
+      "final_start_seconds": 122.8125,
+      "final_end_seconds": 125.28651666666667,
+      "raw_sha256": "6e3a060990bd2fcfc7c47a221020caa9ba112c8044d05a437a1fbef9c6bb4e70",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 70.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 26,
+      "beat_id": "beat_06",
+      "source_cue_ids": [
+        47
+      ],
+      "text": "Nhìn rừng cây xanh um quanh Tikal, bạn có thể thấy hơi lạ.",
+      "base_start_seconds": 156.67814583333333,
+      "base_end_seconds": 159.994875,
+      "final_start_seconds": 125.34251666666667,
+      "final_end_seconds": 127.9959,
+      "raw_sha256": "aaf0117536a730fc60d817a4154a1dd8ecc17cc447a3f04c97e7acf81dcec8e7",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 200.0,
+        "next_leading_ms": 120.0,
+        "added_ms": 30.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 27,
+      "beat_id": "beat_06",
+      "source_cue_ids": [
+        48
+      ],
+      "text": "Nhiều cây thế, sao vẫn lo thiếu nước?",
+      "base_start_seconds": 160.024875,
+      "base_end_seconds": 162.25835416666666,
+      "final_start_seconds": 128.0199,
+      "final_end_seconds": 129.80668333333332,
+      "raw_sha256": "c421b291acaef67ee98c4cc0b9f6103dbf9b0fb25f8d37037aef4cf0b3ffc2d5",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 80.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 28,
+      "beat_id": "beat_06",
+      "source_cue_ids": [
+        49
+      ],
+      "text": "Vì rừng xanh không có nghĩa là lúc nào cũng tìm được nước uống ngay gần nhà.",
+      "base_start_seconds": 162.33835416666668,
+      "base_end_seconds": 165.91020833333334,
+      "final_start_seconds": 129.87068333333335,
+      "final_end_seconds": 132.72816666666668,
+      "raw_sha256": "fcc376b7c3e69b8446cf6c2f7ef2f169739071c42e787fbd8cfc068caccfc8df",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 100.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 29,
+      "beat_id": "beat_06",
+      "source_cue_ids": [
+        50
+      ],
+      "text": "Ở đây có mùa khô rõ rệt. Nền đá vôi thấm nước cũng khiến việc tìm và giữ nước khó hơn.",
+      "base_start_seconds": 166.01020833333334,
+      "base_end_seconds": 170.734875,
+      "final_start_seconds": 132.80816666666666,
+      "final_end_seconds": 136.5879,
+      "raw_sha256": "70b885df6a917fec9668a75d3f63ca964b533bc7f62f71643ed3849ff42b5977",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 160.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 80.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 30,
+      "beat_id": "beat_06",
+      "source_cue_ids": [
+        51,
+        52,
+        53,
+        54
+      ],
+      "text": "Mưa có thể xuống rất nhiều vào một mùa, rồi lại thiếu đúng lúc người ta cần. Người Maya đã tìm cách giải quyết chuyện đó. Dấu tích ở Tikal cho thấy hồ chứa, đập và kênh được kết hợp để thu, giữ và điều tiết nước. Họ tận dụng cả địa hình để đưa nước vào hệ thống.",
+      "base_start_seconds": 170.814875,
+      "base_end_seconds": 184.50697916666667,
+      "final_start_seconds": 136.6519,
+      "final_end_seconds": 147.60558333333333,
+      "raw_sha256": "9bb38928d70fe823475e82af8945da3caba3de78e45faee944c53f8957311143",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 180.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 60.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 31,
+      "beat_id": "beat_06",
+      "source_cue_ids": [
+        55
+      ],
+      "text": "Đó là công việc cần tính toán và tổ chức qua thời gian.",
+      "base_start_seconds": 184.56697916666667,
+      "base_end_seconds": 187.88370833333335,
+      "final_start_seconds": 147.65358333333333,
+      "final_end_seconds": 150.30696666666668,
+      "raw_sha256": "67a24669c2240159fde74db38ef7922762b1c5991a5cb607e0696cfaeb93f566",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 400,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 160.0,
+        "final_target_ms": 320.0
+      }
+    },
+    {
+      "unit": 32,
+      "beat_id": "beat_07",
+      "source_cue_ids": [
+        56,
+        57
+      ],
+      "text": "Ở hồ Corriental, các nhà nghiên cứu còn tìm thấy thạch anh và zeolit. Họ xem đây là bằng chứng về một hệ thống lọc bằng khoáng vật.",
+      "base_start_seconds": 188.04370833333334,
+      "base_end_seconds": 195.102375,
+      "final_start_seconds": 150.43496666666667,
+      "final_end_seconds": 156.0819,
+      "raw_sha256": "ea819f994cfe4b48155ad567d12eea5ba9df9fd904a56775eaa92a00f1cc636d",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 120.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 130.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 33,
+      "beat_id": "beat_07",
+      "source_cue_ids": [
+        58
+      ],
+      "text": "Vật liệu có thể đã được đưa về từ nguồn cách thành phố gần ba mươi kilômét.",
+      "base_start_seconds": 195.232375,
+      "base_end_seconds": 199.01210416666666,
+      "final_start_seconds": 156.1859,
+      "final_end_seconds": 159.20968333333332,
+      "raw_sha256": "0812d9f2af09c6355756ced409ce95deece30d1aeb753932e2dbc07e224ba79a",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 150.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 100.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 34,
+      "beat_id": "beat_07",
+      "source_cue_ids": [
+        59
+      ],
+      "text": "Chi tiết khiến tôi chú ý là khoảng cách ấy.",
+      "base_start_seconds": 199.11210416666665,
+      "base_end_seconds": 201.32325,
+      "final_start_seconds": 159.28968333333333,
+      "final_end_seconds": 161.0586,
+      "raw_sha256": "7212f6ffa7576f3f5f8ef41cbcb6f3764730901bb0dd1ca104bfc3f04f9fef05",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 190.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 50.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 35,
+      "beat_id": "beat_07",
+      "source_cue_ids": [
+        60
+      ],
+      "text": "Gần ba mươi kilômét, chỉ để có vật liệu phù hợp.",
+      "base_start_seconds": 201.37325,
+      "base_end_seconds": 204.03625,
+      "final_start_seconds": 161.0986,
+      "final_end_seconds": 163.22899999999998,
+      "raw_sha256": "b5d29d8144a60fa99cf2f0d9bb8cbb10b59ab3801bb693b84682e998778aa8af",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 70.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 36,
+      "beat_id": "beat_07",
+      "source_cue_ids": [
+        61
+      ],
+      "text": "Nếu cách giải thích này đúng, người xây hệ thống đã chủ động chọn và đưa chúng về đây.",
+      "base_start_seconds": 204.10625,
+      "base_end_seconds": 208.659125,
+      "final_start_seconds": 163.285,
+      "final_end_seconds": 166.9273,
+      "raw_sha256": "e123deb82031b10965773723e089171d4618214592c6074d8b9401180a229bec",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 80.0,
+        "added_ms": 100.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 37,
+      "beat_id": "beat_07",
+      "source_cue_ids": [
+        62
+      ],
+      "text": "Đằng sau cái hồ là cả kiến thức lẫn công sức.",
+      "base_start_seconds": 208.759125,
+      "base_end_seconds": 211.3104375,
+      "final_start_seconds": 167.00730000000001,
+      "final_end_seconds": 169.04835,
+      "raw_sha256": "5cbca4a4112e1a0302a038f6cc1cafc5892a9e8f9ad4c1272d2776345ac90c24",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 500,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 150.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 240.0,
+        "final_target_ms": 400.0
+      }
+    },
+    {
+      "unit": 38,
+      "beat_id": "beat_08",
+      "source_cue_ids": [
+        63,
+        64
+      ],
+      "text": "Nhưng thử nghĩ đến một bồn nước đủ dùng trong mùa khô bình thường. Một năm ít mưa, bạn tiết kiệm. Năm sau vẫn thiếu, bạn tìm cách giữ nước tốt hơn.",
+      "base_start_seconds": 211.5504375,
+      "base_end_seconds": 219.11935416666665,
+      "final_start_seconds": 169.24034999999998,
+      "final_end_seconds": 175.29548333333332,
+      "raw_sha256": "59650c593782b08cf7271c90efacca8021af996a04557b1e842fa8a59db624d0",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 80.0,
+        "added_ms": 270.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 39,
+      "beat_id": "beat_08",
+      "source_cue_ids": [
+        65
+      ],
+      "text": "Đến khi nước bổ sung quá ít, cái bồn dù tốt đến đâu cũng không tự đầy lại.",
+      "base_start_seconds": 219.38935416666666,
+      "base_end_seconds": 223.42679166666667,
+      "final_start_seconds": 175.51148333333333,
+      "final_end_seconds": 178.74143333333333,
+      "raw_sha256": "81ed827a8502e13e3e08cc511157894ba8de61a0c9f05f6429064a1c26a94ba3",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 150.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 130.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 40,
+      "beat_id": "beat_08",
+      "source_cue_ids": [
+        66,
+        67,
+        68
+      ],
+      "text": "Hệ thống ở Tikal cũng có giới hạn. Điều từng đủ cho những mùa quen thuộc có thể trở nên thiếu trước biến động kéo dài. Hồ vẫn còn đó. Kênh dẫn có thể vẫn làm việc.",
+      "base_start_seconds": 223.55679166666667,
+      "base_end_seconds": 232.32110416666666,
+      "final_start_seconds": 178.84543333333335,
+      "final_end_seconds": 185.85688333333331,
+      "raw_sha256": "c142150941eb1117b55d33a5a8d6a0dbec9ed2091df58099e8d8cbea99f57101",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 120.0,
+        "next_leading_ms": 60.0,
+        "added_ms": 170.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 41,
+      "beat_id": "beat_08",
+      "source_cue_ids": [
+        69
+      ],
+      "text": "Chỉ là nước không còn đủ như trước.",
+      "base_start_seconds": 232.49110416666667,
+      "base_end_seconds": 234.2950625,
+      "final_start_seconds": 185.99288333333334,
+      "final_end_seconds": 187.43605,
+      "raw_sha256": "56f97f63954877f771b40bd4773897bef916cf8bcac3e23bed82391985c0f439",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 550,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 160.0,
+        "next_leading_ms": 80.0,
+        "added_ms": 310.0,
+        "final_target_ms": 440.0
+      }
+    },
+    {
+      "unit": 42,
+      "beat_id": "beat_09",
+      "source_cue_ids": [
+        70,
+        71
+      ],
+      "text": "Đến đây, hạn hán nghe có vẻ là một lời giải hợp lý. Nhưng có một chuyện khác cần xem, ngay trong phần nước còn lại.",
+      "base_start_seconds": 234.6050625,
+      "base_end_seconds": 240.41929166666668,
+      "final_start_seconds": 187.68405,
+      "final_end_seconds": 192.33543333333336,
+      "raw_sha256": "213d67114df734107344df0a16b9259904dd04250505ec2784ba45c0b637bbbb",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 160.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 80.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 43,
+      "beat_id": "beat_09",
+      "source_cue_ids": [
+        72
+      ],
+      "text": "Liệu nước ấy có uống được không?",
+      "base_start_seconds": 240.49929166666666,
+      "base_end_seconds": 241.9894375,
+      "final_start_seconds": 192.39943333333332,
+      "final_end_seconds": 193.59155,
+      "raw_sha256": "fa0702942f062e287c11bf42c5d5017a13b01530b1bee92bea99181695c85f07",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 450,
+        "source": "pause_event",
+        "reason": "Cho câu hỏi về nước an toàn có điểm dừng.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 150.0,
+        "next_leading_ms": 90.0,
+        "added_ms": 210.0,
+        "final_target_ms": 360.0
+      }
+    },
+    {
+      "unit": 44,
+      "beat_id": "beat_09",
+      "source_cue_ids": [
+        73,
+        74
+      ],
+      "text": "Hồ chưa cạn không có nghĩa là người dân đã yên tâm. Nhất là khi họ không có nhiều nguồn khác để lựa chọn.",
+      "base_start_seconds": 242.1994375,
+      "base_end_seconds": 247.57977083333333,
+      "final_start_seconds": 193.75955,
+      "final_end_seconds": 198.06381666666667,
+      "raw_sha256": "b09d82988244c60fec685322d5c97f24f246453ff07a8a1dd1e6d9396d2f8982",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 120.0,
+        "added_ms": 90.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 45,
+      "beat_id": "beat_09",
+      "source_cue_ids": [
+        75
+      ],
+      "text": "Nước có thể vẫn đầy trước mắt mà lại không an toàn.",
+      "base_start_seconds": 247.66977083333333,
+      "base_end_seconds": 250.29945833333332,
+      "final_start_seconds": 198.13581666666667,
+      "final_end_seconds": 200.23956666666666,
+      "raw_sha256": "1c010538e92dcebc27521ffc60938d9e80f374382397bc42aa502ee517dc7480",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 240.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 46,
+      "beat_id": "beat_09",
+      "source_cue_ids": [
+        76
+      ],
+      "text": "Dấu vết của vấn đề ấy được tìm thấy trong bùn dưới đáy hồ Tikal.",
+      "base_start_seconds": 250.53945833333333,
+      "base_end_seconds": 253.9265,
+      "final_start_seconds": 200.43156666666667,
+      "final_end_seconds": 203.1412,
+      "raw_sha256": "c09d95499236dde702404636a4833b2a9e5a2cace4971e9896fddd5d8eac684f",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 500,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 70.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 320.0,
+        "final_target_ms": 400.0
+      }
+    },
+    {
+      "unit": 47,
+      "beat_id": "beat_10",
+      "source_cue_ids": [
+        77
+      ],
+      "text": "Một nghiên cứu năm hai nghìn hai mươi đã phân tích các lớp trầm tích ở đây.",
+      "base_start_seconds": 254.2465,
+      "base_end_seconds": 257.7333125,
+      "final_start_seconds": 203.3972,
+      "final_end_seconds": 206.18665000000001,
+      "raw_sha256": "8ad93859b83321040077297e5bda3af9904ef96b0b9c1c4533b6a2db2798c54f",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 250.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 48,
+      "beat_id": "beat_10",
+      "source_cue_ids": [
+        78,
+        79
+      ],
+      "text": "Tại hai hồ lớn gần đền và cung điện, nhóm nghiên cứu thấy dấu hiệu ô nhiễm thủy ngân và vi khuẩn lam có khả năng sinh độc tố.",
+      "base_start_seconds": 257.9833125,
+      "base_end_seconds": 264.34014583333334,
+      "final_start_seconds": 206.38665,
+      "final_end_seconds": 211.47211666666666,
+      "raw_sha256": "8710467190753894f86b1657f5dfde54a15639d06a9137a19d03349582509988",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 60.0,
+        "added_ms": 150.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 49,
+      "beat_id": "beat_10",
+      "source_cue_ids": [
+        80
+      ],
+      "text": "Thủy ngân có thể đến từ chu sa, khoáng vật màu đỏ từng được dùng làm sắc tố.",
+      "base_start_seconds": 264.4901458333333,
+      "base_end_seconds": 268.52764583333334,
+      "final_start_seconds": 211.59211666666664,
+      "final_end_seconds": 214.82211666666666,
+      "raw_sha256": "6f7bb615a511618c0f1ff081889ba5118e4b563159b1b92de1fd61ed8c43b827",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 120.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 120.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 50,
+      "beat_id": "beat_10",
+      "source_cue_ids": [
+        81
+      ],
+      "text": "Vật liệu trang trí và nghi lễ có thể bị nước cuốn xuống hồ.",
+      "base_start_seconds": 268.64764583333334,
+      "base_end_seconds": 271.8260625,
+      "final_start_seconds": 214.91811666666666,
+      "final_end_seconds": 217.46085,
+      "raw_sha256": "ef394f7af870bb4ab23261556ccbf4835ab4fb3b841afae793dfb73fd251392c",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 160.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 120.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 51,
+      "beat_id": "beat_10",
+      "source_cue_ids": [
+        82
+      ],
+      "text": "Thứ làm đền đài rực rỡ hơn, theo cách giải thích này, lại góp phần gây hại cho nguồn nước.",
+      "base_start_seconds": 271.9460625,
+      "base_end_seconds": 276.3683541666667,
+      "final_start_seconds": 217.55685,
+      "final_end_seconds": 221.09468333333334,
+      "raw_sha256": "baead1424c7d05b4980688f9d6f54130fa96cb2202f51c069e23088405c0d613",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 450,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 170.0,
+        "final_target_ms": 360.0
+      }
+    },
+    {
+      "unit": 52,
+      "beat_id": "beat_11",
+      "source_cue_ids": [
+        83
+      ],
+      "text": "Bằng chứng ấy có phạm vi cụ thể.",
+      "base_start_seconds": 276.5383541666667,
+      "base_end_seconds": 278.40933333333334,
+      "final_start_seconds": 221.23068333333336,
+      "final_end_seconds": 222.72746666666666,
+      "raw_sha256": "963e4b7494e6ee2dc12c43640a86c5a187f9060dd05ad83cce6a7ef13c22a719",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 250.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 53,
+      "beat_id": "beat_11",
+      "source_cue_ids": [
+        84
+      ],
+      "text": "Ta chưa thể nói mọi hồ ở Tikal đều bị ô nhiễm như nhau.",
+      "base_start_seconds": 278.65933333333334,
+      "base_end_seconds": 282.0095625,
+      "final_start_seconds": 222.92746666666667,
+      "final_end_seconds": 225.60765,
+      "raw_sha256": "db764a43244f2d3453d2bb1ed830a7de78eca2f6ec9ba0d6fcc4c830800b5f5b",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 240.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 54,
+      "beat_id": "beat_11",
+      "source_cue_ids": [
+        85
+      ],
+      "text": "Cũng chưa thể kết luận người dân đã chết vì uống nước độc.",
+      "base_start_seconds": 282.2495625,
+      "base_end_seconds": 285.2561666666667,
+      "final_start_seconds": 225.79965,
+      "final_end_seconds": 228.20493333333334,
+      "raw_sha256": "4baecfd7e65531677de631bdab3b1b83274374a2bb21fa80886942d94cbc30c4",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 70.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 55,
+      "beat_id": "beat_11",
+      "source_cue_ids": [
+        86
+      ],
+      "text": "Những dấu vết ấy cho thấy một số nguồn nước quan trọng đã bị đe dọa.",
+      "base_start_seconds": 285.32616666666667,
+      "base_end_seconds": 288.64352083333335,
+      "final_start_seconds": 228.26093333333333,
+      "final_end_seconds": 230.9148166666667,
+      "raw_sha256": "cb6a0f0be0b30a7858a634b9ef7c595203fd65b8bc40a3a4b09dc81b3b16c736",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 70.0,
+        "next_leading_ms": 120.0,
+        "added_ms": 160.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 56,
+      "beat_id": "beat_11",
+      "source_cue_ids": [
+        87
+      ],
+      "text": "Và nếu đúng lúc ấy nước lại ít đi, người dân sẽ càng khó xoay xở.",
+      "base_start_seconds": 288.8035208333333,
+      "base_end_seconds": 292.49735416666664,
+      "final_start_seconds": 231.04281666666665,
+      "final_end_seconds": 233.9978833333333,
+      "raw_sha256": "73b94b9cfe7c05932f2a93cd1aeaf3b361b146ca6c20e484c10f7216736133d5",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 120.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 120.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 57,
+      "beat_id": "beat_11",
+      "source_cue_ids": [
+        88,
+        89
+      ],
+      "text": "Nguồn thay thế ít hơn. Nước còn lại cũng khó yên tâm hơn. Công sức xây cả một hồ lớn chưa chắc giúp ích đủ, vào đúng lúc thành phố cần nó nhất.",
+      "base_start_seconds": 292.61735416666664,
+      "base_end_seconds": 300.6115,
+      "final_start_seconds": 234.0938833333333,
+      "final_end_seconds": 240.48919999999998,
+      "raw_sha256": "3f3c78598df6a0e434543a1446396d4e7aa9e10cf77e61412fba13caf884d967",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 450,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 50.0,
+        "added_ms": 260.0,
+        "final_target_ms": 360.0
+      }
+    },
+    {
+      "unit": 58,
+      "beat_id": "beat_12",
+      "source_cue_ids": [
+        90,
+        91,
+        92,
+        93
+      ],
+      "text": "Giả sử bạn phải đi tìm nước trong hoàn cảnh ấy. Chỗ gần nhất không ổn. Chỗ khác thì xa hơn. Đến nơi, lại có nhiều người cùng chờ lấy nước. Từ chuyện chất lượng nước, ta đã bước sang chuyện người dân phải chia sẻ nguồn còn lại thế nào.",
+      "base_start_seconds": 300.8715,
+      "base_end_seconds": 312.35420833333336,
+      "final_start_seconds": 240.6972,
+      "final_end_seconds": 249.8833666666667,
+      "raw_sha256": "2ef4261887a70ab9772d533ea1a1da2f1fa138cb96a1177f57c8a83486bb220f",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 40.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 200.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 59,
+      "beat_id": "beat_12",
+      "source_cue_ids": [
+        94
+      ],
+      "text": "Ai được lấy trước? Ai phải đi xa? Ai lo duy trì hệ thống?",
+      "base_start_seconds": 312.55420833333335,
+      "base_end_seconds": 315.9044375,
+      "final_start_seconds": 250.04336666666669,
+      "final_end_seconds": 252.72355,
+      "raw_sha256": "a35b07a92f415417d91e88eef2efecfac652aff52dc8d23d55bd1740aa97a761",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 250.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 60,
+      "beat_id": "beat_12",
+      "source_cue_ids": [
+        95
+      ],
+      "text": "Khi đủ dùng, người ta có thể dễ thỏa thuận hơn.",
+      "base_start_seconds": 316.1544375,
+      "base_end_seconds": 318.7908125,
+      "final_start_seconds": 252.92354999999998,
+      "final_end_seconds": 255.03265000000002,
+      "raw_sha256": "0c41968f718a03bca6b7b079f470201862ea61d0eb46878fb5abb5aecb64ef77",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 240.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 61,
+      "beat_id": "beat_12",
+      "source_cue_ids": [
+        96
+      ],
+      "text": "Lúc thiếu, mỗi lựa chọn đều khó hơn một chút.",
+      "base_start_seconds": 319.0308125,
+      "base_end_seconds": 321.522,
+      "final_start_seconds": 255.22465000000003,
+      "final_end_seconds": 257.2176,
+      "raw_sha256": "40b0f6165f3fa09786975c322151a14dff77e8ee0fb30f700b885d3c5e88139c",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 200.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 50.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 62,
+      "beat_id": "beat_12",
+      "source_cue_ids": [
+        97
+      ],
+      "text": "Tình huống giả định ấy cho thấy nước có thể ảnh hưởng đến cả quan hệ trong cộng đồng.",
+      "base_start_seconds": 321.572,
+      "base_end_seconds": 326.07933333333335,
+      "final_start_seconds": 257.2576,
+      "final_end_seconds": 260.8634666666667,
+      "raw_sha256": "11168451f10073f79f8b8d7f18e791a6849925ea4c2c447d20ef3ddcc5b20d3b",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 450,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 350.0,
+        "final_target_ms": 360.0
+      }
+    },
+    {
+      "unit": 63,
+      "beat_id": "beat_13",
+      "source_cue_ids": [
+        98
+      ],
+      "text": "Còn hạn hán, rốt cuộc đã nghiêm trọng đến đâu?",
+      "base_start_seconds": 326.4293333333333,
+      "base_end_seconds": 328.834625,
+      "final_start_seconds": 261.14346666666665,
+      "final_end_seconds": 263.0677,
+      "raw_sha256": "82b1af3f27ef86f1455aaaba5830c5e2152508002c8c92e88c0fa29deef11775",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 130.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 110.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 64,
+      "beat_id": "beat_13",
+      "source_cue_ids": [
+        99,
+        100,
+        101
+      ],
+      "text": "Muốn trả lời, các nhà khoa học phải tìm đến bùn hồ, tinh thể khoáng vật và măng đá. Những thứ ít gây chú ý ấy lại giữ được dấu vết của khí hậu từ rất lâu trước đây. Các dấu vết ấy được dùng để tái dựng điều kiện trong quá khứ.",
+      "base_start_seconds": 328.944625,
+      "base_end_seconds": 341.1059375,
+      "final_start_seconds": 263.15569999999997,
+      "final_end_seconds": 272.88475,
+      "raw_sha256": "78439aca4b8686984227cfb42142ae85cd039db1ccdadf89c23ac5b98bf59eae",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 150.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 100.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 65,
+      "beat_id": "beat_13",
+      "source_cue_ids": [
+        102,
+        103
+      ],
+      "text": "Chẳng hạn, thành phần đồng vị trong vật liệu ở hồ hay hang động có thể phản ánh điều kiện nước khi chúng hình thành.",
+      "base_start_seconds": 341.2059375,
+      "base_end_seconds": 346.47866666666664,
+      "final_start_seconds": 272.96475,
+      "final_end_seconds": 277.1829333333333,
+      "raw_sha256": "b3be2c4632bbe44e15c05b2aae68980b1a585016ec8d0e7620964d7f6af45237",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 280.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 66,
+      "beat_id": "beat_13",
+      "source_cue_ids": [
+        104
+      ],
+      "text": "Từ đó, người ta ước tính những thay đổi về khí hậu.",
+      "base_start_seconds": 346.75866666666667,
+      "base_end_seconds": 349.33575,
+      "final_start_seconds": 277.4069333333333,
+      "final_end_seconds": 279.46860000000004,
+      "raw_sha256": "f38846674542df9cd4542fdc92c823b5eb93981b7199dd7169e60984c3f89a22",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 70.0,
+        "next_leading_ms": 120.0,
+        "added_ms": 160.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 67,
+      "beat_id": "beat_14",
+      "source_cue_ids": [
+        105
+      ],
+      "text": "Tại hồ Chichancanab ở Mexico, một nghiên cứu năm hai nghìn mười tám xét nước bị giữ trong tinh thể thạch cao.",
+      "base_start_seconds": 349.49575,
+      "base_end_seconds": 355.65710416666667,
+      "final_start_seconds": 279.59659999999997,
+      "final_end_seconds": 284.52568333333335,
+      "raw_sha256": "4593a903fa837a0b5fe3bd52383e678d3899a0386c56182cfea0fcabbffa5674",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 160.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 90.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 68,
+      "beat_id": "beat_14",
+      "source_cue_ids": [
+        106,
+        107
+      ],
+      "text": "Kết quả ước tính lượng mưa giảm khoảng bốn mươi mốt đến năm mươi tư phần trăm trong các đợt hạn, có lúc còn mạnh hơn.",
+      "base_start_seconds": 355.74710416666665,
+      "base_end_seconds": 361.70772916666664,
+      "final_start_seconds": 284.5976833333333,
+      "final_end_seconds": 289.3661833333333,
+      "raw_sha256": "2beb3d35b55bfb05cd679776b7535e452c2e3ea0411f1f7570ed9906efd83755",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 190.0,
+        "next_leading_ms": 90.0,
+        "added_ms": 70.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 69,
+      "beat_id": "beat_14",
+      "source_cue_ids": [
+        108
+      ],
+      "text": "Đó là ước tính cho khu vực được nghiên cứu.",
+      "base_start_seconds": 361.7777291666667,
+      "base_end_seconds": 364.23210416666666,
+      "final_start_seconds": 289.42218333333335,
+      "final_end_seconds": 291.3856833333333,
+      "raw_sha256": "5c5548859bcd385c5d63c8d6664ec644faa9f4f65d7f5071669c2fd0de9144db",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 70.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 70,
+      "beat_id": "beat_14",
+      "source_cue_ids": [
+        109,
+        110
+      ],
+      "text": "Những nơi khác có thể đã trải qua điều kiện khác. Dù vậy, mức giảm ấy gợi ra một sức ép rất lớn, chứ không chỉ là mùa nắng kéo dài thêm chút ít.",
+      "base_start_seconds": 364.30210416666665,
+      "base_end_seconds": 371.8519375,
+      "final_start_seconds": 291.44168333333334,
+      "final_end_seconds": 297.48155,
+      "raw_sha256": "cd78dd1ed4a11bfd127d2b9d4ed5bfa8814c99015a83868e3468939b39a8f60c",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 450,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 120.0,
+        "next_leading_ms": 90.0,
+        "added_ms": 240.0,
+        "final_target_ms": 360.0
+      }
+    },
+    {
+      "unit": 71,
+      "beat_id": "beat_15",
+      "source_cue_ids": [
+        111,
+        112
+      ],
+      "text": "Ở tây bắc Yucatán, một nghiên cứu năm hai nghìn hai mươi lăm dùng măng đá để tìm dấu vết những đợt hạn kéo dài nhiều năm.",
+      "base_start_seconds": 372.0919375,
+      "base_end_seconds": 378.07972916666665,
+      "final_start_seconds": 297.67355,
+      "final_end_seconds": 302.4637833333333,
+      "raw_sha256": "2b9a8ca645a94d0ec45ece71066d6f124cd061dae3a03e0ab170e85781337df4",
+      "seed": 20261022,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 110.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 72,
+      "beat_id": "beat_15",
+      "source_cue_ids": [
+        113
+      ],
+      "text": "Trong hồ sơ ấy, có một giai đoạn hạn kéo dài khoảng mười ba năm.",
+      "base_start_seconds": 378.18972916666667,
+      "base_end_seconds": 381.87129166666665,
+      "final_start_seconds": 302.55178333333333,
+      "final_end_seconds": 305.4970333333333,
+      "raw_sha256": "6f43e9daa048a1f385296caebbc9bbe178ae5faac092fdc6a3f27a4d8f944052",
+      "seed": 20261022,
+      "pause": {
+        "target_ms": 650,
+        "source": "pause_event",
+        "reason": "Để thông tin mười ba năm đọng lại trước lần lặp.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 150.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 390.0,
+        "final_target_ms": 520.0
+      }
+    },
+    {
+      "unit": 73,
+      "beat_id": "beat_15",
+      "source_cue_ids": [
+        114
+      ],
+      "text": "Mười ba năm.",
+      "base_start_seconds": 382.2612916666667,
+      "base_end_seconds": 383.13785416666667,
+      "final_start_seconds": 305.80903333333333,
+      "final_end_seconds": 306.51028333333335,
+      "raw_sha256": "0a8f7c3baff7e4c8cf4a0e02cb12f515e804247c07c04738c255cc5b72593d03",
+      "seed": 20261022,
+      "pause": {
+        "target_ms": 650,
+        "source": "pause_event",
+        "reason": "Lần lặp ngắn, sau đó chuyển sang giải thích phạm vi.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 10.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 540.0,
+        "final_target_ms": 520.0
+      }
+    },
+    {
+      "unit": 74,
+      "beat_id": "beat_15",
+      "source_cue_ids": [
+        115
+      ],
+      "text": "Điều đó không có nghĩa suốt thời gian ấy chẳng rơi một giọt mưa nào.",
+      "base_start_seconds": 383.6778541666667,
+      "base_end_seconds": 386.9754791666667,
+      "final_start_seconds": 306.94228333333336,
+      "final_end_seconds": 309.5803833333333,
+      "raw_sha256": "e428fc84ba9d52da64b03f778b86838efec02d68907024507e12e624cde5df97",
+      "seed": 20261022,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 90.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 150.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 75,
+      "beat_id": "beat_15",
+      "source_cue_ids": [
+        116,
+        117
+      ],
+      "text": "Nhưng theo cách nghiên cứu xác định, tình trạng hạn đã kéo dài qua hết mùa vụ này đến mùa vụ khác.",
+      "base_start_seconds": 387.12547916666665,
+      "base_end_seconds": 392.121875,
+      "final_start_seconds": 309.7003833333333,
+      "final_end_seconds": 313.6975,
+      "raw_sha256": "d6e16e3fb0d41c01708f6d92bdfdfefc9e0365de5470c005e974da83a794b325",
+      "seed": 20261022,
+      "pause": {
+        "target_ms": 650,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 60.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 480.0,
+        "final_target_ms": 520.0
+      }
+    },
+    {
+      "unit": 76,
+      "beat_id": "beat_16",
+      "source_cue_ids": [
+        118
+      ],
+      "text": "Một đứa trẻ có thể lớn lên thành thiếu niên trong khoảng thời gian đó.",
+      "base_start_seconds": 392.601875,
+      "base_end_seconds": 395.8995,
+      "final_start_seconds": 314.0815,
+      "final_end_seconds": 316.7196,
+      "raw_sha256": "d0a5275444efba97d78cf65302e272fb2ed920245b97b8442de50e10592b272a",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 180.0,
+        "next_leading_ms": 120.0,
+        "added_ms": 50.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 77,
+      "beat_id": "beat_16",
+      "source_cue_ids": [
+        119
+      ],
+      "text": "Còn với người trồng trọt, mỗi năm là một lần phải tính lại.",
+      "base_start_seconds": 395.9495,
+      "base_end_seconds": 398.84214583333335,
+      "final_start_seconds": 316.7596,
+      "final_end_seconds": 319.07371666666666,
+      "raw_sha256": "f5a9f994978beda9fe153ba20fe600b3a56425e0ec71cd7232dd4e2a3c0f4eae",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 70.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 78,
+      "beat_id": "beat_16",
+      "source_cue_ids": [
+        120,
+        121,
+        122
+      ],
+      "text": "Gieo bao nhiêu, giữ lại bao nhiêu, và nếu vụ này tiếp tục khó khăn thì làm sao? Đây cũng là chỗ thành tựu về lịch của người Maya dễ khiến ta kỳ vọng nhầm. Lịch giúp sắp xếp công việc theo những chu kỳ đã quan sát.",
+      "base_start_seconds": 398.91214583333334,
+      "base_end_seconds": 410.540625,
+      "final_start_seconds": 319.1297166666667,
+      "final_end_seconds": 328.4325,
+      "raw_sha256": "df9bfcdea7c5dc7703684f3144d9aa335902b9b6c48e999ba86af84ff4d701c9",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 100.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 79,
+      "beat_id": "beat_16",
+      "source_cue_ids": [
+        123,
+        124
+      ],
+      "text": "Nhưng nếu thời tiết thay đổi kéo dài, những kinh nghiệm quen thuộc không còn bảo đảm kết quả như trước. Bạn có thể biết đã đến mùa gieo hạt mà vẫn phải đợi đất có đủ nước.",
+      "base_start_seconds": 410.640625,
+      "base_end_seconds": 419.58039583333334,
+      "final_start_seconds": 328.5125,
+      "final_end_seconds": 335.66431666666665,
+      "raw_sha256": "2486530d954bc4b8088f8ab31aad085402ca1f8a7d55aeaee869dcc7be52e22e",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 40.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 200.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 80,
+      "beat_id": "beat_16",
+      "source_cue_ids": [
+        125
+      ],
+      "text": "Và chờ đợi cũng có cái giá của nó.",
+      "base_start_seconds": 419.78039583333333,
+      "base_end_seconds": 421.79685416666666,
+      "final_start_seconds": 335.8243166666667,
+      "final_end_seconds": 337.4374833333333,
+      "raw_sha256": "518a038514c0d42dca9564e4e997610745279460da93c673cb5954b99115e65f",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 40.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 240.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 81,
+      "beat_id": "beat_16",
+      "source_cue_ids": [
+        126
+      ],
+      "text": "Ta có thể hình dung sức ép ấy, dù không biết từng gia đình Maya đã ứng phó cụ thể ra sao.",
+      "base_start_seconds": 422.03685416666667,
+      "base_end_seconds": 427.07008333333334,
+      "final_start_seconds": 337.6294833333333,
+      "final_end_seconds": 341.6560666666667,
+      "raw_sha256": "3259dd60ddbd16920f0e8e5d6e73e9d1c39496a216f0bc25f682de688cb23439",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 500,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 220.0,
+        "final_target_ms": 400.0
+      }
+    },
+    {
+      "unit": 82,
+      "beat_id": "beat_17",
+      "source_cue_ids": [
+        127,
+        128,
+        129,
+        130,
+        131
+      ],
+      "text": "Như vậy, bằng chứng khí hậu rất đáng chú ý. Tuy nhiên, để xem hạn hán giải thích được đến đâu, ta cần đi khỏi những nơi vừa khảo sát. Thử tìm một thành phố có diễn biến khác. Một nơi mà dân số giảm, nhưng dấu vết khí hậu lại không khớp như ta chờ đợi. Đó là trường hợp ở Itzan.",
+      "base_start_seconds": 427.2900833333333,
+      "base_end_seconds": 442.0027083333333,
+      "final_start_seconds": 341.83206666666666,
+      "final_end_seconds": 353.6021666666667,
+      "raw_sha256": "43fa5494f3d9370d096a5e4d32be113b99c5262c411f613a136043e02bd1f713",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 190.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 50.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 83,
+      "beat_id": "beat_17",
+      "source_cue_ids": [
+        132,
+        133
+      ],
+      "text": "Địa điểm này cũng nằm ở Guatemala ngày nay. Hồ sơ được phân tích tại đây không cho thấy dấu hiệu hạn hán địa phương như dự đoán.",
+      "base_start_seconds": 442.0527083333333,
+      "base_end_seconds": 448.77314583333333,
+      "final_start_seconds": 353.64216666666664,
+      "final_end_seconds": 359.01851666666664,
+      "raw_sha256": "5b9c2d9f2d6eac431a74e3f4c653ab9e99c1a483811e055ac2fd19dfcdd3ab79",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 120.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 130.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 84,
+      "beat_id": "beat_17",
+      "source_cue_ids": [
+        134
+      ],
+      "text": "Vậy mà dân số vẫn giảm. Nếu chỉ nhìn lượng mưa, ta sẽ bỏ sót điều gì?",
+      "base_start_seconds": 448.9031458333333,
+      "base_end_seconds": 452.94085416666667,
+      "final_start_seconds": 359.1225166666667,
+      "final_end_seconds": 362.35268333333335,
+      "raw_sha256": "aba45cf1b3b66ab2418ac6aa535136f9ef40d879dca95063c3bfe11f5d0c87bd",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 500,
+        "source": "pause_event",
+        "reason": "Giữ câu hỏi về Itzan trước khi vào phương pháp.",
+        "replaces_beat_pause": true,
+        "existing_trailing_ms": 50.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 340.0,
+        "final_target_ms": 400.0
+      }
+    },
+    {
+      "unit": 85,
+      "beat_id": "beat_18",
+      "source_cue_ids": [
+        135,
+        136,
+        137
+      ],
+      "text": "Nghiên cứu về Itzan được công bố năm hai nghìn hai mươi lăm. Nhóm tác giả xem những dấu vết hóa học trong trầm tích hồ, gồm cả dấu vết từ sáp lá cây. Kết quả khiến việc quy sự suy giảm dân số cho hạn hán tại chỗ trở nên khó thuyết phục.",
+      "base_start_seconds": 453.28085416666664,
+      "base_end_seconds": 465.44216666666665,
+      "final_start_seconds": 362.62468333333334,
+      "final_end_seconds": 372.3537333333333,
+      "raw_sha256": "9378ebcbdb9b36d20039dcac7f45bc182a02c3d3094de56357e400f0f62ce881",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 130.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 110.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 86,
+      "beat_id": "beat_18",
+      "source_cue_ids": [
+        138
+      ],
+      "text": "Điều này chưa đủ để nói Itzan chưa bao giờ thiếu nước. Hồ sơ ấy cũng có giới hạn.",
+      "base_start_seconds": 465.55216666666666,
+      "base_end_seconds": 470.14454166666667,
+      "final_start_seconds": 372.44173333333333,
+      "final_end_seconds": 376.11563333333334,
+      "raw_sha256": "3964944cf970b84ca92da36d7efaae8ff9038a788ecef33ab326ff1d51722fbc",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 200.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 40.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 87,
+      "beat_id": "beat_18",
+      "source_cue_ids": [
+        139,
+        140
+      ],
+      "text": "Nhưng ít nhất, với dữ liệu đang có, hạn hán địa phương không giải thích tốt những thay đổi dân số được quan sát.",
+      "base_start_seconds": 470.1845416666667,
+      "base_end_seconds": 475.59841666666665,
+      "final_start_seconds": 376.1476333333334,
+      "final_end_seconds": 380.4787333333333,
+      "raw_sha256": "3635c70a0ebbf413527d896ccc5273bbedcf3e0ac96992e00294ca74bb714e53",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 10.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 230.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 88,
+      "beat_id": "beat_18",
+      "source_cue_ids": [
+        141,
+        142,
+        143
+      ],
+      "text": "Nhóm nghiên cứu vì thế xem xét thêm quan hệ xã hội, chính trị và sự gắn kết giữa Itzan với các vùng xung quanh. Hướng giải thích này cần được kiểm tra thêm.",
+      "base_start_seconds": 475.82841666666667,
+      "base_end_seconds": 483.9080416666667,
+      "final_start_seconds": 380.66273333333334,
+      "final_end_seconds": 387.12643333333335,
+      "raw_sha256": "bdbaed1864dc20ffb8e5f13e213323c33ec29f78776a57099bf949f1e217d8ec",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 50.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 190.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 89,
+      "beat_id": "beat_18",
+      "source_cue_ids": [
+        144
+      ],
+      "text": "Nó gợi rằng muốn hiểu chuyện trong một thành phố, đôi khi phải nhìn ra ngoài thành phố ấy.",
+      "base_start_seconds": 484.0980416666667,
+      "base_end_seconds": 488.3072916666667,
+      "final_start_seconds": 387.27843333333334,
+      "final_end_seconds": 390.64583333333337,
+      "raw_sha256": "7e49de7461ee403f50f933e5a95963f534289726d6dc7e3f9b7ed0f69c489ea5",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 450,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 150.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 190.0,
+        "final_target_ms": 360.0
+      }
+    },
+    {
+      "unit": 90,
+      "beat_id": "beat_19",
+      "source_cue_ids": [
+        145
+      ],
+      "text": "Hãy hình dung hai khu dân cư thường trao đổi hàng hóa với nhau.",
+      "base_start_seconds": 488.4972916666667,
+      "base_end_seconds": 491.81402083333336,
+      "final_start_seconds": 390.79783333333336,
+      "final_end_seconds": 393.4512166666667,
+      "raw_sha256": "0e69f0b3bcb1b5ff8fdff136f50d0a3b4fb3f4cc23be7884f98553ee29f041fe",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 130.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 110.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 91,
+      "beat_id": "beat_19",
+      "source_cue_ids": [
+        146
+      ],
+      "text": "Một bên vẫn có nước. Bên kia gặp khó khăn, đường đi bất ổn, người mang hàng đến ít dần.",
+      "base_start_seconds": 491.9240208333333,
+      "base_end_seconds": 496.6523125,
+      "final_start_seconds": 393.5392166666667,
+      "final_end_seconds": 397.32185,
+      "raw_sha256": "a84c6a0103fb50318e3e50eb8f4691214b3e4f617b5d24555e69657dc5b8465e",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 100.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 150.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 92,
+      "beat_id": "beat_19",
+      "source_cue_ids": [
+        147,
+        148
+      ],
+      "text": "Bên có nước cũng không thể hoàn toàn yên ổn. Đây là ví dụ giả định, nhưng nó giúp thấy một nơi có thể chịu ảnh hưởng từ nơi khác ra sao.",
+      "base_start_seconds": 496.8023125,
+      "base_end_seconds": 503.52079166666664,
+      "final_start_seconds": 397.44185000000004,
+      "final_end_seconds": 402.8166333333333,
+      "raw_sha256": "781394adb3bea046630a9da25b267c14645b3566e97c2f6681bb712d699c2a70",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 160.0,
+        "next_leading_ms": 120.0,
+        "added_ms": 70.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 93,
+      "beat_id": "beat_19",
+      "source_cue_ids": [
+        149
+      ],
+      "text": "Nước vẫn còn, trong khi cuộc sống đã khó hơn.",
+      "base_start_seconds": 503.5907916666667,
+      "base_end_seconds": 506.08197916666666,
+      "final_start_seconds": 402.87263333333334,
+      "final_end_seconds": 404.86558333333335,
+      "raw_sha256": "37a40177d16f294756c90bafdcf38fa29f82d62dc934f2427b15bb9b5a0c1576",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 10.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 230.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 94,
+      "beat_id": "beat_19",
+      "source_cue_ids": [
+        150,
+        151,
+        152,
+        153
+      ],
+      "text": "Người ta có thể quyết định rời đi trước khi cái hồ cuối cùng cạn đáy. Trường hợp Itzan không xóa đi các bằng chứng hạn hán ở những nơi khác. Nó khiến lời giải phải cụ thể hơn. Ở đâu, vào lúc nào, và thành phố ấy còn phụ thuộc vào những nơi nào nữa?",
+      "base_start_seconds": 506.3119791666667,
+      "base_end_seconds": 519.834,
+      "final_start_seconds": 405.0495833333333,
+      "final_end_seconds": 415.86719999999997,
+      "raw_sha256": "1af532da46336f297f52897c6ad7d7160f1fa847dc1a5ac8badca2fb9025772a",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 450,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 110.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 270.0,
+        "final_target_ms": 360.0
+      }
+    },
+    {
+      "unit": 95,
+      "beat_id": "beat_20",
+      "source_cue_ids": [
+        154
+      ],
+      "text": "Có một thành phố khác để lại dấu vết rất khác: một đám cháy lớn.",
+      "base_start_seconds": 520.104,
+      "base_end_seconds": 523.7119375,
+      "final_start_seconds": 416.08320000000003,
+      "final_end_seconds": 418.96954999999997,
+      "raw_sha256": "e3d35a4d1064237dee5bae27088adb33f41e5506c79b2e5dcf84e14466400672",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 90.0,
+        "added_ms": 260.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 96,
+      "beat_id": "beat_20",
+      "source_cue_ids": [
+        155,
+        156,
+        157
+      ],
+      "text": "Đặc biệt hơn, dấu cháy ấy có thể đối chiếu với ghi chép về một cuộc tấn công. Lần này, dấu vết dưới đất và chữ khắc cùng gặp nhau. Đó là Witzna. Một nghiên cứu năm hai nghìn mười chín đối chiếu dữ liệu địa chất, khảo cổ và văn khắc.",
+      "base_start_seconds": 523.9719375,
+      "base_end_seconds": 536.5584583333333,
+      "final_start_seconds": 419.17755,
+      "final_end_seconds": 429.24676666666664,
+      "raw_sha256": "fe73e57bbcdc592be60b2577cd61eec6c6a77c0e0b078efdb88d5f7ee7ea7a80",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 130.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 110.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 97,
+      "beat_id": "beat_20",
+      "source_cue_ids": [
+        158
+      ],
+      "text": "Nhóm tác giả tìm thấy dấu tích của một đám cháy lớn vào cuối thế kỷ thứ bảy.",
+      "base_start_seconds": 536.6684583333333,
+      "base_end_seconds": 540.7061666666667,
+      "final_start_seconds": 429.33476666666667,
+      "final_end_seconds": 432.5649333333334,
+      "raw_sha256": "b3e9fdfed3fabafb339b62d12acd16c4807343bfc517b75fe5e9815024ef75da",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 100.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 140.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 98,
+      "beat_id": "beat_20",
+      "source_cue_ids": [
+        159
+      ],
+      "text": "Thời điểm ấy phù hợp với ghi chép về cuộc tấn công năm sáu trăm chín mươi bảy.",
+      "base_start_seconds": 540.8461666666667,
+      "base_end_seconds": 544.7977083333334,
+      "final_start_seconds": 432.67693333333335,
+      "final_end_seconds": 435.8381666666667,
+      "raw_sha256": "ad231048d2598c6d4d54c2dae0ddff225e9480aa99148051a38ada92887bbbd6",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 70.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 99,
+      "beat_id": "beat_20",
+      "source_cue_ids": [
+        160,
+        161,
+        162,
+        163
+      ],
+      "text": "Ghi chép nhắc đến Naranjo và việc đốt Witzna. Sau sự kiện ấy, dấu vết hoạt động của con người trong khu vực giảm mạnh. Ta có dấu cháy, có ghi chép về chiến tranh, và có dấu hiệu đời sống tại đây thay đổi sau sự kiện đó.",
+      "base_start_seconds": 544.8677083333333,
+      "base_end_seconds": 556.9439791666666,
+      "final_start_seconds": 435.89416666666665,
+      "final_end_seconds": 445.5551833333333,
+      "raw_sha256": "943a6303ec8f4fdb68845570152ea202519472ee2215f83fa7dc1565ea7c7298",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 500,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 290.0,
+        "final_target_ms": 400.0
+      }
+    },
+    {
+      "unit": 100,
+      "beat_id": "beat_21",
+      "source_cue_ids": [
+        164
+      ],
+      "text": "Hãy chú ý đến thời điểm.",
+      "base_start_seconds": 557.2339791666667,
+      "base_end_seconds": 558.5121458333333,
+      "final_start_seconds": 445.78718333333336,
+      "final_end_seconds": 446.80971666666665,
+      "raw_sha256": "4bd3c039d5a13247839892f72d6ecb4640dd49f740fa4c3dff3e578ffd683fbd",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 110.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 140.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 101,
+      "beat_id": "beat_21",
+      "source_cue_ids": [
+        165,
+        166
+      ],
+      "text": "Cuộc tấn công xảy ra trước nhiều diễn biến thường gắn với khủng hoảng cuối thời Cổ điển, chứ không phải đến tận cuối mới có chiến tranh tàn phá.",
+      "base_start_seconds": 558.6521458333333,
+      "base_end_seconds": 565.4385,
+      "final_start_seconds": 446.9217166666666,
+      "final_end_seconds": 452.3508,
+      "raw_sha256": "95bd563afb9acc772c5000a5baed1c7c0e351b1b8665b38fd86a884ca79cf8ab",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 110.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 130.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 102,
+      "beat_id": "beat_21",
+      "source_cue_ids": [
+        167
+      ],
+      "text": "Vì thế, khó có thể coi mọi bạo lực lớn đều là hậu quả xuất hiện sau hạn hán cực đoan.",
+      "base_start_seconds": 565.5685,
+      "base_end_seconds": 570.6711458333333,
+      "final_start_seconds": 452.4548,
+      "final_end_seconds": 456.5369166666666,
+      "raw_sha256": "0eb858fb5b495137d992acc7bc18147bd04a8b362e095e86d242c1af872ebc3a",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 90.0,
+        "added_ms": 260.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 103,
+      "beat_id": "beat_21",
+      "source_cue_ids": [
+        168
+      ],
+      "text": "Witzna chỉ là một trường hợp, không đại diện cho tất cả.",
+      "base_start_seconds": 570.9311458333333,
+      "base_end_seconds": 573.93775,
+      "final_start_seconds": 456.74491666666665,
+      "final_end_seconds": 459.15020000000004,
+      "raw_sha256": "2bb69298995b52cb492a2dcaf650248870b968b0963c463418013f8fba5cba05",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 40.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 200.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 104,
+      "beat_id": "beat_21",
+      "source_cue_ids": [
+        169,
+        170
+      ],
+      "text": "Nhưng trường hợp ấy cho thấy xung đột có thể làm cuộc sống ở một nơi thay đổi mạnh đến mức nào. Ngay cả những công trình còn dùng tốt cũng có thể bị con người phá hủy.",
+      "base_start_seconds": 574.13775,
+      "base_end_seconds": 582.9020625,
+      "final_start_seconds": 459.3102,
+      "final_end_seconds": 466.32165000000003,
+      "raw_sha256": "9833e20b1b7b37458b60e041581a141c7ac189f42113f53245931c45c4dba125",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 450,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 210.0,
+        "final_target_ms": 360.0
+      }
+    },
+    {
+      "unit": 105,
+      "beat_id": "beat_22",
+      "source_cue_ids": [
+        171
+      ],
+      "text": "Và tác động của chiến tranh có thể kéo dài sau trận đánh.",
+      "base_start_seconds": 583.1120625,
+      "base_end_seconds": 586.2676875,
+      "final_start_seconds": 466.48965,
+      "final_end_seconds": 469.01415,
+      "raw_sha256": "75278f46280627ecc3f208967c2b8b909f9f446aca913e6470dbcfa0dea9bf7f",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 180.0,
+        "next_leading_ms": 50.0,
+        "added_ms": 120.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 106,
+      "beat_id": "beat_22",
+      "source_cue_ids": [
+        172,
+        173,
+        174
+      ],
+      "text": "Thử nghĩ đến việc duy trì cuộc sống khi đường đi trở nên nguy hiểm. Người làm việc bị gián đoạn, trao đổi hàng hóa khó hơn, những thỏa thuận cũ có thể không còn giữ được. Lúc ấy, thiếu nước và xung đột có thể cùng tạo sức ép.",
+      "base_start_seconds": 586.3876875,
+      "base_end_seconds": 597.8426041666667,
+      "final_start_seconds": 469.11015,
+      "final_end_seconds": 478.27408333333335,
+      "raw_sha256": "ce22bc2707f62e0aefdeb91f9e8f949e2afb8b7c71a3567d5e9cc3e1cb4616c7",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 90.0,
+        "next_leading_ms": 50.0,
+        "added_ms": 210.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 107,
+      "beat_id": "beat_22",
+      "source_cue_ids": [
+        175,
+        176,
+        177,
+        178
+      ],
+      "text": "Không nhất thiết phải chọn một nguyên nhân rồi gạt hết những nguyên nhân còn lại. Ta cần hiểu chúng đã gặp nhau ra sao, và vì sao người dân ngày càng ít cách xoay xở. Bởi thành phố lớn luôn cần người chăm sóc nó. Hồ phải được duy trì. Công việc phải có người phối hợp.",
+      "base_start_seconds": 598.0526041666667,
+      "base_end_seconds": 611.7637916666666,
+      "final_start_seconds": 478.44208333333336,
+      "final_end_seconds": 489.4110333333333,
+      "raw_sha256": "61656ac45a53f2d656b05a01fff1a602640792f262ee0b30689321a395ffa2f4",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 70.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 108,
+      "beat_id": "beat_22",
+      "source_cue_ids": [
+        179,
+        180
+      ],
+      "text": "Nếu những mối liên hệ ấy đứt đoạn, công trình còn nguyên cũng chưa chắc tiếp tục phục vụ được như trước. Bạn có thể nhìn thấy một bức tường rất chắc, nhưng không thấy những cuộc thương lượng đã thất bại.",
+      "base_start_seconds": 611.8337916666667,
+      "base_end_seconds": 621.9002291666667,
+      "final_start_seconds": 489.46703333333335,
+      "final_end_seconds": 497.52018333333336,
+      "raw_sha256": "984d11c64042acc91fc4f135ccbb60c9afb85c7de1cacdfc2875b5eba24e3c4b",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 190.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 90.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 109,
+      "beat_id": "beat_22",
+      "source_cue_ids": [
+        181
+      ],
+      "text": "Vật liệu còn đó. Sự đồng thuận thì khó đào lên hơn.",
+      "base_start_seconds": 621.9902291666667,
+      "base_end_seconds": 625.1458541666667,
+      "final_start_seconds": 497.59218333333337,
+      "final_end_seconds": 500.11668333333336,
+      "raw_sha256": "815cbe43ed592c648d66ae50d9d643c86a65c96c3f5ce0817a8ac5e92ea739f0",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 600,
+        "source": "pause_event",
+        "reason": "Điểm lắng về sự đồng thuận.",
+        "replaces_beat_pause": true,
+        "existing_trailing_ms": 180.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 310.0,
+        "final_target_ms": 480.0
+      }
+    },
+    {
+      "unit": 110,
+      "beat_id": "beat_23",
+      "source_cue_ids": [
+        182
+      ],
+      "text": "Ngay cả khi còn chữ khắc, ta cũng chưa nghe được câu chuyện của tất cả mọi người.",
+      "base_start_seconds": 625.4558541666667,
+      "base_end_seconds": 629.457875,
+      "final_start_seconds": 500.36468333333335,
+      "final_end_seconds": 503.56629999999996,
+      "raw_sha256": "3a8d2683e99acd5d55454694f8260fbddd16294de6f33c186e3701755fad4819",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 90.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 150.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 111,
+      "beat_id": "beat_23",
+      "source_cue_ids": [
+        183
+      ],
+      "text": "Một triều đại ngừng dựng bia, ngừng ghi chiến công. Có phải cả thành phố đã hết người?",
+      "base_start_seconds": 629.607875,
+      "base_end_seconds": 633.4735208333333,
+      "final_start_seconds": 503.6863,
+      "final_end_seconds": 506.7788166666666,
+      "raw_sha256": "864cc9b972274537b4df01a9e02b82ba137db49bb938fcfc9edfe342b654bbf8",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 30.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 220.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 112,
+      "beat_id": "beat_23",
+      "source_cue_ids": [
+        184,
+        185
+      ],
+      "text": "Chưa chắc. Một nghiên cứu năm hai nghìn hai mươi sáu nhấn mạnh sự khác biệt giữa lúc quyền lực đổ vỡ và quá trình đô thị suy giảm sau đó.",
+      "base_start_seconds": 633.6935208333333,
+      "base_end_seconds": 640.3269583333333,
+      "final_start_seconds": 506.95481666666666,
+      "final_end_seconds": 512.2615666666667,
+      "raw_sha256": "6db004b2ae96c9b814182f2e2a2ac9b5faa06bb3b4e663fa73d8ac990e5ff074",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 60.0,
+        "added_ms": 290.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 113,
+      "beat_id": "beat_23",
+      "source_cue_ids": [
+        186
+      ],
+      "text": "Hai việc ấy có thể không diễn ra cùng lúc.",
+      "base_start_seconds": 640.6169583333333,
+      "base_end_seconds": 642.5929375,
+      "final_start_seconds": 512.4935666666667,
+      "final_end_seconds": 514.07435,
+      "raw_sha256": "6e9ea12fe6b192cfd956688461d129cc67eb6518ebffb3dd2ce6f770730c3e0e",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 40.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 210.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 114,
+      "beat_id": "beat_23",
+      "source_cue_ids": [
+        187,
+        188,
+        189
+      ],
+      "text": "Hình ảnh vua ngã xuống rồi mọi nhà lập tức đóng cửa thì dễ kể, nhưng quá gọn. Cuộc sống trong thành phố có thể đổi khác, thu hẹp dần, hoặc tiếp tục sau khi trật tự chính trị cũ đã mất.",
+      "base_start_seconds": 642.8029375,
+      "base_end_seconds": 652.6680625,
+      "final_start_seconds": 514.24235,
+      "final_end_seconds": 522.13445,
+      "raw_sha256": "6636ec96b05699d7acf7cac228ce1dd570a07bb6e1c1a4980f676714ce3ab1a2",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 450,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 130.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 220.0,
+        "final_target_ms": 360.0
+      }
+    },
+    {
+      "unit": 115,
+      "beat_id": "beat_24",
+      "source_cue_ids": [
+        190
+      ],
+      "text": "Vả lại, tư liệu còn lại thường cho giới quyền lực nhiều tiếng nói hơn người bình thường.",
+      "base_start_seconds": 652.8880625,
+      "base_end_seconds": 657.0078958333334,
+      "final_start_seconds": 522.3104500000001,
+      "final_end_seconds": 525.6063166666667,
+      "raw_sha256": "12df9dbb1883b97065ee44bf4ab3dc7ac8fd5f9048266d319e2e6bb5c8ada24b",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 10.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 230.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 116,
+      "beat_id": "beat_24",
+      "source_cue_ids": [
+        191,
+        192
+      ],
+      "text": "Người ra lệnh dựng công trình, khắc chiến công lên đá có nhiều cơ hội được hậu thế biết đến. Người làm ruộng, chăm con, đổi hàng thì đâu phải ai cũng có một tấm bia riêng.",
+      "base_start_seconds": 657.2378958333334,
+      "base_end_seconds": 666.0026458333333,
+      "final_start_seconds": 525.7903166666667,
+      "final_end_seconds": 532.8021166666666,
+      "raw_sha256": "ed305eca8d95244418700defb154439e831209ad5d395bfbf04c499bf0437384",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 160.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 80.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 117,
+      "beat_id": "beat_24",
+      "source_cue_ids": [
+        193
+      ],
+      "text": "Nếu chỉ nghe phía cung điện, lúc cung điện im tiếng, ta dễ tưởng cả thế giới câm lặng.",
+      "base_start_seconds": 666.0826458333333,
+      "base_end_seconds": 670.5531041666667,
+      "final_start_seconds": 532.8661166666667,
+      "final_end_seconds": 536.4424833333334,
+      "raw_sha256": "8fcdb981956292bd0d33d87e83979fa338497443ac41642a81c82a4fd273d400",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 500,
+        "source": "pause_event",
+        "reason": "Khoảng nghỉ sau hình ảnh cung điện im tiếng.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 110.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 280.0,
+        "final_target_ms": 400.0
+      }
+    },
+    {
+      "unit": 118,
+      "beat_id": "beat_24",
+      "source_cue_ids": [
+        194,
+        195
+      ],
+      "text": "Nhưng đời sống còn diễn ra ở bên ngoài. Muốn biết người dân đi đâu, sống tiếp thế nào, cần tìm những bằng chứng khác nữa.",
+      "base_start_seconds": 670.8331041666667,
+      "base_end_seconds": 676.9944583333333,
+      "final_start_seconds": 536.6664833333333,
+      "final_end_seconds": 541.5955666666666,
+      "raw_sha256": "f5d525ad4e89713354361f180323847cf6255bc9d08abc25dfc2b4e0ef39ba90",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 600,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 120.0,
+        "next_leading_ms": 90.0,
+        "added_ms": 390.0,
+        "final_target_ms": 480.0
+      }
+    },
+    {
+      "unit": 119,
+      "beat_id": "beat_25",
+      "source_cue_ids": [
+        196
+      ],
+      "text": "Một gia đình rời thành phố có thể báo hiệu đô thị đang suy yếu.",
+      "base_start_seconds": 677.3844583333333,
+      "base_end_seconds": 680.768875,
+      "final_start_seconds": 541.9075666666666,
+      "final_end_seconds": 544.6151,
+      "raw_sha256": "247f45e661ad82982d3f53123d3d72db1d5688449644351d6d42f2718305f37e",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 10.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 230.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 120,
+      "beat_id": "beat_25",
+      "source_cue_ids": [
+        197
+      ],
+      "text": "Với chính gia đình ấy, đó lại có thể là cách bảo vệ những người thân của mình.",
+      "base_start_seconds": 680.998875,
+      "base_end_seconds": 685.122625,
+      "final_start_seconds": 544.7991,
+      "final_end_seconds": 548.0980999999999,
+      "raw_sha256": "515b4890c65208ee1cd75a137987dd5764f70ea736bda4f1f8a82eed2e7b6c03",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 100.0,
+        "next_leading_ms": 80.0,
+        "added_ms": 170.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 121,
+      "beat_id": "beat_25",
+      "source_cue_ids": [
+        198,
+        199,
+        200
+      ],
+      "text": "Cùng một cuộc ra đi, nhìn từ hai phía sẽ thấy những điều khác nhau. Dĩ nhiên, rời đi không bảo đảm họ sẽ sống tốt hơn. Khủng hoảng có những tổn thất thật. Có người có thể tìm được chỗ sống mới, có người gặp thêm hiểm nguy.",
+      "base_start_seconds": 685.292625,
+      "base_end_seconds": 697.2682291666666,
+      "final_start_seconds": 548.2341,
+      "final_end_seconds": 557.8145833333333,
+      "raw_sha256": "259140e9de4e848d4091b745bcf399d17611589c5f5f6e55f4ce76b01b47e33d",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 110.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 122,
+      "beat_id": "beat_25",
+      "source_cue_ids": [
+        201
+      ],
+      "text": "Ta chưa biết hết số phận của họ, nên không thể lấy một nơi vắng người để kết luận cả dân tộc đã biến mất.",
+      "base_start_seconds": 697.3782291666666,
+      "base_end_seconds": 702.90225,
+      "final_start_seconds": 557.9025833333333,
+      "final_end_seconds": 562.3217999999999,
+      "raw_sha256": "ea80b3bc6066f467331192b074c84c1ca2edf9163186c98715176cd28f69ac03",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 500,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 60.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 340.0,
+        "final_target_ms": 400.0
+      }
+    },
+    {
+      "unit": 123,
+      "beat_id": "beat_26",
+      "source_cue_ids": [
+        202,
+        203
+      ],
+      "text": "Để thấy câu chuyện còn tiếp tục, hãy rời các thành phố phía nam một lúc. Nhìn sang những khu vực vẫn phát triển.",
+      "base_start_seconds": 703.24225,
+      "base_end_seconds": 708.6000208333334,
+      "final_start_seconds": 562.5938,
+      "final_end_seconds": 566.8800166666667,
+      "raw_sha256": "1384c0a9ba8dac6f1377c4e8a08bc80ccdaaf4f8335775f3e6565e49df637c2b",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 60.0,
+        "added_ms": 150.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 124,
+      "beat_id": "beat_26",
+      "source_cue_ids": [
+        204
+      ],
+      "text": "Khi một số trung tâm suy tàn, đời sống Maya ở những nơi khác vẫn diễn ra.",
+      "base_start_seconds": 708.7500208333333,
+      "base_end_seconds": 712.6156666666667,
+      "final_start_seconds": 567.0000166666666,
+      "final_end_seconds": 570.0925333333333,
+      "raw_sha256": "6a102fb2eb98d195fe4a1b363361ac17a98170339eea1cffd7ec44caa49fc148",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 70.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 125,
+      "beat_id": "beat_26",
+      "source_cue_ids": [
+        205
+      ],
+      "text": "Năm chín trăm chưa phải dấu chấm hết.",
+      "base_start_seconds": 712.6856666666666,
+      "base_end_seconds": 714.5755416666667,
+      "final_start_seconds": 570.1485333333333,
+      "final_end_seconds": 571.6604333333333,
+      "raw_sha256": "94cda6128a2ef42f336da3649111bb7fdce1bf1191a9346d830b5362824fad4c",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 150.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 100.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 126,
+      "beat_id": "beat_26",
+      "source_cue_ids": [
+        206,
+        207,
+        208
+      ],
+      "text": "Sau giai đoạn khủng hoảng của nhiều thành bang phía nam, thế giới Maya còn những trung tâm quyền lực khác. Nếu dừng ở các phế tích nổi tiếng, ta sẽ bỏ lỡ cả phần lịch sử dài phía sau. Ở phía bắc, Chichén Itzá trở thành một trung tâm quan trọng.",
+      "base_start_seconds": 714.6755416666666,
+      "base_end_seconds": 726.8378333333334,
+      "final_start_seconds": 571.7404333333333,
+      "final_end_seconds": 581.4702666666667,
+      "raw_sha256": "1cd53a792382b5f9ed4c53a8ee8dcc384d5362fa25396edb940c62eefe6ac8be",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 50.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 190.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 127,
+      "beat_id": "beat_26",
+      "source_cue_ids": [
+        209,
+        210,
+        211
+      ],
+      "text": "Sau đó, Mayapán giữ vai trò lớn tại Yucatán. Các cộng đồng vùng cao, ven biển và những khu vực khác cũng có lịch sử riêng. Họ tiếp tục sống, thay đổi và xây dựng những mối quan hệ mới.",
+      "base_start_seconds": 727.0278333333333,
+      "base_end_seconds": 737.8284375,
+      "final_start_seconds": 581.6222666666666,
+      "final_end_seconds": 590.26275,
+      "raw_sha256": "d6a2619b41ebeed4e8abffb83622d6818a560f4ef7d8ee5845510ace8471a3a3",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 450,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 120.0,
+        "added_ms": 160.0,
+        "final_target_ms": 360.0
+      }
+    },
+    {
+      "unit": 128,
+      "beat_id": "beat_27",
+      "source_cue_ids": [
+        212,
+        213
+      ],
+      "text": "Từ khoảng thế kỷ mười ba đến giữa thế kỷ mười lăm, Mayapán là một trung tâm lớn về chính trị, kinh tế và tôn giáo.",
+      "base_start_seconds": 737.9884375,
+      "base_end_seconds": 744.1966458333334,
+      "final_start_seconds": 590.39075,
+      "final_end_seconds": 595.3573166666667,
+      "raw_sha256": "5dd69950276f8dee28f52ada6347caee6bee5387691db18df127c977f8a14fe2",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 120.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 120.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 129,
+      "beat_id": "beat_27",
+      "source_cue_ids": [
+        214
+      ],
+      "text": "Hãy để ý khoảng cách ấy: nhiều thế kỷ sau mốc suy tàn thường được nhắc, một trung tâm Maya vẫn giữ vai trò lớn.",
+      "base_start_seconds": 744.3166458333334,
+      "base_end_seconds": 750.1580625,
+      "final_start_seconds": 595.4533166666668,
+      "final_end_seconds": 600.12645,
+      "raw_sha256": "d7d41851533edb5dbcad5a3001dbdfa5c2ba4687c7fbb02a3a83f61a55ee06f4",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 10.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 240.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 130,
+      "beat_id": "beat_27",
+      "source_cue_ids": [
+        215,
+        216,
+        217
+      ],
+      "text": "Mayapán rồi cũng gặp khủng hoảng. Các nghiên cứu kết hợp khảo cổ, khí hậu và nguồn lịch sử cho thấy hạn hán có thể đã làm xung đột nội bộ nghiêm trọng hơn. Ở đây, sức ép môi trường được xem xét cùng với cách xã hội tổ chức và ứng phó.",
+      "base_start_seconds": 750.3980625,
+      "base_end_seconds": 763.2397291666666,
+      "final_start_seconds": 600.31845,
+      "final_end_seconds": 610.5917833333333,
+      "raw_sha256": "cee86918dc0908383d5c4870b6db5af6765b30f8f892f60f45336bc7b2c21a14",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 100.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 131,
+      "beat_id": "beat_27",
+      "source_cue_ids": [
+        218
+      ],
+      "text": "Nhưng Mayapán thế kỷ mười lăm và Tikal nhiều thế kỷ trước là những câu chuyện riêng.",
+      "base_start_seconds": 763.3397291666666,
+      "base_end_seconds": 767.5489791666666,
+      "final_start_seconds": 610.6717833333333,
+      "final_end_seconds": 614.0391833333333,
+      "raw_sha256": "b75617849564b1eaa28d6cf340689d2abb0f792e5e37e81be2662cb738bb1681",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 110.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 132,
+      "beat_id": "beat_27",
+      "source_cue_ids": [
+        219,
+        220
+      ],
+      "text": "Ta cần giữ rõ khoảng cách thời gian ấy. Điểm giống nhau giúp đặt câu hỏi, chứ chưa đủ để khẳng định cùng một nguyên nhân.",
+      "base_start_seconds": 767.6589791666667,
+      "base_end_seconds": 773.5270208333334,
+      "final_start_seconds": 614.1271833333333,
+      "final_end_seconds": 618.8216166666667,
+      "raw_sha256": "773a8d68918e32c7c695bb92654e8987b6f6c8a9eba8bb98cc3be2c2a5b59bde",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 450,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 200.0,
+        "final_target_ms": 360.0
+      }
+    },
+    {
+      "unit": 133,
+      "beat_id": "beat_28",
+      "source_cue_ids": [
+        221,
+        222
+      ],
+      "text": "Đến khi người Tây Ban Nha chinh phục khu vực, các cộng đồng và nhà nước Maya vẫn đang tồn tại. Chiến tranh, dịch bệnh và áp bức thuộc địa gây thêm những tổn thất lớn.",
+      "base_start_seconds": 773.7270208333333,
+      "base_end_seconds": 782.3182083333334,
+      "final_start_seconds": 618.9816166666667,
+      "final_end_seconds": 625.8545666666666,
+      "raw_sha256": "223aa58b1df2ea28832f6a2816c76889b8b60a4907c54b6ef295462376df642e",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 80.0,
+        "added_ms": 130.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 134,
+      "beat_id": "beat_28",
+      "source_cue_ids": [
+        223
+      ],
+      "text": "Đó là một chương lịch sử khác, muộn hơn khủng hoảng đô thị nhiều thế kỷ.",
+      "base_start_seconds": 782.4482083333334,
+      "base_end_seconds": 786.1297708333333,
+      "final_start_seconds": 625.9585666666667,
+      "final_end_seconds": 628.9038166666667,
+      "raw_sha256": "b6b9a881110708f8c9a30fe10792dc060216b9528d32849b2d290f50f4b5f2f3",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 20.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 220.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 135,
+      "beat_id": "beat_28",
+      "source_cue_ids": [
+        224,
+        225
+      ],
+      "text": "Mốc một nghìn sáu trăm chín mươi bảy thường được nhắc đến khi người Tây Ban Nha đánh bại những nhà nước Maya độc lập cuối cùng.",
+      "base_start_seconds": 786.3497708333333,
+      "base_end_seconds": 792.5132708333333,
+      "final_start_seconds": 629.0798166666666,
+      "final_end_seconds": 634.0106166666667,
+      "raw_sha256": "67714564af08a5fad72b0c600ce14760ac6778e0b91eec2d7e8db5e411e31753",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 60.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 190.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 136,
+      "beat_id": "beat_28",
+      "source_cue_ids": [
+        226
+      ],
+      "text": "Khoảng cách rất xa với năm chín trăm ấy cho thấy ta không thể gom mọi biến động vào một lần sụp đổ.",
+      "base_start_seconds": 792.7032708333334,
+      "base_end_seconds": 797.9626458333333,
+      "final_start_seconds": 634.1626166666667,
+      "final_end_seconds": 638.3701166666667,
+      "raw_sha256": "f15f241af94e959805739a338a144c96b03bc878ec49d927f17b5aab06a98e3c",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 500,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 180.0,
+        "next_leading_ms": 120.0,
+        "added_ms": 200.0,
+        "final_target_ms": 400.0
+      }
+    },
+    {
+      "unit": 137,
+      "beat_id": "beat_29",
+      "source_cue_ids": [
+        227
+      ],
+      "text": "Ngày nay vẫn có hàng triệu người Maya.",
+      "base_start_seconds": 798.1626458333334,
+      "base_end_seconds": 800.4417083333333,
+      "final_start_seconds": 638.5301166666667,
+      "final_end_seconds": 640.3533666666666,
+      "raw_sha256": "5154c5fd6b01ac1fd4bc7abdba70b656236b6a8176d0820a16eb7ea87f154f1b",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 400,
+        "source": "pause_event",
+        "reason": "Giữ trọng tâm ở những người đang sống.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 190.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 100.0,
+        "final_target_ms": 320.0
+      }
+    },
+    {
+      "unit": 138,
+      "beat_id": "beat_29",
+      "source_cue_ids": [
+        228
+      ],
+      "text": "Họ có ngôn ngữ, văn hóa và cuộc sống hiện tại của mình.",
+      "base_start_seconds": 800.5417083333333,
+      "base_end_seconds": 803.579,
+      "final_start_seconds": 640.4333666666666,
+      "final_end_seconds": 642.8632,
+      "raw_sha256": "4a4e7165a6c9956956318fd4af49ee7f5afad50ffa5cccbc64934bf6f05fb093",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 280.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 139,
+      "beat_id": "beat_29",
+      "source_cue_ids": [
+        229
+      ],
+      "text": "Khi nói về Maya, ta đang nói cả về những cộng đồng đang sống, không chỉ người xưa trong phế tích.",
+      "base_start_seconds": 803.859,
+      "base_end_seconds": 809.2060208333334,
+      "final_start_seconds": 643.0872,
+      "final_end_seconds": 647.3648166666667,
+      "raw_sha256": "e249e955587357dae5809344660149fcf586c50f1ac4338e9929429eb0f37491",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 210.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 30.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 140,
+      "beat_id": "beat_29",
+      "source_cue_ids": [
+        230
+      ],
+      "text": "Những ngôi đền nổi tiếng chỉ kể được một phần câu chuyện ấy.",
+      "base_start_seconds": 809.2360208333333,
+      "base_end_seconds": 812.1865208333334,
+      "final_start_seconds": 647.3888166666667,
+      "final_end_seconds": 649.7492166666667,
+      "raw_sha256": "9dcf2c187c267c9ca750b6e3a6e3aab9cf258dbcdd8385c153f541ad91e05507",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 550,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 180.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 260.0,
+        "final_target_ms": 440.0
+      }
+    },
+    {
+      "unit": 141,
+      "beat_id": "beat_30",
+      "source_cue_ids": [
+        231,
+        232
+      ],
+      "text": "Nếu đứng trước một ngôi đền bỏ lại, có lẽ câu đầu tiên bạn hỏi vẫn là: người đâu hết rồi? Giờ thử đổi câu hỏi một chút.",
+      "base_start_seconds": 812.4465208333334,
+      "base_end_seconds": 818.955,
+      "final_start_seconds": 649.9572166666667,
+      "final_end_seconds": 655.164,
+      "raw_sha256": "7c15c1c7d58134875ec0b9a36edc948fb4d841c1724ccb2d2588cb23f6f5af8c",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 120.0,
+        "added_ms": 90.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 142,
+      "beat_id": "beat_30",
+      "source_cue_ids": [
+        233
+      ],
+      "text": "Những người từng sống ở đây đã thay đổi cuộc sống của họ như thế nào?",
+      "base_start_seconds": 819.045,
+      "base_end_seconds": 822.6388958333333,
+      "final_start_seconds": 655.236,
+      "final_end_seconds": 658.1111166666667,
+      "raw_sha256": "ddda7cbff17dcaa8c9ddf86ccaf8b1f6c4ee16ae9d6371d2849cf01058e5a42c",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 150.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 100.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 143,
+      "beat_id": "beat_30",
+      "source_cue_ids": [
+        234
+      ],
+      "text": "Câu hỏi ấy đưa ta ra khỏi công trình, đi theo con người.",
+      "base_start_seconds": 822.7388958333333,
+      "base_end_seconds": 825.9821666666667,
+      "final_start_seconds": 658.1911166666666,
+      "final_end_seconds": 660.7857333333334,
+      "raw_sha256": "fdef035f40be096b1ff311ee9e06d7271c47b24bc25134affbf6a0eb9a940f04",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 160.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 80.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 144,
+      "beat_id": "beat_30",
+      "source_cue_ids": [
+        235,
+        236
+      ],
+      "text": "Ta vẫn còn nhiều điều chưa biết về cuộc sống bên ngoài những công trình ấy. Đó là điều Mỏ Đen muốn giữ lại khi kể câu chuyện này.",
+      "base_start_seconds": 826.0621666666667,
+      "base_end_seconds": 832.3970833333333,
+      "final_start_seconds": 660.8497333333333,
+      "final_end_seconds": 665.9176666666666,
+      "raw_sha256": "ad88a06b6eec1ae651589698b57c597fb2fa9dec7cb7d3913f47a1a4e9438571",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 500,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 200.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 230.0,
+        "final_target_ms": 400.0
+      }
+    },
+    {
+      "unit": 145,
+      "beat_id": "beat_31",
+      "source_cue_ids": [
+        237,
+        238,
+        239
+      ],
+      "text": "Cách nhìn ấy cũng giúp gỡ một hiểu nhầm khác về Maya. Bạn còn nhớ lời đồn tận thế năm hai nghìn mười hai chứ? Smithsonian từng có tài liệu giải thích lịch Maya và bác bỏ cách diễn giải tận thế ấy.",
+      "base_start_seconds": 832.6270833333333,
+      "base_end_seconds": 842.4922083333333,
+      "final_start_seconds": 666.1016666666667,
+      "final_end_seconds": 673.9937666666667,
+      "raw_sha256": "492c9402f5cc479038bba8daeaf917e1a77913c02a1054ea827ae22fab9d1b6f",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 190.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 50.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 146,
+      "beat_id": "beat_31",
+      "source_cue_ids": [
+        240
+      ],
+      "text": "Một chu kỳ lịch kết thúc không có nghĩa thế giới kết thúc.",
+      "base_start_seconds": 842.5422083333333,
+      "base_end_seconds": 845.2088125,
+      "final_start_seconds": 674.0337666666667,
+      "final_end_seconds": 676.16705,
+      "raw_sha256": "b212518b7ae867f57964f97f90d9fc938c222424aa415472b36862461b9152df",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 90.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 150.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 147,
+      "beat_id": "beat_31",
+      "source_cue_ids": [
+        241
+      ],
+      "text": "Giống như lịch bàn hết tờ tháng mười hai: ta sang năm mới.",
+      "base_start_seconds": 845.3588125,
+      "base_end_seconds": 848.1652708333334,
+      "final_start_seconds": 676.28705,
+      "final_end_seconds": 678.5322166666667,
+      "raw_sha256": "a148c1a5a65b9a210d694e54c6ad7dda93b3e04fc16e61ac5ac694f2082a2385",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 180.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 70.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 148,
+      "beat_id": "beat_31",
+      "source_cue_ids": [
+        242
+      ],
+      "text": "Chẳng ai cần gọi thợ đến tháo hành tinh.",
+      "base_start_seconds": 848.2352708333333,
+      "base_end_seconds": 850.5546458333333,
+      "final_start_seconds": 678.5882166666667,
+      "final_end_seconds": 680.4437166666667,
+      "raw_sha256": "17db058b1c05b91db5f82a4cfe4726a456e46e7b55867387ba34f6d608c03312",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 200,
+        "source": "pause_event",
+        "reason": "Dừng ngắn sau câu đùa; tránh cười giả.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 90.0,
+        "final_target_ms": 160.0
+      }
+    },
+    {
+      "unit": 149,
+      "beat_id": "beat_31",
+      "source_cue_ids": [
+        243
+      ],
+      "text": "Câu đùa nghe vô lý, nhưng lời đồn ấy cho thấy ta dễ gán chuyện bí ẩn vào điều chưa hiểu ra sao.",
+      "base_start_seconds": 850.6446458333334,
+      "base_end_seconds": 855.7472916666667,
+      "final_start_seconds": 680.5157166666667,
+      "final_end_seconds": 684.5978333333334,
+      "raw_sha256": "12901682d633b44dc6989aa62127e45494429ec66337a93032951d6f932d387b",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 400,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 130.0,
+        "final_target_ms": 320.0
+      }
+    },
+    {
+      "unit": 150,
+      "beat_id": "beat_32",
+      "source_cue_ids": [
+        244,
+        245,
+        246
+      ],
+      "text": "Với sự suy tàn của các thành phố cũng vậy. Một lời giải duy nhất thì dễ nhớ, nhưng khó chứa hết những gì vừa thấy. Tikal gợi ra sức ép về nước. Witzna cho thấy tàn phá của chiến tranh. Itzan khiến ta nhìn rộng hơn.",
+      "base_start_seconds": 855.8772916666667,
+      "base_end_seconds": 867.1881458333334,
+      "final_start_seconds": 684.7018333333333,
+      "final_end_seconds": 693.7505166666667,
+      "raw_sha256": "73fa24adbf028cd8836ccdf774f1fcf3d19e3cde2b3b11587c150c724c378b66",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 170.0,
+        "next_leading_ms": 120.0,
+        "added_ms": 60.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 151,
+      "beat_id": "beat_32",
+      "source_cue_ids": [
+        247
+      ],
+      "text": "Mỗi nơi bổ sung một phần còn thiếu.",
+      "base_start_seconds": 867.2481458333333,
+      "base_end_seconds": 869.2239166666667,
+      "final_start_seconds": 693.7985166666666,
+      "final_end_seconds": 695.3791333333334,
+      "raw_sha256": "f848d7618ee263bcb4a11bd1caa46346540ec7a061dd00f774dfc2b126184581",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 110.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 130.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 152,
+      "beat_id": "beat_32",
+      "source_cue_ids": [
+        248,
+        249,
+        250
+      ],
+      "text": "Để một thành phố tiếp tục sống, người dân cần nhiều thứ cùng hoạt động: nước, thức ăn, trao đổi, an toàn và sự hợp tác. Khi một thứ gặp khó, họ có thể dựa vào những thứ khác.",
+      "base_start_seconds": 869.3539166666667,
+      "base_end_seconds": 878.6237291666666,
+      "final_start_seconds": 695.4831333333334,
+      "final_end_seconds": 702.8989833333333,
+      "raw_sha256": "41f6faf29bfe5c2d90b46eeb7864303c31f20b3b482110d9f1b6c39ac01d7ca4",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 110.0,
+        "next_leading_ms": 120.0,
+        "added_ms": 120.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 153,
+      "beat_id": "beat_32",
+      "source_cue_ids": [
+        251
+      ],
+      "text": "Nhưng nếu nhiều thứ cùng suy yếu, lựa chọn cứ ít dần.",
+      "base_start_seconds": 878.7437291666666,
+      "base_end_seconds": 881.83625,
+      "final_start_seconds": 702.9949833333333,
+      "final_end_seconds": 705.4689999999999,
+      "raw_sha256": "ef161d42d532a5fae7d0492194ffc520242687e8f0ecdec89bc1f311c04289b5",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 500,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 50.0,
+        "next_leading_ms": 80.0,
+        "added_ms": 370.0,
+        "final_target_ms": 400.0
+      }
+    },
+    {
+      "unit": 154,
+      "beat_id": "beat_33",
+      "source_cue_ids": [
+        252,
+        253,
+        254
+      ],
+      "text": "Điều khiến tôi nghĩ mãi là người sống lúc ấy có nhận ra bước ngoặt hay không. Hay với họ, đó chỉ là thêm một mùa khó khăn mà gia đình phải cố vượt qua? Sử sách nhìn được cả một quãng dài. Người trong cuộc thì không biết trước chuyện gì sẽ đến.",
+      "base_start_seconds": 882.20625,
+      "base_end_seconds": 894.9628541666667,
+      "final_start_seconds": 705.765,
+      "final_end_seconds": 715.9702833333333,
+      "raw_sha256": "5b5ae072549e21b30d6f511679eea8687979979ac18cebc9ff52a703969777b0",
+      "seed": 20261023,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 100.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 180.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 155,
+      "beat_id": "beat_33",
+      "source_cue_ids": [
+        255
+      ],
+      "text": "Chúng ta nhìn lại và gọi cả chuỗi ấy là sự sụp đổ.",
+      "base_start_seconds": 895.1428541666667,
+      "base_end_seconds": 897.8330208333333,
+      "final_start_seconds": 716.1142833333333,
+      "final_end_seconds": 718.2664166666666,
+      "raw_sha256": "ecacd9c018a97629a3fe6575f261e419b7e01366abeabf183a822217211887d4",
+      "seed": 20261023,
+      "pause": {
+        "target_ms": 300,
+        "source": "pause_event",
+        "reason": "Đổi góc nhìn từ người nhìn lại sang người sống trong sự kiện.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 180.0,
+        "next_leading_ms": 60.0,
+        "added_ms": 60.0,
+        "final_target_ms": 240.0
+      }
+    },
+    {
+      "unit": 156,
+      "beat_id": "beat_33",
+      "source_cue_ids": [
+        256
+      ],
+      "text": "Người sống trong chuỗi ấy phải giải quyết từng ngày.",
+      "base_start_seconds": 897.8930208333334,
+      "base_end_seconds": 900.1720833333334,
+      "final_start_seconds": 718.3144166666667,
+      "final_end_seconds": 720.1376666666667,
+      "raw_sha256": "de3af36a165bca7771132a7c2e5dbc65291f323912405964f50c18fe9ace07a3",
+      "seed": 20261023,
+      "pause": {
+        "target_ms": 600,
+        "source": "pause_event",
+        "reason": "Điểm nhấn từng ngày cần khoảng nghỉ sau câu.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 130.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 400.0,
+        "final_target_ms": 480.0
+      }
+    },
+    {
+      "unit": 157,
+      "beat_id": "beat_33",
+      "source_cue_ids": [
+        257
+      ],
+      "text": "Có lẽ vì thế mà câu hỏi ở đầu video vẫn rất gần gũi.",
+      "base_start_seconds": 900.5720833333334,
+      "base_end_seconds": 903.6961458333334,
+      "final_start_seconds": 720.4576666666667,
+      "final_end_seconds": 722.9569166666668,
+      "raw_sha256": "c9c37e0b17d8071f97f98c2e084121c00a34042e4438e64359ab7f83c02dc077",
+      "seed": 20261023,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 200.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 80.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 158,
+      "beat_id": "beat_33",
+      "source_cue_ids": [
+        258
+      ],
+      "text": "Nếu là bạn, đến khi nào bạn sẽ quyết định rời đi?",
+      "base_start_seconds": 903.7761458333333,
+      "base_end_seconds": 906.4058333333334,
+      "final_start_seconds": 723.0209166666666,
+      "final_end_seconds": 725.1246666666667,
+      "raw_sha256": "86821ce57c013acbe4f0f3e00e88126f91f7b79f1b1acc75389bd333f74b31fb",
+      "seed": 20261023,
+      "pause": {
+        "target_ms": 700,
+        "source": "pause_event",
+        "reason": "Để người nghe cân nhắc câu hỏi.",
+        "replaces_beat_pause": true,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 450.0,
+        "final_target_ms": 560.0
+      }
+    },
+    {
+      "unit": 159,
+      "beat_id": "beat_34",
+      "source_cue_ids": [
+        259
+      ],
+      "text": "Trong tình huống giả định ấy, ở lại là giữ lấy nhà cửa, người quen và tất cả những gì đã gây dựng.",
+      "base_start_seconds": 906.8558333333333,
+      "base_end_seconds": 912.2028541666666,
+      "final_start_seconds": 725.4846666666666,
+      "final_end_seconds": 729.7622833333332,
+      "raw_sha256": "75dcbfb7cbaf4d59b317aadfae35a11cbb14f980f3c485c6b2162e8578fb7bd7",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 90.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 150.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 160,
+      "beat_id": "beat_34",
+      "source_cue_ids": [
+        260
+      ],
+      "text": "Rời đi là chấp nhận bỏ lại nhiều thứ, với hy vọng cuộc sống ở nơi khác sẽ dễ chịu hơn.",
+      "base_start_seconds": 912.3528541666667,
+      "base_end_seconds": 917.0862916666666,
+      "final_start_seconds": 729.8822833333334,
+      "final_end_seconds": 733.6690333333333,
+      "raw_sha256": "86debd5bd9b1d5184d3fc832107233d393d58dda1fc43ac05c07661811999a44",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 180.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 60.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 161,
+      "beat_id": "beat_34",
+      "source_cue_ids": [
+        261
+      ],
+      "text": "Ta không biết từng gia đình Maya đã cân nhắc thế nào. Nhưng lựa chọn ấy đáng được nhìn thấy.",
+      "base_start_seconds": 917.1462916666667,
+      "base_end_seconds": 921.745625,
+      "final_start_seconds": 733.7170333333333,
+      "final_end_seconds": 737.3965000000001,
+      "raw_sha256": "119fc468fdff38290d2521987025a004a422adc7b0b8c98f3d00163084a59d94",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 150.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 90.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 162,
+      "beat_id": "beat_34",
+      "source_cue_ids": [
+        262
+      ],
+      "text": "Một thành phố biết lọc nước vẫn có thể mất người ở, vì nước chỉ là một phần của cuộc sống.",
+      "base_start_seconds": 921.835625,
+      "base_end_seconds": 926.5690625,
+      "final_start_seconds": 737.4685000000001,
+      "final_end_seconds": 741.2552499999999,
+      "raw_sha256": "9a897ed2d5d5c006a7da49510a14803874d10566a4767938fca550af9e1e6a7f",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 200.0,
+        "next_leading_ms": 100.0,
+        "added_ms": 50.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 163,
+      "beat_id": "beat_34",
+      "source_cue_ids": [
+        263,
+        264
+      ],
+      "text": "Còn an toàn, thức ăn, quan hệ với xung quanh và khả năng cùng nhau vượt qua khó khăn. Công trình tốt không thể tự giữ tất cả những điều đó.",
+      "base_start_seconds": 926.6190625,
+      "base_end_seconds": 933.8217708333333,
+      "final_start_seconds": 741.29525,
+      "final_end_seconds": 747.0574166666667,
+      "raw_sha256": "840505db839b9ef0f24ceb28062ec1c375a4865f8d4d8b3e78d5f2b75b154077",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 550,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 440.0,
+        "final_target_ms": 440.0
+      }
+    },
+    {
+      "unit": 164,
+      "beat_id": "beat_35",
+      "source_cue_ids": [
+        265
+      ],
+      "text": "Và khi người dân rời đi, lịch sử cũng đi tiếp cùng họ.",
+      "base_start_seconds": 934.2617708333333,
+      "base_end_seconds": 937.2420833333333,
+      "final_start_seconds": 747.4094166666666,
+      "final_end_seconds": 749.7936666666667,
+      "raw_sha256": "74017c0503231a8fee3986c914705321a70fec11ee2da737eba903f7313d5ecf",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 0.0,
+        "next_leading_ms": 70.0,
+        "added_ms": 280.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 165,
+      "beat_id": "beat_35",
+      "source_cue_ids": [
+        266,
+        267
+      ],
+      "text": "Tôi muốn khép câu chuyện ở hình ảnh ấy. Đền đài ở lại giữa rừng. Còn người Maya vẫn sống, qua những biến động và mất mát.",
+      "base_start_seconds": 937.5220833333333,
+      "base_end_seconds": 943.857,
+      "final_start_seconds": 750.0176666666666,
+      "final_end_seconds": 755.0856,
+      "raw_sha256": "42bc1440f769c02b1ff48c8de1b1bad81ae47d38d04271bdf2347343846f9318",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 150.0,
+        "next_leading_ms": 110.0,
+        "added_ms": 90.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 166,
+      "beat_id": "beat_35",
+      "source_cue_ids": [
+        268
+      ],
+      "text": "Câu chuyện của họ chưa kết thúc.",
+      "base_start_seconds": 943.947,
+      "base_end_seconds": 945.6124583333333,
+      "final_start_seconds": 755.1576,
+      "final_end_seconds": 756.4899666666666,
+      "raw_sha256": "e754254c54206e10458cee5194cdae0761de7dcfc173266f5bcfac532252768c",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 850,
+        "source": "pause_event",
+        "reason": "Tách kết câu chuyện khỏi lời mời tương tác.",
+        "replaces_beat_pause": true,
+        "existing_trailing_ms": 130.0,
+        "next_leading_ms": 90.0,
+        "added_ms": 630.0,
+        "final_target_ms": 680.0
+      }
+    },
+    {
+      "unit": 167,
+      "beat_id": "beat_36",
+      "source_cue_ids": [
+        269,
+        270
+      ],
+      "text": "Chi tiết nào khiến bạn nghĩ khác về Maya: hệ thống lọc nước, thành phố bị đốt, hay Itzan, nơi dân số giảm mà hồ sơ không cho thấy hạn hán tại chỗ?",
+      "base_start_seconds": 946.2424583333334,
+      "base_end_seconds": 954.1455416666666,
+      "final_start_seconds": 756.9939666666667,
+      "final_end_seconds": 763.3164333333333,
+      "raw_sha256": "578493a3dd9a7f87f62660de226910aefc4f4cc65912e62cb2627ff5f53b8569",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 120.0,
+        "next_leading_ms": 90.0,
+        "added_ms": 140.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 168,
+      "beat_id": "beat_36",
+      "source_cue_ids": [
+        271,
+        272,
+        273,
+        274
+      ],
+      "text": "Kể cho Mỏ Đen nghe ở phần bình luận nhé. Tôi muốn biết điều gì khiến bạn chú ý nhất. Nếu muốn cùng tìm hiểu thêm những câu chuyện lịch sử qua các dấu vết còn lại, bạn có thể đăng ký kênh Mỏ Đen. Tập tới, chúng ta thử đặt những nhân vật quen thuộc lên cùng một trục thời gian.",
+      "base_start_seconds": 954.2855416666666,
+      "base_end_seconds": 968.4028541666667,
+      "final_start_seconds": 763.4284333333333,
+      "final_end_seconds": 774.7222833333333,
+      "raw_sha256": "d0f0a5b04dab33557fbca1df03a77471789f0ac8ffaae12173933b23894392c7",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "semantic_boundary",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 190.0,
+        "next_leading_ms": 80.0,
+        "added_ms": 80.0,
+        "final_target_ms": 280.0
+      }
+    },
+    {
+      "unit": 169,
+      "beat_id": "beat_36",
+      "source_cue_ids": [
+        275
+      ],
+      "text": "Có những người tưởng cách nhau cả một thời đại, nhưng hóa ra lại sống gần thời nhau đến bất ngờ.",
+      "base_start_seconds": 968.4828541666667,
+      "base_end_seconds": 973.0357291666667,
+      "final_start_seconds": 774.7862833333334,
+      "final_end_seconds": 778.4285833333333,
+      "raw_sha256": "1c735a8f5c39589cea8f2c425ba6a76784fb5e95382f14fc1aee64d624864832",
+      "seed": 20261021,
+      "pause": {
+        "target_ms": 350,
+        "source": "beat_end",
+        "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+        "replaces_beat_pause": false,
+        "existing_trailing_ms": 140.0,
+        "next_leading_ms": 0,
+        "added_ms": 210.0,
+        "final_target_ms": 280.0
+      }
+    }
+  ]
+}

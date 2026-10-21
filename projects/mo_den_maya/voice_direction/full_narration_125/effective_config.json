@@ -1,0 +1,42 @@
+{
+  "language": "vi-VN",
+  "region": "Bắc",
+  "selected_voice": "voices\\mo_den_EFp49inlLuQ_04.voice.json",
+  "profile_sha256": "04a8c62e3168ae6bc918fb8d6b6ec47859b496e6e1a9115bca479f51dfc52f66",
+  "speaker_codes_sha256": "b67dc4c3747f01dc94f04fed62df31ded2ce4ef955eb93ca3c474b5a1a571045",
+  "sdk": "3.8.3",
+  "synthesis": {
+    "temperature": 0.6,
+    "top_k": 25,
+    "max_chars": 280
+  },
+  "postprocess": {
+    "pitch_semitones": 0.8,
+    "tempo": 0.9406885109912899,
+    "formant": "preserved",
+    "equalizers": [
+      {
+        "frequency": 2800,
+        "width": 0.8,
+        "gain": 0.7
+      }
+    ]
+  },
+  "complete_directed_pipeline_B": true,
+  "final_speed_multiplier": 1.25,
+  "speed_scope": "Whole directed track including pauses; pitch=1 in final retiming.",
+  "additional_pitch_semitones": 0,
+  "beats": 36,
+  "units": 169,
+  "source_cues": 275,
+  "input_hashes": {
+    "00_DOC_TRUOC_VA_PROMPT_CODEX.md": "b715fbc0c9d8923d932e82c4c006800e93312b8219533dae2a238ec980c76fbc",
+    "01_Loi_Ke_Sach.txt": "bba07ffefe43c109163d44fc041d4693c164a9aaf9a313631ff5d2f113dad434",
+    "02_Dao_Dien_Giong_Viet.json": "fb742cc2234d4eb8b99122fc879fae1d65e4b2b43d73ca1df0c3f7b844f5f7b5",
+    "03_Maya_Timecode_Tham_Chieu.srt": "76ddaaeb0452d3c5c45aa7f04a08bdb34da52371724f7a088406240eb0aafabd"
+  },
+  "authorization": "User explicitly requested full script and 1.25x after the A/B step.",
+  "no_video": true,
+  "reading_edits": [],
+  "pronunciation_qc": "Pending listening; original spelling preserved, no invented aliases."
+}

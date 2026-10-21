@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "engine": "vieneu-v3turbo",
+  "name": "Mỏ Đen · Xuân Vĩnh · bản Maya so sánh",
+  "reference": "auditions/mo_den_20261021/02_xuan_vinh.wav",
+  "reference_sha256": "bc5e027fe5ead17fe4a1013483dba9d9f5a28a3f903070257a50fd3106b47e92",
+  "codes": "auditions/mo_den_20261021/02_xuan_vinh_codes.npz",
+  "codes_sha256": "ce62fd19ea9811ce280ee7b88e76f2ed20a79d09cc2f17051d227e1eae64b661",
+  "selected_audition": "auditions/mo_den_20261021/02_xuan_vinh.wav",
+  "selected_audition_sha256": "bc5e027fe5ead17fe4a1013483dba9d9f5a28a3f903070257a50fd3106b47e92",
+  "language": "vi-VN",
+  "region": "Bắc",
+  "region_source": "Xuân Vĩnh — Nam · Bắc · Phong cách tự nhiên",
+  "status": "user_requested_comparison_variant",
+  "preferred": false,
+  "source_type": "installed_preset_saved_codes",
+  "source_note": "User selected the existing audition. Use its original preset codes, not a new voice clone from synthesized WAV.",
+  "postprocess": {
+    "pitch_semitones": 0,
+    "tempo": 1,
+    "formant": "preserved",
+    "equalizers": []
+  },
+  "synthesis": {
+    "temperature": 0.6,
+    "top_k": 25,
+    "max_chars": 280
+  },
+  "listening_qc": "Pending listening of full narration; catalog region is metadata, not listening approval."
+}

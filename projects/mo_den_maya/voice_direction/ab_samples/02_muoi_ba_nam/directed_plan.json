@@ -1,0 +1,170 @@
+[
+  {
+    "beat_id": "beat_15",
+    "source_cue_ids": [
+      111,
+      112
+    ],
+    "text": "Ở tây bắc Yucatán, một nghiên cứu năm hai nghìn hai mươi lăm dùng măng đá để tìm dấu vết những đợt hạn kéo dài nhiều năm.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "mười ba năm",
+        "mùa vụ này đến mùa vụ khác"
+      ],
+      "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+    },
+    "actual_engine_chunks": [
+      "ở tây bắc yucatán, một nghiên cứu năm hai nghìn hai mươi lăm dùng măng đá để tìm dấu vết những đợt hạn kéo dài nhiều năm."
+    ],
+    "actual_engine_gaps": []
+  },
+  {
+    "beat_id": "beat_15",
+    "source_cue_ids": [
+      113
+    ],
+    "text": "Trong hồ sơ ấy, có một giai đoạn hạn kéo dài khoảng mười ba năm.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 650,
+      "source": "pause_event",
+      "reason": "Để thông tin mười ba năm đọng lại trước lần lặp.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "mười ba năm"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "mười ba năm",
+        "mùa vụ này đến mùa vụ khác"
+      ],
+      "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+    },
+    "actual_engine_chunks": [
+      "trong hồ sơ ấy, có một giai đoạn hạn kéo dài khoảng mười ba năm."
+    ],
+    "actual_engine_gaps": []
+  },
+  {
+    "beat_id": "beat_15",
+    "source_cue_ids": [
+      114
+    ],
+    "text": "Mười ba năm.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.15,
+    "pause": {
+      "target_ms": 650,
+      "source": "pause_event",
+      "reason": "Lần lặp ngắn, sau đó chuyển sang giải thích phạm vi.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "mười ba năm"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "mười ba năm",
+        "mùa vụ này đến mùa vụ khác"
+      ],
+      "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+    },
+    "actual_engine_chunks": [
+      "mười ba năm."
+    ],
+    "actual_engine_gaps": []
+  },
+  {
+    "beat_id": "beat_15",
+    "source_cue_ids": [
+      115
+    ],
+    "text": "Điều đó không có nghĩa suốt thời gian ấy chẳng rơi một giọt mưa nào.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "mười ba năm",
+        "mùa vụ này đến mùa vụ khác"
+      ],
+      "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+    },
+    "actual_engine_chunks": [
+      "điều đó không có nghĩa suốt thời gian ấy chẳng rơi một giọt mưa nào."
+    ],
+    "actual_engine_gaps": []
+  },
+  {
+    "beat_id": "beat_15",
+    "source_cue_ids": [
+      116,
+      117
+    ],
+    "text": "Nhưng theo cách nghiên cứu xác định, tình trạng hạn đã kéo dài qua hết mùa vụ này đến mùa vụ khác.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 650,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "mùa vụ này đến mùa vụ khác"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "mười ba năm",
+        "mùa vụ này đến mùa vụ khác"
+      ],
+      "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+    },
+    "actual_engine_chunks": [
+      "nhưng theo cách nghiên cứu xác định, tình trạng hạn đã kéo dài qua hết mùa vụ này đến mùa vụ khác."
+    ],
+    "actual_engine_gaps": []
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "audio_generated": false,
+  "mode": "True Voice Design; no preset or reference audio",
+  "engine": "VoxCPM2",
+  "official_model": "https://huggingface.co/openbmb/VoxCPM2",
+  "attempts": [
+    {
+      "service": "OpenBMB/VoxCPM-Demo",
+      "result": "Backend busy after three spaced attempts"
+    },
+    {
+      "service": "inmean/voxcpm2-demo",
+      "result": "API metadata schema broken; documented Gradio call returns error null"
+    },
+    {
+      "service": "fantasy130/voxcpm2-demo",
+      "result": "Static surface, no usable Gradio generation endpoint"
+    }
+  ],
+  "hardware": {
+    "gpu": "NVIDIA GeForce RTX 3050",
+    "vram_mib": 6144,
+    "standard_model_vram_guidance_gb": 8
+  },
+  "local_gguf_model_bytes": 3552406272,
+  "local_runtime_build_tools_available": false,
+  "public_generic_test_only": true,
+  "project_audio_uploaded": false,
+  "default_voice_changed": false,
+  "local_followup": {
+    "installed": true,
+    "installation": "voices/local_design/installation.json",
+    "samples": "projects/mo_den_maya/voice_direction/local_custom_voices_v1",
+    "status": "three_samples_generated_pending_listening"
+  }
+}

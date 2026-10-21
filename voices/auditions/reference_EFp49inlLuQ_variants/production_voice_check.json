@@ -1,0 +1,9 @@
+{
+  "status": "mechanism_checks_passed",
+  "selected_audition_sha256": "69d160f6422868fa01cf26db5fd9adc552867c10d92adf2e4457482b5b023846",
+  "selected_sample_preserved": true,
+  "processing_reproduces_selected_wav_exactly": true,
+  "actual_new_narration_seconds": 2.2415416666666665,
+  "voice_studio_default": "Mỏ Đen · giọng chính",
+  "pronunciation_review": "not_performed_on_new_test_sentence"
+}

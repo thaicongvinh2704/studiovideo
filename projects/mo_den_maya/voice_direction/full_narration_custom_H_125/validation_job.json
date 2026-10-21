@@ -1,0 +1,17 @@
+{
+  "base_lm": "D:\\stickman-animation-studio\\stickman-animation-studio\\voices\\local_design\\models\\VoxCPM2-BaseLM-Q8_0.gguf",
+  "acoustic": "D:\\stickman-animation-studio\\stickman-animation-studio\\voices\\local_design\\models\\VoxCPM2-Acoustic-F16.gguf",
+  "reference": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\H_reference_native_16k.wav",
+  "gpu": true,
+  "gpu_layers": 29,
+  "threads": 6,
+  "max_steps": 350,
+  "units": [
+    {
+      "id": 2,
+      "text": "Nếu đã làm được từng ấy việc, vì sao họ không thể tiếp tục sống ở đây?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\compaction_check.wav"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "raw_sha256": "267551aaf5ca78f15439a388b96dc8fde0d6c0bf1c5024be0bfe7ee92a504f94",
+  "filters": "rubberband=tempo=0.931281625881377:pitch=1.0472941228:formant=preserved:pitchq=quality,equalizer=f=2800.0:t=q:w=0.8:g=0.7,loudnorm=I=-18:TP=-2:LRA=7,volume=1.035142166679344,alimiter=limit=0.98:level=false",
+  "sample_rate": 48000
+}

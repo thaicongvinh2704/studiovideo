@@ -1,0 +1,1025 @@
+{
+  "base_lm": "D:\\stickman-animation-studio\\stickman-animation-studio\\voices\\local_design\\models\\VoxCPM2-BaseLM-Q8_0.gguf",
+  "acoustic": "D:\\stickman-animation-studio\\stickman-animation-studio\\voices\\local_design\\models\\VoxCPM2-Acoustic-F16.gguf",
+  "reference": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\H_reference_native_16k.wav",
+  "gpu": true,
+  "gpu_layers": 29,
+  "threads": 6,
+  "max_steps": 350,
+  "units": [
+    {
+      "id": 1,
+      "text": "Giữa rừng nhiệt đới, những ngôi đền vẫn đứng đó. Người xây chúng biết quan sát bầu trời, trữ nước, thậm chí dùng khoáng vật để lọc nước uống. Vậy mà rồi, nhiều người vẫn phải rời thành phố.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\c8c657123c8d07048327e01d6664c4b47b66dd79e7fc672d8d2bde09a6e2e7a1.wav"
+    },
+    {
+      "id": 2,
+      "text": "Nếu đã làm được từng ấy việc, vì sao họ không thể tiếp tục sống ở đây?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\939d3aca3fb0a41500cad6e4ba1183422f05a24d448288f0ed561d8488aa23e5.wav"
+    },
+    {
+      "id": 3,
+      "text": "Có một điều cần làm rõ ngay: người Maya không biến mất. Họ vẫn sống đến hôm nay.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\7940f0c9049fde46e2c43c61e67c0b775a7b2dcf2b44a58bb2c5607a26ca209e.wav"
+    },
+    {
+      "id": 4,
+      "text": "Nhiều thành phố suy tàn. Những triều đại mất quyền lực. Nhưng chuyện gì đã đẩy cuộc sống ở đó đến chỗ khó giữ được như trước? Tôi là Mỏ Đen. Hôm nay, chúng ta mở lại hồ sơ Maya. Bắt đầu từ những dấu vết còn lại dưới đất, dưới nước và trên đá.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\5494f64ad50a261aeeb9a3dc987d3bfbe8f13346fc7b9140c25c2e2559634b68.wav"
+    },
+    {
+      "id": 5,
+      "text": "Một thành phố từng cháy. Những hồ nước bị ô nhiễm. Và một nơi khiến lời giải về hạn hán trở nên khó nói hơn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\3caa48628e43642a9ad34210ee5b8a145eab22b7eeb316e3d53c75388526f9e3.wav"
+    },
+    {
+      "id": 6,
+      "text": "Trước hết, thử hình dung chuyện này xảy ra ở khu bạn sống. Nhà vẫn còn tốt, đường vẫn đi được. Nhưng nước bắt đầu thiếu. Bạn cố xoay xở. Rồi thực phẩm cũng khó kiếm hơn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\f408466011da801688e0955c7165d7e6d77adac0555d4a9e82da943335ab0514.wav"
+    },
+    {
+      "id": 7,
+      "text": "Người quen lần lượt chuyển đi. Đến lúc nào bạn cũng tính chuyện dọn nhà?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\480014aea2e43e654d96e5f4a81447cf538433ceeaf329eaff38241662693d82.wav"
+    },
+    {
+      "id": 8,
+      "text": "Đó chỉ là một tình huống giả định. Nhưng nó giúp ta hình dung sự suy tàn từ phía những người phải sống trong đó. Chẳng ai họp cả thành phố để thông báo: từ ngày mai, chúng ta chính thức trở thành di tích.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\e30b04ecd642a1027a2fcda874f4ae3a15955c38ebc1b7c3d955e9055598b96b.wav"
+    },
+    {
+      "id": 9,
+      "text": "Mỗi gia đình có thể đứng trước một lựa chọn khác nhau.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\3780cba348e6f8196f10db8e8fef4f97dec3c66f81900ee6af77d86e8d29f82d.wav"
+    },
+    {
+      "id": 10,
+      "text": "Khi nhìn lại, ta thấy cả một thành phố vắng người. Còn lúc ấy, họ phải tính từng ngày.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\d1c6f2425feead07e1ecbb71828594a84f9396f545898d207a114bcde9be60d2.wav"
+    },
+    {
+      "id": 11,
+      "text": "Đền đài ở lại rất lâu. Vì thế, chúng dễ chiếm hết sự chú ý của chúng ta.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\a7d65b28f71f41141fa32742555236498e544ae09b387f4c6b4f9b6227177dca.wav"
+    },
+    {
+      "id": 12,
+      "text": "Thế giới Maya trải rộng trên một phần miền nam Mexico và Trung Mỹ ngày nay.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\9e400f7e8c67dfb829194b58e9d5fabb56f0dca31933c957175081364677bb72.wav"
+    },
+    {
+      "id": 13,
+      "text": "Nơi đó không có một thủ đô duy nhất.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\0f80d79091e22c9c1b8faafa4bfc7ef63701d271e0140ecb1b7c61d89fb42eca.wav"
+    },
+    {
+      "id": 14,
+      "text": "Trong thời kỳ Cổ điển, nhiều thành bang cùng tồn tại, mỗi nơi có triều đại và quan hệ riêng. Bạn cứ hình dung nhiều trung tâm quyền lực, chứ không phải một ông vua cai quản tất cả. Bởi vậy, sẽ không có một ngày mà cả thế giới Maya cùng sụp đổ.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\d6ae00669302d9a1e91b1afd1849e62ac7417b8909b9c053c30569f9f5283d93.wav"
+    },
+    {
+      "id": 15,
+      "text": "Có nơi gặp khủng hoảng sớm, có nơi tiếp tục phát triển. Thời kỳ Cổ điển thường được tính từ khoảng năm hai trăm năm mươi đến chín trăm sau Công nguyên. Về cuối thời kỳ ấy, nhiều trung tâm ở vùng đất thấp phía nam suy giảm mạnh.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\4e489221e785c79d349828a11fc587f15493adf2eba59af32361e494c3cff349.wav"
+    },
+    {
+      "id": 16,
+      "text": "Tốc độ và mức độ suy giảm cũng khác nhau giữa các nơi.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\315f23f2d81db009d9cae201dbd2b227aa753c8137622b93a0f31c174bee0bd7.wav"
+    },
+    {
+      "id": 17,
+      "text": "Người Maya có chữ viết, toán học và những hệ thống lịch phức tạp. Để dựng được các công trình lớn, họ cần kiến thức và rất nhiều sự phối hợp. Nhìn những thành tựu ấy, hẳn bạn cũng muốn hỏi: tại sao họ vẫn không vượt qua được?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\bf927fdaed0aa9dce7637a611914a41e422ba7d0c91a6377459cea7ba77aafa4.wav"
+    },
+    {
+      "id": 18,
+      "text": "Có lẽ vì ta đang kỳ vọng quá nhiều vào sự tài giỏi.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\e364b7722247610382035779f7a27bfc42633e8ae929ffc580a2d07f467d48e6.wav"
+    },
+    {
+      "id": 19,
+      "text": "Biết quan sát mùa mưa là một chuyện. Có đủ nước khi mùa mưa thất thường lại là chuyện khác.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\b5fb528ce2ec3086a60f121ef13f68df6e976d98f1c9f04d7dfec6e106d65396.wav"
+    },
+    {
+      "id": 20,
+      "text": "Kiến thức giúp họ ứng phó, nhưng không bảo đảm rằng mọi cách ứng phó đều đủ sức.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\e45bfdff0f6442bc730d5bf6b9a5d4239adaf063cf24f11ddb120d553425445c.wav"
+    },
+    {
+      "id": 21,
+      "text": "Cuộc sống còn phụ thuộc vào quan hệ giữa các thành bang. Họ kết liên minh, cạnh tranh, rồi cũng giao chiến. Những công trình lộng lẫy vừa cho thấy kỹ thuật, vừa thể hiện quyền lực của người cho xây chúng.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\688d6c11c91b46d7732284f19a1ec1799f804d97ab8aa8b680b30092fe13cb85.wav"
+    },
+    {
+      "id": 22,
+      "text": "Nhưng để hiểu vì sao người dân rời đi, ta cần nhìn xuống thấp hơn. Rời những đỉnh đền. Xuống nơi người ta lấy nước. Một tượng đài có thể chờ xây thêm vài năm.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\e58d0cc1a2c8cdb1e7ce7b0d17a0eb6c5ec373eac9cd50af068d7440522b44a2.wav"
+    },
+    {
+      "id": 23,
+      "text": "Nước uống thì không thể chờ lâu như vậy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\b0720c743b4475ad08cbab361bf99ae64f6348b443da54c58eecdc798fb25460.wav"
+    },
+    {
+      "id": 24,
+      "text": "Điểm dừng đầu tiên là Tikal, ở Guatemala ngày nay.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\0d7b9107b068fe14927ffd1dd01c7d8b4c15cfed6a5b3e91331b2afa84b7ffd8.wav"
+    },
+    {
+      "id": 25,
+      "text": "Giữ đủ nước qua mùa khô là một bài toán sống còn tại đây.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\48bcabce2ee7e64dab30a56c3f3aefce214674933adea696e3f9ec5c886373e7.wav"
+    },
+    {
+      "id": 26,
+      "text": "Nhìn rừng cây xanh um quanh Tikal, bạn có thể thấy hơi lạ.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\a34c8e2fa0d6ac0f349df97cd34f816386bab81b82feeca6ca89e918d1ca9d4b.wav"
+    },
+    {
+      "id": 27,
+      "text": "Nhiều cây thế, sao vẫn lo thiếu nước?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\1f2cc904261020845f26a0140e28060020debfa0132bb9268aff3a27f40b094c.wav"
+    },
+    {
+      "id": 28,
+      "text": "Vì rừng xanh không có nghĩa là lúc nào cũng tìm được nước uống ngay gần nhà.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\622d12db20129e9765b64aaa4615e492d4b02e6585811907233ce6ced1286ed9.wav"
+    },
+    {
+      "id": 29,
+      "text": "Ở đây có mùa khô rõ rệt. Nền đá vôi thấm nước cũng khiến việc tìm và giữ nước khó hơn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\a251fa14fe3ee5855f5d9588b0455eb84392c6c268defd487c8ce613ca33d41a.wav"
+    },
+    {
+      "id": 30,
+      "text": "Mưa có thể xuống rất nhiều vào một mùa, rồi lại thiếu đúng lúc người ta cần. Người Maya đã tìm cách giải quyết chuyện đó. Dấu tích ở Tikal cho thấy hồ chứa, đập và kênh được kết hợp để thu, giữ và điều tiết nước. Họ tận dụng cả địa hình để đưa nước vào hệ thống.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\28beacd59eeee6e7279fdea45c15c886ddf937d0552dca96681a2e301c017270.wav"
+    },
+    {
+      "id": 31,
+      "text": "Đó là công việc cần tính toán và tổ chức qua thời gian.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\34e298a2c8e46d4d8db2cb92c95301e89e6522872c9ce1f3387cadee8556d02b.wav"
+    },
+    {
+      "id": 32,
+      "text": "Ở hồ Corriental, các nhà nghiên cứu còn tìm thấy thạch anh và zeolit. Họ xem đây là bằng chứng về một hệ thống lọc bằng khoáng vật.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\17aa6a4305b921ffa55c965c9fd79d9d8c99c1cc9f447e5c6d6c9215f3d58ddf.wav"
+    },
+    {
+      "id": 33,
+      "text": "Vật liệu có thể đã được đưa về từ nguồn cách thành phố gần ba mươi kilômét.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\aa6aea78add759f8c1c525d59a805bf84c6da0b47f2f91218b0f65155ec423fa.wav"
+    },
+    {
+      "id": 34,
+      "text": "Chi tiết khiến tôi chú ý là khoảng cách ấy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\a99404c0039f528ad87ba64f104d74b2da87c5f0080cfa54f1d8a55306dbbdae.wav"
+    },
+    {
+      "id": 35,
+      "text": "Gần ba mươi kilômét, chỉ để có vật liệu phù hợp.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\55765500ccf1bc40563aa353ffe8b1e6821d158235f995d51e45319026008ce3.wav"
+    },
+    {
+      "id": 36,
+      "text": "Nếu cách giải thích này đúng, người xây hệ thống đã chủ động chọn và đưa chúng về đây.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\07db52ca611eda1efca39baebf658263a23fb939396fae73d3cc21fde3343888.wav"
+    },
+    {
+      "id": 37,
+      "text": "Đằng sau cái hồ là cả kiến thức lẫn công sức.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\f19acb0f66f5f0b998e6c7e9b1231a679988ffedf0c8ef8e3a8096e882bdad55.wav"
+    },
+    {
+      "id": 38,
+      "text": "Nhưng thử nghĩ đến một bồn nước đủ dùng trong mùa khô bình thường. Một năm ít mưa, bạn tiết kiệm. Năm sau vẫn thiếu, bạn tìm cách giữ nước tốt hơn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\475a6b7d0f781661e8dc587dfb6565a57b4103de7de4adc421bde73472d925ef.wav"
+    },
+    {
+      "id": 39,
+      "text": "Đến khi nước bổ sung quá ít, cái bồn dù tốt đến đâu cũng không tự đầy lại.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\1a6ff90900f7ed3338f2c3f078fc7e8575d2a322ba74e7a63e36bbc7631d18dc.wav"
+    },
+    {
+      "id": 40,
+      "text": "Hệ thống ở Tikal cũng có giới hạn. Điều từng đủ cho những mùa quen thuộc có thể trở nên thiếu trước biến động kéo dài. Hồ vẫn còn đó. Kênh dẫn có thể vẫn làm việc.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\7c5043074d08ac594948e02779204ef20f9deec439121be635f6c60503a1d2b0.wav"
+    },
+    {
+      "id": 41,
+      "text": "Chỉ là nước không còn đủ như trước.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\cdd8cfded27712756b60aa9d06291c48268b08d7d409b35b71c0bb700a583941.wav"
+    },
+    {
+      "id": 42,
+      "text": "Đến đây, hạn hán nghe có vẻ là một lời giải hợp lý. Nhưng có một chuyện khác cần xem, ngay trong phần nước còn lại.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\dda9251685c8ec38068970e6f1f59dfb2d62417beb6c2d89643c2bb5946d9f2f.wav"
+    },
+    {
+      "id": 43,
+      "text": "Liệu nước ấy có uống được không?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\2ab3d06c9979b84a1efcc8ee92735dcba4f9a13c40f6da520b438d9c4d612a79.wav"
+    },
+    {
+      "id": 44,
+      "text": "Hồ chưa cạn không có nghĩa là người dân đã yên tâm. Nhất là khi họ không có nhiều nguồn khác để lựa chọn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\f61d2cfc59cf8a184027ea20fc0d24b7573c9e750ed3d49c1393aa4730756580.wav"
+    },
+    {
+      "id": 45,
+      "text": "Nước có thể vẫn đầy trước mắt mà lại không an toàn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\0b8100b9dcb6ac726cb148b628e06bf85aaa2bb35918f66cd3b4495b28da5b79.wav"
+    },
+    {
+      "id": 46,
+      "text": "Dấu vết của vấn đề ấy được tìm thấy trong bùn dưới đáy hồ Tikal.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\f5cd269b95c64fdc0e8c49bd59def333fdbf996c379eb06f35c49306d09bdfa7.wav"
+    },
+    {
+      "id": 47,
+      "text": "Một nghiên cứu năm hai nghìn hai mươi đã phân tích các lớp trầm tích ở đây.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\b3cd77811a77265f1d34c00d02289f5d8df437abfaebbf467b8597cc3621f487.wav"
+    },
+    {
+      "id": 48,
+      "text": "Tại hai hồ lớn gần đền và cung điện, nhóm nghiên cứu thấy dấu hiệu ô nhiễm thủy ngân và vi khuẩn lam có khả năng sinh độc tố.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\5c72715100831aa2e2bebd2fc6ea059990498fb5f1ef9e532d6c19873978e5b3.wav"
+    },
+    {
+      "id": 49,
+      "text": "Thủy ngân có thể đến từ chu sa, khoáng vật màu đỏ từng được dùng làm sắc tố.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\7601b65a0e11113d879a32c7afb8844780421a44edd2520a6a82f0407171c116.wav"
+    },
+    {
+      "id": 50,
+      "text": "Vật liệu trang trí và nghi lễ có thể bị nước cuốn xuống hồ.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\a0658758467c2379c6da645a5b6464528dbcd388abba836c78302848f6febd63.wav"
+    },
+    {
+      "id": 51,
+      "text": "Thứ làm đền đài rực rỡ hơn, theo cách giải thích này, lại góp phần gây hại cho nguồn nước.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\9753c5a8918dc07e9d0aa31f4301384a8fbadc539e6d266606bd4a813b91ea74.wav"
+    },
+    {
+      "id": 52,
+      "text": "Bằng chứng ấy có phạm vi cụ thể.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\35781aa626ac866c874d510d0db05b88967e43d0df8eecc0e35751e1124a2d2c.wav"
+    },
+    {
+      "id": 53,
+      "text": "Ta chưa thể nói mọi hồ ở Tikal đều bị ô nhiễm như nhau.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\7285b28527d8ba14ac71dc4904badfa475c8f8ef637dac0bd552013255a5f154.wav"
+    },
+    {
+      "id": 54,
+      "text": "Cũng chưa thể kết luận người dân đã chết vì uống nước độc.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\ab305d44d17836aab5c73a838319868fb635e01b95c966f87ba205027ef57d3d.wav"
+    },
+    {
+      "id": 55,
+      "text": "Những dấu vết ấy cho thấy một số nguồn nước quan trọng đã bị đe dọa.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\efaa46578492580c114b445c33034145756b19291180df831fac3d47e306750d.wav"
+    },
+    {
+      "id": 56,
+      "text": "Và nếu đúng lúc ấy nước lại ít đi, người dân sẽ càng khó xoay xở.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\7220ceb2661cde9ce3ba975d9c5a1c908a6a9f14c23e45e1187233c7e39742f6.wav"
+    },
+    {
+      "id": 57,
+      "text": "Nguồn thay thế ít hơn. Nước còn lại cũng khó yên tâm hơn. Công sức xây cả một hồ lớn chưa chắc giúp ích đủ, vào đúng lúc thành phố cần nó nhất.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\845ae0899f61a2c9b0c4db70aade04aee06fd1159669f00f37c68dc2615bf59f.wav"
+    },
+    {
+      "id": 58,
+      "text": "Giả sử bạn phải đi tìm nước trong hoàn cảnh ấy. Chỗ gần nhất không ổn. Chỗ khác thì xa hơn. Đến nơi, lại có nhiều người cùng chờ lấy nước. Từ chuyện chất lượng nước, ta đã bước sang chuyện người dân phải chia sẻ nguồn còn lại thế nào.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\510a8296c3ddffabc2622180584f06fe90b5405b843e23dddd9e1f717e00ed84.wav"
+    },
+    {
+      "id": 59,
+      "text": "Ai được lấy trước? Ai phải đi xa? Ai lo duy trì hệ thống?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\d2543e378c857911e63a49a654ba7cacfd6b050f0f9be4f047f96b6c957d85b7.wav"
+    },
+    {
+      "id": 60,
+      "text": "Khi đủ dùng, người ta có thể dễ thỏa thuận hơn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\0f6e50c497b5fc01ff32f660e3f317846c9a087b36373c1f558cc1701761f34e.wav"
+    },
+    {
+      "id": 61,
+      "text": "Lúc thiếu, mỗi lựa chọn đều khó hơn một chút.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\b733d575de934ce08ce239ec15ce599bfe884dc33b37cc90217345b1860b461a.wav"
+    },
+    {
+      "id": 62,
+      "text": "Tình huống giả định ấy cho thấy nước có thể ảnh hưởng đến cả quan hệ trong cộng đồng.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\ce0ab407df55976d5a73cd70e5bc5f81b786dc173518dc993461008ddad8ccd7.wav"
+    },
+    {
+      "id": 63,
+      "text": "Còn hạn hán, rốt cuộc đã nghiêm trọng đến đâu?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\6c286411988ca8b56a2271d29e7a9631cd60d91055063f778e3ea200ad693eeb.wav"
+    },
+    {
+      "id": 64,
+      "text": "Muốn trả lời, các nhà khoa học phải tìm đến bùn hồ, tinh thể khoáng vật và măng đá. Những thứ ít gây chú ý ấy lại giữ được dấu vết của khí hậu từ rất lâu trước đây. Các dấu vết ấy được dùng để tái dựng điều kiện trong quá khứ.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\d2d7a1cf6660214031077c22577143849976c2cd1636bf6af7785815babbbaa0.wav"
+    },
+    {
+      "id": 65,
+      "text": "Chẳng hạn, thành phần đồng vị trong vật liệu ở hồ hay hang động có thể phản ánh điều kiện nước khi chúng hình thành.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\d42fce7cc2e7f0401e7d48fb2d40765fac14dff25a3d61fca9732b2b8c72dfb2.wav"
+    },
+    {
+      "id": 66,
+      "text": "Từ đó, người ta ước tính những thay đổi về khí hậu.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\29a1f5386216375148ebe9b62339b6c7289e3be84e48824c6e9b281b63dfe0ba.wav"
+    },
+    {
+      "id": 67,
+      "text": "Tại hồ Chichancanab ở Mexico, một nghiên cứu năm hai nghìn mười tám xét nước bị giữ trong tinh thể thạch cao.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\d2b1d7eecff03d5919806b06eca427c8977c9c29d2b99d41a318ec59ab2fdebe.wav"
+    },
+    {
+      "id": 68,
+      "text": "Kết quả ước tính lượng mưa giảm khoảng bốn mươi mốt đến năm mươi tư phần trăm trong các đợt hạn, có lúc còn mạnh hơn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\7db292a6992e55908df0f8f3ed0c38d56ed012d09c5e6b5cabe6e7766c6dd676.wav"
+    },
+    {
+      "id": 69,
+      "text": "Đó là ước tính cho khu vực được nghiên cứu.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\46987838780dc47fd0c62e565f43c344b78b573bfc459dae66c94edac321a709.wav"
+    },
+    {
+      "id": 70,
+      "text": "Những nơi khác có thể đã trải qua điều kiện khác. Dù vậy, mức giảm ấy gợi ra một sức ép rất lớn, chứ không chỉ là mùa nắng kéo dài thêm chút ít.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\40bf6adbafc1963eb046809bd51628d9a2479bf5391a20b5351ffca2a24ad08f.wav"
+    },
+    {
+      "id": 71,
+      "text": "Ở tây bắc Yucatán, một nghiên cứu năm hai nghìn hai mươi lăm dùng măng đá để tìm dấu vết những đợt hạn kéo dài nhiều năm.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\44507d249eed0d32b73e82e5c2d8201c6f567612a4d0ff2e1a9d3cf8ef5d2726.wav"
+    },
+    {
+      "id": 72,
+      "text": "Trong hồ sơ ấy, có một giai đoạn hạn kéo dài khoảng mười ba năm.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\2fac862116d95f6f03a466e0ba141d9b2f0f4e6d2dbf89517a190c140a5f52bd.wav"
+    },
+    {
+      "id": 73,
+      "text": "Mười ba năm.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\072b13bdd9204a11a264fdaccec0cfc8f5e9b59a5dec8ebcca34cd168690a589.wav"
+    },
+    {
+      "id": 74,
+      "text": "Điều đó không có nghĩa suốt thời gian ấy chẳng rơi một giọt mưa nào.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\dde82fc78e1daeff28107ac75433e2bb8d2437ff143ddfb60d69f9bf6f6fb2b8.wav"
+    },
+    {
+      "id": 75,
+      "text": "Nhưng theo cách nghiên cứu xác định, tình trạng hạn đã kéo dài qua hết mùa vụ này đến mùa vụ khác.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\5562d59d2cd131d024769d82cd50e922ce577cc571131dbcdcc9688b1933ba11.wav"
+    },
+    {
+      "id": 76,
+      "text": "Một đứa trẻ có thể lớn lên thành thiếu niên trong khoảng thời gian đó.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\55c569633e78b83699b3281f06af93c8534b793faac13088df24ec78d2a507ce.wav"
+    },
+    {
+      "id": 77,
+      "text": "Còn với người trồng trọt, mỗi năm là một lần phải tính lại.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\0896aeab5f2609af978fab69f3a190f8b6504add277aa66c3bcb10f97606d360.wav"
+    },
+    {
+      "id": 78,
+      "text": "Gieo bao nhiêu, giữ lại bao nhiêu, và nếu vụ này tiếp tục khó khăn thì làm sao? Đây cũng là chỗ thành tựu về lịch của người Maya dễ khiến ta kỳ vọng nhầm. Lịch giúp sắp xếp công việc theo những chu kỳ đã quan sát.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\005cafdcfa46dc5ac32cb88de44397d788ef0228391b6176000a9453ae0d5882.wav"
+    },
+    {
+      "id": 79,
+      "text": "Nhưng nếu thời tiết thay đổi kéo dài, những kinh nghiệm quen thuộc không còn bảo đảm kết quả như trước. Bạn có thể biết đã đến mùa gieo hạt mà vẫn phải đợi đất có đủ nước.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\7ece44e35c62ff2d45fc69b9f28e61dd704fe831f64295f91befde8d80a7ee7a.wav"
+    },
+    {
+      "id": 80,
+      "text": "Và chờ đợi cũng có cái giá của nó.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\abc4863b6ef039ef345e633478e5e079197cdb56adfa2cb5cc4b16c62cb4a02a.wav"
+    },
+    {
+      "id": 81,
+      "text": "Ta có thể hình dung sức ép ấy, dù không biết từng gia đình Maya đã ứng phó cụ thể ra sao.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\0559eab7b25f5345c02635c6e60c64b16b0d3c976b8873d6d90f53ad64aabafc.wav"
+    },
+    {
+      "id": 82,
+      "text": "Như vậy, bằng chứng khí hậu rất đáng chú ý. Tuy nhiên, để xem hạn hán giải thích được đến đâu, ta cần đi khỏi những nơi vừa khảo sát. Thử tìm một thành phố có diễn biến khác. Một nơi mà dân số giảm, nhưng dấu vết khí hậu lại không khớp như ta chờ đợi. Đó là trường hợp ở Itzan.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\4e3aa307045f149304ba382b7f9e67b8472b36c914f9f1bf9d830adaf61bf0a4.wav"
+    },
+    {
+      "id": 83,
+      "text": "Địa điểm này cũng nằm ở Guatemala ngày nay. Hồ sơ được phân tích tại đây không cho thấy dấu hiệu hạn hán địa phương như dự đoán.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\6e0d7e1befdec2f9be60e50b92846c329b6dbd4bb0b37fd5e21542bccf03cb89.wav"
+    },
+    {
+      "id": 84,
+      "text": "Vậy mà dân số vẫn giảm. Nếu chỉ nhìn lượng mưa, ta sẽ bỏ sót điều gì?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\20baf1ef2bb674e3d997f9d394abfc3f75510c043150ca4520ae38d41bc24d57.wav"
+    },
+    {
+      "id": 85,
+      "text": "Nghiên cứu về Itzan được công bố năm hai nghìn hai mươi lăm. Nhóm tác giả xem những dấu vết hóa học trong trầm tích hồ, gồm cả dấu vết từ sáp lá cây. Kết quả khiến việc quy sự suy giảm dân số cho hạn hán tại chỗ trở nên khó thuyết phục.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\626f6d84839f6ebdb9999143924a497eaef5d18ba3cef4a582831bad0a932664.wav"
+    },
+    {
+      "id": 86,
+      "text": "Điều này chưa đủ để nói Itzan chưa bao giờ thiếu nước. Hồ sơ ấy cũng có giới hạn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\a6265de9f12ae002ed18a30eb982f07c453cfa652b3f811312c901da2254adb1.wav"
+    },
+    {
+      "id": 87,
+      "text": "Nhưng ít nhất, với dữ liệu đang có, hạn hán địa phương không giải thích tốt những thay đổi dân số được quan sát.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\edb66b4745f2962a87dce9e3d4e626129da199c68033c7297a29649bba2b7e54.wav"
+    },
+    {
+      "id": 88,
+      "text": "Nhóm nghiên cứu vì thế xem xét thêm quan hệ xã hội, chính trị và sự gắn kết giữa Itzan với các vùng xung quanh. Hướng giải thích này cần được kiểm tra thêm.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\84a79ed0c550ae9595a7b2d7df21e680dcefd1c79447227063e8aab1b4e639c4.wav"
+    },
+    {
+      "id": 89,
+      "text": "Nó gợi rằng muốn hiểu chuyện trong một thành phố, đôi khi phải nhìn ra ngoài thành phố ấy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\2972e839455a9d7ecd0a8bff068fb84d9b285159cf62c2aa90728b2690cf2dea.wav"
+    },
+    {
+      "id": 90,
+      "text": "Hãy hình dung hai khu dân cư thường trao đổi hàng hóa với nhau.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\79cf5f848936aa4bcf1d3106b91132c8d8878ed1341229018d73b4a6eede4c9f.wav"
+    },
+    {
+      "id": 91,
+      "text": "Một bên vẫn có nước. Bên kia gặp khó khăn, đường đi bất ổn, người mang hàng đến ít dần.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\8d1a879278a6b1487cf0d7d985d6372a783ba5ae954a8a5c0b00b064ad543f8e.wav"
+    },
+    {
+      "id": 92,
+      "text": "Bên có nước cũng không thể hoàn toàn yên ổn. Đây là ví dụ giả định, nhưng nó giúp thấy một nơi có thể chịu ảnh hưởng từ nơi khác ra sao.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\9b9bcac000d4ebe502b6800bdc63e616c79315552122f10f8c3dd96f9af0426a.wav"
+    },
+    {
+      "id": 93,
+      "text": "Nước vẫn còn, trong khi cuộc sống đã khó hơn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\4bc59237b837197832bd34d202bc96034ef2d925f7206c8f1bbd1242352da046.wav"
+    },
+    {
+      "id": 94,
+      "text": "Người ta có thể quyết định rời đi trước khi cái hồ cuối cùng cạn đáy. Trường hợp Itzan không xóa đi các bằng chứng hạn hán ở những nơi khác. Nó khiến lời giải phải cụ thể hơn. Ở đâu, vào lúc nào, và thành phố ấy còn phụ thuộc vào những nơi nào nữa?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\4fa82120d40f4fd63b487e62f23cae83b82ce2f477777564a322abc7b92d9f41.wav"
+    },
+    {
+      "id": 95,
+      "text": "Có một thành phố khác để lại dấu vết rất khác: một đám cháy lớn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\3c2236c9dfd73814124eb76ddf66daa195d00ba71999f6864ab1f5b09fa7f6b5.wav"
+    },
+    {
+      "id": 96,
+      "text": "Đặc biệt hơn, dấu cháy ấy có thể đối chiếu với ghi chép về một cuộc tấn công. Lần này, dấu vết dưới đất và chữ khắc cùng gặp nhau. Đó là Witzna. Một nghiên cứu năm hai nghìn mười chín đối chiếu dữ liệu địa chất, khảo cổ và văn khắc.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\b43589ceb0c01b87d90d4d5589cab0db598e5b59256040c6a3754f8721ebb680.wav"
+    },
+    {
+      "id": 97,
+      "text": "Nhóm tác giả tìm thấy dấu tích của một đám cháy lớn vào cuối thế kỷ thứ bảy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\a9311b6c76c879b6e673bb9cd780f1e5de2d072f0e4c982143089b71c800cc4a.wav"
+    },
+    {
+      "id": 98,
+      "text": "Thời điểm ấy phù hợp với ghi chép về cuộc tấn công năm sáu trăm chín mươi bảy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\8e9dae72ce8679a23e97ea01e1e7735af4f79798a9134c05587b215d62907d8e.wav"
+    },
+    {
+      "id": 99,
+      "text": "Ghi chép nhắc đến Naranjo và việc đốt Witzna. Sau sự kiện ấy, dấu vết hoạt động của con người trong khu vực giảm mạnh. Ta có dấu cháy, có ghi chép về chiến tranh, và có dấu hiệu đời sống tại đây thay đổi sau sự kiện đó.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\1e9e86afb822a6868fd90a23f949d25cecda29b59b8773c06ed671680ddfbb73.wav"
+    },
+    {
+      "id": 100,
+      "text": "Hãy chú ý đến thời điểm.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\4b0131662090fe0a63be8d485f8d85ae557a90342d60a600c10198872b401a0b.wav"
+    },
+    {
+      "id": 101,
+      "text": "Cuộc tấn công xảy ra trước nhiều diễn biến thường gắn với khủng hoảng cuối thời Cổ điển, chứ không phải đến tận cuối mới có chiến tranh tàn phá.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\6de6f021ef3822fa6a2a6a00d506a04585a7706099ea920f0953bd75e939eb25.wav"
+    },
+    {
+      "id": 102,
+      "text": "Vì thế, khó có thể coi mọi bạo lực lớn đều là hậu quả xuất hiện sau hạn hán cực đoan.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\d778faf20abca288e69da838ad8c6f099bfaa5114a5c75294fbb10cf023b66ae.wav"
+    },
+    {
+      "id": 103,
+      "text": "Witzna chỉ là một trường hợp, không đại diện cho tất cả.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\2fbc1374c7dac9412d917cb366d7f7d8c611d9dff3676dfd9361c61d49b2ad62.wav"
+    },
+    {
+      "id": 104,
+      "text": "Nhưng trường hợp ấy cho thấy xung đột có thể làm cuộc sống ở một nơi thay đổi mạnh đến mức nào. Ngay cả những công trình còn dùng tốt cũng có thể bị con người phá hủy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\f729fd980f6d4247bc6f74c0a0a598a181a2a500469e41a56357eb2902a55771.wav"
+    },
+    {
+      "id": 105,
+      "text": "Và tác động của chiến tranh có thể kéo dài sau trận đánh.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\2b04c873cfb6c463cc3841640105a80edf99f364613c2336ce9f3bb23c4d9cde.wav"
+    },
+    {
+      "id": 106,
+      "text": "Thử nghĩ đến việc duy trì cuộc sống khi đường đi trở nên nguy hiểm. Người làm việc bị gián đoạn, trao đổi hàng hóa khó hơn, những thỏa thuận cũ có thể không còn giữ được. Lúc ấy, thiếu nước và xung đột có thể cùng tạo sức ép.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\cf4b5ee7dba25a78655e7ca5aee9181048df7de9c2ce5ba3c16395cf4f7b1c05.wav"
+    },
+    {
+      "id": 107,
+      "text": "Không nhất thiết phải chọn một nguyên nhân rồi gạt hết những nguyên nhân còn lại. Ta cần hiểu chúng đã gặp nhau ra sao, và vì sao người dân ngày càng ít cách xoay xở. Bởi thành phố lớn luôn cần người chăm sóc nó. Hồ phải được duy trì. Công việc phải có người phối hợp.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\3dd28331401f2bc9e54b8cf7597443f55f98c7eab38c390772732ee2394917b3.wav"
+    },
+    {
+      "id": 108,
+      "text": "Nếu những mối liên hệ ấy đứt đoạn, công trình còn nguyên cũng chưa chắc tiếp tục phục vụ được như trước. Bạn có thể nhìn thấy một bức tường rất chắc, nhưng không thấy những cuộc thương lượng đã thất bại.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\a762776d9af2100b6cd6774d9fef33fd3986baced1d258c09674070b435abf89.wav"
+    },
+    {
+      "id": 109,
+      "text": "Vật liệu còn đó. Sự đồng thuận thì khó đào lên hơn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\acd907b415281f4d3976927e560dca0178b5212716b989a9f281e1b10d117798.wav"
+    },
+    {
+      "id": 110,
+      "text": "Ngay cả khi còn chữ khắc, ta cũng chưa nghe được câu chuyện của tất cả mọi người.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\2037505fcb24806db01196acc6ffea458416294e871159aae285fbf4259e96b7.wav"
+    },
+    {
+      "id": 111,
+      "text": "Một triều đại ngừng dựng bia, ngừng ghi chiến công. Có phải cả thành phố đã hết người?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\a9d5b48c84461afe19b54abc0d2318120f9f25bc7b6687905a101a58d9858dfa.wav"
+    },
+    {
+      "id": 112,
+      "text": "Chưa chắc. Một nghiên cứu năm hai nghìn hai mươi sáu nhấn mạnh sự khác biệt giữa lúc quyền lực đổ vỡ và quá trình đô thị suy giảm sau đó.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\edf5873e600e87540d0ed006a401a797095b6e96c68b2532e2c317cefe9fa81e.wav"
+    },
+    {
+      "id": 113,
+      "text": "Hai việc ấy có thể không diễn ra cùng lúc.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\e3fc2c4fb97f10693fc10cd7145dbf68785d2366d73b779d9ae97fb5b8421e58.wav"
+    },
+    {
+      "id": 114,
+      "text": "Hình ảnh vua ngã xuống rồi mọi nhà lập tức đóng cửa thì dễ kể, nhưng quá gọn. Cuộc sống trong thành phố có thể đổi khác, thu hẹp dần, hoặc tiếp tục sau khi trật tự chính trị cũ đã mất.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\7642777216d2d4d135d83ec9f944d71bec086425419d817ab9ee1af6dc9b5abd.wav"
+    },
+    {
+      "id": 115,
+      "text": "Vả lại, tư liệu còn lại thường cho giới quyền lực nhiều tiếng nói hơn người bình thường.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\75bda137ab933699029bc4bcd8f80ce88bbe9b35545b4ab836d66d05e7f75c81.wav"
+    },
+    {
+      "id": 116,
+      "text": "Người ra lệnh dựng công trình, khắc chiến công lên đá có nhiều cơ hội được hậu thế biết đến. Người làm ruộng, chăm con, đổi hàng thì đâu phải ai cũng có một tấm bia riêng.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\f93280c9b9c7c4db5d184e49082cefa1ef60bc55706e142541cd97d99dee9753.wav"
+    },
+    {
+      "id": 117,
+      "text": "Nếu chỉ nghe phía cung điện, lúc cung điện im tiếng, ta dễ tưởng cả thế giới câm lặng.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\82aa9b28f72a158a93f950c407a10bdf1ca28c74e192e72a0d620c9dea38da23.wav"
+    },
+    {
+      "id": 118,
+      "text": "Nhưng đời sống còn diễn ra ở bên ngoài. Muốn biết người dân đi đâu, sống tiếp thế nào, cần tìm những bằng chứng khác nữa.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\d7326a1212825a036449e91611885b374cbb764635bf89ea54ac7a79c5d75d07.wav"
+    },
+    {
+      "id": 119,
+      "text": "Một gia đình rời thành phố có thể báo hiệu đô thị đang suy yếu.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\855877038dccc00846305ad96fb91d7f77d21f287b367701836534807ad8341e.wav"
+    },
+    {
+      "id": 120,
+      "text": "Với chính gia đình ấy, đó lại có thể là cách bảo vệ những người thân của mình.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\01eb0d38112b19c002ad813a173e7e2f1df43ca187fb7f4ef28d44be6db0d9ef.wav"
+    },
+    {
+      "id": 121,
+      "text": "Cùng một cuộc ra đi, nhìn từ hai phía sẽ thấy những điều khác nhau. Dĩ nhiên, rời đi không bảo đảm họ sẽ sống tốt hơn. Khủng hoảng có những tổn thất thật. Có người có thể tìm được chỗ sống mới, có người gặp thêm hiểm nguy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\aea5dec9498c39cafa0424828a347360f1b96dbea75ed958dbf8ca888e58ebbd.wav"
+    },
+    {
+      "id": 122,
+      "text": "Ta chưa biết hết số phận của họ, nên không thể lấy một nơi vắng người để kết luận cả dân tộc đã biến mất.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\4d357c241157aa130cca3965ad67d97110c8f3a6604a227abcd991e62cd3fcb4.wav"
+    },
+    {
+      "id": 123,
+      "text": "Để thấy câu chuyện còn tiếp tục, hãy rời các thành phố phía nam một lúc. Nhìn sang những khu vực vẫn phát triển.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\d33a27963b508839d664ae4bc18afe5903426d08eac89a1356a9feacec31a8b8.wav"
+    },
+    {
+      "id": 124,
+      "text": "Khi một số trung tâm suy tàn, đời sống Maya ở những nơi khác vẫn diễn ra.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\ca2476335ce31ffbeb1646548adad02ff70463e6dd1bd48de1f121bb30304f6d.wav"
+    },
+    {
+      "id": 125,
+      "text": "Năm chín trăm chưa phải dấu chấm hết.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\8f95fc8e1f6923219f35032c49bb5579d1386182a6e1fa0aa26d6bd36e6b85a2.wav"
+    },
+    {
+      "id": 126,
+      "text": "Sau giai đoạn khủng hoảng của nhiều thành bang phía nam, thế giới Maya còn những trung tâm quyền lực khác. Nếu dừng ở các phế tích nổi tiếng, ta sẽ bỏ lỡ cả phần lịch sử dài phía sau. Ở phía bắc, Chichén Itzá trở thành một trung tâm quan trọng.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\353c91dfdbff75e122a635bf9b53c9c7d84290b1e64de8e876809e0dd5ed75a1.wav"
+    },
+    {
+      "id": 127,
+      "text": "Sau đó, Mayapán giữ vai trò lớn tại Yucatán. Các cộng đồng vùng cao, ven biển và những khu vực khác cũng có lịch sử riêng. Họ tiếp tục sống, thay đổi và xây dựng những mối quan hệ mới.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\2366ebe2794eec7f601df8a032e451130af6e2243610bf56cf092ef586baeedd.wav"
+    },
+    {
+      "id": 128,
+      "text": "Từ khoảng thế kỷ mười ba đến giữa thế kỷ mười lăm, Mayapán là một trung tâm lớn về chính trị, kinh tế và tôn giáo.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\c55f832c680653af2d41721d0c6e63e9bdca9038f65ac76532c14c4d110e73f1.wav"
+    },
+    {
+      "id": 129,
+      "text": "Hãy để ý khoảng cách ấy: nhiều thế kỷ sau mốc suy tàn thường được nhắc, một trung tâm Maya vẫn giữ vai trò lớn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\c2c30b357e3936db8c83f8436bcf39c908e81928a0852f38b9af8fb86233b831.wav"
+    },
+    {
+      "id": 130,
+      "text": "Mayapán rồi cũng gặp khủng hoảng. Các nghiên cứu kết hợp khảo cổ, khí hậu và nguồn lịch sử cho thấy hạn hán có thể đã làm xung đột nội bộ nghiêm trọng hơn. Ở đây, sức ép môi trường được xem xét cùng với cách xã hội tổ chức và ứng phó.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\b4b2ae68a2fe9af0ac97add83bbceb72006d9f5330b2bb1bdfc74a2c347b3387.wav"
+    },
+    {
+      "id": 131,
+      "text": "Nhưng Mayapán thế kỷ mười lăm và Tikal nhiều thế kỷ trước là những câu chuyện riêng.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\4fe565dcb4d9f0b3a967551184ea15961ddb7543f4756c8e02933d768a705ae8.wav"
+    },
+    {
+      "id": 132,
+      "text": "Ta cần giữ rõ khoảng cách thời gian ấy. Điểm giống nhau giúp đặt câu hỏi, chứ chưa đủ để khẳng định cùng một nguyên nhân.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\86d878b5e9ff5b05473eff57742a3c805fe4358979f71f46db0b263ba47225b0.wav"
+    },
+    {
+      "id": 133,
+      "text": "Đến khi người Tây Ban Nha chinh phục khu vực, các cộng đồng và nhà nước Maya vẫn đang tồn tại. Chiến tranh, dịch bệnh và áp bức thuộc địa gây thêm những tổn thất lớn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\b0eac5de175fd7f5181acd75d1b6af20b8b02acee89c3819c558bd01547474a9.wav"
+    },
+    {
+      "id": 134,
+      "text": "Đó là một chương lịch sử khác, muộn hơn khủng hoảng đô thị nhiều thế kỷ.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\d71eaefe633c61d18031d283fe452c01e1af37e5c2402a76f7786921aabc2571.wav"
+    },
+    {
+      "id": 135,
+      "text": "Mốc một nghìn sáu trăm chín mươi bảy thường được nhắc đến khi người Tây Ban Nha đánh bại những nhà nước Maya độc lập cuối cùng.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\c88fbadee43f34c623d87e8ab146f1fec6142696af0c8c61f2f8ae8cc5f662f2.wav"
+    },
+    {
+      "id": 136,
+      "text": "Khoảng cách rất xa với năm chín trăm ấy cho thấy ta không thể gom mọi biến động vào một lần sụp đổ.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\3fd09b677a7be2886ff239ac7af45b4e6613febb41ba6cfe2281fe59bd959443.wav"
+    },
+    {
+      "id": 137,
+      "text": "Ngày nay vẫn có hàng triệu người Maya.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\d5cf3aa8aa717385997cf8557d1c97ff4e1e4fd67b28891a88a6ba8adb64463a.wav"
+    },
+    {
+      "id": 138,
+      "text": "Họ có ngôn ngữ, văn hóa và cuộc sống hiện tại của mình.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\cc357b7e3c929660a0f18ea1fe2c78dbac37c2e9107c86937396023fbe8ff08c.wav"
+    },
+    {
+      "id": 139,
+      "text": "Khi nói về Maya, ta đang nói cả về những cộng đồng đang sống, không chỉ người xưa trong phế tích.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\ea4933a0c29087246e25ab881d35ea55a6882417dcd8479b4d6ac172e4b22b02.wav"
+    },
+    {
+      "id": 140,
+      "text": "Những ngôi đền nổi tiếng chỉ kể được một phần câu chuyện ấy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\82c45494420bb0c88830b420bc5151699ca4aea541bd3ab5a78f591f5b352e81.wav"
+    },
+    {
+      "id": 141,
+      "text": "Nếu đứng trước một ngôi đền bỏ lại, có lẽ câu đầu tiên bạn hỏi vẫn là: người đâu hết rồi? Giờ thử đổi câu hỏi một chút.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\c83eb2b96246c4be0675a4de068cf101e30a893f80e152d6b06047872f6a4fab.wav"
+    },
+    {
+      "id": 142,
+      "text": "Những người từng sống ở đây đã thay đổi cuộc sống của họ như thế nào?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\9841b017d72fabed278384f69689ab4c1ce479ea399f5ea13b0935fd26bede1a.wav"
+    },
+    {
+      "id": 143,
+      "text": "Câu hỏi ấy đưa ta ra khỏi công trình, đi theo con người.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\2b3024f2009ae37a039702bb7bb017d7abfcf0790d62cd08deb3e8bb8325d950.wav"
+    },
+    {
+      "id": 144,
+      "text": "Ta vẫn còn nhiều điều chưa biết về cuộc sống bên ngoài những công trình ấy. Đó là điều Mỏ Đen muốn giữ lại khi kể câu chuyện này.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\8326314402368b98c6ceb708fc6b1083ad0e1d8e05b1fdf4e8e770be10545890.wav"
+    },
+    {
+      "id": 145,
+      "text": "Cách nhìn ấy cũng giúp gỡ một hiểu nhầm khác về Maya. Bạn còn nhớ lời đồn tận thế năm hai nghìn mười hai chứ? Smithsonian từng có tài liệu giải thích lịch Maya và bác bỏ cách diễn giải tận thế ấy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\21540c52b8cc2aafdec6125e00fa599e95afbd3b54d37e77fc4e05910e88f4cb.wav"
+    },
+    {
+      "id": 146,
+      "text": "Một chu kỳ lịch kết thúc không có nghĩa thế giới kết thúc.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\bb5a99ee8e295430525e9a086a0cdefcb35e316bffd6b467f5e536c3490994f8.wav"
+    },
+    {
+      "id": 147,
+      "text": "Giống như lịch bàn hết tờ tháng mười hai: ta sang năm mới.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\3da6fb9790a8a4dbc1efd91169df1472f0f728eb8bbe96750819f7c7fc7f29d6.wav"
+    },
+    {
+      "id": 148,
+      "text": "Chẳng ai cần gọi thợ đến tháo hành tinh.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\3fcddbf1829a8ed6906525720db99776add0bbc1106b7b9162a7cff5df4e8c03.wav"
+    },
+    {
+      "id": 149,
+      "text": "Câu đùa nghe vô lý, nhưng lời đồn ấy cho thấy ta dễ gán chuyện bí ẩn vào điều chưa hiểu ra sao.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\abd39c94976c146ac68506dd24368026b0b9a0152e2219fde8b951b03bcdf05b.wav"
+    },
+    {
+      "id": 150,
+      "text": "Với sự suy tàn của các thành phố cũng vậy. Một lời giải duy nhất thì dễ nhớ, nhưng khó chứa hết những gì vừa thấy. Tikal gợi ra sức ép về nước. Witzna cho thấy tàn phá của chiến tranh. Itzan khiến ta nhìn rộng hơn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\e9b9b3816d60609e56e635e5c43731b757b3bc13198482c0ba1e3a07c0c0b80a.wav"
+    },
+    {
+      "id": 151,
+      "text": "Mỗi nơi bổ sung một phần còn thiếu.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\338f161880ab345849976fbc1ed79c14fbc254554bb6437ee3d5a550b66f570b.wav"
+    },
+    {
+      "id": 152,
+      "text": "Để một thành phố tiếp tục sống, người dân cần nhiều thứ cùng hoạt động: nước, thức ăn, trao đổi, an toàn và sự hợp tác. Khi một thứ gặp khó, họ có thể dựa vào những thứ khác.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\fb9cafc25673f09e5f43f4d57cf9c97ed77d306a8b611c06f8c6efda5f43dfd9.wav"
+    },
+    {
+      "id": 153,
+      "text": "Nhưng nếu nhiều thứ cùng suy yếu, lựa chọn cứ ít dần.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\ec464ed673a395214fe5368afb3032095a196ecdf8725d85e7372ca861a12ed6.wav"
+    },
+    {
+      "id": 154,
+      "text": "Điều khiến tôi nghĩ mãi là người sống lúc ấy có nhận ra bước ngoặt hay không. Hay với họ, đó chỉ là thêm một mùa khó khăn mà gia đình phải cố vượt qua? Sử sách nhìn được cả một quãng dài. Người trong cuộc thì không biết trước chuyện gì sẽ đến.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\dbdd889d06eb81d286001a4189865afc11829e1d1aed782dfa3137d6eae53761.wav"
+    },
+    {
+      "id": 155,
+      "text": "Chúng ta nhìn lại và gọi cả chuỗi ấy là sự sụp đổ.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\1b32a18956a9cf05a4808bc78e6b4146a4f8b04d398e5cf194e1fc1d882ffcd6.wav"
+    },
+    {
+      "id": 156,
+      "text": "Người sống trong chuỗi ấy phải giải quyết từng ngày.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\72b336c285de8f5792502fba8c504c72c45d021faa9e9a4ae1c0adbd8bbf8553.wav"
+    },
+    {
+      "id": 157,
+      "text": "Có lẽ vì thế mà câu hỏi ở đầu video vẫn rất gần gũi.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\adb01b598fc655a8f246630082f5fa67963f261d1bcf34e0732f939ab1c12889.wav"
+    },
+    {
+      "id": 158,
+      "text": "Nếu là bạn, đến khi nào bạn sẽ quyết định rời đi?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\6fd8361af1471d310c808509b5a346c36e9517be87e6c383ede4d226d9fac6ed.wav"
+    },
+    {
+      "id": 159,
+      "text": "Trong tình huống giả định ấy, ở lại là giữ lấy nhà cửa, người quen và tất cả những gì đã gây dựng.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\a2c294c4bd16f47ffda9dc255f3571b2b6c0701b5419a4a0f520489499514691.wav"
+    },
+    {
+      "id": 160,
+      "text": "Rời đi là chấp nhận bỏ lại nhiều thứ, với hy vọng cuộc sống ở nơi khác sẽ dễ chịu hơn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\f053d81d4bd71f5710e3c420f3e6517c96f2a4edc6c369fc2558dbf5ae1d5d26.wav"
+    },
+    {
+      "id": 161,
+      "text": "Ta không biết từng gia đình Maya đã cân nhắc thế nào. Nhưng lựa chọn ấy đáng được nhìn thấy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\2ef903b909e776a7de5da923227b8ce5e65c59e50204ec38bcf3012da4feb877.wav"
+    },
+    {
+      "id": 162,
+      "text": "Một thành phố biết lọc nước vẫn có thể mất người ở, vì nước chỉ là một phần của cuộc sống.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\67a1014b43d369870b28edfd551619ce478e552841983f3ee99e11003e90bac2.wav"
+    },
+    {
+      "id": 163,
+      "text": "Còn an toàn, thức ăn, quan hệ với xung quanh và khả năng cùng nhau vượt qua khó khăn. Công trình tốt không thể tự giữ tất cả những điều đó.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\78c05a51f36f5c14c273b4ed435cf4ee9a593f76541e9a5dbe20657b886a3d7b.wav"
+    },
+    {
+      "id": 164,
+      "text": "Và khi người dân rời đi, lịch sử cũng đi tiếp cùng họ.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\994ba762d8c46db390a255a390709a7c221c81ff8f489ddac35bf44689efaaef.wav"
+    },
+    {
+      "id": 165,
+      "text": "Tôi muốn khép câu chuyện ở hình ảnh ấy. Đền đài ở lại giữa rừng. Còn người Maya vẫn sống, qua những biến động và mất mát.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\f6ab94f63fc957a732e664c39211775e3ecf1a9ec709c00da10988d0e4f6e1b3.wav"
+    },
+    {
+      "id": 166,
+      "text": "Câu chuyện của họ chưa kết thúc.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\f1d9279578505086b5f62602029286feeec15fd3af03cb19a1d3d8b2a71a54ca.wav"
+    },
+    {
+      "id": 167,
+      "text": "Chi tiết nào khiến bạn nghĩ khác về Maya: hệ thống lọc nước, thành phố bị đốt, hay Itzan, nơi dân số giảm mà hồ sơ không cho thấy hạn hán tại chỗ?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\ea4e60f8a582b56596d641891b46451b89e2841f8c7f2ad3e1dff707fde6db69.wav"
+    },
+    {
+      "id": 168,
+      "text": "Kể cho Mỏ Đen nghe ở phần bình luận nhé. Tôi muốn biết điều gì khiến bạn chú ý nhất. Nếu muốn cùng tìm hiểu thêm những câu chuyện lịch sử qua các dấu vết còn lại, bạn có thể đăng ký kênh Mỏ Đen. Tập tới, chúng ta thử đặt những nhân vật quen thuộc lên cùng một trục thời gian.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\f0c4c61854a483ca5ef0168d1cb2d2d6dd7b156636155627f6dab0673cb89ffe.wav"
+    },
+    {
+      "id": 169,
+      "text": "Có những người tưởng cách nhau cả một thời đại, nhưng hóa ra lại sống gần thời nhau đến bất ngờ.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\raw\\b08a5f94cbc1e2ac5f3a4c9cd75ec89d1dc126a021aea173c7b40881789ceb73.wav"
+    }
+  ]
+}

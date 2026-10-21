@@ -1,0 +1,4999 @@
+[
+  {
+    "beat_id": "beat_01",
+    "source_cue_ids": [
+      1,
+      2,
+      3
+    ],
+    "text": "Giữa rừng nhiệt đới, những ngôi đền vẫn đứng đó. Người xây chúng biết quan sát bầu trời, trữ nước, thậm chí dùng khoáng vật để lọc nước uống. Vậy mà rồi, nhiều người vẫn phải rời thành phố.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vì sao",
+        "người Maya không biến mất"
+      ],
+      "direction": "Câu hỏi ở cue 4 chân thành; cue 5 rõ ràng, không giật gân. Giới thiệu Mỏ Đen gần gũi."
+    }
+  },
+  {
+    "beat_id": "beat_01",
+    "source_cue_ids": [
+      4
+    ],
+    "text": "Nếu đã làm được từng ấy việc, vì sao họ không thể tiếp tục sống ở đây?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "vì sao"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vì sao",
+        "người Maya không biến mất"
+      ],
+      "direction": "Câu hỏi ở cue 4 chân thành; cue 5 rõ ràng, không giật gân. Giới thiệu Mỏ Đen gần gũi."
+    }
+  },
+  {
+    "beat_id": "beat_01",
+    "source_cue_ids": [
+      5
+    ],
+    "text": "Có một điều cần làm rõ ngay: người Maya không biến mất. Họ vẫn sống đến hôm nay.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "người Maya không biến mất"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vì sao",
+        "người Maya không biến mất"
+      ],
+      "direction": "Câu hỏi ở cue 4 chân thành; cue 5 rõ ràng, không giật gân. Giới thiệu Mỏ Đen gần gũi."
+    }
+  },
+  {
+    "beat_id": "beat_01",
+    "source_cue_ids": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "text": "Nhiều thành phố suy tàn. Những triều đại mất quyền lực. Nhưng chuyện gì đã đẩy cuộc sống ở đó đến chỗ khó giữ được như trước? Tôi là Mỏ Đen. Hôm nay, chúng ta mở lại hồ sơ Maya. Bắt đầu từ những dấu vết còn lại dưới đất, dưới nước và trên đá.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vì sao",
+        "người Maya không biến mất"
+      ],
+      "direction": "Câu hỏi ở cue 4 chân thành; cue 5 rõ ràng, không giật gân. Giới thiệu Mỏ Đen gần gũi."
+    }
+  },
+  {
+    "beat_id": "beat_01",
+    "source_cue_ids": [
+      10,
+      11
+    ],
+    "text": "Một thành phố từng cháy. Những hồ nước bị ô nhiễm. Và một nơi khiến lời giải về hạn hán trở nên khó nói hơn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 450,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vì sao",
+        "người Maya không biến mất"
+      ],
+      "direction": "Câu hỏi ở cue 4 chân thành; cue 5 rõ ràng, không giật gân. Giới thiệu Mỏ Đen gần gũi."
+    }
+  },
+  {
+    "beat_id": "beat_02",
+    "source_cue_ids": [
+      12,
+      13,
+      14
+    ],
+    "text": "Trước hết, thử hình dung chuyện này xảy ra ở khu bạn sống. Nhà vẫn còn tốt, đường vẫn đi được. Nhưng nước bắt đầu thiếu. Bạn cố xoay xở. Rồi thực phẩm cũng khó kiếm hơn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Gần gũi, hơi trăn trở",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "tính chuyện dọn nhà",
+        "từng ngày"
+      ],
+      "direction": "Cue 18 có chút hóm hỉnh kín đáo, không bật cười; cue 19–21 trở về giọng suy nghĩ."
+    }
+  },
+  {
+    "beat_id": "beat_02",
+    "source_cue_ids": [
+      15
+    ],
+    "text": "Người quen lần lượt chuyển đi. Đến lúc nào bạn cũng tính chuyện dọn nhà?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "tính chuyện dọn nhà"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Gần gũi, hơi trăn trở",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "tính chuyện dọn nhà",
+        "từng ngày"
+      ],
+      "direction": "Cue 18 có chút hóm hỉnh kín đáo, không bật cười; cue 19–21 trở về giọng suy nghĩ."
+    }
+  },
+  {
+    "beat_id": "beat_02",
+    "source_cue_ids": [
+      16,
+      17,
+      18
+    ],
+    "text": "Đó chỉ là một tình huống giả định. Nhưng nó giúp ta hình dung sự suy tàn từ phía những người phải sống trong đó. Chẳng ai họp cả thành phố để thông báo: từ ngày mai, chúng ta chính thức trở thành di tích.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 250,
+      "source": "pause_event",
+      "reason": "Nghỉ nhẹ sau câu đùa, không thêm tiếng cười.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Gần gũi, hơi trăn trở",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "tính chuyện dọn nhà",
+        "từng ngày"
+      ],
+      "direction": "Cue 18 có chút hóm hỉnh kín đáo, không bật cười; cue 19–21 trở về giọng suy nghĩ."
+    }
+  },
+  {
+    "beat_id": "beat_02",
+    "source_cue_ids": [
+      19
+    ],
+    "text": "Mỗi gia đình có thể đứng trước một lựa chọn khác nhau.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Gần gũi, hơi trăn trở",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "tính chuyện dọn nhà",
+        "từng ngày"
+      ],
+      "direction": "Cue 18 có chút hóm hỉnh kín đáo, không bật cười; cue 19–21 trở về giọng suy nghĩ."
+    }
+  },
+  {
+    "beat_id": "beat_02",
+    "source_cue_ids": [
+      20
+    ],
+    "text": "Khi nhìn lại, ta thấy cả một thành phố vắng người. Còn lúc ấy, họ phải tính từng ngày.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "từng ngày"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Gần gũi, hơi trăn trở",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "tính chuyện dọn nhà",
+        "từng ngày"
+      ],
+      "direction": "Cue 18 có chút hóm hỉnh kín đáo, không bật cười; cue 19–21 trở về giọng suy nghĩ."
+    }
+  },
+  {
+    "beat_id": "beat_02",
+    "source_cue_ids": [
+      21
+    ],
+    "text": "Đền đài ở lại rất lâu. Vì thế, chúng dễ chiếm hết sự chú ý của chúng ta.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 450,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Gần gũi, hơi trăn trở",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "tính chuyện dọn nhà",
+        "từng ngày"
+      ],
+      "direction": "Cue 18 có chút hóm hỉnh kín đáo, không bật cười; cue 19–21 trở về giọng suy nghĩ."
+    }
+  },
+  {
+    "beat_id": "beat_03",
+    "source_cue_ids": [
+      22
+    ],
+    "text": "Thế giới Maya trải rộng trên một phần miền nam Mexico và Trung Mỹ ngày nay.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng rõ, thân thiện",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "không có một thủ đô duy nhất",
+        "khác nhau"
+      ],
+      "direction": "Đọc mốc thời gian thành một cụm dễ hiểu; không nhấn mọi địa danh."
+    }
+  },
+  {
+    "beat_id": "beat_03",
+    "source_cue_ids": [
+      23
+    ],
+    "text": "Nơi đó không có một thủ đô duy nhất.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "không có một thủ đô duy nhất"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng rõ, thân thiện",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "không có một thủ đô duy nhất",
+        "khác nhau"
+      ],
+      "direction": "Đọc mốc thời gian thành một cụm dễ hiểu; không nhấn mọi địa danh."
+    }
+  },
+  {
+    "beat_id": "beat_03",
+    "source_cue_ids": [
+      24,
+      25,
+      26
+    ],
+    "text": "Trong thời kỳ Cổ điển, nhiều thành bang cùng tồn tại, mỗi nơi có triều đại và quan hệ riêng. Bạn cứ hình dung nhiều trung tâm quyền lực, chứ không phải một ông vua cai quản tất cả. Bởi vậy, sẽ không có một ngày mà cả thế giới Maya cùng sụp đổ.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng rõ, thân thiện",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "không có một thủ đô duy nhất",
+        "khác nhau"
+      ],
+      "direction": "Đọc mốc thời gian thành một cụm dễ hiểu; không nhấn mọi địa danh."
+    }
+  },
+  {
+    "beat_id": "beat_03",
+    "source_cue_ids": [
+      27,
+      28,
+      29
+    ],
+    "text": "Có nơi gặp khủng hoảng sớm, có nơi tiếp tục phát triển. Thời kỳ Cổ điển thường được tính từ khoảng năm hai trăm năm mươi đến chín trăm sau Công nguyên. Về cuối thời kỳ ấy, nhiều trung tâm ở vùng đất thấp phía nam suy giảm mạnh.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng rõ, thân thiện",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "không có một thủ đô duy nhất",
+        "khác nhau"
+      ],
+      "direction": "Đọc mốc thời gian thành một cụm dễ hiểu; không nhấn mọi địa danh."
+    }
+  },
+  {
+    "beat_id": "beat_03",
+    "source_cue_ids": [
+      30
+    ],
+    "text": "Tốc độ và mức độ suy giảm cũng khác nhau giữa các nơi.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "khác nhau"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng rõ, thân thiện",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "không có một thủ đô duy nhất",
+        "khác nhau"
+      ],
+      "direction": "Đọc mốc thời gian thành một cụm dễ hiểu; không nhấn mọi địa danh."
+    }
+  },
+  {
+    "beat_id": "beat_04",
+    "source_cue_ids": [
+      31,
+      32,
+      33
+    ],
+    "text": "Người Maya có chữ viết, toán học và những hệ thống lịch phức tạp. Để dựng được các công trình lớn, họ cần kiến thức và rất nhiều sự phối hợp. Nhìn những thành tựu ấy, hẳn bạn cũng muốn hỏi: tại sao họ vẫn không vượt qua được?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tôn trọng, suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sự tài giỏi",
+        "đủ sức"
+      ],
+      "direction": "Cue 35–36 là hai vế liên hệ; cue 39 đọc như kể sự việc, không lên giọng liệt kê."
+    }
+  },
+  {
+    "beat_id": "beat_04",
+    "source_cue_ids": [
+      34
+    ],
+    "text": "Có lẽ vì ta đang kỳ vọng quá nhiều vào sự tài giỏi.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "sự tài giỏi"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tôn trọng, suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sự tài giỏi",
+        "đủ sức"
+      ],
+      "direction": "Cue 35–36 là hai vế liên hệ; cue 39 đọc như kể sự việc, không lên giọng liệt kê."
+    }
+  },
+  {
+    "beat_id": "beat_04",
+    "source_cue_ids": [
+      35,
+      36
+    ],
+    "text": "Biết quan sát mùa mưa là một chuyện. Có đủ nước khi mùa mưa thất thường lại là chuyện khác.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tôn trọng, suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sự tài giỏi",
+        "đủ sức"
+      ],
+      "direction": "Cue 35–36 là hai vế liên hệ; cue 39 đọc như kể sự việc, không lên giọng liệt kê."
+    }
+  },
+  {
+    "beat_id": "beat_04",
+    "source_cue_ids": [
+      37
+    ],
+    "text": "Kiến thức giúp họ ứng phó, nhưng không bảo đảm rằng mọi cách ứng phó đều đủ sức.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "đủ sức"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tôn trọng, suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sự tài giỏi",
+        "đủ sức"
+      ],
+      "direction": "Cue 35–36 là hai vế liên hệ; cue 39 đọc như kể sự việc, không lên giọng liệt kê."
+    }
+  },
+  {
+    "beat_id": "beat_04",
+    "source_cue_ids": [
+      38,
+      39,
+      40
+    ],
+    "text": "Cuộc sống còn phụ thuộc vào quan hệ giữa các thành bang. Họ kết liên minh, cạnh tranh, rồi cũng giao chiến. Những công trình lộng lẫy vừa cho thấy kỹ thuật, vừa thể hiện quyền lực của người cho xây chúng.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 400,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tôn trọng, suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sự tài giỏi",
+        "đủ sức"
+      ],
+      "direction": "Cue 35–36 là hai vế liên hệ; cue 39 đọc như kể sự việc, không lên giọng liệt kê."
+    }
+  },
+  {
+    "beat_id": "beat_05",
+    "source_cue_ids": [
+      41,
+      42,
+      43
+    ],
+    "text": "Nhưng để hiểu vì sao người dân rời đi, ta cần nhìn xuống thấp hơn. Rời những đỉnh đền. Xuống nơi người ta lấy nước. Một tượng đài có thể chờ xây thêm vài năm.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 300,
+      "source": "pause_event",
+      "reason": "Tách ý tượng đài có thể chờ với nước uống không thể chờ.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Cụ thể, hơi nghiêm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Nước uống"
+      ],
+      "direction": "Để câu 43 kết thúc rồi mới nói cue 44; không đọc như khẩu hiệu."
+    }
+  },
+  {
+    "beat_id": "beat_05",
+    "source_cue_ids": [
+      44
+    ],
+    "text": "Nước uống thì không thể chờ lâu như vậy.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 550,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "Nước uống"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Cụ thể, hơi nghiêm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Nước uống"
+      ],
+      "direction": "Để câu 43 kết thúc rồi mới nói cue 44; không đọc như khẩu hiệu."
+    }
+  },
+  {
+    "beat_id": "beat_06",
+    "source_cue_ids": [
+      45
+    ],
+    "text": "Điểm dừng đầu tiên là Tikal, ở Guatemala ngày nay.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò rồi giải thích",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sao vẫn lo thiếu nước",
+        "mùa khô"
+      ],
+      "direction": "Cue 48 có ngữ điệu hỏi tự nhiên; cue 49 trở về lời giải thích, không tiếp tục dồn dập."
+    }
+  },
+  {
+    "beat_id": "beat_06",
+    "source_cue_ids": [
+      46
+    ],
+    "text": "Giữ đủ nước qua mùa khô là một bài toán sống còn tại đây.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "mùa khô"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò rồi giải thích",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sao vẫn lo thiếu nước",
+        "mùa khô"
+      ],
+      "direction": "Cue 48 có ngữ điệu hỏi tự nhiên; cue 49 trở về lời giải thích, không tiếp tục dồn dập."
+    }
+  },
+  {
+    "beat_id": "beat_06",
+    "source_cue_ids": [
+      47
+    ],
+    "text": "Nhìn rừng cây xanh um quanh Tikal, bạn có thể thấy hơi lạ.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò rồi giải thích",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sao vẫn lo thiếu nước",
+        "mùa khô"
+      ],
+      "direction": "Cue 48 có ngữ điệu hỏi tự nhiên; cue 49 trở về lời giải thích, không tiếp tục dồn dập."
+    }
+  },
+  {
+    "beat_id": "beat_06",
+    "source_cue_ids": [
+      48
+    ],
+    "text": "Nhiều cây thế, sao vẫn lo thiếu nước?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "sao vẫn lo thiếu nước"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò rồi giải thích",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sao vẫn lo thiếu nước",
+        "mùa khô"
+      ],
+      "direction": "Cue 48 có ngữ điệu hỏi tự nhiên; cue 49 trở về lời giải thích, không tiếp tục dồn dập."
+    }
+  },
+  {
+    "beat_id": "beat_06",
+    "source_cue_ids": [
+      49
+    ],
+    "text": "Vì rừng xanh không có nghĩa là lúc nào cũng tìm được nước uống ngay gần nhà.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò rồi giải thích",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sao vẫn lo thiếu nước",
+        "mùa khô"
+      ],
+      "direction": "Cue 48 có ngữ điệu hỏi tự nhiên; cue 49 trở về lời giải thích, không tiếp tục dồn dập."
+    }
+  },
+  {
+    "beat_id": "beat_06",
+    "source_cue_ids": [
+      50
+    ],
+    "text": "Ở đây có mùa khô rõ rệt. Nền đá vôi thấm nước cũng khiến việc tìm và giữ nước khó hơn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "mùa khô"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò rồi giải thích",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sao vẫn lo thiếu nước",
+        "mùa khô"
+      ],
+      "direction": "Cue 48 có ngữ điệu hỏi tự nhiên; cue 49 trở về lời giải thích, không tiếp tục dồn dập."
+    }
+  },
+  {
+    "beat_id": "beat_06",
+    "source_cue_ids": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "text": "Mưa có thể xuống rất nhiều vào một mùa, rồi lại thiếu đúng lúc người ta cần. Người Maya đã tìm cách giải quyết chuyện đó. Dấu tích ở Tikal cho thấy hồ chứa, đập và kênh được kết hợp để thu, giữ và điều tiết nước. Họ tận dụng cả địa hình để đưa nước vào hệ thống.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò rồi giải thích",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sao vẫn lo thiếu nước",
+        "mùa khô"
+      ],
+      "direction": "Cue 48 có ngữ điệu hỏi tự nhiên; cue 49 trở về lời giải thích, không tiếp tục dồn dập."
+    }
+  },
+  {
+    "beat_id": "beat_06",
+    "source_cue_ids": [
+      55
+    ],
+    "text": "Đó là công việc cần tính toán và tổ chức qua thời gian.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 400,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò rồi giải thích",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sao vẫn lo thiếu nước",
+        "mùa khô"
+      ],
+      "direction": "Cue 48 có ngữ điệu hỏi tự nhiên; cue 49 trở về lời giải thích, không tiếp tục dồn dập."
+    }
+  },
+  {
+    "beat_id": "beat_07",
+    "source_cue_ids": [
+      56,
+      57
+    ],
+    "text": "Ở hồ Corriental, các nhà nghiên cứu còn tìm thấy thạch anh và zeolit. Họ xem đây là bằng chứng về một hệ thống lọc bằng khoáng vật.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngạc nhiên vừa phải, trân trọng",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "gần ba mươi kilômét",
+        "Nếu cách giải thích này đúng"
+      ],
+      "direction": "Giữ câu điều kiện ở cue 61. Đọc tên khoáng vật rõ, không tách vụn thành âm rời."
+    }
+  },
+  {
+    "beat_id": "beat_07",
+    "source_cue_ids": [
+      58
+    ],
+    "text": "Vật liệu có thể đã được đưa về từ nguồn cách thành phố gần ba mươi kilômét.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "gần ba mươi kilômét"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngạc nhiên vừa phải, trân trọng",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "gần ba mươi kilômét",
+        "Nếu cách giải thích này đúng"
+      ],
+      "direction": "Giữ câu điều kiện ở cue 61. Đọc tên khoáng vật rõ, không tách vụn thành âm rời."
+    }
+  },
+  {
+    "beat_id": "beat_07",
+    "source_cue_ids": [
+      59
+    ],
+    "text": "Chi tiết khiến tôi chú ý là khoảng cách ấy.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngạc nhiên vừa phải, trân trọng",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "gần ba mươi kilômét",
+        "Nếu cách giải thích này đúng"
+      ],
+      "direction": "Giữ câu điều kiện ở cue 61. Đọc tên khoáng vật rõ, không tách vụn thành âm rời."
+    }
+  },
+  {
+    "beat_id": "beat_07",
+    "source_cue_ids": [
+      60
+    ],
+    "text": "Gần ba mươi kilômét, chỉ để có vật liệu phù hợp.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "gần ba mươi kilômét"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngạc nhiên vừa phải, trân trọng",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "gần ba mươi kilômét",
+        "Nếu cách giải thích này đúng"
+      ],
+      "direction": "Giữ câu điều kiện ở cue 61. Đọc tên khoáng vật rõ, không tách vụn thành âm rời."
+    }
+  },
+  {
+    "beat_id": "beat_07",
+    "source_cue_ids": [
+      61
+    ],
+    "text": "Nếu cách giải thích này đúng, người xây hệ thống đã chủ động chọn và đưa chúng về đây.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "Nếu cách giải thích này đúng"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngạc nhiên vừa phải, trân trọng",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "gần ba mươi kilômét",
+        "Nếu cách giải thích này đúng"
+      ],
+      "direction": "Giữ câu điều kiện ở cue 61. Đọc tên khoáng vật rõ, không tách vụn thành âm rời."
+    }
+  },
+  {
+    "beat_id": "beat_07",
+    "source_cue_ids": [
+      62
+    ],
+    "text": "Đằng sau cái hồ là cả kiến thức lẫn công sức.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 500,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngạc nhiên vừa phải, trân trọng",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "gần ba mươi kilômét",
+        "Nếu cách giải thích này đúng"
+      ],
+      "direction": "Giữ câu điều kiện ở cue 61. Đọc tên khoáng vật rõ, không tách vụn thành âm rời."
+    }
+  },
+  {
+    "beat_id": "beat_08",
+    "source_cue_ids": [
+      63,
+      64
+    ],
+    "text": "Nhưng thử nghĩ đến một bồn nước đủ dùng trong mùa khô bình thường. Một năm ít mưa, bạn tiết kiệm. Năm sau vẫn thiếu, bạn tìm cách giữ nước tốt hơn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đời thường rồi trầm nhẹ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "không tự đầy lại",
+        "nước không còn đủ"
+      ],
+      "direction": "Nhịp cue 64 liên tiếp tự nhiên; cue 69 ngắn và có khoảng nghỉ sau."
+    }
+  },
+  {
+    "beat_id": "beat_08",
+    "source_cue_ids": [
+      65
+    ],
+    "text": "Đến khi nước bổ sung quá ít, cái bồn dù tốt đến đâu cũng không tự đầy lại.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "không tự đầy lại"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đời thường rồi trầm nhẹ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "không tự đầy lại",
+        "nước không còn đủ"
+      ],
+      "direction": "Nhịp cue 64 liên tiếp tự nhiên; cue 69 ngắn và có khoảng nghỉ sau."
+    }
+  },
+  {
+    "beat_id": "beat_08",
+    "source_cue_ids": [
+      66,
+      67,
+      68
+    ],
+    "text": "Hệ thống ở Tikal cũng có giới hạn. Điều từng đủ cho những mùa quen thuộc có thể trở nên thiếu trước biến động kéo dài. Hồ vẫn còn đó. Kênh dẫn có thể vẫn làm việc.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đời thường rồi trầm nhẹ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "không tự đầy lại",
+        "nước không còn đủ"
+      ],
+      "direction": "Nhịp cue 64 liên tiếp tự nhiên; cue 69 ngắn và có khoảng nghỉ sau."
+    }
+  },
+  {
+    "beat_id": "beat_08",
+    "source_cue_ids": [
+      69
+    ],
+    "text": "Chỉ là nước không còn đủ như trước.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 550,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "nước không còn đủ"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đời thường rồi trầm nhẹ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "không tự đầy lại",
+        "nước không còn đủ"
+      ],
+      "direction": "Nhịp cue 64 liên tiếp tự nhiên; cue 69 ngắn và có khoảng nghỉ sau."
+    }
+  },
+  {
+    "beat_id": "beat_09",
+    "source_cue_ids": [
+      70,
+      71
+    ],
+    "text": "Đến đây, hạn hán nghe có vẻ là một lời giải hợp lý. Nhưng có một chuyện khác cần xem, ngay trong phần nước còn lại.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Lo ngại vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "có uống được không",
+        "không an toàn"
+      ],
+      "direction": "Cue 72 hỏi thực sự, không diễn kinh dị. Cho người nghe thời gian hiểu câu hỏi."
+    }
+  },
+  {
+    "beat_id": "beat_09",
+    "source_cue_ids": [
+      72
+    ],
+    "text": "Liệu nước ấy có uống được không?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 450,
+      "source": "pause_event",
+      "reason": "Cho câu hỏi về nước an toàn có điểm dừng.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "có uống được không"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Lo ngại vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "có uống được không",
+        "không an toàn"
+      ],
+      "direction": "Cue 72 hỏi thực sự, không diễn kinh dị. Cho người nghe thời gian hiểu câu hỏi."
+    }
+  },
+  {
+    "beat_id": "beat_09",
+    "source_cue_ids": [
+      73,
+      74
+    ],
+    "text": "Hồ chưa cạn không có nghĩa là người dân đã yên tâm. Nhất là khi họ không có nhiều nguồn khác để lựa chọn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Lo ngại vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "có uống được không",
+        "không an toàn"
+      ],
+      "direction": "Cue 72 hỏi thực sự, không diễn kinh dị. Cho người nghe thời gian hiểu câu hỏi."
+    }
+  },
+  {
+    "beat_id": "beat_09",
+    "source_cue_ids": [
+      75
+    ],
+    "text": "Nước có thể vẫn đầy trước mắt mà lại không an toàn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "không an toàn"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Lo ngại vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "có uống được không",
+        "không an toàn"
+      ],
+      "direction": "Cue 72 hỏi thực sự, không diễn kinh dị. Cho người nghe thời gian hiểu câu hỏi."
+    }
+  },
+  {
+    "beat_id": "beat_09",
+    "source_cue_ids": [
+      76
+    ],
+    "text": "Dấu vết của vấn đề ấy được tìm thấy trong bùn dưới đáy hồ Tikal.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 500,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Lo ngại vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "có uống được không",
+        "không an toàn"
+      ],
+      "direction": "Cue 72 hỏi thực sự, không diễn kinh dị. Cho người nghe thời gian hiểu câu hỏi."
+    }
+  },
+  {
+    "beat_id": "beat_10",
+    "source_cue_ids": [
+      77
+    ],
+    "text": "Một nghiên cứu năm hai nghìn hai mươi đã phân tích các lớp trầm tích ở đây.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Chính xác, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "hai hồ lớn",
+        "có thể"
+      ],
+      "direction": "Không nhấn độc tố như tin giật gân; giữ mức độ chưa chắc chắn của các từ có thể."
+    }
+  },
+  {
+    "beat_id": "beat_10",
+    "source_cue_ids": [
+      78,
+      79
+    ],
+    "text": "Tại hai hồ lớn gần đền và cung điện, nhóm nghiên cứu thấy dấu hiệu ô nhiễm thủy ngân và vi khuẩn lam có khả năng sinh độc tố.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "hai hồ lớn"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Chính xác, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "hai hồ lớn",
+        "có thể"
+      ],
+      "direction": "Không nhấn độc tố như tin giật gân; giữ mức độ chưa chắc chắn của các từ có thể."
+    }
+  },
+  {
+    "beat_id": "beat_10",
+    "source_cue_ids": [
+      80
+    ],
+    "text": "Thủy ngân có thể đến từ chu sa, khoáng vật màu đỏ từng được dùng làm sắc tố.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "có thể"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Chính xác, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "hai hồ lớn",
+        "có thể"
+      ],
+      "direction": "Không nhấn độc tố như tin giật gân; giữ mức độ chưa chắc chắn của các từ có thể."
+    }
+  },
+  {
+    "beat_id": "beat_10",
+    "source_cue_ids": [
+      81
+    ],
+    "text": "Vật liệu trang trí và nghi lễ có thể bị nước cuốn xuống hồ.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "có thể"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Chính xác, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "hai hồ lớn",
+        "có thể"
+      ],
+      "direction": "Không nhấn độc tố như tin giật gân; giữ mức độ chưa chắc chắn của các từ có thể."
+    }
+  },
+  {
+    "beat_id": "beat_10",
+    "source_cue_ids": [
+      82
+    ],
+    "text": "Thứ làm đền đài rực rỡ hơn, theo cách giải thích này, lại góp phần gây hại cho nguồn nước.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 450,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Chính xác, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "hai hồ lớn",
+        "có thể"
+      ],
+      "direction": "Không nhấn độc tố như tin giật gân; giữ mức độ chưa chắc chắn của các từ có thể."
+    }
+  },
+  {
+    "beat_id": "beat_11",
+    "source_cue_ids": [
+      83
+    ],
+    "text": "Bằng chứng ấy có phạm vi cụ thể.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Cẩn trọng, đồng cảm",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "chưa thể",
+        "khó xoay xở"
+      ],
+      "direction": "Cue 83 nhẹ, không giống đọc điều khoản. Hai câu giới hạn được kể liền mạch với phần sau."
+    }
+  },
+  {
+    "beat_id": "beat_11",
+    "source_cue_ids": [
+      84
+    ],
+    "text": "Ta chưa thể nói mọi hồ ở Tikal đều bị ô nhiễm như nhau.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "chưa thể"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Cẩn trọng, đồng cảm",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "chưa thể",
+        "khó xoay xở"
+      ],
+      "direction": "Cue 83 nhẹ, không giống đọc điều khoản. Hai câu giới hạn được kể liền mạch với phần sau."
+    }
+  },
+  {
+    "beat_id": "beat_11",
+    "source_cue_ids": [
+      85
+    ],
+    "text": "Cũng chưa thể kết luận người dân đã chết vì uống nước độc.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "chưa thể"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Cẩn trọng, đồng cảm",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "chưa thể",
+        "khó xoay xở"
+      ],
+      "direction": "Cue 83 nhẹ, không giống đọc điều khoản. Hai câu giới hạn được kể liền mạch với phần sau."
+    }
+  },
+  {
+    "beat_id": "beat_11",
+    "source_cue_ids": [
+      86
+    ],
+    "text": "Những dấu vết ấy cho thấy một số nguồn nước quan trọng đã bị đe dọa.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Cẩn trọng, đồng cảm",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "chưa thể",
+        "khó xoay xở"
+      ],
+      "direction": "Cue 83 nhẹ, không giống đọc điều khoản. Hai câu giới hạn được kể liền mạch với phần sau."
+    }
+  },
+  {
+    "beat_id": "beat_11",
+    "source_cue_ids": [
+      87
+    ],
+    "text": "Và nếu đúng lúc ấy nước lại ít đi, người dân sẽ càng khó xoay xở.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "khó xoay xở"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Cẩn trọng, đồng cảm",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "chưa thể",
+        "khó xoay xở"
+      ],
+      "direction": "Cue 83 nhẹ, không giống đọc điều khoản. Hai câu giới hạn được kể liền mạch với phần sau."
+    }
+  },
+  {
+    "beat_id": "beat_11",
+    "source_cue_ids": [
+      88,
+      89
+    ],
+    "text": "Nguồn thay thế ít hơn. Nước còn lại cũng khó yên tâm hơn. Công sức xây cả một hồ lớn chưa chắc giúp ích đủ, vào đúng lúc thành phố cần nó nhất.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 450,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Cẩn trọng, đồng cảm",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "chưa thể",
+        "khó xoay xở"
+      ],
+      "direction": "Cue 83 nhẹ, không giống đọc điều khoản. Hai câu giới hạn được kể liền mạch với phần sau."
+    }
+  },
+  {
+    "beat_id": "beat_12",
+    "source_cue_ids": [
+      90,
+      91,
+      92,
+      93
+    ],
+    "text": "Giả sử bạn phải đi tìm nước trong hoàn cảnh ấy. Chỗ gần nhất không ổn. Chỗ khác thì xa hơn. Đến nơi, lại có nhiều người cùng chờ lấy nước. Từ chuyện chất lượng nước, ta đã bước sang chuyện người dân phải chia sẻ nguồn còn lại thế nào.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Gần gũi, quan tâm",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Ai được lấy trước",
+        "mỗi lựa chọn"
+      ],
+      "direction": "Cue 94 là chuỗi câu hỏi có liên hệ, không lên giọng giống nhau ở cả ba câu; giữ đây là giả định."
+    }
+  },
+  {
+    "beat_id": "beat_12",
+    "source_cue_ids": [
+      94
+    ],
+    "text": "Ai được lấy trước? Ai phải đi xa? Ai lo duy trì hệ thống?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "Ai được lấy trước"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Gần gũi, quan tâm",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Ai được lấy trước",
+        "mỗi lựa chọn"
+      ],
+      "direction": "Cue 94 là chuỗi câu hỏi có liên hệ, không lên giọng giống nhau ở cả ba câu; giữ đây là giả định."
+    }
+  },
+  {
+    "beat_id": "beat_12",
+    "source_cue_ids": [
+      95
+    ],
+    "text": "Khi đủ dùng, người ta có thể dễ thỏa thuận hơn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Gần gũi, quan tâm",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Ai được lấy trước",
+        "mỗi lựa chọn"
+      ],
+      "direction": "Cue 94 là chuỗi câu hỏi có liên hệ, không lên giọng giống nhau ở cả ba câu; giữ đây là giả định."
+    }
+  },
+  {
+    "beat_id": "beat_12",
+    "source_cue_ids": [
+      96
+    ],
+    "text": "Lúc thiếu, mỗi lựa chọn đều khó hơn một chút.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "mỗi lựa chọn"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Gần gũi, quan tâm",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Ai được lấy trước",
+        "mỗi lựa chọn"
+      ],
+      "direction": "Cue 94 là chuỗi câu hỏi có liên hệ, không lên giọng giống nhau ở cả ba câu; giữ đây là giả định."
+    }
+  },
+  {
+    "beat_id": "beat_12",
+    "source_cue_ids": [
+      97
+    ],
+    "text": "Tình huống giả định ấy cho thấy nước có thể ảnh hưởng đến cả quan hệ trong cộng đồng.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 450,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Gần gũi, quan tâm",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Ai được lấy trước",
+        "mỗi lựa chọn"
+      ],
+      "direction": "Cue 94 là chuỗi câu hỏi có liên hệ, không lên giọng giống nhau ở cả ba câu; giữ đây là giả định."
+    }
+  },
+  {
+    "beat_id": "beat_13",
+    "source_cue_ids": [
+      98
+    ],
+    "text": "Còn hạn hán, rốt cuộc đã nghiêm trọng đến đâu?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "nghiêm trọng đến đâu"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, giải thích rõ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "nghiêm trọng đến đâu",
+        "ước tính"
+      ],
+      "direction": "Không đọc thuật ngữ như một danh sách; cue 102–103 là cùng một câu."
+    }
+  },
+  {
+    "beat_id": "beat_13",
+    "source_cue_ids": [
+      99,
+      100,
+      101
+    ],
+    "text": "Muốn trả lời, các nhà khoa học phải tìm đến bùn hồ, tinh thể khoáng vật và măng đá. Những thứ ít gây chú ý ấy lại giữ được dấu vết của khí hậu từ rất lâu trước đây. Các dấu vết ấy được dùng để tái dựng điều kiện trong quá khứ.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, giải thích rõ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "nghiêm trọng đến đâu",
+        "ước tính"
+      ],
+      "direction": "Không đọc thuật ngữ như một danh sách; cue 102–103 là cùng một câu."
+    }
+  },
+  {
+    "beat_id": "beat_13",
+    "source_cue_ids": [
+      102,
+      103
+    ],
+    "text": "Chẳng hạn, thành phần đồng vị trong vật liệu ở hồ hay hang động có thể phản ánh điều kiện nước khi chúng hình thành.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, giải thích rõ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "nghiêm trọng đến đâu",
+        "ước tính"
+      ],
+      "direction": "Không đọc thuật ngữ như một danh sách; cue 102–103 là cùng một câu."
+    }
+  },
+  {
+    "beat_id": "beat_13",
+    "source_cue_ids": [
+      104
+    ],
+    "text": "Từ đó, người ta ước tính những thay đổi về khí hậu.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "ước tính"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, giải thích rõ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "nghiêm trọng đến đâu",
+        "ước tính"
+      ],
+      "direction": "Không đọc thuật ngữ như một danh sách; cue 102–103 là cùng một câu."
+    }
+  },
+  {
+    "beat_id": "beat_14",
+    "source_cue_ids": [
+      105
+    ],
+    "text": "Tại hồ Chichancanab ở Mexico, một nghiên cứu năm hai nghìn mười tám xét nước bị giữ trong tinh thể thạch cao.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Chính xác",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "bốn mươi mốt đến năm mươi tư phần trăm",
+        "khu vực được nghiên cứu"
+      ],
+      "direction": "Ghép cue 106–107 trong cùng cụm đọc. Tuyệt đối không cắt khoảng số thành hai lần inference độc lập."
+    }
+  },
+  {
+    "beat_id": "beat_14",
+    "source_cue_ids": [
+      106,
+      107
+    ],
+    "text": "Kết quả ước tính lượng mưa giảm khoảng bốn mươi mốt đến năm mươi tư phần trăm trong các đợt hạn, có lúc còn mạnh hơn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "bốn mươi mốt đến năm mươi tư phần trăm"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Chính xác",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "bốn mươi mốt đến năm mươi tư phần trăm",
+        "khu vực được nghiên cứu"
+      ],
+      "direction": "Ghép cue 106–107 trong cùng cụm đọc. Tuyệt đối không cắt khoảng số thành hai lần inference độc lập."
+    }
+  },
+  {
+    "beat_id": "beat_14",
+    "source_cue_ids": [
+      108
+    ],
+    "text": "Đó là ước tính cho khu vực được nghiên cứu.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "khu vực được nghiên cứu"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Chính xác",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "bốn mươi mốt đến năm mươi tư phần trăm",
+        "khu vực được nghiên cứu"
+      ],
+      "direction": "Ghép cue 106–107 trong cùng cụm đọc. Tuyệt đối không cắt khoảng số thành hai lần inference độc lập."
+    }
+  },
+  {
+    "beat_id": "beat_14",
+    "source_cue_ids": [
+      109,
+      110
+    ],
+    "text": "Những nơi khác có thể đã trải qua điều kiện khác. Dù vậy, mức giảm ấy gợi ra một sức ép rất lớn, chứ không chỉ là mùa nắng kéo dài thêm chút ít.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 450,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Chính xác",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "bốn mươi mốt đến năm mươi tư phần trăm",
+        "khu vực được nghiên cứu"
+      ],
+      "direction": "Ghép cue 106–107 trong cùng cụm đọc. Tuyệt đối không cắt khoảng số thành hai lần inference độc lập."
+    }
+  },
+  {
+    "beat_id": "beat_15",
+    "source_cue_ids": [
+      111,
+      112
+    ],
+    "text": "Ở tây bắc Yucatán, một nghiên cứu năm hai nghìn hai mươi lăm dùng măng đá để tìm dấu vết những đợt hạn kéo dài nhiều năm.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "mười ba năm",
+        "mùa vụ này đến mùa vụ khác"
+      ],
+      "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+    }
+  },
+  {
+    "beat_id": "beat_15",
+    "source_cue_ids": [
+      113
+    ],
+    "text": "Trong hồ sơ ấy, có một giai đoạn hạn kéo dài khoảng mười ba năm.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 650,
+      "source": "pause_event",
+      "reason": "Để thông tin mười ba năm đọng lại trước lần lặp.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "mười ba năm"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "mười ba năm",
+        "mùa vụ này đến mùa vụ khác"
+      ],
+      "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+    }
+  },
+  {
+    "beat_id": "beat_15",
+    "source_cue_ids": [
+      114
+    ],
+    "text": "Mười ba năm.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.15,
+    "pause": {
+      "target_ms": 650,
+      "source": "pause_event",
+      "reason": "Lần lặp ngắn, sau đó chuyển sang giải thích phạm vi.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "mười ba năm"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "mười ba năm",
+        "mùa vụ này đến mùa vụ khác"
+      ],
+      "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+    }
+  },
+  {
+    "beat_id": "beat_15",
+    "source_cue_ids": [
+      115
+    ],
+    "text": "Điều đó không có nghĩa suốt thời gian ấy chẳng rơi một giọt mưa nào.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "mười ba năm",
+        "mùa vụ này đến mùa vụ khác"
+      ],
+      "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+    }
+  },
+  {
+    "beat_id": "beat_15",
+    "source_cue_ids": [
+      116,
+      117
+    ],
+    "text": "Nhưng theo cách nghiên cứu xác định, tình trạng hạn đã kéo dài qua hết mùa vụ này đến mùa vụ khác.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 650,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "mùa vụ này đến mùa vụ khác"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ngỡ ngàng kín đáo rồi cẩn trọng",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "mười ba năm",
+        "mùa vụ này đến mùa vụ khác"
+      ],
+      "direction": "Cue 113 nêu thông tin; cue 114 lặp ngắn như đang suy nghĩ, không nhấn kịch. Cue 115 giải thích rõ, không nuốt chữ."
+    }
+  },
+  {
+    "beat_id": "beat_16",
+    "source_cue_ids": [
+      118
+    ],
+    "text": "Một đứa trẻ có thể lớn lên thành thiếu niên trong khoảng thời gian đó.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đồng cảm, ấm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "một lần phải tính lại",
+        "chờ đợi"
+      ],
+      "direction": "Đọc cue 120 như cân nhắc từng việc, không chất vấn. Giữ sự tôn trọng với kiến thức của người Maya."
+    }
+  },
+  {
+    "beat_id": "beat_16",
+    "source_cue_ids": [
+      119
+    ],
+    "text": "Còn với người trồng trọt, mỗi năm là một lần phải tính lại.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "một lần phải tính lại"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đồng cảm, ấm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "một lần phải tính lại",
+        "chờ đợi"
+      ],
+      "direction": "Đọc cue 120 như cân nhắc từng việc, không chất vấn. Giữ sự tôn trọng với kiến thức của người Maya."
+    }
+  },
+  {
+    "beat_id": "beat_16",
+    "source_cue_ids": [
+      120,
+      121,
+      122
+    ],
+    "text": "Gieo bao nhiêu, giữ lại bao nhiêu, và nếu vụ này tiếp tục khó khăn thì làm sao? Đây cũng là chỗ thành tựu về lịch của người Maya dễ khiến ta kỳ vọng nhầm. Lịch giúp sắp xếp công việc theo những chu kỳ đã quan sát.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đồng cảm, ấm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "một lần phải tính lại",
+        "chờ đợi"
+      ],
+      "direction": "Đọc cue 120 như cân nhắc từng việc, không chất vấn. Giữ sự tôn trọng với kiến thức của người Maya."
+    }
+  },
+  {
+    "beat_id": "beat_16",
+    "source_cue_ids": [
+      123,
+      124
+    ],
+    "text": "Nhưng nếu thời tiết thay đổi kéo dài, những kinh nghiệm quen thuộc không còn bảo đảm kết quả như trước. Bạn có thể biết đã đến mùa gieo hạt mà vẫn phải đợi đất có đủ nước.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đồng cảm, ấm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "một lần phải tính lại",
+        "chờ đợi"
+      ],
+      "direction": "Đọc cue 120 như cân nhắc từng việc, không chất vấn. Giữ sự tôn trọng với kiến thức của người Maya."
+    }
+  },
+  {
+    "beat_id": "beat_16",
+    "source_cue_ids": [
+      125
+    ],
+    "text": "Và chờ đợi cũng có cái giá của nó.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "chờ đợi"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đồng cảm, ấm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "một lần phải tính lại",
+        "chờ đợi"
+      ],
+      "direction": "Đọc cue 120 như cân nhắc từng việc, không chất vấn. Giữ sự tôn trọng với kiến thức của người Maya."
+    }
+  },
+  {
+    "beat_id": "beat_16",
+    "source_cue_ids": [
+      126
+    ],
+    "text": "Ta có thể hình dung sức ép ấy, dù không biết từng gia đình Maya đã ứng phó cụ thể ra sao.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 500,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đồng cảm, ấm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "một lần phải tính lại",
+        "chờ đợi"
+      ],
+      "direction": "Đọc cue 120 như cân nhắc từng việc, không chất vấn. Giữ sự tôn trọng với kiến thức của người Maya."
+    }
+  },
+  {
+    "beat_id": "beat_17",
+    "source_cue_ids": [
+      127,
+      128,
+      129,
+      130,
+      131
+    ],
+    "text": "Như vậy, bằng chứng khí hậu rất đáng chú ý. Tuy nhiên, để xem hạn hán giải thích được đến đâu, ta cần đi khỏi những nơi vừa khảo sát. Thử tìm một thành phố có diễn biến khác. Một nơi mà dân số giảm, nhưng dấu vết khí hậu lại không khớp như ta chờ đợi. Đó là trường hợp ở Itzan.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò tăng nhẹ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "dân số vẫn giảm",
+        "bỏ sót điều gì"
+      ],
+      "direction": "Cue 134 là chỗ chuyển ý, tăng sự chú ý bằng trọng tâm câu, không tăng âm lượng đột ngột."
+    }
+  },
+  {
+    "beat_id": "beat_17",
+    "source_cue_ids": [
+      132,
+      133
+    ],
+    "text": "Địa điểm này cũng nằm ở Guatemala ngày nay. Hồ sơ được phân tích tại đây không cho thấy dấu hiệu hạn hán địa phương như dự đoán.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò tăng nhẹ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "dân số vẫn giảm",
+        "bỏ sót điều gì"
+      ],
+      "direction": "Cue 134 là chỗ chuyển ý, tăng sự chú ý bằng trọng tâm câu, không tăng âm lượng đột ngột."
+    }
+  },
+  {
+    "beat_id": "beat_17",
+    "source_cue_ids": [
+      134
+    ],
+    "text": "Vậy mà dân số vẫn giảm. Nếu chỉ nhìn lượng mưa, ta sẽ bỏ sót điều gì?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 500,
+      "source": "pause_event",
+      "reason": "Giữ câu hỏi về Itzan trước khi vào phương pháp.",
+      "replaces_beat_pause": true
+    },
+    "matched_emphasis_phrases": [
+      "dân số vẫn giảm",
+      "bỏ sót điều gì"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò tăng nhẹ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "dân số vẫn giảm",
+        "bỏ sót điều gì"
+      ],
+      "direction": "Cue 134 là chỗ chuyển ý, tăng sự chú ý bằng trọng tâm câu, không tăng âm lượng đột ngột."
+    }
+  },
+  {
+    "beat_id": "beat_18",
+    "source_cue_ids": [
+      135,
+      136,
+      137
+    ],
+    "text": "Nghiên cứu về Itzan được công bố năm hai nghìn hai mươi lăm. Nhóm tác giả xem những dấu vết hóa học trong trầm tích hồ, gồm cả dấu vết từ sáp lá cây. Kết quả khiến việc quy sự suy giảm dân số cho hạn hán tại chỗ trở nên khó thuyết phục.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy xét, sáng rõ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "với dữ liệu đang có",
+        "nhìn ra ngoài"
+      ],
+      "direction": "Không kể giả thuyết liên kết vùng như một nguyên nhân đã được chứng minh."
+    }
+  },
+  {
+    "beat_id": "beat_18",
+    "source_cue_ids": [
+      138
+    ],
+    "text": "Điều này chưa đủ để nói Itzan chưa bao giờ thiếu nước. Hồ sơ ấy cũng có giới hạn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy xét, sáng rõ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "với dữ liệu đang có",
+        "nhìn ra ngoài"
+      ],
+      "direction": "Không kể giả thuyết liên kết vùng như một nguyên nhân đã được chứng minh."
+    }
+  },
+  {
+    "beat_id": "beat_18",
+    "source_cue_ids": [
+      139,
+      140
+    ],
+    "text": "Nhưng ít nhất, với dữ liệu đang có, hạn hán địa phương không giải thích tốt những thay đổi dân số được quan sát.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "với dữ liệu đang có"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy xét, sáng rõ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "với dữ liệu đang có",
+        "nhìn ra ngoài"
+      ],
+      "direction": "Không kể giả thuyết liên kết vùng như một nguyên nhân đã được chứng minh."
+    }
+  },
+  {
+    "beat_id": "beat_18",
+    "source_cue_ids": [
+      141,
+      142,
+      143
+    ],
+    "text": "Nhóm nghiên cứu vì thế xem xét thêm quan hệ xã hội, chính trị và sự gắn kết giữa Itzan với các vùng xung quanh. Hướng giải thích này cần được kiểm tra thêm.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy xét, sáng rõ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "với dữ liệu đang có",
+        "nhìn ra ngoài"
+      ],
+      "direction": "Không kể giả thuyết liên kết vùng như một nguyên nhân đã được chứng minh."
+    }
+  },
+  {
+    "beat_id": "beat_18",
+    "source_cue_ids": [
+      144
+    ],
+    "text": "Nó gợi rằng muốn hiểu chuyện trong một thành phố, đôi khi phải nhìn ra ngoài thành phố ấy.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 450,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "nhìn ra ngoài"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy xét, sáng rõ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "với dữ liệu đang có",
+        "nhìn ra ngoài"
+      ],
+      "direction": "Không kể giả thuyết liên kết vùng như một nguyên nhân đã được chứng minh."
+    }
+  },
+  {
+    "beat_id": "beat_19",
+    "source_cue_ids": [
+      145
+    ],
+    "text": "Hãy hình dung hai khu dân cư thường trao đổi hàng hóa với nhau.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đời thường",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vẫn có nước",
+        "cuộc sống đã khó hơn"
+      ],
+      "direction": "Cue 151 nối lại bằng chứng, không phủ định hạn hán. Cue 153 hỏi như đang cùng người nghe tìm lời giải."
+    }
+  },
+  {
+    "beat_id": "beat_19",
+    "source_cue_ids": [
+      146
+    ],
+    "text": "Một bên vẫn có nước. Bên kia gặp khó khăn, đường đi bất ổn, người mang hàng đến ít dần.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "vẫn có nước"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đời thường",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vẫn có nước",
+        "cuộc sống đã khó hơn"
+      ],
+      "direction": "Cue 151 nối lại bằng chứng, không phủ định hạn hán. Cue 153 hỏi như đang cùng người nghe tìm lời giải."
+    }
+  },
+  {
+    "beat_id": "beat_19",
+    "source_cue_ids": [
+      147,
+      148
+    ],
+    "text": "Bên có nước cũng không thể hoàn toàn yên ổn. Đây là ví dụ giả định, nhưng nó giúp thấy một nơi có thể chịu ảnh hưởng từ nơi khác ra sao.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đời thường",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vẫn có nước",
+        "cuộc sống đã khó hơn"
+      ],
+      "direction": "Cue 151 nối lại bằng chứng, không phủ định hạn hán. Cue 153 hỏi như đang cùng người nghe tìm lời giải."
+    }
+  },
+  {
+    "beat_id": "beat_19",
+    "source_cue_ids": [
+      149
+    ],
+    "text": "Nước vẫn còn, trong khi cuộc sống đã khó hơn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "cuộc sống đã khó hơn"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đời thường",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vẫn có nước",
+        "cuộc sống đã khó hơn"
+      ],
+      "direction": "Cue 151 nối lại bằng chứng, không phủ định hạn hán. Cue 153 hỏi như đang cùng người nghe tìm lời giải."
+    }
+  },
+  {
+    "beat_id": "beat_19",
+    "source_cue_ids": [
+      150,
+      151,
+      152,
+      153
+    ],
+    "text": "Người ta có thể quyết định rời đi trước khi cái hồ cuối cùng cạn đáy. Trường hợp Itzan không xóa đi các bằng chứng hạn hán ở những nơi khác. Nó khiến lời giải phải cụ thể hơn. Ở đâu, vào lúc nào, và thành phố ấy còn phụ thuộc vào những nơi nào nữa?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 450,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đời thường",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "vẫn có nước",
+        "cuộc sống đã khó hơn"
+      ],
+      "direction": "Cue 151 nối lại bằng chứng, không phủ định hạn hán. Cue 153 hỏi như đang cùng người nghe tìm lời giải."
+    }
+  },
+  {
+    "beat_id": "beat_20",
+    "source_cue_ids": [
+      154
+    ],
+    "text": "Có một thành phố khác để lại dấu vết rất khác: một đám cháy lớn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "một đám cháy lớn"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Nghiêm, tập trung",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "một đám cháy lớn",
+        "sáu trăm chín mươi bảy"
+      ],
+      "direction": "Không dùng giọng trailer chiến tranh. Đọc tên và năm rõ; cue 162–163 cùng một câu."
+    }
+  },
+  {
+    "beat_id": "beat_20",
+    "source_cue_ids": [
+      155,
+      156,
+      157
+    ],
+    "text": "Đặc biệt hơn, dấu cháy ấy có thể đối chiếu với ghi chép về một cuộc tấn công. Lần này, dấu vết dưới đất và chữ khắc cùng gặp nhau. Đó là Witzna. Một nghiên cứu năm hai nghìn mười chín đối chiếu dữ liệu địa chất, khảo cổ và văn khắc.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Nghiêm, tập trung",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "một đám cháy lớn",
+        "sáu trăm chín mươi bảy"
+      ],
+      "direction": "Không dùng giọng trailer chiến tranh. Đọc tên và năm rõ; cue 162–163 cùng một câu."
+    }
+  },
+  {
+    "beat_id": "beat_20",
+    "source_cue_ids": [
+      158
+    ],
+    "text": "Nhóm tác giả tìm thấy dấu tích của một đám cháy lớn vào cuối thế kỷ thứ bảy.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "một đám cháy lớn"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Nghiêm, tập trung",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "một đám cháy lớn",
+        "sáu trăm chín mươi bảy"
+      ],
+      "direction": "Không dùng giọng trailer chiến tranh. Đọc tên và năm rõ; cue 162–163 cùng một câu."
+    }
+  },
+  {
+    "beat_id": "beat_20",
+    "source_cue_ids": [
+      159
+    ],
+    "text": "Thời điểm ấy phù hợp với ghi chép về cuộc tấn công năm sáu trăm chín mươi bảy.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "sáu trăm chín mươi bảy"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Nghiêm, tập trung",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "một đám cháy lớn",
+        "sáu trăm chín mươi bảy"
+      ],
+      "direction": "Không dùng giọng trailer chiến tranh. Đọc tên và năm rõ; cue 162–163 cùng một câu."
+    }
+  },
+  {
+    "beat_id": "beat_20",
+    "source_cue_ids": [
+      160,
+      161,
+      162,
+      163
+    ],
+    "text": "Ghi chép nhắc đến Naranjo và việc đốt Witzna. Sau sự kiện ấy, dấu vết hoạt động của con người trong khu vực giảm mạnh. Ta có dấu cháy, có ghi chép về chiến tranh, và có dấu hiệu đời sống tại đây thay đổi sau sự kiện đó.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 500,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Nghiêm, tập trung",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "một đám cháy lớn",
+        "sáu trăm chín mươi bảy"
+      ],
+      "direction": "Không dùng giọng trailer chiến tranh. Đọc tên và năm rõ; cue 162–163 cùng một câu."
+    }
+  },
+  {
+    "beat_id": "beat_21",
+    "source_cue_ids": [
+      164
+    ],
+    "text": "Hãy chú ý đến thời điểm.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Phân tích, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "trước",
+        "một trường hợp"
+      ],
+      "direction": "Ghép cue 165–166 cho đủ nghĩa. Không nhấn tất cả từ trong câu giải thích."
+    }
+  },
+  {
+    "beat_id": "beat_21",
+    "source_cue_ids": [
+      165,
+      166
+    ],
+    "text": "Cuộc tấn công xảy ra trước nhiều diễn biến thường gắn với khủng hoảng cuối thời Cổ điển, chứ không phải đến tận cuối mới có chiến tranh tàn phá.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "trước"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Phân tích, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "trước",
+        "một trường hợp"
+      ],
+      "direction": "Ghép cue 165–166 cho đủ nghĩa. Không nhấn tất cả từ trong câu giải thích."
+    }
+  },
+  {
+    "beat_id": "beat_21",
+    "source_cue_ids": [
+      167
+    ],
+    "text": "Vì thế, khó có thể coi mọi bạo lực lớn đều là hậu quả xuất hiện sau hạn hán cực đoan.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Phân tích, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "trước",
+        "một trường hợp"
+      ],
+      "direction": "Ghép cue 165–166 cho đủ nghĩa. Không nhấn tất cả từ trong câu giải thích."
+    }
+  },
+  {
+    "beat_id": "beat_21",
+    "source_cue_ids": [
+      168
+    ],
+    "text": "Witzna chỉ là một trường hợp, không đại diện cho tất cả.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "một trường hợp"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Phân tích, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "trước",
+        "một trường hợp"
+      ],
+      "direction": "Ghép cue 165–166 cho đủ nghĩa. Không nhấn tất cả từ trong câu giải thích."
+    }
+  },
+  {
+    "beat_id": "beat_21",
+    "source_cue_ids": [
+      169,
+      170
+    ],
+    "text": "Nhưng trường hợp ấy cho thấy xung đột có thể làm cuộc sống ở một nơi thay đổi mạnh đến mức nào. Ngay cả những công trình còn dùng tốt cũng có thể bị con người phá hủy.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 450,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Phân tích, điềm tĩnh",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "trước",
+        "một trường hợp"
+      ],
+      "direction": "Ghép cue 165–166 cho đủ nghĩa. Không nhấn tất cả từ trong câu giải thích."
+    }
+  },
+  {
+    "beat_id": "beat_22",
+    "source_cue_ids": [
+      171
+    ],
+    "text": "Và tác động của chiến tranh có thể kéo dài sau trận đánh.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "sau trận đánh"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Nghiêm, suy tư",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sau trận đánh",
+        "Sự đồng thuận"
+      ],
+      "direction": "Nhịp liệt kê ở cue 173 tự nhiên. Đến cue 180–181 chậm lại vừa đủ, không kéo dài mọi tiếng."
+    }
+  },
+  {
+    "beat_id": "beat_22",
+    "source_cue_ids": [
+      172,
+      173,
+      174
+    ],
+    "text": "Thử nghĩ đến việc duy trì cuộc sống khi đường đi trở nên nguy hiểm. Người làm việc bị gián đoạn, trao đổi hàng hóa khó hơn, những thỏa thuận cũ có thể không còn giữ được. Lúc ấy, thiếu nước và xung đột có thể cùng tạo sức ép.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Nghiêm, suy tư",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sau trận đánh",
+        "Sự đồng thuận"
+      ],
+      "direction": "Nhịp liệt kê ở cue 173 tự nhiên. Đến cue 180–181 chậm lại vừa đủ, không kéo dài mọi tiếng."
+    }
+  },
+  {
+    "beat_id": "beat_22",
+    "source_cue_ids": [
+      175,
+      176,
+      177,
+      178
+    ],
+    "text": "Không nhất thiết phải chọn một nguyên nhân rồi gạt hết những nguyên nhân còn lại. Ta cần hiểu chúng đã gặp nhau ra sao, và vì sao người dân ngày càng ít cách xoay xở. Bởi thành phố lớn luôn cần người chăm sóc nó. Hồ phải được duy trì. Công việc phải có người phối hợp.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Nghiêm, suy tư",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sau trận đánh",
+        "Sự đồng thuận"
+      ],
+      "direction": "Nhịp liệt kê ở cue 173 tự nhiên. Đến cue 180–181 chậm lại vừa đủ, không kéo dài mọi tiếng."
+    }
+  },
+  {
+    "beat_id": "beat_22",
+    "source_cue_ids": [
+      179,
+      180
+    ],
+    "text": "Nếu những mối liên hệ ấy đứt đoạn, công trình còn nguyên cũng chưa chắc tiếp tục phục vụ được như trước. Bạn có thể nhìn thấy một bức tường rất chắc, nhưng không thấy những cuộc thương lượng đã thất bại.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Nghiêm, suy tư",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sau trận đánh",
+        "Sự đồng thuận"
+      ],
+      "direction": "Nhịp liệt kê ở cue 173 tự nhiên. Đến cue 180–181 chậm lại vừa đủ, không kéo dài mọi tiếng."
+    }
+  },
+  {
+    "beat_id": "beat_22",
+    "source_cue_ids": [
+      181
+    ],
+    "text": "Vật liệu còn đó. Sự đồng thuận thì khó đào lên hơn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 600,
+      "source": "pause_event",
+      "reason": "Điểm lắng về sự đồng thuận.",
+      "replaces_beat_pause": true
+    },
+    "matched_emphasis_phrases": [
+      "Sự đồng thuận"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Nghiêm, suy tư",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "sau trận đánh",
+        "Sự đồng thuận"
+      ],
+      "direction": "Nhịp liệt kê ở cue 173 tự nhiên. Đến cue 180–181 chậm lại vừa đủ, không kéo dài mọi tiếng."
+    }
+  },
+  {
+    "beat_id": "beat_23",
+    "source_cue_ids": [
+      182
+    ],
+    "text": "Ngay cả khi còn chữ khắc, ta cũng chưa nghe được câu chuyện của tất cả mọi người.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, giải thích",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "cả thành phố đã hết người",
+        "không diễn ra cùng lúc"
+      ],
+      "direction": "Cue 184 trả lời Chưa chắc nhẹ và rõ. Không cường điệu hình ảnh cue 187."
+    }
+  },
+  {
+    "beat_id": "beat_23",
+    "source_cue_ids": [
+      183
+    ],
+    "text": "Một triều đại ngừng dựng bia, ngừng ghi chiến công. Có phải cả thành phố đã hết người?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "cả thành phố đã hết người"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, giải thích",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "cả thành phố đã hết người",
+        "không diễn ra cùng lúc"
+      ],
+      "direction": "Cue 184 trả lời Chưa chắc nhẹ và rõ. Không cường điệu hình ảnh cue 187."
+    }
+  },
+  {
+    "beat_id": "beat_23",
+    "source_cue_ids": [
+      184,
+      185
+    ],
+    "text": "Chưa chắc. Một nghiên cứu năm hai nghìn hai mươi sáu nhấn mạnh sự khác biệt giữa lúc quyền lực đổ vỡ và quá trình đô thị suy giảm sau đó.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, giải thích",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "cả thành phố đã hết người",
+        "không diễn ra cùng lúc"
+      ],
+      "direction": "Cue 184 trả lời Chưa chắc nhẹ và rõ. Không cường điệu hình ảnh cue 187."
+    }
+  },
+  {
+    "beat_id": "beat_23",
+    "source_cue_ids": [
+      186
+    ],
+    "text": "Hai việc ấy có thể không diễn ra cùng lúc.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "không diễn ra cùng lúc"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, giải thích",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "cả thành phố đã hết người",
+        "không diễn ra cùng lúc"
+      ],
+      "direction": "Cue 184 trả lời Chưa chắc nhẹ và rõ. Không cường điệu hình ảnh cue 187."
+    }
+  },
+  {
+    "beat_id": "beat_23",
+    "source_cue_ids": [
+      187,
+      188,
+      189
+    ],
+    "text": "Hình ảnh vua ngã xuống rồi mọi nhà lập tức đóng cửa thì dễ kể, nhưng quá gọn. Cuộc sống trong thành phố có thể đổi khác, thu hẹp dần, hoặc tiếp tục sau khi trật tự chính trị cũ đã mất.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 450,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Tò mò, giải thích",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "cả thành phố đã hết người",
+        "không diễn ra cùng lúc"
+      ],
+      "direction": "Cue 184 trả lời Chưa chắc nhẹ và rõ. Không cường điệu hình ảnh cue 187."
+    }
+  },
+  {
+    "beat_id": "beat_24",
+    "source_cue_ids": [
+      190
+    ],
+    "text": "Vả lại, tư liệu còn lại thường cho giới quyền lực nhiều tiếng nói hơn người bình thường.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "người bình thường"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ấm, suy tư",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "người bình thường",
+        "cả thế giới câm lặng"
+      ],
+      "direction": "Cue 193 là điểm lắng: chia ý theo nghĩa, giữ giọng tự nhiên. Cue 194 giản dị, không cần thêm kịch tính."
+    }
+  },
+  {
+    "beat_id": "beat_24",
+    "source_cue_ids": [
+      191,
+      192
+    ],
+    "text": "Người ra lệnh dựng công trình, khắc chiến công lên đá có nhiều cơ hội được hậu thế biết đến. Người làm ruộng, chăm con, đổi hàng thì đâu phải ai cũng có một tấm bia riêng.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ấm, suy tư",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "người bình thường",
+        "cả thế giới câm lặng"
+      ],
+      "direction": "Cue 193 là điểm lắng: chia ý theo nghĩa, giữ giọng tự nhiên. Cue 194 giản dị, không cần thêm kịch tính."
+    }
+  },
+  {
+    "beat_id": "beat_24",
+    "source_cue_ids": [
+      193
+    ],
+    "text": "Nếu chỉ nghe phía cung điện, lúc cung điện im tiếng, ta dễ tưởng cả thế giới câm lặng.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 500,
+      "source": "pause_event",
+      "reason": "Khoảng nghỉ sau hình ảnh cung điện im tiếng.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "cả thế giới câm lặng"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ấm, suy tư",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "người bình thường",
+        "cả thế giới câm lặng"
+      ],
+      "direction": "Cue 193 là điểm lắng: chia ý theo nghĩa, giữ giọng tự nhiên. Cue 194 giản dị, không cần thêm kịch tính."
+    }
+  },
+  {
+    "beat_id": "beat_24",
+    "source_cue_ids": [
+      194,
+      195
+    ],
+    "text": "Nhưng đời sống còn diễn ra ở bên ngoài. Muốn biết người dân đi đâu, sống tiếp thế nào, cần tìm những bằng chứng khác nữa.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 600,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ấm, suy tư",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "người bình thường",
+        "cả thế giới câm lặng"
+      ],
+      "direction": "Cue 193 là điểm lắng: chia ý theo nghĩa, giữ giọng tự nhiên. Cue 194 giản dị, không cần thêm kịch tính."
+    }
+  },
+  {
+    "beat_id": "beat_25",
+    "source_cue_ids": [
+      196
+    ],
+    "text": "Một gia đình rời thành phố có thể báo hiệu đô thị đang suy yếu.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đồng cảm, tiết chế",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "bảo vệ",
+        "chưa biết hết"
+      ],
+      "direction": "Không khóc, không nức nở. Giữ các từ có thể để không biến khả năng thành sự thật."
+    }
+  },
+  {
+    "beat_id": "beat_25",
+    "source_cue_ids": [
+      197
+    ],
+    "text": "Với chính gia đình ấy, đó lại có thể là cách bảo vệ những người thân của mình.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "bảo vệ"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đồng cảm, tiết chế",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "bảo vệ",
+        "chưa biết hết"
+      ],
+      "direction": "Không khóc, không nức nở. Giữ các từ có thể để không biến khả năng thành sự thật."
+    }
+  },
+  {
+    "beat_id": "beat_25",
+    "source_cue_ids": [
+      198,
+      199,
+      200
+    ],
+    "text": "Cùng một cuộc ra đi, nhìn từ hai phía sẽ thấy những điều khác nhau. Dĩ nhiên, rời đi không bảo đảm họ sẽ sống tốt hơn. Khủng hoảng có những tổn thất thật. Có người có thể tìm được chỗ sống mới, có người gặp thêm hiểm nguy.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đồng cảm, tiết chế",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "bảo vệ",
+        "chưa biết hết"
+      ],
+      "direction": "Không khóc, không nức nở. Giữ các từ có thể để không biến khả năng thành sự thật."
+    }
+  },
+  {
+    "beat_id": "beat_25",
+    "source_cue_ids": [
+      201
+    ],
+    "text": "Ta chưa biết hết số phận của họ, nên không thể lấy một nơi vắng người để kết luận cả dân tộc đã biến mất.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 500,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "chưa biết hết"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Đồng cảm, tiết chế",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "bảo vệ",
+        "chưa biết hết"
+      ],
+      "direction": "Không khóc, không nức nở. Giữ các từ có thể để không biến khả năng thành sự thật."
+    }
+  },
+  {
+    "beat_id": "beat_26",
+    "source_cue_ids": [
+      202,
+      203
+    ],
+    "text": "Để thấy câu chuyện còn tiếp tục, hãy rời các thành phố phía nam một lúc. Nhìn sang những khu vực vẫn phát triển.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng hơn, có chuyển động",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "chưa phải dấu chấm hết",
+        "vẫn diễn ra"
+      ],
+      "direction": "Tăng độ sáng vừa phải, không chuyển sang giọng quảng cáo hoặc chiến thắng."
+    }
+  },
+  {
+    "beat_id": "beat_26",
+    "source_cue_ids": [
+      204
+    ],
+    "text": "Khi một số trung tâm suy tàn, đời sống Maya ở những nơi khác vẫn diễn ra.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "vẫn diễn ra"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng hơn, có chuyển động",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "chưa phải dấu chấm hết",
+        "vẫn diễn ra"
+      ],
+      "direction": "Tăng độ sáng vừa phải, không chuyển sang giọng quảng cáo hoặc chiến thắng."
+    }
+  },
+  {
+    "beat_id": "beat_26",
+    "source_cue_ids": [
+      205
+    ],
+    "text": "Năm chín trăm chưa phải dấu chấm hết.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "chưa phải dấu chấm hết"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng hơn, có chuyển động",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "chưa phải dấu chấm hết",
+        "vẫn diễn ra"
+      ],
+      "direction": "Tăng độ sáng vừa phải, không chuyển sang giọng quảng cáo hoặc chiến thắng."
+    }
+  },
+  {
+    "beat_id": "beat_26",
+    "source_cue_ids": [
+      206,
+      207,
+      208
+    ],
+    "text": "Sau giai đoạn khủng hoảng của nhiều thành bang phía nam, thế giới Maya còn những trung tâm quyền lực khác. Nếu dừng ở các phế tích nổi tiếng, ta sẽ bỏ lỡ cả phần lịch sử dài phía sau. Ở phía bắc, Chichén Itzá trở thành một trung tâm quan trọng.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng hơn, có chuyển động",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "chưa phải dấu chấm hết",
+        "vẫn diễn ra"
+      ],
+      "direction": "Tăng độ sáng vừa phải, không chuyển sang giọng quảng cáo hoặc chiến thắng."
+    }
+  },
+  {
+    "beat_id": "beat_26",
+    "source_cue_ids": [
+      209,
+      210,
+      211
+    ],
+    "text": "Sau đó, Mayapán giữ vai trò lớn tại Yucatán. Các cộng đồng vùng cao, ven biển và những khu vực khác cũng có lịch sử riêng. Họ tiếp tục sống, thay đổi và xây dựng những mối quan hệ mới.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 450,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng hơn, có chuyển động",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "chưa phải dấu chấm hết",
+        "vẫn diễn ra"
+      ],
+      "direction": "Tăng độ sáng vừa phải, không chuyển sang giọng quảng cáo hoặc chiến thắng."
+    }
+  },
+  {
+    "beat_id": "beat_27",
+    "source_cue_ids": [
+      212,
+      213
+    ],
+    "text": "Từ khoảng thế kỷ mười ba đến giữa thế kỷ mười lăm, Mayapán là một trung tâm lớn về chính trị, kinh tế và tôn giáo.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng rõ rồi suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "nhiều thế kỷ",
+        "những câu chuyện riêng"
+      ],
+      "direction": "Nối cue 215–216. Mốc thời gian cần rõ hơn tốc độ; không đọc như bảng thống kê."
+    }
+  },
+  {
+    "beat_id": "beat_27",
+    "source_cue_ids": [
+      214
+    ],
+    "text": "Hãy để ý khoảng cách ấy: nhiều thế kỷ sau mốc suy tàn thường được nhắc, một trung tâm Maya vẫn giữ vai trò lớn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "nhiều thế kỷ"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng rõ rồi suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "nhiều thế kỷ",
+        "những câu chuyện riêng"
+      ],
+      "direction": "Nối cue 215–216. Mốc thời gian cần rõ hơn tốc độ; không đọc như bảng thống kê."
+    }
+  },
+  {
+    "beat_id": "beat_27",
+    "source_cue_ids": [
+      215,
+      216,
+      217
+    ],
+    "text": "Mayapán rồi cũng gặp khủng hoảng. Các nghiên cứu kết hợp khảo cổ, khí hậu và nguồn lịch sử cho thấy hạn hán có thể đã làm xung đột nội bộ nghiêm trọng hơn. Ở đây, sức ép môi trường được xem xét cùng với cách xã hội tổ chức và ứng phó.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng rõ rồi suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "nhiều thế kỷ",
+        "những câu chuyện riêng"
+      ],
+      "direction": "Nối cue 215–216. Mốc thời gian cần rõ hơn tốc độ; không đọc như bảng thống kê."
+    }
+  },
+  {
+    "beat_id": "beat_27",
+    "source_cue_ids": [
+      218
+    ],
+    "text": "Nhưng Mayapán thế kỷ mười lăm và Tikal nhiều thế kỷ trước là những câu chuyện riêng.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "nhiều thế kỷ",
+      "những câu chuyện riêng"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng rõ rồi suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "nhiều thế kỷ",
+        "những câu chuyện riêng"
+      ],
+      "direction": "Nối cue 215–216. Mốc thời gian cần rõ hơn tốc độ; không đọc như bảng thống kê."
+    }
+  },
+  {
+    "beat_id": "beat_27",
+    "source_cue_ids": [
+      219,
+      220
+    ],
+    "text": "Ta cần giữ rõ khoảng cách thời gian ấy. Điểm giống nhau giúp đặt câu hỏi, chứ chưa đủ để khẳng định cùng một nguyên nhân.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 450,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Sáng rõ rồi suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "nhiều thế kỷ",
+        "những câu chuyện riêng"
+      ],
+      "direction": "Nối cue 215–216. Mốc thời gian cần rõ hơn tốc độ; không đọc như bảng thống kê."
+    }
+  },
+  {
+    "beat_id": "beat_28",
+    "source_cue_ids": [
+      221,
+      222
+    ],
+    "text": "Đến khi người Tây Ban Nha chinh phục khu vực, các cộng đồng và nhà nước Maya vẫn đang tồn tại. Chiến tranh, dịch bệnh và áp bức thuộc địa gây thêm những tổn thất lớn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Trang trọng vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "một chương lịch sử khác",
+        "một lần sụp đổ"
+      ],
+      "direction": "Không lướt nhanh qua chiến tranh, dịch bệnh, áp bức. Cue 224–225 cùng một câu."
+    }
+  },
+  {
+    "beat_id": "beat_28",
+    "source_cue_ids": [
+      223
+    ],
+    "text": "Đó là một chương lịch sử khác, muộn hơn khủng hoảng đô thị nhiều thế kỷ.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "một chương lịch sử khác"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Trang trọng vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "một chương lịch sử khác",
+        "một lần sụp đổ"
+      ],
+      "direction": "Không lướt nhanh qua chiến tranh, dịch bệnh, áp bức. Cue 224–225 cùng một câu."
+    }
+  },
+  {
+    "beat_id": "beat_28",
+    "source_cue_ids": [
+      224,
+      225
+    ],
+    "text": "Mốc một nghìn sáu trăm chín mươi bảy thường được nhắc đến khi người Tây Ban Nha đánh bại những nhà nước Maya độc lập cuối cùng.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Trang trọng vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "một chương lịch sử khác",
+        "một lần sụp đổ"
+      ],
+      "direction": "Không lướt nhanh qua chiến tranh, dịch bệnh, áp bức. Cue 224–225 cùng một câu."
+    }
+  },
+  {
+    "beat_id": "beat_28",
+    "source_cue_ids": [
+      226
+    ],
+    "text": "Khoảng cách rất xa với năm chín trăm ấy cho thấy ta không thể gom mọi biến động vào một lần sụp đổ.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 500,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "một lần sụp đổ"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Trang trọng vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "một chương lịch sử khác",
+        "một lần sụp đổ"
+      ],
+      "direction": "Không lướt nhanh qua chiến tranh, dịch bệnh, áp bức. Cue 224–225 cùng một câu."
+    }
+  },
+  {
+    "beat_id": "beat_29",
+    "source_cue_ids": [
+      227
+    ],
+    "text": "Ngày nay vẫn có hàng triệu người Maya.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 400,
+      "source": "pause_event",
+      "reason": "Giữ trọng tâm ở những người đang sống.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "hàng triệu người Maya"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ấm, chắc chắn",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "hàng triệu người Maya",
+        "đang sống"
+      ],
+      "direction": "Giọng bình thường và gần gũi; không mô tả người đang sống như hiện vật kỳ lạ."
+    }
+  },
+  {
+    "beat_id": "beat_29",
+    "source_cue_ids": [
+      228
+    ],
+    "text": "Họ có ngôn ngữ, văn hóa và cuộc sống hiện tại của mình.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ấm, chắc chắn",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "hàng triệu người Maya",
+        "đang sống"
+      ],
+      "direction": "Giọng bình thường và gần gũi; không mô tả người đang sống như hiện vật kỳ lạ."
+    }
+  },
+  {
+    "beat_id": "beat_29",
+    "source_cue_ids": [
+      229
+    ],
+    "text": "Khi nói về Maya, ta đang nói cả về những cộng đồng đang sống, không chỉ người xưa trong phế tích.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "đang sống"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ấm, chắc chắn",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "hàng triệu người Maya",
+        "đang sống"
+      ],
+      "direction": "Giọng bình thường và gần gũi; không mô tả người đang sống như hiện vật kỳ lạ."
+    }
+  },
+  {
+    "beat_id": "beat_29",
+    "source_cue_ids": [
+      230
+    ],
+    "text": "Những ngôi đền nổi tiếng chỉ kể được một phần câu chuyện ấy.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 550,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ấm, chắc chắn",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "hàng triệu người Maya",
+        "đang sống"
+      ],
+      "direction": "Giọng bình thường và gần gũi; không mô tả người đang sống như hiện vật kỳ lạ."
+    }
+  },
+  {
+    "beat_id": "beat_30",
+    "source_cue_ids": [
+      231,
+      232
+    ],
+    "text": "Nếu đứng trước một ngôi đền bỏ lại, có lẽ câu đầu tiên bạn hỏi vẫn là: người đâu hết rồi? Giờ thử đổi câu hỏi một chút.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Trò chuyện, suy tư",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "đã thay đổi cuộc sống",
+        "đi theo con người"
+      ],
+      "direction": "Cue 232 như một lời gợi ý nhẹ. Cue 236 có cảm giác góc nhìn cá nhân, không tự tán dương."
+    }
+  },
+  {
+    "beat_id": "beat_30",
+    "source_cue_ids": [
+      233
+    ],
+    "text": "Những người từng sống ở đây đã thay đổi cuộc sống của họ như thế nào?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "đã thay đổi cuộc sống"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Trò chuyện, suy tư",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "đã thay đổi cuộc sống",
+        "đi theo con người"
+      ],
+      "direction": "Cue 232 như một lời gợi ý nhẹ. Cue 236 có cảm giác góc nhìn cá nhân, không tự tán dương."
+    }
+  },
+  {
+    "beat_id": "beat_30",
+    "source_cue_ids": [
+      234
+    ],
+    "text": "Câu hỏi ấy đưa ta ra khỏi công trình, đi theo con người.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "đi theo con người"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Trò chuyện, suy tư",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "đã thay đổi cuộc sống",
+        "đi theo con người"
+      ],
+      "direction": "Cue 232 như một lời gợi ý nhẹ. Cue 236 có cảm giác góc nhìn cá nhân, không tự tán dương."
+    }
+  },
+  {
+    "beat_id": "beat_30",
+    "source_cue_ids": [
+      235,
+      236
+    ],
+    "text": "Ta vẫn còn nhiều điều chưa biết về cuộc sống bên ngoài những công trình ấy. Đó là điều Mỏ Đen muốn giữ lại khi kể câu chuyện này.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 500,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Trò chuyện, suy tư",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "đã thay đổi cuộc sống",
+        "đi theo con người"
+      ],
+      "direction": "Cue 232 như một lời gợi ý nhẹ. Cue 236 có cảm giác góc nhìn cá nhân, không tự tán dương."
+    }
+  },
+  {
+    "beat_id": "beat_31",
+    "source_cue_ids": [
+      237,
+      238,
+      239
+    ],
+    "text": "Cách nhìn ấy cũng giúp gỡ một hiểu nhầm khác về Maya. Bạn còn nhớ lời đồn tận thế năm hai nghìn mười hai chứ? Smithsonian từng có tài liệu giải thích lịch Maya và bác bỏ cách diễn giải tận thế ấy.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Hóm hỉnh kín đáo",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Một chu kỳ lịch",
+        "tháo hành tinh"
+      ],
+      "direction": "Cue 242 đọc tỉnh, hơi vui; không thêm tiếng cười. Cue 243 quay lại giọng giải thích."
+    }
+  },
+  {
+    "beat_id": "beat_31",
+    "source_cue_ids": [
+      240
+    ],
+    "text": "Một chu kỳ lịch kết thúc không có nghĩa thế giới kết thúc.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "Một chu kỳ lịch"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Hóm hỉnh kín đáo",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Một chu kỳ lịch",
+        "tháo hành tinh"
+      ],
+      "direction": "Cue 242 đọc tỉnh, hơi vui; không thêm tiếng cười. Cue 243 quay lại giọng giải thích."
+    }
+  },
+  {
+    "beat_id": "beat_31",
+    "source_cue_ids": [
+      241
+    ],
+    "text": "Giống như lịch bàn hết tờ tháng mười hai: ta sang năm mới.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Hóm hỉnh kín đáo",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Một chu kỳ lịch",
+        "tháo hành tinh"
+      ],
+      "direction": "Cue 242 đọc tỉnh, hơi vui; không thêm tiếng cười. Cue 243 quay lại giọng giải thích."
+    }
+  },
+  {
+    "beat_id": "beat_31",
+    "source_cue_ids": [
+      242
+    ],
+    "text": "Chẳng ai cần gọi thợ đến tháo hành tinh.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 200,
+      "source": "pause_event",
+      "reason": "Dừng ngắn sau câu đùa; tránh cười giả.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "tháo hành tinh"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Hóm hỉnh kín đáo",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Một chu kỳ lịch",
+        "tháo hành tinh"
+      ],
+      "direction": "Cue 242 đọc tỉnh, hơi vui; không thêm tiếng cười. Cue 243 quay lại giọng giải thích."
+    }
+  },
+  {
+    "beat_id": "beat_31",
+    "source_cue_ids": [
+      243
+    ],
+    "text": "Câu đùa nghe vô lý, nhưng lời đồn ấy cho thấy ta dễ gán chuyện bí ẩn vào điều chưa hiểu ra sao.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 400,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Hóm hỉnh kín đáo",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Một chu kỳ lịch",
+        "tháo hành tinh"
+      ],
+      "direction": "Cue 242 đọc tỉnh, hơi vui; không thêm tiếng cười. Cue 243 quay lại giọng giải thích."
+    }
+  },
+  {
+    "beat_id": "beat_32",
+    "source_cue_ids": [
+      244,
+      245,
+      246
+    ],
+    "text": "Với sự suy tàn của các thành phố cũng vậy. Một lời giải duy nhất thì dễ nhớ, nhưng khó chứa hết những gì vừa thấy. Tikal gợi ra sức ép về nước. Witzna cho thấy tàn phá của chiến tranh. Itzan khiến ta nhìn rộng hơn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Rõ ràng, suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Mỗi nơi",
+        "lựa chọn cứ ít dần"
+      ],
+      "direction": "Cue 246 phân biệt ba địa điểm bằng nhịp nhỏ. Cue 249 không nhấn đều từng danh từ."
+    }
+  },
+  {
+    "beat_id": "beat_32",
+    "source_cue_ids": [
+      247
+    ],
+    "text": "Mỗi nơi bổ sung một phần còn thiếu.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "Mỗi nơi"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Rõ ràng, suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Mỗi nơi",
+        "lựa chọn cứ ít dần"
+      ],
+      "direction": "Cue 246 phân biệt ba địa điểm bằng nhịp nhỏ. Cue 249 không nhấn đều từng danh từ."
+    }
+  },
+  {
+    "beat_id": "beat_32",
+    "source_cue_ids": [
+      248,
+      249,
+      250
+    ],
+    "text": "Để một thành phố tiếp tục sống, người dân cần nhiều thứ cùng hoạt động: nước, thức ăn, trao đổi, an toàn và sự hợp tác. Khi một thứ gặp khó, họ có thể dựa vào những thứ khác.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Rõ ràng, suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Mỗi nơi",
+        "lựa chọn cứ ít dần"
+      ],
+      "direction": "Cue 246 phân biệt ba địa điểm bằng nhịp nhỏ. Cue 249 không nhấn đều từng danh từ."
+    }
+  },
+  {
+    "beat_id": "beat_32",
+    "source_cue_ids": [
+      251
+    ],
+    "text": "Nhưng nếu nhiều thứ cùng suy yếu, lựa chọn cứ ít dần.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 500,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "lựa chọn cứ ít dần"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Rõ ràng, suy xét",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "Mỗi nơi",
+        "lựa chọn cứ ít dần"
+      ],
+      "direction": "Cue 246 phân biệt ba địa điểm bằng nhịp nhỏ. Cue 249 không nhấn đều từng danh từ."
+    }
+  },
+  {
+    "beat_id": "beat_33",
+    "source_cue_ids": [
+      252,
+      253,
+      254
+    ],
+    "text": "Điều khiến tôi nghĩ mãi là người sống lúc ấy có nhận ra bước ngoặt hay không. Hay với họ, đó chỉ là thêm một mùa khó khăn mà gia đình phải cố vượt qua? Sử sách nhìn được cả một quãng dài. Người trong cuộc thì không biết trước chuyện gì sẽ đến.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy tư, đồng cảm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "từng ngày",
+        "bạn sẽ quyết định rời đi"
+      ],
+      "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+    }
+  },
+  {
+    "beat_id": "beat_33",
+    "source_cue_ids": [
+      255
+    ],
+    "text": "Chúng ta nhìn lại và gọi cả chuỗi ấy là sự sụp đổ.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 300,
+      "source": "pause_event",
+      "reason": "Đổi góc nhìn từ người nhìn lại sang người sống trong sự kiện.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy tư, đồng cảm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "từng ngày",
+        "bạn sẽ quyết định rời đi"
+      ],
+      "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+    }
+  },
+  {
+    "beat_id": "beat_33",
+    "source_cue_ids": [
+      256
+    ],
+    "text": "Người sống trong chuỗi ấy phải giải quyết từng ngày.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 600,
+      "source": "pause_event",
+      "reason": "Điểm nhấn từng ngày cần khoảng nghỉ sau câu.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "từng ngày"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy tư, đồng cảm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "từng ngày",
+        "bạn sẽ quyết định rời đi"
+      ],
+      "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+    }
+  },
+  {
+    "beat_id": "beat_33",
+    "source_cue_ids": [
+      257
+    ],
+    "text": "Có lẽ vì thế mà câu hỏi ở đầu video vẫn rất gần gũi.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy tư, đồng cảm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "từng ngày",
+        "bạn sẽ quyết định rời đi"
+      ],
+      "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+    }
+  },
+  {
+    "beat_id": "beat_33",
+    "source_cue_ids": [
+      258
+    ],
+    "text": "Nếu là bạn, đến khi nào bạn sẽ quyết định rời đi?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 700,
+      "source": "pause_event",
+      "reason": "Để người nghe cân nhắc câu hỏi.",
+      "replaces_beat_pause": true
+    },
+    "matched_emphasis_phrases": [
+      "bạn sẽ quyết định rời đi"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Suy tư, đồng cảm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "từng ngày",
+        "bạn sẽ quyết định rời đi"
+      ],
+      "direction": "Cue 255–256 tạo tương phản nhẹ bằng nhịp. Cue 258 hỏi chân thành rồi nghỉ, không giống kêu gọi bình luận."
+    }
+  },
+  {
+    "beat_id": "beat_34",
+    "source_cue_ids": [
+      259
+    ],
+    "text": "Trong tình huống giả định ấy, ở lại là giữ lấy nhà cửa, người quen và tất cả những gì đã gây dựng.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "ở lại"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ấm, trầm vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "ở lại",
+        "Rời đi",
+        "một phần của cuộc sống"
+      ],
+      "direction": "Đây là giả định, không đóng vai một người Maya cụ thể. Đọc kết luận rõ nhưng không dạy đời."
+    }
+  },
+  {
+    "beat_id": "beat_34",
+    "source_cue_ids": [
+      260
+    ],
+    "text": "Rời đi là chấp nhận bỏ lại nhiều thứ, với hy vọng cuộc sống ở nơi khác sẽ dễ chịu hơn.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "Rời đi"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ấm, trầm vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "ở lại",
+        "Rời đi",
+        "một phần của cuộc sống"
+      ],
+      "direction": "Đây là giả định, không đóng vai một người Maya cụ thể. Đọc kết luận rõ nhưng không dạy đời."
+    }
+  },
+  {
+    "beat_id": "beat_34",
+    "source_cue_ids": [
+      261
+    ],
+    "text": "Ta không biết từng gia đình Maya đã cân nhắc thế nào. Nhưng lựa chọn ấy đáng được nhìn thấy.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ấm, trầm vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "ở lại",
+        "Rời đi",
+        "một phần của cuộc sống"
+      ],
+      "direction": "Đây là giả định, không đóng vai một người Maya cụ thể. Đọc kết luận rõ nhưng không dạy đời."
+    }
+  },
+  {
+    "beat_id": "beat_34",
+    "source_cue_ids": [
+      262
+    ],
+    "text": "Một thành phố biết lọc nước vẫn có thể mất người ở, vì nước chỉ là một phần của cuộc sống.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "một phần của cuộc sống"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ấm, trầm vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "ở lại",
+        "Rời đi",
+        "một phần của cuộc sống"
+      ],
+      "direction": "Đây là giả định, không đóng vai một người Maya cụ thể. Đọc kết luận rõ nhưng không dạy đời."
+    }
+  },
+  {
+    "beat_id": "beat_34",
+    "source_cue_ids": [
+      263,
+      264
+    ],
+    "text": "Còn an toàn, thức ăn, quan hệ với xung quanh và khả năng cùng nhau vượt qua khó khăn. Công trình tốt không thể tự giữ tất cả những điều đó.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 550,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Ấm, trầm vừa phải",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "ở lại",
+        "Rời đi",
+        "một phần của cuộc sống"
+      ],
+      "direction": "Đây là giả định, không đóng vai một người Maya cụ thể. Đọc kết luận rõ nhưng không dạy đời."
+    }
+  },
+  {
+    "beat_id": "beat_35",
+    "source_cue_ids": [
+      265
+    ],
+    "text": "Và khi người dân rời đi, lịch sử cũng đi tiếp cùng họ.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "lịch sử cũng đi tiếp"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Lắng, ấm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "lịch sử cũng đi tiếp",
+        "chưa kết thúc"
+      ],
+      "direction": "Không hạ âm lượng đến khó nghe. Cue 268 kết gọn, để khoảng lặng trước lời mời."
+    }
+  },
+  {
+    "beat_id": "beat_35",
+    "source_cue_ids": [
+      266,
+      267
+    ],
+    "text": "Tôi muốn khép câu chuyện ở hình ảnh ấy. Đền đài ở lại giữa rừng. Còn người Maya vẫn sống, qua những biến động và mất mát.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.98,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Lắng, ấm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "lịch sử cũng đi tiếp",
+        "chưa kết thúc"
+      ],
+      "direction": "Không hạ âm lượng đến khó nghe. Cue 268 kết gọn, để khoảng lặng trước lời mời."
+    }
+  },
+  {
+    "beat_id": "beat_35",
+    "source_cue_ids": [
+      268
+    ],
+    "text": "Câu chuyện của họ chưa kết thúc.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.9702,
+    "gain_db": 0.45,
+    "pause": {
+      "target_ms": 850,
+      "source": "pause_event",
+      "reason": "Tách kết câu chuyện khỏi lời mời tương tác.",
+      "replaces_beat_pause": true
+    },
+    "matched_emphasis_phrases": [
+      "chưa kết thúc"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Lắng, ấm",
+      "pace_relative_to_natural_voice": "chậm hơn nhẹ",
+      "emotion_intensity": "vừa",
+      "emphasis_phrases": [
+        "lịch sử cũng đi tiếp",
+        "chưa kết thúc"
+      ],
+      "direction": "Không hạ âm lượng đến khó nghe. Cue 268 kết gọn, để khoảng lặng trước lời mời."
+    }
+  },
+  {
+    "beat_id": "beat_36",
+    "source_cue_ids": [
+      269,
+      270
+    ],
+    "text": "Chi tiết nào khiến bạn nghĩ khác về Maya: hệ thống lọc nước, thành phố bị đốt, hay Itzan, nơi dân số giảm mà hồ sơ không cho thấy hạn hán tại chỗ?",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "khiến bạn nghĩ khác"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Cởi mở, sáng nhẹ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "khiến bạn nghĩ khác",
+        "bất ngờ"
+      ],
+      "direction": "Chuyển về giọng trò chuyện; lời mời đăng ký nhẹ, không đọc như quảng cáo."
+    }
+  },
+  {
+    "beat_id": "beat_36",
+    "source_cue_ids": [
+      271,
+      272,
+      273,
+      274
+    ],
+    "text": "Kể cho Mỏ Đen nghe ở phần bình luận nhé. Tôi muốn biết điều gì khiến bạn chú ý nhất. Nếu muốn cùng tìm hiểu thêm những câu chuyện lịch sử qua các dấu vết còn lại, bạn có thể đăng ký kênh Mỏ Đen. Tập tới, chúng ta thử đặt những nhân vật quen thuộc lên cùng một trục thời gian.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 1.0,
+    "gain_db": 0.0,
+    "pause": {
+      "target_ms": 350,
+      "source": "semantic_boundary",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Cởi mở, sáng nhẹ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "khiến bạn nghĩ khác",
+        "bất ngờ"
+      ],
+      "direction": "Chuyển về giọng trò chuyện; lời mời đăng ký nhẹ, không đọc như quảng cáo."
+    }
+  },
+  {
+    "beat_id": "beat_36",
+    "source_cue_ids": [
+      275
+    ],
+    "text": "Có những người tưởng cách nhau cả một thời đại, nhưng hóa ra lại sống gần thời nhau đến bất ngờ.",
+    "text_origin": "beats[].text",
+    "pace_multiplier": 0.99,
+    "gain_db": 0.3,
+    "pause": {
+      "target_ms": 350,
+      "source": "beat_end",
+      "reason": "Ranh giới câu/cụm nghĩa; không tách từng dấu phẩy.",
+      "replaces_beat_pause": false
+    },
+    "matched_emphasis_phrases": [
+      "bất ngờ"
+    ],
+    "emphasis_scope": "whole_semantic_unit_not_word_aligned",
+    "original_editorial_direction": {
+      "tone": "Cởi mở, sáng nhẹ",
+      "pace_relative_to_natural_voice": "vừa",
+      "emotion_intensity": "nhẹ",
+      "emphasis_phrases": [
+        "khiến bạn nghĩ khác",
+        "bất ngờ"
+      ],
+      "direction": "Chuyển về giọng trò chuyện; lời mời đăng ký nhẹ, không đọc như quảng cáo."
+    }
+  }
+]

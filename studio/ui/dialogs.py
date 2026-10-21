@@ -237,7 +237,7 @@ class VoiceDialog(QDialog):
         for c in project['subtitles']:self.cue.addItem(f"{stamp(c['start'])} · {c['text'][:65]}",c)
         self.cue.currentIndexChanged.connect(self.cue_changed);form.addRow('Đoạn SRT',self.cue)
         self.text=QTextEdit();self.text.setPlaceholderText('Nhập tiếng Việt có dấu…');layout.addWidget(self.text)
-        self.info=QLabel('Chỉ liệt kê voice đã có model + config. Vai đọc không tạo ra voice mới.');self.info.setWordWrap(True);layout.addWidget(self.info)
+        self.info=QLabel('Giọng tham chiếu có nhãn Bản thử cần nghe đối chiếu. Vai đọc không tạo ra giọng mới.');self.info.setWordWrap(True);layout.addWidget(self.info)
         self.progress=QProgressBar();layout.addWidget(self.progress)
         self.audio_output=QAudioOutput(self);self.player=QMediaPlayer(self);self.player.setAudioOutput(self.audio_output)
         row=QHBoxLayout();layout.addLayout(row)

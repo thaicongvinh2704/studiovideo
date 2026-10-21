@@ -1,0 +1,2 @@
+# Optional reference voice synthesis backend; Piper remains in requirements.txt.
+vieneu==3.8.3

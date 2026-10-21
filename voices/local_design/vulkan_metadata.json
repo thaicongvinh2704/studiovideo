@@ -1,0 +1,8 @@
+{
+  "shaderc_link_html": "<meta http-equiv=\"refresh\" content=\"0; url=https://storage.googleapis.com/shaderc/artifacts/prod/graphics_shader_compiler/shaderc/windows-vs2022-amd64-release/continuous/48/20261001-205140/install.tgz\" />",
+  "repos": {
+    "Vulkan-Headers": "acbb9391c0a597272800cd3f4363661c00a27c77",
+    "SPIRV-Headers": "86f980c731e62ae4eaf383d320449d71687936bf",
+    "Vulkan-Hpp": "b42da34f7826905e901d8b938fe2df0b75013c57"
+  }
+}

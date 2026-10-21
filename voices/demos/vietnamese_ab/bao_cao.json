@@ -1,0 +1,381 @@
+{
+  "language": "vi-VN",
+  "region": "Bắc",
+  "region_source": "Người dùng xác nhận",
+  "model": "pnnbao-ump/VieNeu-TTS-v3-Turbo",
+  "sdk": "3.8.3",
+  "backend": "ONNX CPU fp32",
+  "same_reference_codes_sha256": "b67dc4c3747f01dc94f04fed62df31ded2ce4ef955eb93ca3c474b5a1a571045",
+  "shared_raw_speech_between_A_B": true,
+  "common_fit": 0.9088777883973816,
+  "selected_voice_unchanged": true,
+  "method": "A kể đều; B chỉ đổi nhẹ nhịp, khoảng nghỉ, cường độ. Không thêm đường cao độ cảm xúc. Cùng văn bản, mã giọng, và cao độ toàn cục đã chọn.",
+  "automatic_check_scope": "Cơ chế, định dạng, thời lượng, dữ liệu hữu hạn; không kết luận chất lượng nghe.",
+  "listening_qc": {
+    "đọc_đủ_lời": "chưa kiểm tra nghe",
+    "sáu_thanh": "chưa kiểm tra nghe",
+    "giọng_Bắc_nhất_quán": "chưa kiểm tra nghe",
+    "số_ngày_đơn_vị": "chưa kiểm tra nghe",
+    "tên_riêng": "chưa kiểm tra nghe",
+    "cụm_nghĩa": "chưa kiểm tra nghe",
+    "tự_nhiên_và_cảm_xúc": "chưa kiểm tra nghe",
+    "sạch_nhạc_nền_của_reference": "chưa kiểm tra nghe"
+  },
+  "status": "demo_cho_nghe_doi_chieu_chua_danh_dau_dat_chat_luong",
+  "rows": [
+    {
+      "id": "01_ke_binh_thuong",
+      "purpose": "Kể bình thường",
+      "original": "Mình là Mỏ Đen. Hôm nay, chúng ta thử nhìn lịch sử từ một chi tiết rất nhỏ: một cuốn sổ đã sờn mép. Những thứ tưởng như bình thường đôi khi lại giữ một câu chuyện rất dài.",
+      "speed_b": 1.0,
+      "gain_b": 0.0,
+      "gap_b": 0.35,
+      "spoken": "Mình là Mỏ Đen. Hôm nay, chúng ta thử nhìn lịch sử từ một chi tiết rất nhỏ: một cuốn sổ đã sờn mép. Những thứ tưởng như bình thường đôi khi lại giữ một câu chuyện rất dài.",
+      "reading_edits": [],
+      "engine_chunks": [
+        "mình là mỏ đen. hôm nay, chúng ta thử nhìn lịch sử từ một chi tiết rất nhỏ, một cuốn sổ đã sờn mép. những thứ tưởng như bình thường đôi khi lại giữ một câu chuyện rất dài."
+      ],
+      "engine_gaps": [],
+      "raw_seconds": 8.56,
+      "raw_file": "raw\\01_ke_binh_thuong.wav"
+    },
+    {
+      "id": "02_tim_dau_vet",
+      "purpose": "Tò mò, đặt câu hỏi",
+      "original": "Giữa những trang giấy cũ, có một dòng ghi chú bị bỏ dở. Ai đã viết nó, và vì sao câu chuyện dừng lại ở đây?",
+      "speed_b": 0.985,
+      "gain_b": 0.0,
+      "gap_b": 0.5,
+      "spoken": "Giữa những trang giấy cũ, có một dòng ghi chú bị bỏ dở. Ai đã viết nó, và vì sao câu chuyện dừng lại ở đây?",
+      "reading_edits": [],
+      "engine_chunks": [
+        "giữa những trang giấy cũ, có một dòng ghi chú bị bỏ dở. ai đã viết nó, và vì sao câu chuyện dừng lại ở đây?"
+      ],
+      "engine_gaps": [],
+      "raw_seconds": 5.36,
+      "raw_file": "raw\\02_tim_dau_vet.wav"
+    },
+    {
+      "id": "03_to_mo",
+      "purpose": "Tò mò, gợi suy nghĩ",
+      "original": "Khoan đã. Nếu trang giấy ấy không bị mất, liệu chúng ta có hiểu quá khứ theo một cách khác không?",
+      "speed_b": 0.97,
+      "gain_b": 0.3,
+      "gap_b": 0.6,
+      "spoken": "Khoan đã. Nếu trang giấy ấy không bị mất, liệu chúng ta có hiểu quá khứ theo một cách khác không?",
+      "reading_edits": [],
+      "engine_chunks": [
+        "khoan đã, nếu trang giấy ấy không bị mất, liệu chúng ta có hiểu quá khứ theo một cách khác không?"
+      ],
+      "engine_gaps": [],
+      "raw_seconds": 4.32,
+      "raw_file": "raw\\03_to_mo.wav"
+    },
+    {
+      "id": "04_nhan_cam_xuc",
+      "purpose": "Một điểm nhấn cảm xúc vừa đủ",
+      "original": "Điều khiến mình day dứt không phải là một khoảng trống, mà là những con người có thể đã bị lãng quên. Họ từng sống, từng hy vọng và từng chờ một ngày bình yên.",
+      "speed_b": 0.97,
+      "gain_b": 0.7,
+      "gap_b": 0.65,
+      "spoken": "Điều khiến mình day dứt không phải là một khoảng trống, mà là những con người có thể đã bị lãng quên. Họ từng sống, từng hy vọng và từng chờ một ngày bình yên.",
+      "reading_edits": [],
+      "engine_chunks": [
+        "điều khiến mình day dứt không phải là một khoảng trống, mà là những con người có thể đã bị lãng quên. họ từng sống, từng hy vọng và từng chờ một ngày bình yên."
+      ],
+      "engine_gaps": [],
+      "raw_seconds": 7.2,
+      "raw_file": "raw\\04_nhan_cam_xuc.wav"
+    },
+    {
+      "id": "05_sau_thanh",
+      "purpose": "Kiểm tra sáu thanh tiếng Việt",
+      "original": "Giờ thử nghe rõ sáu thanh: ma, má, mà, mả, mã, mạ.",
+      "speed_b": 1.0,
+      "gain_b": 0.0,
+      "gap_b": 0.3,
+      "spoken": "Giờ thử nghe rõ sáu thanh: ma, má, mà, mả, mã, mạ.",
+      "reading_edits": [],
+      "engine_chunks": [
+        "giờ thử nghe rõ sáu thanh, ma, má, mà, mả, mã, mạ."
+      ],
+      "engine_gaps": [],
+      "raw_seconds": 3.6,
+      "raw_file": "raw\\05_sau_thanh.wav"
+    },
+    {
+      "id": "06_so_ngay_don_vi",
+      "purpose": "Kiểm tra ngày, số thập phân, đơn vị và viết tắt",
+      "original": "Trong ví dụ này, ngày 21/10/2026, An đi 2,5 km đến TP.HCM.",
+      "speed_b": 1.0,
+      "gain_b": 0.0,
+      "gap_b": 0.3,
+      "spoken": "Trong ví dụ này, ngày hai mươi mốt tháng mười năm hai nghìn không trăm hai mươi sáu, An đi hai phẩy năm ki lô mét đến thành phố Hồ Chí Minh.",
+      "reading_edits": [
+        {
+          "start": 22,
+          "end": 32,
+          "original": "21/10/2026",
+          "spoken": "hai mươi mốt tháng mười năm hai nghìn không trăm hai mươi sáu",
+          "reason": "Ngày theo thứ tự ngày/tháng/năm ở Việt Nam; giữ từ ngày đứng trước.",
+          "context": "Trong ví dụ này, ngày 21/10/2026, An đi 2,5 km đến TP.HCM"
+        },
+        {
+          "start": 40,
+          "end": 46,
+          "original": "2,5 km",
+          "spoken": "hai phẩy năm ki lô mét",
+          "reason": "Khoảng cách theo đơn vị ki lô mét, dấu phẩy thập phân.",
+          "context": ", ngày 21/10/2026, An đi 2,5 km đến TP.HCM."
+        },
+        {
+          "start": 51,
+          "end": 57,
+          "original": "TP.HCM",
+          "spoken": "thành phố Hồ Chí Minh",
+          "reason": "Viết tắt địa danh trong câu kể, đọc tên đầy đủ.",
+          "context": "0/2026, An đi 2,5 km đến TP.HCM."
+        }
+      ],
+      "engine_chunks": [
+        "trong ví dụ này, ngày hai mươi mốt tháng mười năm hai nghìn không trăm hai mươi sáu, an đi hai phẩy năm ki lô mét đến thành phố hồ chí minh."
+      ],
+      "engine_gaps": [],
+      "raw_seconds": 5.92,
+      "raw_file": "raw\\06_so_ngay_don_vi.wav"
+    },
+    {
+      "id": "07_ten_rieng",
+      "purpose": "Kiểm tra tên riêng và cách đọc từ nước ngoài",
+      "original": "Tên Trần Hưng Đạo, địa danh Hà Nội, từ UNESCO và New York cần được đọc rõ theo ngữ cảnh.",
+      "speed_b": 1.0,
+      "gain_b": 0.0,
+      "gap_b": 0.35,
+      "spoken": "Tên Trần Hưng Đạo, địa danh Hà Nội, từ u nét cô và Niu Oóc cần được đọc rõ theo ngữ cảnh.",
+      "reading_edits": [
+        {
+          "start": 39,
+          "end": 45,
+          "original": "UNESCO",
+          "spoken": "u nét cô",
+          "reason": "Cách đọc Việt hóa dùng riêng trong bài thử; vẫn giữ tên gốc để đối chiếu.",
+          "context": "Đạo, địa danh Hà Nội, từ UNESCO và New York cần được đọc"
+        },
+        {
+          "start": 49,
+          "end": 57,
+          "original": "New York",
+          "spoken": "Niu Oóc",
+          "reason": "Cách đọc Việt hóa địa danh trong lời kể tiếng Việt; không chuyển cả câu sang tiếng Anh.",
+          "context": "anh Hà Nội, từ UNESCO và New York cần được đọc rõ theo ngữ"
+        }
+      ],
+      "engine_chunks": [
+        "tên trần hưng đạo, địa danh hà nội, từ u nét cô và niu oóc cần được đọc rõ theo ngữ cảnh."
+      ],
+      "engine_gaps": [],
+      "raw_seconds": 4.4,
+      "raw_file": "raw\\07_ten_rieng.wav"
+    },
+    {
+      "id": "08_ket_lang",
+      "purpose": "Kết lắng, gần gũi",
+      "original": "Không phải câu hỏi nào cũng có đáp án ngay. Nhưng khi biết lắng nghe và kiểm tra bằng chứng, chúng ta sẽ tiến gần hơn đến sự thật.",
+      "speed_b": 0.97,
+      "gain_b": -0.7,
+      "gap_b": 0.55,
+      "spoken": "Không phải câu hỏi nào cũng có đáp án ngay. Nhưng khi biết lắng nghe và kiểm tra bằng chứng, chúng ta sẽ tiến gần hơn đến sự thật.",
+      "reading_edits": [],
+      "engine_chunks": [
+        "không phải câu hỏi nào cũng có đáp án ngay. nhưng khi biết lắng nghe và kiểm tra bằng chứng, chúng ta sẽ tiến gần hơn đến sự thật."
+      ],
+      "engine_gaps": [],
+      "raw_seconds": 6.0,
+      "raw_file": "raw\\08_ket_lang.wav"
+    }
+  ],
+  "results": [
+    {
+      "version": "A",
+      "file": "A_giong_ke_tieng_viet.wav",
+      "seconds": 51.0,
+      "sha256": "89a7b02c482c7a3e24f51b5f0283ac832a4a25b51547ba9eea92a71be92bac24",
+      "spoken_text_sha256": "6d744c3912d82fdc32f8ad040eaa346b1fc7db52818c75a623ed9e1372c6513f",
+      "cues": [
+        {
+          "start": 0.18,
+          "end": 9.2797,
+          "purpose": "Kể bình thường",
+          "text": "Mình là Mỏ Đen. Hôm nay, chúng ta thử nhìn lịch sử từ một chi tiết rất nhỏ: một cuốn sổ đã sờn mép. Những thứ tưởng như bình thường đôi khi lại giữ một câu chuyện rất dài.",
+          "speed": 0.9088777883973816,
+          "gain_db": 0,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "e893f57ab6a7fcb408d4294d92995666b8484634902c6431ee26d4b8e5398866"
+        },
+        {
+          "start": 9.5797,
+          "end": 15.2777,
+          "purpose": "Tò mò, đặt câu hỏi",
+          "text": "Giữa những trang giấy cũ, có một dòng ghi chú bị bỏ dở. Ai đã viết nó, và vì sao câu chuyện dừng lại ở đây?",
+          "speed": 0.9088777883973816,
+          "gain_db": 0,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "16ba40670ed285088c5555313935eeebc9987d5322268831dcda2252c3da9475"
+        },
+        {
+          "start": 15.5777,
+          "end": 20.17,
+          "purpose": "Tò mò, gợi suy nghĩ",
+          "text": "Khoan đã. Nếu trang giấy ấy không bị mất, liệu chúng ta có hiểu quá khứ theo một cách khác không?",
+          "speed": 0.9088777883973816,
+          "gain_db": 0,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "8aef7982b2495148f51bdd31f6a729b804a8fc48c78f2fd8786eb880b0c2994c"
+        },
+        {
+          "start": 20.47,
+          "end": 28.124,
+          "purpose": "Một điểm nhấn cảm xúc vừa đủ",
+          "text": "Điều khiến mình day dứt không phải là một khoảng trống, mà là những con người có thể đã bị lãng quên. Họ từng sống, từng hy vọng và từng chờ một ngày bình yên.",
+          "speed": 0.9088777883973816,
+          "gain_db": 0,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "57ed4f35e6d71500f6c39b325d4a54db6ea8577d3105505f0c811b99687edb58"
+        },
+        {
+          "start": 28.424,
+          "end": 32.251,
+          "purpose": "Kiểm tra sáu thanh tiếng Việt",
+          "text": "Giờ thử nghe rõ sáu thanh: ma, má, mà, mả, mã, mạ.",
+          "speed": 0.9088777883973816,
+          "gain_db": 0,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "b7bf4a52ff535973a5ef8a5ec0af0d2095e3ef0924dad87fecb823df119759ca"
+        },
+        {
+          "start": 32.551,
+          "end": 38.8442,
+          "purpose": "Kiểm tra ngày, số thập phân, đơn vị và viết tắt",
+          "text": "Trong ví dụ này, ngày hai mươi mốt tháng mười năm hai nghìn không trăm hai mươi sáu, An đi hai phẩy năm ki lô mét đến thành phố Hồ Chí Minh.",
+          "speed": 0.9088777883973816,
+          "gain_db": 0,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "d2f9a31a5eec636606be2af37b5f087d0d4dfbf9148c61ee0b8b3381d949f9f7"
+        },
+        {
+          "start": 39.1442,
+          "end": 43.8217,
+          "purpose": "Kiểm tra tên riêng và cách đọc từ nước ngoài",
+          "text": "Tên Trần Hưng Đạo, địa danh Hà Nội, từ u nét cô và Niu Oóc cần được đọc rõ theo ngữ cảnh.",
+          "speed": 0.9088777883973816,
+          "gain_db": 0,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "9fdd74465123e41d51da7c06af84950752aa392c1e6950fdd2d62490bfcc0d94"
+        },
+        {
+          "start": 44.1217,
+          "end": 50.5,
+          "purpose": "Kết lắng, gần gũi",
+          "text": "Không phải câu hỏi nào cũng có đáp án ngay. Nhưng khi biết lắng nghe và kiểm tra bằng chứng, chúng ta sẽ tiến gần hơn đến sự thật.",
+          "speed": 0.9088777883973816,
+          "gain_db": 0,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "767b72d04e701482ab63a9d450ade0c212dfc95856d287469eebc59baf9e1817"
+        }
+      ]
+    },
+    {
+      "version": "B",
+      "file": "B_giong_ke_tieng_viet.wav",
+      "seconds": 52.613,
+      "sha256": "02d7b6cdec6d4dfc7df6e577340b06175eb78a36849e3a55482728884c020810",
+      "spoken_text_sha256": "6d744c3912d82fdc32f8ad040eaa346b1fc7db52818c75a623ed9e1372c6513f",
+      "cues": [
+        {
+          "start": 0.18,
+          "end": 9.2797,
+          "purpose": "Kể bình thường",
+          "text": "Mình là Mỏ Đen. Hôm nay, chúng ta thử nhìn lịch sử từ một chi tiết rất nhỏ: một cuốn sổ đã sờn mép. Những thứ tưởng như bình thường đôi khi lại giữ một câu chuyện rất dài.",
+          "speed": 0.9088777883973816,
+          "gain_db": 0.0,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "e893f57ab6a7fcb408d4294d92995666b8484634902c6431ee26d4b8e5398866"
+        },
+        {
+          "start": 9.6297,
+          "end": 15.4144,
+          "purpose": "Tò mò, đặt câu hỏi",
+          "text": "Giữa những trang giấy cũ, có một dòng ghi chú bị bỏ dở. Ai đã viết nó, và vì sao câu chuyện dừng lại ở đây?",
+          "speed": 0.8952446215714209,
+          "gain_db": 0.0,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "16ba40670ed285088c5555313935eeebc9987d5322268831dcda2252c3da9475"
+        },
+        {
+          "start": 15.9144,
+          "end": 20.6489,
+          "purpose": "Tò mò, gợi suy nghĩ",
+          "text": "Khoan đã. Nếu trang giấy ấy không bị mất, liệu chúng ta có hiểu quá khứ theo một cách khác không?",
+          "speed": 0.8816114547454602,
+          "gain_db": 0.3,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "8aef7982b2495148f51bdd31f6a729b804a8fc48c78f2fd8786eb880b0c2994c"
+        },
+        {
+          "start": 21.2489,
+          "end": 29.1395,
+          "purpose": "Một điểm nhấn cảm xúc vừa đủ",
+          "text": "Điều khiến mình day dứt không phải là một khoảng trống, mà là những con người có thể đã bị lãng quên. Họ từng sống, từng hy vọng và từng chờ một ngày bình yên.",
+          "speed": 0.8816114547454602,
+          "gain_db": 0.7,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "57ed4f35e6d71500f6c39b325d4a54db6ea8577d3105505f0c811b99687edb58"
+        },
+        {
+          "start": 29.7895,
+          "end": 33.6165,
+          "purpose": "Kiểm tra sáu thanh tiếng Việt",
+          "text": "Giờ thử nghe rõ sáu thanh: ma, má, mà, mả, mã, mạ.",
+          "speed": 0.9088777883973816,
+          "gain_db": 0.0,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "b7bf4a52ff535973a5ef8a5ec0af0d2095e3ef0924dad87fecb823df119759ca"
+        },
+        {
+          "start": 33.9165,
+          "end": 40.2098,
+          "purpose": "Kiểm tra ngày, số thập phân, đơn vị và viết tắt",
+          "text": "Trong ví dụ này, ngày hai mươi mốt tháng mười năm hai nghìn không trăm hai mươi sáu, An đi hai phẩy năm ki lô mét đến thành phố Hồ Chí Minh.",
+          "speed": 0.9088777883973816,
+          "gain_db": 0.0,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "d2f9a31a5eec636606be2af37b5f087d0d4dfbf9148c61ee0b8b3381d949f9f7"
+        },
+        {
+          "start": 40.5098,
+          "end": 45.1872,
+          "purpose": "Kiểm tra tên riêng và cách đọc từ nước ngoài",
+          "text": "Tên Trần Hưng Đạo, địa danh Hà Nội, từ u nét cô và Niu Oóc cần được đọc rõ theo ngữ cảnh.",
+          "speed": 0.9088777883973816,
+          "gain_db": 0.0,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "9fdd74465123e41d51da7c06af84950752aa392c1e6950fdd2d62490bfcc0d94"
+        },
+        {
+          "start": 45.5372,
+          "end": 52.1128,
+          "purpose": "Kết lắng, gần gũi",
+          "text": "Không phải câu hỏi nào cũng có đáp án ngay. Nhưng khi biết lắng nghe và kiểm tra bằng chứng, chúng ta sẽ tiến gần hơn đến sự thật.",
+          "speed": 0.8816114547454602,
+          "gain_db": -0.7,
+          "pitch_semitones": 0.8,
+          "raw_sha256": "767b72d04e701482ab63a9d450ade0c212dfc95856d287469eebc59baf9e1817"
+        }
+      ]
+    }
+  ],
+  "user_selected_version": "B",
+  "user_selected_file": "B_giong_ke_tieng_viet.wav",
+  "selection_date": "2026-10-21",
+  "selection_scope": "Người dùng chọn giọng và cách kể của bản B. Không tự chuyển mọi mục QC phát âm/thanh điệu/reference sang đạt."
+}

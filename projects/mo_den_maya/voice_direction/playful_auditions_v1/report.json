@@ -1,0 +1,254 @@
+{
+  "variants": [
+    {
+      "id": "01_adam_lanh_loi",
+      "preset": "01_adam_bua",
+      "label": "Adam · thử hướng lanh lợi",
+      "semitones": 0.4,
+      "catalog_label": "⭐ Adam bựa — Nam · Bắc · Phong cách tự nhiên",
+      "codes_sha256": "0752fa5e056f7f2e972aa0addd0e814097ef565a5d111c1d34e8dd5087206c47",
+      "recipe": {
+        "postprocess": {
+          "pitch_semitones": 0.4,
+          "tempo": 1.0,
+          "formant": "preserved",
+          "equalizers": [
+            {
+              "frequency": 230,
+              "width": 0.8,
+              "gain": -1.5
+            },
+            {
+              "frequency": 2800,
+              "width": 0.8,
+              "gain": 0.6
+            }
+          ]
+        }
+      },
+      "pauses": [
+        {
+          "after_unit": 1,
+          "total_target_ms": 300,
+          "added_ms": 30.0
+        },
+        {
+          "after_unit": 2,
+          "total_target_ms": 400,
+          "added_ms": 80.0
+        },
+        {
+          "after_unit": 3,
+          "total_target_ms": 350,
+          "added_ms": 0.0
+        },
+        {
+          "after_unit": 4,
+          "total_target_ms": 250,
+          "added_ms": 0.0
+        },
+        {
+          "after_unit": 5,
+          "total_target_ms": 200,
+          "added_ms": 0.0
+        }
+      ],
+      "file": "01_adam_lanh_loi.wav",
+      "seconds": 33.2436875,
+      "loudness": {
+        "input_i": -19.4,
+        "input_tp": -2.04,
+        "input_lra": 0.9,
+        "input_thresh": -29.47
+      },
+      "sha256": "2ceda3f4f94a6f8dc22ccfd0761d45c92ec8ec0a6a6fdf5be8b46011e48dea89"
+    },
+    {
+      "id": "02_adam_sang_hon",
+      "preset": "01_adam_bua",
+      "label": "Adam · sắc giọng sáng hơn",
+      "semitones": 0.95,
+      "catalog_label": "⭐ Adam bựa — Nam · Bắc · Phong cách tự nhiên",
+      "codes_sha256": "0752fa5e056f7f2e972aa0addd0e814097ef565a5d111c1d34e8dd5087206c47",
+      "recipe": {
+        "postprocess": {
+          "pitch_semitones": 0.95,
+          "tempo": 1.0,
+          "formant": "preserved",
+          "equalizers": [
+            {
+              "frequency": 230,
+              "width": 0.8,
+              "gain": -1.5
+            },
+            {
+              "frequency": 2800,
+              "width": 0.8,
+              "gain": 0.6
+            }
+          ]
+        }
+      },
+      "pauses": [
+        {
+          "after_unit": 1,
+          "total_target_ms": 300,
+          "added_ms": 30.0
+        },
+        {
+          "after_unit": 2,
+          "total_target_ms": 400,
+          "added_ms": 80.0
+        },
+        {
+          "after_unit": 3,
+          "total_target_ms": 350,
+          "added_ms": 0.0
+        },
+        {
+          "after_unit": 4,
+          "total_target_ms": 250,
+          "added_ms": 0.0
+        },
+        {
+          "after_unit": 5,
+          "total_target_ms": 200,
+          "added_ms": 0.0
+        }
+      ],
+      "file": "02_adam_sang_hon.wav",
+      "seconds": 33.246604166666664,
+      "loudness": {
+        "input_i": -19.4,
+        "input_tp": -1.8,
+        "input_lra": 0.9,
+        "input_thresh": -29.49
+      },
+      "sha256": "01cadb0b48210d734dfcb374d7b975db419611ad058eb52d2c38656d043cd952"
+    },
+    {
+      "id": "03_xuan_vinh_nhe_hon",
+      "preset": "02_xuan_vinh",
+      "label": "Xuân Vĩnh · sắc giọng nhẹ hơn",
+      "semitones": 0.7,
+      "catalog_label": "Xuân Vĩnh — Nam · Bắc · Phong cách tự nhiên",
+      "codes_sha256": "ce62fd19ea9811ce280ee7b88e76f2ed20a79d09cc2f17051d227e1eae64b661",
+      "recipe": {
+        "postprocess": {
+          "pitch_semitones": 0.7,
+          "tempo": 1.0,
+          "formant": "preserved",
+          "equalizers": [
+            {
+              "frequency": 230,
+              "width": 0.8,
+              "gain": -1.5
+            },
+            {
+              "frequency": 2800,
+              "width": 0.8,
+              "gain": 0.6
+            }
+          ]
+        }
+      },
+      "pauses": [
+        {
+          "after_unit": 1,
+          "total_target_ms": 300,
+          "added_ms": 140.0
+        },
+        {
+          "after_unit": 2,
+          "total_target_ms": 400,
+          "added_ms": 150.0
+        },
+        {
+          "after_unit": 3,
+          "total_target_ms": 350,
+          "added_ms": 0.0
+        },
+        {
+          "after_unit": 4,
+          "total_target_ms": 250,
+          "added_ms": 0.0
+        },
+        {
+          "after_unit": 5,
+          "total_target_ms": 200,
+          "added_ms": 0.0
+        }
+      ],
+      "file": "03_xuan_vinh_nhe_hon.wav",
+      "seconds": 32.23683333333334,
+      "loudness": {
+        "input_i": -19.4,
+        "input_tp": -2.03,
+        "input_lra": 2.1,
+        "input_thresh": -29.88
+      },
+      "sha256": "db4632a1ecf3c21d78a8c23e3d2083195c1255d1cb24865503bec89b46bf8612"
+    }
+  ],
+  "units": [
+    {
+      "text": "Khoan đã! Một thành phố có đền đài đồ sộ, biết quan sát bầu trời, còn có cả cách lọc nước. Vậy mà người ta vẫn phải chuyển đi. Nghe hơi lạ nhỉ?",
+      "pace": 1.0,
+      "gain": 0.15,
+      "pause": 300,
+      "actual_engine_chunks": [
+        "khoan đã! một thành phố có đền đài đồ sộ, biết quan sát bầu trời, còn có cả cách lọc nước. vậy mà người ta vẫn phải chuyển đi. nghe hơi lạ nhỉ?"
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "text": "Mình là Mỏ Đen. Hôm nay, mình thử lần theo những dấu vết ấy. Nhưng đừng vội kéo người ngoài hành tinh vào nhé. Cứ để họ nghỉ một hôm đã!",
+      "pace": 1.0,
+      "gain": 0.3,
+      "pause": 400,
+      "actual_engine_chunks": [
+        "mình là mỏ đen. hôm nay, mình thử lần theo những dấu vết ấy. nhưng đừng vội kéo người ngoài hành tinh vào nhé. cứ để họ nghỉ một hôm đã!"
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "text": "Trước hết, thử nghĩ đơn giản thôi: nhà vẫn còn, đường vẫn đi được, nhưng nước thì thiếu. Đến lúc ấy, bạn sẽ cố ở lại, hay bắt đầu gói ghém đồ đạc?",
+      "pace": 0.99,
+      "gain": 0.15,
+      "pause": 350,
+      "actual_engine_chunks": [
+        "trước hết, thử nghĩ đơn giản thôi, nhà vẫn còn, đường vẫn đi được, nhưng nước thì thiếu. đến lúc ấy, bạn sẽ cố ở lại, hay bắt đầu gói ghém đồ đạc?"
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "text": "Và nhớ nhé, người Maya không biến mất. Họ vẫn sống đến hôm nay. Thứ chúng ta cần tìm hiểu là vì sao nhiều thành phố từng đông đúc lại dần vắng người.",
+      "pace": 1.0,
+      "gain": 0,
+      "pause": 250,
+      "actual_engine_chunks": [
+        "và nhớ nhé, người maya không biến mất. họ vẫn sống đến hôm nay. thứ chúng ta cần tìm hiểu là vì sao nhiều thành phố từng đông đúc lại dần vắng người."
+      ],
+      "actual_engine_gaps": []
+    },
+    {
+      "text": "Một câu hỏi tưởng nhỏ, mà mở ra cả đống chuyện. Nào, soi từng dấu vết một. Có khi câu trả lời nằm ngay ở chỗ mình vừa lướt qua đấy!",
+      "pace": 1.0,
+      "gain": 0.25,
+      "pause": 200,
+      "actual_engine_chunks": [
+        "một câu hỏi tưởng nhỏ, mà mở ra cả đống chuyện. nào, soi từng dấu vết một. có khi câu trả lời nằm ngay ở chỗ mình vừa lướt qua đấy!"
+      ],
+      "actual_engine_gaps": []
+    }
+  ],
+  "speed": 1.25,
+  "language": "vi-VN",
+  "source_text": "New audition script with light humor; not an edit of the production Maya script.",
+  "region": "Northern according to preset catalog; listening confirmation pending.",
+  "expression_method": "Saved preset performance plus playful wording, semantic grouping, modest phrase pace/gain and gaps. No unsupported emotion/style parameter.",
+  "pitch_method": "Fixed small whole-track offsets, formant preserved; no emotional F0 contours.",
+  "listening_qc": "Pending user listening; signal checks do not prove playfulness, pronunciation, tone accuracy or naturalness.",
+  "default_voice_unchanged": true,
+  "production_script_unchanged": true
+}

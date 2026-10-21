@@ -1,0 +1,168 @@
+{
+  "speaker_strategy": "Independent installed preset codes, not EQ/pitch variants of old B.",
+  "candidates": [
+    {
+      "id": "00_B_goc",
+      "voice": "B gốc",
+      "file": "00_B_goc_Maya_1_25x.wav",
+      "seconds": 54.009625,
+      "sha256": "57d8ba237c645063838fdb79f0f39d3e4c07087e8904a82d427e475b39546b06",
+      "loudness": {
+        "input_i": -21.03,
+        "input_tp": -2.45,
+        "input_lra": 1.3,
+        "input_thresh": -31.07
+      }
+    },
+    {
+      "id": "05_thien_minh",
+      "voice": "Thiện Minh",
+      "catalog_label": "⭐ Thiện Minh — Nam · Bắc · Phong cách kể chuyện",
+      "codes_sha256": "9fe1f114b240fdb9a9cfd6d2ac4940bea080d8f042d41ed86097940f6e60b037",
+      "original_audition_sha256": "6ce09f6c2c4c0d2304f9a1e787b17d82bc47ce766cd145ffb209a45d1ff66c25",
+      "uses_old_speaker_codes": false,
+      "pitch_shift_semitones": 0,
+      "pause_log": [
+        {
+          "after_source_cue": 3,
+          "target_ms": 350,
+          "added_ms": 130.0
+        },
+        {
+          "after_source_cue": 4,
+          "target_ms": 350,
+          "added_ms": 100.0
+        },
+        {
+          "after_source_cue": 5,
+          "target_ms": 350,
+          "added_ms": 80.0
+        },
+        {
+          "after_source_cue": 9,
+          "target_ms": 350,
+          "added_ms": 80.0
+        },
+        {
+          "after_source_cue": 11,
+          "target_ms": 450,
+          "added_ms": 250.0
+        },
+        {
+          "after_source_cue": 14,
+          "target_ms": 350,
+          "added_ms": 160.0
+        },
+        {
+          "after_source_cue": 15,
+          "target_ms": 350,
+          "added_ms": 120.0
+        },
+        {
+          "after_source_cue": 18,
+          "target_ms": 250,
+          "added_ms": 10.0
+        },
+        {
+          "after_source_cue": 19,
+          "target_ms": 350,
+          "added_ms": 0.0
+        },
+        {
+          "after_source_cue": 20,
+          "target_ms": 0,
+          "added_ms": 0.0
+        }
+      ],
+      "file": "05_thien_minh_Maya_1_25x.wav",
+      "seconds": 57.62352083333333,
+      "sha256": "d202877d595ac764421d7127f4ef70508011a7fdaac3aa8e718555ab439c4e4d",
+      "loudness": {
+        "input_i": -21.02,
+        "input_tp": -1.8,
+        "input_lra": 1.7,
+        "input_thresh": -31.08
+      }
+    },
+    {
+      "id": "06_pham_tuyen",
+      "voice": "Phạm Tuyên",
+      "catalog_label": "Phạm Tuyên — Nam · Bắc · Phong cách tự nhiên",
+      "codes_sha256": "606b0519a38e5b612916dfdaf1089c9bda771626bae4e4f8274ac44b7a5b9364",
+      "original_audition_sha256": "774ca74486383855d08b2020b6097a5d11253dc7d56b464a442834e34310aeae",
+      "uses_old_speaker_codes": false,
+      "pitch_shift_semitones": 0,
+      "pause_log": [
+        {
+          "after_source_cue": 3,
+          "target_ms": 350,
+          "added_ms": 50.0
+        },
+        {
+          "after_source_cue": 4,
+          "target_ms": 350,
+          "added_ms": 170.0
+        },
+        {
+          "after_source_cue": 5,
+          "target_ms": 350,
+          "added_ms": 130.0
+        },
+        {
+          "after_source_cue": 9,
+          "target_ms": 350,
+          "added_ms": 50.0
+        },
+        {
+          "after_source_cue": 11,
+          "target_ms": 450,
+          "added_ms": 160.0
+        },
+        {
+          "after_source_cue": 14,
+          "target_ms": 350,
+          "added_ms": 0.0
+        },
+        {
+          "after_source_cue": 15,
+          "target_ms": 350,
+          "added_ms": 110.0
+        },
+        {
+          "after_source_cue": 18,
+          "target_ms": 250,
+          "added_ms": 0.0
+        },
+        {
+          "after_source_cue": 19,
+          "target_ms": 350,
+          "added_ms": 50.0
+        },
+        {
+          "after_source_cue": 20,
+          "target_ms": 0,
+          "added_ms": 0.0
+        }
+      ],
+      "file": "06_pham_tuyen_Maya_1_25x.wav",
+      "seconds": 61.141666666666666,
+      "sha256": "b2661f3dfd879f13bfa8d9392e0da08916f5beed2c0f43387645296f83c97040",
+      "loudness": {
+        "input_i": -21.02,
+        "input_tp": -2.23,
+        "input_lra": 2.4,
+        "input_thresh": -31.33
+      }
+    }
+  ],
+  "text_origin": "First ten complete semantic units from the full B directed plan.",
+  "text": "Giữa rừng nhiệt đới, những ngôi đền vẫn đứng đó. Người xây chúng biết quan sát bầu trời, trữ nước, thậm chí dùng khoáng vật để lọc nước uống. Vậy mà rồi, nhiều người vẫn phải rời thành phố.\n\nNếu đã làm được từng ấy việc, vì sao họ không thể tiếp tục sống ở đây?\n\nCó một điều cần làm rõ ngay: người Maya không biến mất. Họ vẫn sống đến hôm nay.\n\nNhiều thành phố suy tàn. Những triều đại mất quyền lực. Nhưng chuyện gì đã đẩy cuộc sống ở đó đến chỗ khó giữ được như trước? Tôi là Mỏ Đen. Hôm nay, chúng ta mở lại hồ sơ Maya. Bắt đầu từ những dấu vết còn lại dưới đất, dưới nước và trên đá.\n\nMột thành phố từng cháy. Những hồ nước bị ô nhiễm. Và một nơi khiến lời giải về hạn hán trở nên khó nói hơn.\n\nTrước hết, thử hình dung chuyện này xảy ra ở khu bạn sống. Nhà vẫn còn tốt, đường vẫn đi được. Nhưng nước bắt đầu thiếu. Bạn cố xoay xở. Rồi thực phẩm cũng khó kiếm hơn.\n\nNgười quen lần lượt chuyển đi. Đến lúc nào bạn cũng tính chuyện dọn nhà?\n\nĐó chỉ là một tình huống giả định. Nhưng nó giúp ta hình dung sự suy tàn từ phía những người phải sống trong đó. Chẳng ai họp cả thành phố để thông báo: từ ngày mai, chúng ta chính thức trở thành di tích.\n\nMỗi gia đình có thể đứng trước một lựa chọn khác nhau.\n\nKhi nhìn lại, ta thấy cả một thành phố vắng người. Còn lúc ấy, họ phải tính từng ngày.",
+  "speed": 1.25,
+  "language": "vi-VN",
+  "region": "Bắc according to installed catalog; pending listening confirmation.",
+  "rhythm": "Same semantic boundaries, directed pace multipliers and gap targets as B; native timings vary.",
+  "old_speaker_not_used_for_new_candidates": true,
+  "preferred_voice_unchanged": true,
+  "scope": "Two short auditions; no new full narration or video.",
+  "listening_qc": "PENDING_USER_LISTENING: no claim of correct tone, naturalness or perceived dissimilarity from signal metrics."
+}

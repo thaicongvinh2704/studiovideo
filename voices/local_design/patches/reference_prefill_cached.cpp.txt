@@ -1,0 +1,43 @@
+    if (has_feat) {
+        // LocEnc.forward_sequence calls forward_patch independently for every
+        // position. Text positions are masked away below; do not run the twelve
+        // LocEnc layers on hundreds of zero patches that will never be used.
+        std::vector<float> active;
+        std::vector<int> positions;
+        for (int i = 0; i < seq_len; ++i) {
+            if (feat_mask[static_cast<size_t>(i)] != 0) {
+                positions.push_back(i);
+                const auto begin = inputs.audio_feat.begin() + static_cast<size_t>(i) * patch_elems;
+                active.insert(active.end(), begin, begin + patch_elems);
+            }
+        }
+        // Opt-in only in Studio's single-runtime/single-model batch process.
+        // Never use this cache across model reloads or multiple runtime objects.
+        static thread_local std::vector<float> cached_features, cached_embeddings;
+        static thread_local const VoxCPM2Runtime* cached_owner = nullptr;
+        const bool cache_enabled = std::getenv("STUDIO_SINGLE_REFERENCE_CACHE") != nullptr;
+        std::vector<float> embeddings;
+        if (cache_enabled && cached_owner == this && cached_features == active) {
+            embeddings = cached_embeddings;
+        } else {
+            auto loc_hidden = run_locenc_sequence(active, static_cast<int>(positions.size()));
+            if (loc_hidden.empty()) return fail("LocEnc compact reference forward failed");
+            embeddings = run_enc_to_lm(loc_hidden, static_cast<int>(positions.size()));
+            if (embeddings.empty()) return fail("Compact enc_to_lm projection failed");
+            if (std::getenv("STUDIO_VERIFY_REFERENCE_COMPACTION")) {
+                auto original_hidden = run_locenc_sequence(inputs.audio_feat, seq_len);
+                auto original_embed = run_enc_to_lm(original_hidden, seq_len);
+                float error = 0;
+                for (size_t k = 0; k < positions.size(); ++k)
+                    for (int d = 0; d < hidden; ++d)
+                        error = std::max(error, std::abs(embeddings[k*hidden+d] - original_embed[positions[k]*hidden+d]));
+                LOG_INF("STUDIO_REFERENCE_COMPACTION_MAX_ERROR %.9g\n", error);
+                if (error > 1e-4f) return fail("Reference compaction numerical validation failed");
+            }
+            if (cache_enabled) { cached_owner = this; cached_features = active; cached_embeddings = embeddings; }
+        }
+        for (size_t k = 0; k < positions.size(); ++k)
+            std::copy_n(embeddings.data() + k*hidden, hidden,
+                        feat_embed.data() + static_cast<size_t>(positions[k])*hidden);
+
+        for (int i = 0; i < seq_len; ++i) {

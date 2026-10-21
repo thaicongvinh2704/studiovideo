@@ -13,6 +13,10 @@
 
 Audio, video, ZIP và mô hình ONNX được lưu qua Git LFS. Ảnh, project, kết quả minh họa và hồ sơ QC nằm trong repository; `dist/`, `build/`, môi trường Python và cache tải mô hình được tạo trên từng máy, không đóng kèm.
 
+Voice Studio hỗ trợ thêm giọng tham chiếu VieNeu-TTS bên cạnh Piper. Người dùng đã chốt `voices/demos/vietnamese_ab/B_giong_ke_tieng_viet.wav`: **Mỏ Đen · giọng Bắc · bản B**, hồ sơ `voices/mo_den_EFp49inlLuQ_04.voice.json`. Lời đọc mới dùng cùng mã giọng, âm sắc và nhịp nền B đã lưu. Cách nhấn/nghỉ theo từng ý được ghi trong `delivery.intent_settings` để đạo diễn áp dụng theo kịch bản. Máy mới cần cài `requirements-voice.txt` vào môi trường Python và tải model ở lần dùng đầu. Xem [ghi chú giọng tham chiếu](voices/references/README.md).
+
+Người dùng xác nhận vùng giọng **Bắc**; lời kể và demo dùng **tiếng Việt** theo [chuẩn giọng kể](VIETNAMESE_NARRATION_STANDARD.md). Demo A/B 51 và 52,6 giây, kịch bản gốc, bản chuẩn hóa cách đọc và hồ sơ chờ QC nghe nằm tại `voices/demos/vietnamese_ab/`. Kiểm tra kỹ thuật không thay cho nghe kiểm tra thanh điệu, phát âm và vùng giọng.
+
 ## Nội dung chính
 
 - `studio/`: mã nguồn giao diện, renderer, timeline, âm thanh, bàn vẽ và kiểm tra chất lượng.

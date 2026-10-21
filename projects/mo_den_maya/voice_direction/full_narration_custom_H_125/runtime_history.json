@@ -1,0 +1,14 @@
+[
+  {
+    "executable": "voices\\local_design\\build-vulkan\\bin\\studio-voice-batch.exe",
+    "sha256": "94a9e957655a8512555174eaf488b13f1a62d8f4c0bd7e28328a42c8ebdb705a",
+    "wrapper_sha256": "19a5c8773bc4abea17b68970e6e5992ffe6f41be2d7e976415cbdda247c2bf4b",
+    "upstream_commit": "a64932ec615e1463158129feaf2f0752d0c07a2e"
+  },
+  {
+    "executable": "voices\\local_design\\build-vulkan\\bin\\studio-voice-batch.exe",
+    "sha256": "4b428ff27a03496d3e7676da527ea2c9ea6fc5cbab2933e645d047788edffed9",
+    "wrapper_sha256": "19a5c8773bc4abea17b68970e6e5992ffe6f41be2d7e976415cbdda247c2bf4b",
+    "upstream_commit": "a64932ec615e1463158129feaf2f0752d0c07a2e"
+  }
+]

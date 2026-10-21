@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "engine": "VieNeu-TTS v3 Turbo 3.8.3",
+  "source": "installed preset catalog",
+  "source_repo": "https://github.com/pnnbao97/VieNeu-TTS",
+  "text": "Khoan đã! Nghe thì có lý, nhưng bằng chứng đâu? Mình là Mỏ Đen. Cùng mình lần theo từng dấu vết nhé. Biết đâu, điều thú vị nhất lại nằm ở chi tiết mà chúng ta vừa bỏ qua!",
+  "conditions": "Same text, seed, sampling, unaltered pitch and tempo; no music; -18 LUFS target.",
+  "status": "auditions_only_no_voice_selected",
+  "listening_review": "not_performed",
+  "candidates": [
+    {
+      "id": "01_adam_bua",
+      "voice": "Adam bựa",
+      "catalog_label": "⭐ Adam bựa — Nam · Bắc · Phong cách tự nhiên",
+      "file": "01_adam_bua.wav",
+      "seconds": 10.24,
+      "peak": 0.79434,
+      "rms": 0.12399,
+      "finite": true,
+      "sha256": "8856469fedb29529689898464c1a567c167cf1a33b24b6393b05ee56e13e83ed",
+      "generated_seconds": 5.61
+    },
+    {
+      "id": "02_xuan_vinh",
+      "voice": "Xuân Vĩnh",
+      "catalog_label": "Xuân Vĩnh — Nam · Bắc · Phong cách tự nhiên",
+      "file": "02_xuan_vinh.wav",
+      "seconds": 9.87,
+      "peak": 0.79434,
+      "rms": 0.13443,
+      "finite": true,
+      "sha256": "bc5e027fe5ead17fe4a1013483dba9d9f5a28a3f903070257a50fd3106b47e92",
+      "generated_seconds": 5.04
+    },
+    {
+      "id": "03_thai_son",
+      "voice": "Thái Sơn",
+      "catalog_label": "Thái Sơn — Nam · Nam · Phong cách kể chuyện",
+      "file": "03_thai_son.wav",
+      "seconds": 10.54,
+      "peak": 0.79434,
+      "rms": 0.13114,
+      "finite": true,
+      "sha256": "b08fd41683cbf68e6dd170568ea06d58ba44aa6147f05caa0206901ebd644d66",
+      "generated_seconds": 5.61
+    },
+    {
+      "id": "04_truc_ly",
+      "voice": "Trúc Ly",
+      "catalog_label": "⭐ Trúc Ly — Nữ · Bắc · Phong cách tự nhiên",
+      "file": "04_truc_ly.wav",
+      "seconds": 8.37,
+      "peak": 0.79321,
+      "rms": 0.12998,
+      "finite": true,
+      "sha256": "ac1b250316e525b2de8a8dfedd9d424bcc4231e0b7bf70301c811795afdd7c1e",
+      "generated_seconds": 4.44
+    }
+  ]
+}

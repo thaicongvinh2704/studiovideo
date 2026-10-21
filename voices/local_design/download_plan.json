@@ -1,0 +1,37 @@
+{
+  "runtime_commit": "a64932ec615e1463158129feaf2f0752d0c07a2e",
+  "files": [
+    {
+      "path": "models/VoxCPM2-BaseLM-Q8_0.gguf",
+      "bytes": 1727309920,
+      "sha256": "0113177abd11303503bf0b705e1613ec5f0a8508cc74a7dfd0f99312b962a962",
+      "url": "https://huggingface.co/DennisHuang648/VoxCPM2-GGUF/resolve/main/VoxCPM2-BaseLM-Q8_0.gguf"
+    },
+    {
+      "path": "models/VoxCPM2-Acoustic-F16.gguf",
+      "bytes": 1825096352,
+      "sha256": "5bde898488ad635ff55d24da53543768fa33d5e5cdc538ce190e5ef831038e85",
+      "url": "https://huggingface.co/DennisHuang648/VoxCPM2-GGUF/resolve/main/VoxCPM2-Acoustic-F16.gguf"
+    },
+    {
+      "path": "downloads/w64devkit-x64-2.10.1.7z.exe",
+      "bytes": 67263552,
+      "url": "https://github.com/skeeto/w64devkit/releases/download/v2.10.1/w64devkit-x64-2.10.1.7z.exe",
+      "sha256": "add1edf984ce4d473cfeb7c52e0ab38db73a855bba6c7f564d5e16648eb2896a"
+    },
+    {
+      "path": "downloads/cmake-4.4.4-windows-x86_64.zip",
+      "bytes": 54400562,
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.4.4/cmake-4.4.4-windows-x86_64.zip",
+      "sha256": "bace36e94b31c68ab6fa295f26dfa11219e0701cf7c94b0284a7d1cb13dac536"
+    },
+    {
+      "path": "downloads/7zr.exe",
+      "url": "https://www.7-zip.org/a/7zr.exe"
+    },
+    {
+      "path": "downloads/llama.cpp-omni-a64932ec615e1463158129feaf2f0752d0c07a2e.zip",
+      "url": "https://codeload.github.com/tc-mb/llama.cpp-omni/zip/a64932ec615e1463158129feaf2f0752d0c07a2e"
+    }
+  ]
+}

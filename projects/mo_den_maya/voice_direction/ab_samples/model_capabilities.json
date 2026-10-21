@@ -1,0 +1,49 @@
+{
+  "engine": "VieNeu-TTS v3 Turbo",
+  "sdk": "3.8.3",
+  "onnxruntime": "1.31.0",
+  "sea_g2p": "0.10.0",
+  "backend": "CPU ONNX fp32",
+  "inference": "vieneu.Vieneu(mode=v3turbo).infer",
+  "sample_rate": 48000,
+  "verified_controls": [
+    "text",
+    "voice with speaker_emb + codes",
+    "temperature",
+    "top_k",
+    "max_chars"
+  ],
+  "seed": "Fixed NumPy seed; local ONNX sampler uses np.random.choice. No public seed argument passed.",
+  "reference": "Stored denoised 8-second Vietnamese reference; same codes for all six samples.",
+  "style": "Ignored by installed v3 Turbo; no fake style/emotion arguments passed.",
+  "applied": [
+    "Meaningful complete-sentence grouping",
+    "Protected source cue spans",
+    "Pause events at complete inference boundaries, topping up existing silence",
+    "Modest whole-unit time stretch and gain when editorial pace/emphasis requests it"
+  ],
+  "approximate": [
+    "emphasis_phrases: entire semantic unit, not exact aligned words"
+  ],
+  "unsupported_or_unverified": [
+    "Guaranteed subtle emotional acting from tone/intent/direction labels",
+    "Word-level alignment or precise stressed syllable placement",
+    "Independent listening validation of pronunciation, region and reference cleanliness"
+  ],
+  "metadata_not_spoken": [
+    "title",
+    "intent",
+    "delivery",
+    "pause_events",
+    "source cue numbers",
+    "timecodes"
+  ],
+  "engine_style_evidence": "Installed vieneu/v3turbo.py infer; _v3_turbo_engine/onnx_runtime_lite.py _resolve_style_id",
+  "official_sources": [
+    "https://huggingface.co/pnnbao-ump/VieNeu-TTS-v3-Turbo",
+    "https://github.com/pnnbao97/VieNeu-TTS"
+  ],
+  "reference_quality": "Denoised is not proof of no music/one speaker; independent listening remains pending.",
+  "no_paid_api": true,
+  "new_large_model_downloads": false
+}

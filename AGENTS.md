@@ -8,6 +8,23 @@ Preserve supplied originals, index reusable expressions/poses, check the library
 
 The human-specific standards below remain applicable if a human illustration is explicitly requested; do not force human fingers, anatomy, or human QC metadata onto the cat. Cat identity/layout/transparency checks and any needed importer integration must be implemented honestly when actual assets arrive; do not label the cat as an object to bypass current character export checks.
 
+## Selected recurring voice: Mỏ Đen
+
+Maya production override (latest user selection, 21/10/2026): the user selected
+`projects/mo_den_maya/voice_direction/local_custom_voices_nam_v3/08_nam_custom_H_1_25x.wav`
+and explicitly authorized full Maya narration with it. Use the fixed H identity
+in `projects/mo_den_maya/voice_direction/selected_voice_H.json`, its preserved
+native generated reference and VoxCPM2 local for this production. Keep Northern
+Vietnamese and apply 1.25x once; do not regenerate a fresh designed speaker for
+each segment. Preserve old B files. The legacy Studio UI default below does not
+override this Maya selection. New generated narration still needs listening QC.
+
+Legacy Studio UI default (superseded by custom H for Maya): `voices/demos/vietnamese_ab/B_giong_ke_tieng_viet.wav` previously superseded the short variant-04 audition. Use `voices/mo_den_EFp49inlLuQ_04.voice.json` (UI label: `Mỏ Đen · giọng Bắc · bản B`) as the default recurring narration voice. Preserve the speaker/reference from variant 04, its fixed +0.8-semitone timbre and gentle EQ, and B's slower baseline pacing saved in `postprocess`. For directed semantic clips, use `delivery.intent_settings` for modest speed/gain changes and place the prescribed pauses on the timeline according to meaning. Do not loop the demo's eight beats onto unrelated scripts or pretend that saving a profile automatically directs emotions in arbitrary text. Preserve the chosen B WAV and encoded voice; do not silently replace them with earlier voices or presets. The speaker's identity is unverified. New narration still needs pronunciation and timing review; the user's selection does not batch-pass listening QC.
+
+## Vietnamese narration standard
+
+Before narration work, read `VIETNAMESE_NARRATION_STANDARD.md`. Output narration and demo scripts must be Vietnamese; the user confirmed the selected reference is Northern Vietnamese (Bắc). Preserve that region and speaker across segments. Keep original scripts and an explicit, context-bound pronunciation edit ledger. Natural semantic phrasing and tone accuracy take priority over expressiveness; do not add emotional pitch bends. Check model capabilities and actual listening separately; never mark pronunciation, region, or reference cleanliness passed from signal metrics alone.
+
 ## Historical human illustration standard
 
 The current source drawing desk has editable Bezier nodes, pressure strokes, reference tabs, construction guides, shared-node bindings, group bindings, a draft template library and a JSON command API. Read `DRAWING_DESK_GUIDE.md` before using these. Use shared construction where useful, render and inspect changes; do not infer visual quality from constraints or tests. The workbench exercise contains objects only and is not a character master.

@@ -1,0 +1,29 @@
+{
+  "edits": [],
+  "reason": "Original Vietnamese wording preserved; no phonetic aliases or global replacements",
+  "pronunciation_review": {
+    "status": "REQUIRES_LISTENING_AND_REFERENCE_CHECK",
+    "terms": [
+      "Maya",
+      "Tikal",
+      "Guatemala",
+      "Corriental",
+      "zeolit",
+      "Chichancanab",
+      "Yucatán",
+      "Itzan",
+      "Witzna",
+      "Naranjo",
+      "Chichén Itzá",
+      "Mayapán",
+      "Smithsonian",
+      "chu sa",
+      "thủy ngân",
+      "vi khuẩn lam",
+      "đồng vị",
+      "măng đá"
+    ],
+    "instruction": "Chưa gán phiên âm. Kiểm tra cách model đọc; tra nguồn phát âm đáng tin cho tên lạ trước khi cấu hình từ điển. Giữ nguyên chính tả trong phụ đề. Nếu dùng thay thế chỉ áp dụng trong lớp TTS và ghi lại ánh xạ."
+  },
+  "listening_status": "pending"
+}

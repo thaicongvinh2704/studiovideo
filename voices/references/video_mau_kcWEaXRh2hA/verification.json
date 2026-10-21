@@ -1,0 +1,39 @@
+{
+  "tests": "5 passed",
+  "voice_studio_catalog": "reference selected first with audition label",
+  "actual_voice_engine_synthesis": "passed, 48 kHz mono WAV",
+  "original_mp3_sha256_matches": "checked",
+  "listening_review": "not performed",
+  "pronunciation_review": "not performed",
+  "speaker_similarity_review": "pending user listening",
+  "audio": {
+    "reference_raw.wav": {
+      "seconds": 8.0,
+      "sample_rate": 44100,
+      "finite": true,
+      "peak": 0.82672,
+      "rms": 0.09343
+    },
+    "reference_clean.wav": {
+      "seconds": 8.0,
+      "sample_rate": 44100,
+      "finite": true,
+      "peak": 0.81552,
+      "rms": 0.09222
+    },
+    "audition.wav": {
+      "seconds": 11.56,
+      "sample_rate": 48000,
+      "finite": true,
+      "peak": 0.70593,
+      "rms": 0.13493
+    },
+    "studio_smoke.wav": {
+      "seconds": 3.107,
+      "sample_rate": 48000,
+      "finite": true,
+      "peak": 0.69919,
+      "rms": 0.14346
+    }
+  }
+}

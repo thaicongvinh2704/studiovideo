@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "engine": "vieneu-v3turbo",
+  "name": "Mỏ Đen · giọng Bắc · bản B",
+  "reference": "auditions/reference_EFp49inlLuQ_variants/reference_clean.wav",
+  "codes": "auditions/reference_EFp49inlLuQ_variants/reference_codes.npz",
+  "reference_sha256": "9f3fc9b285112be9e726b7447eb039f5b244e5a4f777e31f3cc3cc77b760578e",
+  "codes_sha256": "b67dc4c3747f01dc94f04fed62df31ded2ce4ef955eb93ca3c474b5a1a571045",
+  "source_video_id": "EFp49inlLuQ",
+  "source_sha256": "2a5feebc434f071fbbea48d6ad0cc03d64d8b65e47ffeacbc70d687369984043",
+  "source_segment_seconds": [
+    60.0,
+    68.0
+  ],
+  "speaker_identity": "Unverified; do not attribute to a named individual.",
+  "status": "user_selected",
+  "preferred": true,
+  "selected_for": "mo_den",
+  "selection_date": "2026-10-21",
+  "selected_audition": "demos/vietnamese_ab/B_giong_ke_tieng_viet.wav",
+  "selected_audition_sha256": "02d7b6cdec6d4dfc7df6e577340b06175eb78a36849e3a55482728884c020810",
+  "selection_note": "Người dùng chốt B_giong_ke_tieng_viet.wav làm chuẩn giọng kể tiếng Việt, giọng Bắc.",
+  "postprocess": {
+    "pitch_semitones": 0.8,
+    "tempo": 0.9406885109912899,
+    "formant": "preserved",
+    "equalizers": [
+      {
+        "frequency": 2800,
+        "width": 0.8,
+        "gain": 0.7
+      }
+    ]
+  },
+  "synthesis": {
+    "temperature": 0.6,
+    "top_k": 25,
+    "max_chars": 280
+  },
+  "audition_text": "Mình là Mỏ Đen. Hôm nay, chúng ta thử nhìn lịch sử từ một chi tiết rất nhỏ: một cuốn sổ đã sờn mép. Những thứ tưởng như bình thường đôi khi lại giữ một câu chuyện rất dài.\n\nGiữa những trang giấy cũ, có một dòng ghi chú bị bỏ dở. Ai đã viết nó, và vì sao câu chuyện dừng lại ở đây?\n\nKhoan đã. Nếu trang giấy ấy không bị mất, liệu chúng ta có hiểu quá khứ theo một cách khác không?\n\nĐiều khiến mình day dứt không phải là một khoảng trống, mà là những con người có thể đã bị lãng quên. Họ từng sống, từng hy vọng và từng chờ một ngày bình yên.\n\nGiờ thử nghe rõ sáu thanh: ma, má, mà, mả, mã, mạ.\n\nTrong ví dụ này, ngày hai mươi mốt tháng mười năm hai nghìn không trăm hai mươi sáu, An đi hai phẩy năm ki lô mét đến thành phố Hồ Chí Minh.\n\nTên Trần Hưng Đạo, địa danh Hà Nội, từ u nét cô và Niu Oóc cần được đọc rõ theo ngữ cảnh.\n\nKhông phải câu hỏi nào cũng có đáp án ngay. Nhưng khi biết lắng nghe và kiểm tra bằng chứng, chúng ta sẽ tiến gần hơn đến sự thật.",
+  "audition_seconds": 52.613,
+  "language": "vi-VN",
+  "region": "Bắc",
+  "region_confirmation": "Người dùng xác nhận giọng Bắc trong cuộc hội thoại ngày 21/10/2026.",
+  "narration_standard": "../VIETNAMESE_NARRATION_STANDARD.md",
+  "reference_listening_qc": "Chưa xác minh độc lập độ sạch nhạc nền và chỉ một người nói; không suy ra từ denoiser.",
+  "selection_history": [
+    {
+      "file": "auditions/reference_EFp49inlLuQ_variants/04_cao_nhanh.wav",
+      "sha256": "69d160f6422868fa01cf26db5fd9adc552867c10d92adf2e4457482b5b023846",
+      "postprocess": {
+        "pitch_semitones": 0.8,
+        "tempo": 1.035,
+        "formant": "preserved",
+        "equalizers": [
+          {
+            "frequency": 2800,
+            "width": 0.8,
+            "gain": 0.7
+          }
+        ]
+      }
+    }
+  ],
+  "delivery": {
+    "selected_version": "B",
+    "language": "vi-VN",
+    "region": "Bắc",
+    "base_pacing_fit": 0.9088777883973816,
+    "base_source_tempo": 1.035,
+    "default_semantic_pause_seconds": 0.35,
+    "intent_settings": {
+      "neutral": {
+        "speed_multiplier": 1.0,
+        "gain_db": 0.0,
+        "pause_after_seconds": 0.35
+      },
+      "curious": {
+        "speed_multiplier": 0.985,
+        "gain_db": 0.0,
+        "pause_after_seconds": 0.5
+      },
+      "question_focus": {
+        "speed_multiplier": 0.97,
+        "gain_db": 0.3,
+        "pause_after_seconds": 0.6
+      },
+      "emotional_focus": {
+        "speed_multiplier": 0.97,
+        "gain_db": 0.7,
+        "pause_after_seconds": 0.65
+      },
+      "clarity_test": {
+        "speed_multiplier": 1.0,
+        "gain_db": 0.0,
+        "pause_after_seconds": 0.3
+      },
+      "gentle_ending": {
+        "speed_multiplier": 0.97,
+        "gain_db": -0.7,
+        "pause_after_seconds": 0.55
+      }
+    },
+    "method": "Nhịp nền B áp dụng trong postprocess. Người dựng chọn nhấn/nghỉ theo ý nghĩa từng cụm, không lặp máy móc tám nhịp demo cho kịch bản mới. Không thêm bẻ cao độ cảm xúc.",
+    "reference_beats": [
+      {
+        "purpose": "Kể bình thường",
+        "text": "Mình là Mỏ Đen. Hôm nay, chúng ta thử nhìn lịch sử từ một chi tiết rất nhỏ: một cuốn sổ đã sờn mép. Những thứ tưởng như bình thường đôi khi lại giữ một câu chuyện rất dài.",
+        "speed": 0.9088777883973816,
+        "gain_db": 0.0
+      },
+      {
+        "purpose": "Tò mò, đặt câu hỏi",
+        "text": "Giữa những trang giấy cũ, có một dòng ghi chú bị bỏ dở. Ai đã viết nó, và vì sao câu chuyện dừng lại ở đây?",
+        "speed": 0.8952446215714209,
+        "gain_db": 0.0
+      },
+      {
+        "purpose": "Tò mò, gợi suy nghĩ",
+        "text": "Khoan đã. Nếu trang giấy ấy không bị mất, liệu chúng ta có hiểu quá khứ theo một cách khác không?",
+        "speed": 0.8816114547454602,
+        "gain_db": 0.3
+      },
+      {
+        "purpose": "Một điểm nhấn cảm xúc vừa đủ",
+        "text": "Điều khiến mình day dứt không phải là một khoảng trống, mà là những con người có thể đã bị lãng quên. Họ từng sống, từng hy vọng và từng chờ một ngày bình yên.",
+        "speed": 0.8816114547454602,
+        "gain_db": 0.7
+      },
+      {
+        "purpose": "Kiểm tra sáu thanh tiếng Việt",
+        "text": "Giờ thử nghe rõ sáu thanh: ma, má, mà, mả, mã, mạ.",
+        "speed": 0.9088777883973816,
+        "gain_db": 0.0
+      },
+      {
+        "purpose": "Kiểm tra ngày, số thập phân, đơn vị và viết tắt",
+        "text": "Trong ví dụ này, ngày hai mươi mốt tháng mười năm hai nghìn không trăm hai mươi sáu, An đi hai phẩy năm ki lô mét đến thành phố Hồ Chí Minh.",
+        "speed": 0.9088777883973816,
+        "gain_db": 0.0
+      },
+      {
+        "purpose": "Kiểm tra tên riêng và cách đọc từ nước ngoài",
+        "text": "Tên Trần Hưng Đạo, địa danh Hà Nội, từ u nét cô và Niu Oóc cần được đọc rõ theo ngữ cảnh.",
+        "speed": 0.9088777883973816,
+        "gain_db": 0.0
+      },
+      {
+        "purpose": "Kết lắng, gần gũi",
+        "text": "Không phải câu hỏi nào cũng có đáp án ngay. Nhưng khi biết lắng nghe và kiểm tra bằng chứng, chúng ta sẽ tiến gần hơn đến sự thật.",
+        "speed": 0.8816114547454602,
+        "gain_db": -0.7
+      }
+    ]
+  }
+}

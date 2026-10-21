@@ -1,0 +1,31 @@
+{
+  "engine": "VoxCPM2",
+  "service": "inmean/voxcpm2-demo",
+  "text": "Xin chào! Khoan đã, bạn vừa nghe thấy gì thế? Một chiếc đồng hồ đang chạy, một chú chim đang hót, hay chỉ là chiếc bụng đang đòi ăn? Hôm nay, chúng ta thử kể một câu chuyện thật nhỏ. Một người mang theo chiếc ô vào ngày nắng, nhưng lại quên mang ô khi trời mưa. Nghe quen quen nhỉ? Có những chuyện đơn giản mà nghĩ lại vẫn thấy buồn cười. Bây giờ, nghe rõ sáu thanh nhé: ma, má, mà, mả, mã, mạ. Hẹn gặp bạn lúc tám giờ ba mươi sáng ngày mai!",
+  "designs": [
+    {
+      "id": "01_mo_den_custom_A",
+      "prompt": "Native Vietnamese male speaking only Vietnamese, Northern Vietnam Hanoi pronunciation, clearly articulated lexical tones. Young adult, medium register, light vocal weight, lively conversational delivery, playful and mischievous with a subtle smile. Brisk natural storytelling, clear meaningful phrasing, subtle pauses for comic timing, clean dry studio recording. Distinctively forward, agile, lightly nasal timbre with crisp consonants; witty, curious, friendly character voice. Natural adult pitch, restrained energy."
+    },
+    {
+      "id": "02_mo_den_custom_B",
+      "prompt": "Native Vietnamese male speaking only Vietnamese, Northern Vietnam Hanoi pronunciation, clearly articulated lexical tones. Young adult, medium register, light vocal weight, lively conversational delivery, playful and mischievous with a subtle smile. Brisk natural storytelling, clear meaningful phrasing, subtle pauses for comic timing, clean dry studio recording. Rounded clear timbre, a little airy at phrase endings, nimble articulation, warm cheeky grin in the delivery. Medium pitch and relaxed throat, conversational intimacy."
+    },
+    {
+      "id": "03_mo_den_custom_C",
+      "prompt": "Native Vietnamese male speaking only Vietnamese, Northern Vietnam Hanoi pronunciation, clearly articulated lexical tones. Young adult, medium register, light vocal weight, lively conversational delivery, playful and mischievous with a subtle smile. Brisk natural storytelling, clear meaningful phrasing, subtle pauses for comic timing, clean dry studio recording. A distinctive lightly grainy papery texture with bright clear vowels, springy phrasing, dry understated humor, medium speaking pitch, friendly impish personality."
+    }
+  ],
+  "reference_wav_path_input": null,
+  "use_prompt_text": false,
+  "cfg_value_input": 2.0,
+  "do_normalize": false,
+  "denoise": false,
+  "voice_presets_used": false,
+  "previous_voice_audio_uploaded": false,
+  "public_generic_test_only": true,
+  "project_script_sent": false,
+  "character_identity_sent": false,
+  "pronunciation_edits": [],
+  "official_source": "https://huggingface.co/openbmb/VoxCPM2"
+}

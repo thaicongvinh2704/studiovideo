@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "engine": "vieneu-v3turbo",
+  "name": "Mỏ Đen · giọng trước",
+  "reference": "references/video_mau_kcWEaXRh2hA/reference_clean.wav",
+  "codes": "references/video_mau_kcWEaXRh2hA/reference_codes.npz",
+  "reference_sha256": "18dbcf548ed6dc76e7cf1c6bc8c9831f5ccacc8fa76420a87559ee2d565efa5f",
+  "codes_sha256": "298d28e4d3e5a6bddf736e2875da10ac816b2f3ce65e249a51fe8f039c60dc41",
+  "source_url": "https://www.youtube.com/watch?v=kcWEaXRh2hA",
+  "source_sha256": "75db57a1212a0794cd8f8a14756a0ede5916ffa5c9c1c88e83dac79e66d6129d",
+  "source_segment_seconds": [
+    60,
+    68
+  ],
+  "speaker_identity": "Unverified; do not attribute to a named individual.",
+  "status": "previously_selected",
+  "preferred": false,
+  "selected_for": "mo_den",
+  "selection_date": "2026-10-21",
+  "selected_audition": "references/video_mau_kcWEaXRh2hA/audition.wav",
+  "selection_note": "User explicitly chose this audition after comparing other voices.",
+  "audition_text": "Bạn có bao giờ tự hỏi, vì sao lịch sử vẫn còn những khoảng trống? Trong video này, Mỏ Đen sẽ cùng bạn lần theo từng dấu vết. Chúng ta sẽ phân biệt điều đã có bằng chứng, điều còn tranh luận, và những câu hỏi chưa thể trả lời.",
+  "audition_seconds": 11.56,
+  "elapsed_seconds": 23.85,
+  "quality_note": "User selected this audition as the recurring Mỏ Đen voice. This does not verify speaker identity or exact similarity to the source video.",
+  "selected_audition_sha256": "67f399d561fd7a5df1c79fb10ad7d6a572f905985597b4716eb85cef9a526ce1",
+  "superseded_by": "mo_den_EFp49inlLuQ_04.voice.json"
+}

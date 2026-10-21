@@ -14,6 +14,17 @@ class VoiceEngine:
 
     def voices(self):
         voices=[]
+        from .reference_voice import load_profile
+        profiles=[]
+        for p in sorted(self.folder.glob('*.voice.json')):
+            try:
+                profile=load_profile(p)
+            except (ValueError, KeyError, OSError):
+                continue
+            label=profile['name']
+            if profile.get('status')=='audition_pending_user_review':label+=' · Bản thử'
+            profiles.append((not profile.get('preferred',False),label,str(p)))
+        voices.extend((label,path) for _,label,path in sorted(profiles))
         for p in self.folder.glob('*.onnx'):
             if p.with_suffix(p.suffix+'.json').is_file():
                 voices.append((p.stem,str(p)))
@@ -24,7 +35,16 @@ class VoiceEngine:
     def synthesize(self,text,voice,path,speed=1.,volume=1.):
         if not text.strip(): raise ValueError('Nội dung giọng đọc đang trống.')
         Path(path).parent.mkdir(parents=True,exist_ok=True)
-        if voice == 'espeak':
+        if str(voice).endswith('.voice.json'):
+            from .reference_voice import load_profile, ReferenceSynthesizer, synthesize_external
+            import importlib.util
+            load_profile(voice)  # Never fall back to another voice on invalid references.
+            if importlib.util.find_spec('vieneu'):
+                key='reference:vieneu-v3turbo'
+                if key not in self.loaded:self.loaded[key]=ReferenceSynthesizer()
+                return self.loaded[key].synthesize(text,voice,path,speed,volume)
+            return synthesize_external(text,voice,path,speed,volume)
+        elif voice == 'espeak':
             subprocess.run(['espeak-ng','-v','vi','-s',str(round(165*speed)),'-a',str(round(volume*100)),
                             '-w',str(path),'--stdin'],input=text.encode('utf-8'),check=True,
                            creationflags=getattr(subprocess,'CREATE_NO_WINDOW',0))

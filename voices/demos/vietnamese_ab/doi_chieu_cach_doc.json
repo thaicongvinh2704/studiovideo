@@ -1,0 +1,124 @@
+[
+  {
+    "id": "01_ke_binh_thuong",
+    "purpose": "Kể bình thường",
+    "original": "Mình là Mỏ Đen. Hôm nay, chúng ta thử nhìn lịch sử từ một chi tiết rất nhỏ: một cuốn sổ đã sờn mép. Những thứ tưởng như bình thường đôi khi lại giữ một câu chuyện rất dài.",
+    "speed_b": 1.0,
+    "gain_b": 0.0,
+    "gap_b": 0.35,
+    "spoken": "Mình là Mỏ Đen. Hôm nay, chúng ta thử nhìn lịch sử từ một chi tiết rất nhỏ: một cuốn sổ đã sờn mép. Những thứ tưởng như bình thường đôi khi lại giữ một câu chuyện rất dài.",
+    "reading_edits": []
+  },
+  {
+    "id": "02_tim_dau_vet",
+    "purpose": "Tò mò, đặt câu hỏi",
+    "original": "Giữa những trang giấy cũ, có một dòng ghi chú bị bỏ dở. Ai đã viết nó, và vì sao câu chuyện dừng lại ở đây?",
+    "speed_b": 0.985,
+    "gain_b": 0.0,
+    "gap_b": 0.5,
+    "spoken": "Giữa những trang giấy cũ, có một dòng ghi chú bị bỏ dở. Ai đã viết nó, và vì sao câu chuyện dừng lại ở đây?",
+    "reading_edits": []
+  },
+  {
+    "id": "03_to_mo",
+    "purpose": "Tò mò, gợi suy nghĩ",
+    "original": "Khoan đã. Nếu trang giấy ấy không bị mất, liệu chúng ta có hiểu quá khứ theo một cách khác không?",
+    "speed_b": 0.97,
+    "gain_b": 0.3,
+    "gap_b": 0.6,
+    "spoken": "Khoan đã. Nếu trang giấy ấy không bị mất, liệu chúng ta có hiểu quá khứ theo một cách khác không?",
+    "reading_edits": []
+  },
+  {
+    "id": "04_nhan_cam_xuc",
+    "purpose": "Một điểm nhấn cảm xúc vừa đủ",
+    "original": "Điều khiến mình day dứt không phải là một khoảng trống, mà là những con người có thể đã bị lãng quên. Họ từng sống, từng hy vọng và từng chờ một ngày bình yên.",
+    "speed_b": 0.97,
+    "gain_b": 0.7,
+    "gap_b": 0.65,
+    "spoken": "Điều khiến mình day dứt không phải là một khoảng trống, mà là những con người có thể đã bị lãng quên. Họ từng sống, từng hy vọng và từng chờ một ngày bình yên.",
+    "reading_edits": []
+  },
+  {
+    "id": "05_sau_thanh",
+    "purpose": "Kiểm tra sáu thanh tiếng Việt",
+    "original": "Giờ thử nghe rõ sáu thanh: ma, má, mà, mả, mã, mạ.",
+    "speed_b": 1.0,
+    "gain_b": 0.0,
+    "gap_b": 0.3,
+    "spoken": "Giờ thử nghe rõ sáu thanh: ma, má, mà, mả, mã, mạ.",
+    "reading_edits": []
+  },
+  {
+    "id": "06_so_ngay_don_vi",
+    "purpose": "Kiểm tra ngày, số thập phân, đơn vị và viết tắt",
+    "original": "Trong ví dụ này, ngày 21/10/2026, An đi 2,5 km đến TP.HCM.",
+    "speed_b": 1.0,
+    "gain_b": 0.0,
+    "gap_b": 0.3,
+    "spoken": "Trong ví dụ này, ngày hai mươi mốt tháng mười năm hai nghìn không trăm hai mươi sáu, An đi hai phẩy năm ki lô mét đến thành phố Hồ Chí Minh.",
+    "reading_edits": [
+      {
+        "start": 22,
+        "end": 32,
+        "original": "21/10/2026",
+        "spoken": "hai mươi mốt tháng mười năm hai nghìn không trăm hai mươi sáu",
+        "reason": "Ngày theo thứ tự ngày/tháng/năm ở Việt Nam; giữ từ ngày đứng trước.",
+        "context": "Trong ví dụ này, ngày 21/10/2026, An đi 2,5 km đến TP.HCM"
+      },
+      {
+        "start": 40,
+        "end": 46,
+        "original": "2,5 km",
+        "spoken": "hai phẩy năm ki lô mét",
+        "reason": "Khoảng cách theo đơn vị ki lô mét, dấu phẩy thập phân.",
+        "context": ", ngày 21/10/2026, An đi 2,5 km đến TP.HCM."
+      },
+      {
+        "start": 51,
+        "end": 57,
+        "original": "TP.HCM",
+        "spoken": "thành phố Hồ Chí Minh",
+        "reason": "Viết tắt địa danh trong câu kể, đọc tên đầy đủ.",
+        "context": "0/2026, An đi 2,5 km đến TP.HCM."
+      }
+    ]
+  },
+  {
+    "id": "07_ten_rieng",
+    "purpose": "Kiểm tra tên riêng và cách đọc từ nước ngoài",
+    "original": "Tên Trần Hưng Đạo, địa danh Hà Nội, từ UNESCO và New York cần được đọc rõ theo ngữ cảnh.",
+    "speed_b": 1.0,
+    "gain_b": 0.0,
+    "gap_b": 0.35,
+    "spoken": "Tên Trần Hưng Đạo, địa danh Hà Nội, từ u nét cô và Niu Oóc cần được đọc rõ theo ngữ cảnh.",
+    "reading_edits": [
+      {
+        "start": 39,
+        "end": 45,
+        "original": "UNESCO",
+        "spoken": "u nét cô",
+        "reason": "Cách đọc Việt hóa dùng riêng trong bài thử; vẫn giữ tên gốc để đối chiếu.",
+        "context": "Đạo, địa danh Hà Nội, từ UNESCO và New York cần được đọc"
+      },
+      {
+        "start": 49,
+        "end": 57,
+        "original": "New York",
+        "spoken": "Niu Oóc",
+        "reason": "Cách đọc Việt hóa địa danh trong lời kể tiếng Việt; không chuyển cả câu sang tiếng Anh.",
+        "context": "anh Hà Nội, từ UNESCO và New York cần được đọc rõ theo ngữ"
+      }
+    ]
+  },
+  {
+    "id": "08_ket_lang",
+    "purpose": "Kết lắng, gần gũi",
+    "original": "Không phải câu hỏi nào cũng có đáp án ngay. Nhưng khi biết lắng nghe và kiểm tra bằng chứng, chúng ta sẽ tiến gần hơn đến sự thật.",
+    "speed_b": 0.97,
+    "gain_b": -0.7,
+    "gap_b": 0.55,
+    "spoken": "Không phải câu hỏi nào cũng có đáp án ngay. Nhưng khi biết lắng nghe và kiểm tra bằng chứng, chúng ta sẽ tiến gần hơn đến sự thật.",
+    "reading_edits": []
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "key": "bb73dda30521eae0c387e4f7051bf78cd531fe9c9b86236990af6105ea0c544f",
+  "request": {
+    "text": "(A young adult Vietnamese man speaking Vietnamese with Northern Hanoi pronunciation. Medium pitch, light vocal weight, clear Vietnamese tones, playful and mischievous, a subtle smile, nimble conversational storytelling, brisk natural pacing. Lightly grainy papery timbre, bright clear vowels, springy rhythmic phrasing, expressive curiosity and a restrained teasing smile.)Khoan đã! Nghe thì có lý, nhưng bằng chứng đâu? Mình là Mỏ Đen. Cùng mình soi từng dấu vết nhé. Đừng vội kéo người ngoài hành tinh vào, cứ để họ nghỉ một hôm đã! Có khi câu trả lời nằm ngay dưới chân mình đấy. Thử nghe sáu thanh: ma, má, mà, mả, mã, mạ.",
+    "seed": 20261023,
+    "binary": "0cfee687ea51f70746489485f03c39da22ad265f7149d44abee7250d63eb6bce",
+    "inference": {
+      "cfg": 2.0,
+      "timesteps": 10,
+      "temperature": 1.0,
+      "max_steps": 350,
+      "omp_threads": 6
+    },
+    "models": {
+      "models": [
+        {
+          "file": "VoxCPM2-BaseLM-Q8_0.gguf",
+          "sha256": "0113177abd11303503bf0b705e1613ec5f0a8508cc74a7dfd0f99312b962a962"
+        },
+        {
+          "file": "VoxCPM2-Acoustic-F16.gguf",
+          "sha256": "5bde898488ad635ff55d24da53543768fa33d5e5cdc538ce190e5ef831038e85"
+        }
+      ]
+    }
+  },
+  "elapsed_seconds": 142.09400000004098,
+  "original_sha256": "4f28049200e8a851b850d52e2e1794b210ee6067144e5896f2e7d468297310b1"
+}

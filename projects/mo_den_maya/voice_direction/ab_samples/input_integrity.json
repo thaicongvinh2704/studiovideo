@@ -1,0 +1,13 @@
+{
+  "files": {
+    "00_DOC_TRUOC_VA_PROMPT_CODEX.md": "b715fbc0c9d8923d932e82c4c006800e93312b8219533dae2a238ec980c76fbc",
+    "01_Loi_Ke_Sach.txt": "bba07ffefe43c109163d44fc041d4693c164a9aaf9a313631ff5d2f113dad434",
+    "02_Dao_Dien_Giong_Viet.json": "fb742cc2234d4eb8b99122fc879fae1d65e4b2b43d73ca1df0c3f7b844f5f7b5",
+    "03_Maya_Timecode_Tham_Chieu.srt": "76ddaaeb0452d3c5c45aa7f04a08bdb34da52371724f7a088406240eb0aafabd"
+  },
+  "supplied_srt_sha256": "76ddaaeb0452d3c5c45aa7f04a08bdb34da52371724f7a088406240eb0aafabd",
+  "supplied_equals_packaged_srt": true,
+  "txt_equals_beats": true,
+  "srt_equals_source_cues": true,
+  "all_275_cues_covered_once": true
+}

@@ -1,0 +1,64 @@
+{
+  "installed": true,
+  "runtime": "llama.cpp-omni voxcpm2-cli",
+  "runtime_commit": "a64932ec615e1463158129feaf2f0752d0c07a2e",
+  "binary": "voices\\local_design\\build-cpu\\bin\\voxcpm2-cli.exe",
+  "binary_sha256": "0cfee687ea51f70746489485f03c39da22ad265f7149d44abee7250d63eb6bce",
+  "backend": "CPU",
+  "gpu_acceleration": false,
+  "voice_design": true,
+  "preset_required": false,
+  "reference_required": false,
+  "network_required_for_generation": false,
+  "smoke_test": {
+    "file": "smoke_test.wav",
+    "sample_rate": 48000,
+    "seconds": 6.24,
+    "inference_seconds": 44.409,
+    "utf8_text_log_verified": true,
+    "listening_qc": "NOT_PERFORMED"
+  },
+  "samples_directory": "projects/mo_den_maya/voice_direction/local_custom_voices_v1",
+  "samples_state": "three_samples_generated_pending_listening",
+  "samples": [
+    {
+      "file": "projects\\mo_den_maya\\voice_direction\\local_custom_voices_v1\\01_custom_A_1_25x.wav",
+      "seconds": 13.696,
+      "sha256": "268942204b3299f64b4a1daf94996118060ec208da7b37e88a325955d3e78df0"
+    },
+    {
+      "file": "projects\\mo_den_maya\\voice_direction\\local_custom_voices_v1\\02_custom_B_1_25x.wav",
+      "seconds": 13.762916666666667,
+      "sha256": "936e655346da36367fde0cfe134e878b025195f95af8b5126824e9e73ab5adb2"
+    },
+    {
+      "file": "projects\\mo_den_maya\\voice_direction\\local_custom_voices_v1\\03_custom_C_1_25x.wav",
+      "seconds": 17.792,
+      "sha256": "c05e5e9a9a0bc2a20c96df1f143c00b0302b6be488654d0e37da204e7c0c584e"
+    }
+  ],
+  "additional_audition_batches": [
+    {
+      "directory": "projects\\mo_den_maya\\voice_direction\\local_custom_voices_bac_v2",
+      "requested_region": "Bắc / Hà Nội",
+      "samples": [
+        "04_bac_custom_D_1_25x.wav",
+        "05_bac_custom_E_1_25x.wav",
+        "06_bac_custom_F_1_25x.wav"
+      ],
+      "listening_qc": "pending user listening"
+    },
+    {
+      "directory": "projects\\mo_den_maya\\voice_direction\\local_custom_voices_nam_v3",
+      "requested_region": "Bắc / Hà Nội",
+      "requested_gender": "male",
+      "samples": [
+        "07_nam_custom_G_1_25x.wav",
+        "08_nam_custom_H_1_25x.wav",
+        "09_nam_custom_I_1_25x.wav",
+        "10_nam_custom_J_1_25x.wav"
+      ],
+      "listening_qc": "pending user listening"
+    }
+  ]
+}
