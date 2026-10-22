@@ -1,6 +1,14 @@
 # Bàn giao dự án Mỏ Đen – Maya
 
-Cập nhật lần cuối: 21/10/2026.
+Cập nhật bàn giao agent: 22/10/2026. Các ghi chú sản xuất bên dưới giữ lịch sử 21/10.
+
+## Phối hợp Codex và Antigravity
+
+Đọc `AGENT_HANDOFF.md` ở root và `coordination/state.json`, `tasks.json`,
+`checkpoint.json` để biết việc hiện tại và người giữ quyền sửa. Sau pull ngày
+22/10, local đã ở `30b1e62`; MP4, V3 và tư liệu tập 02 có trên máy. Đối chiếu Git
+thực tế trước khi dùng ghi chú upload cũ. Tên Final/V3 không đồng nghĩa đã được
+người dùng duyệt. Lượt thiết lập bàn giao không sửa hay duyệt phim Maya.
 
 ## Phản hồi mới nhất · V2 chưa đạt yêu cầu đạo diễn
 

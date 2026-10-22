@@ -1,5 +1,7 @@
 # Studio Video
 
+Phân vai Codex/Antigravity và cách tiếp tục khi đổi agent: [bàn giao dùng chung](AGENT_HANDOFF.md).
+
 Ứng dụng Windows viết bằng Python/PySide6 để dựng video giải thích kiến thức với timeline, lời đọc, hình vẽ vector và ảnh tư liệu.
 
 Đây là mã nguồn dự án hiện tại, thay nội dung ứng dụng trước đó trong repository này. Hướng dẫn đầy đủ: [README_VI.md](README_VI.md).

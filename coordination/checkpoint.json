@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "created_utc": "2026-10-22T08:34:55.023182+00:00",
+  "repo_root": "D:\\stickman-animation-studio\\stickman-animation-studio",
+  "state": {
+    "version": 1,
+    "active_writer": null,
+    "objective": "Sửa chân trước chưa tự nhiên: xuất demo V3 có khuỷu và bàn chân điều khiển riêng.",
+    "current_task": "ANIM-RIG-003",
+    "next_task": "ANIM-REVIEW-003",
+    "antigravity_capability_status": "pending_native_session_validation",
+    "automatic_failover": false,
+    "latest_user_authorization": "Người dùng phản hồi tay mèo nhìn chưa tự nhiên; sửa tiếp diễn hoạt, giữ PNG nguồn và H.",
+    "production_constraints": [
+      "Maya V2 bị từ chối về đạo diễn; V3 và các file có tên Final chưa được xác nhận đã duyệt trong lượt này.",
+      "Bảo toàn PNG Mỏ Đen supplied; diễn hoạt dùng derivative rig riêng, giữ nhận diện; chưa có rig được duyệt.",
+      "Maya dùng custom H giọng Bắc, 1.25x một lần; giữ bản gốc và QC nghe.",
+      "Kiểm tra kỹ thuật không chứng nhận QC thẩm mỹ hay QC nghe.",
+      "Bảo toàn sáu WAV local đã có trước thay đổi phối hợp agent."
+    ],
+    "next_action": "Xem outputs/mo_den_motion_demo_articulated_v3/Mo_Den_demo_15s_articulated_v3.mp4; chưa duyệt thẩm mỹ, chưa áp dụng phim Maya.",
+    "last_transition_utc": "2026-10-22T08:34:34.108367+00:00"
+  },
+  "git": {
+    "available": true,
+    "head": {
+      "ok": true,
+      "output": "30b1e621995bc167819f0498eb44ec2ddd2ab1f5"
+    },
+    "origin_main": {
+      "ok": true,
+      "output": "30b1e621995bc167819f0498eb44ec2ddd2ab1f5"
+    },
+    "working_tree": {
+      "ok": true,
+      "output": " M .gitignore\n M AGENTS.md\n M README.md\n M projects/mo_den_maya/HANDOFF.md\n M projects/mo_den_maya/voice_direction/ab_samples/01_mo_bai/A_pipeline_hien_tai_unmatched.wav\n?? AGENT_HANDOFF.md\n?? GEMINI.md\n?? assets/characters/mo_den/animation/README.md\n?? coordination/ANTIGRAVITY_START.md\n?? coordination/checkpoint.json\n?? coordination/reports/codex_baseline.md\n?? coordination/state.json\n?? coordination/tasks.json\n?? outputs/mo_den_motion_demo_15s/Mo_Den_demo_15s.mp4\n?? outputs/mo_den_motion_demo_15s/contact_sheet.jpg\n?? outputs/mo_den_motion_demo_15s/decoded_filmstrip.jpg\n?? outputs/mo_den_motion_demo_15s/face_qc.png\n?? outputs/mo_den_motion_demo_15s/poster.png\n?? outputs/mo_den_motion_demo_15s/preview_00.00.png\n?? outputs/mo_den_motion_demo_15s/preview_01.72.png\n?? outputs/mo_den_motion_demo_15s/preview_03.00.png\n?? outputs/mo_den_motion_demo_15s/preview_05.94.png\n?? outputs/mo_den_motion_demo_15s/preview_07.00.png\n?? outputs/mo_den_motion_demo_15s/preview_09.02.png\n?? outputs/mo_den_motion_demo_15s/preview_10.80.png\n?? outputs/mo_den_motion_demo_15s/preview_13.45.png\n?? outputs/mo_den_motion_demo_15s/preview_14.70.png\n?? outputs/mo_den_motion_demo_15s/rig_coordinates.jpg\n?? outputs/mo_den_motion_demo_15s/verification.json\n?? outputs/mo_den_motion_demo_articulated_v3/Mo_Den_demo_15s_articulated_v3.mp4\n?? outputs/mo_den_motion_demo_articulated_v3/contact_sheet.jpg\n?? outputs/mo_den_motion_demo_articulated_v3/decoded_shoulders.jpg\n?? outputs/mo_den_motion_demo_articulated_v3/preview_00.00.png\n?? outputs/mo_den_motion_demo_articulated_v3/preview_01.50.png\n?? outputs/mo_den_motion_demo_articulated_v3/preview_02.40.png\n?? outputs/mo_den_motion_demo_articulated_v3/preview_03.10.png\n?? outputs/mo_den_motion_demo_articulated_v3/preview_04.50.png\n?? outputs/mo_den_motion_demo_articulated_v3/preview_05.60.png\n?? outputs/mo_den_motion_demo_articulated_v3/preview_06.50.png\n?? outputs/mo_den_motion_demo_articulated_v3/preview_09.60.png\n?? outputs/mo_den_motion_demo_articulated_v3/preview_10.70.png\n?? outputs/mo_den_motion_demo_articulated_v3/preview_11.50.png\n?? outputs/mo_den_motion_demo_articulated_v3/preview_12.50.png\n?? outputs/mo_den_motion_demo_articulated_v3/preview_14.70.png\n?? outputs/mo_den_motion_demo_rigid_v2/Mo_Den_demo_15s_rigid_v2.mp4\n?? outputs/mo_den_motion_demo_rigid_v2/contact_sheet.jpg\n?? outputs/mo_den_motion_demo_rigid_v2/decoded_shoulders.jpg\n?? outputs/mo_den_motion_demo_rigid_v2/preview_00.00.png\n?? outputs/mo_den_motion_demo_rigid_v2/preview_01.72.png\n?? outputs/mo_den_motion_demo_rigid_v2/preview_02.20.png\n?? outputs/mo_den_motion_demo_rigid_v2/preview_04.80.png\n?? outputs/mo_den_motion_demo_rigid_v2/preview_05.94.png\n?? outputs/mo_den_motion_demo_rigid_v2/preview_07.00.png\n?? outputs/mo_den_motion_demo_rigid_v2/preview_09.80.png\n?? outputs/mo_den_motion_demo_rigid_v2/preview_11.20.png\n?? outputs/mo_den_motion_demo_rigid_v2/preview_14.70.png\n?? projects/mo_den_maya/voice_direction/ab_samples/02_muoi_ba_nam/A_pipeline_hien_tai_unmatched.wav\n?? projects/mo_den_maya/voice_direction/ab_samples/03_nhin_lai_su_sup_do/A_pipeline_hien_tai_unmatched.wav\n?? projects/mo_den_motion_demo/README.md\n?? projects/mo_den_motion_demo/articulated_v3/README.md\n?? projects/mo_den_motion_demo/articulated_v3/body.png\n?? projects/mo_den_motion_demo/articulated_v3/feet.png\n?? projects/mo_den_motion_demo/articulated_v3/joint_track.json\n?? projects/mo_den_motion_demo/articulated_v3/left_arm.png\n?? projects/mo_den_motion_demo/articulated_v3/left_supplied_paw.png\n?? projects/mo_den_motion_demo/articulated_v3/manifest.json\n?? projects/mo_den_motion_demo/articulated_v3/right_arm.png\n?? projects/mo_den_motion_demo/articulated_v3/right_supplied_paw.png\n?? projects/mo_den_motion_demo/articulated_v3/tail.png\n?? projects/mo_den_motion_demo/audio_H_excerpt_15s.wav\n?? projects/mo_den_motion_demo/demo_manifest.json\n?? projects/mo_den_motion_demo/face_clean_derivative.png\n?? projects/mo_den_motion_demo/mouth_cues_raw.json\n?? projects/mo_den_motion_demo/rigid_v2/README.md\n?? projects/mo_den_motion_demo/rigid_v2/body.png\n?? projects/mo_den_motion_demo/rigid_v2/feet.png\n?? projects/mo_den_motion_demo/rigid_v2/left_arm.png\n?? projects/mo_den_motion_demo/rigid_v2/manifest.json\n?? projects/mo_den_motion_demo/rigid_v2/right_arm.png\n?? projects/mo_den_motion_demo/rigid_v2/tail.png\n?? tests/test_agent_handoff.py\n?? tools/agent_handoff.py\n?? tools/render_mo_den_articulated_demo.py\n?? tools/render_mo_den_motion_demo.py\n?? tools/render_mo_den_rigid_demo.py\n?? voices/auditions/reference_EFp49inlLuQ_variants/production_voice_check.wav\n?? voices/demos/vietnamese_ab/selected_B_new_sentence.wav\n?? voices/references/video_mau_kcWEaXRh2hA/studio_smoke.wav"
+    }
+  },
+  "runtime": {
+    "python": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\angkor_wat_1min\\.venv\\Scripts\\python.exe",
+    "python_version": "3.12.10",
+    "modules": {
+      "PySide6": true,
+      "PIL": true,
+      "piper": false
+    },
+    "ffmpeg": "C:\\Users\\ADMIN\\ffmpeg\\bin\\ffmpeg.EXE",
+    "ffprobe": "C:\\Users\\ADMIN\\ffmpeg\\bin\\ffprobe.EXE"
+  },
+  "required_files": {
+    "AGENTS.md": true,
+    "GEMINI.md": true,
+    "AGENT_HANDOFF.md": true,
+    "coordination/ANTIGRAVITY_START.md": true,
+    "coordination/tasks.json": true,
+    "projects/mo_den_maya/HANDOFF.md": true,
+    "assets/characters/mo_den/manifest.json": true,
+    "projects/mo_den_maya/voice_direction/selected_voice_H.json": true
+  },
+  "media": {
+    "projects/mo_den_maya/assets/audio/narration.wav": {
+      "exists": true,
+      "bytes": 79795870,
+      "lfs_pointer": false
+    },
+    "outputs/Mo_Den_Maya_Dao_Dien_Final_1080p.mp4": {
+      "exists": true,
+      "bytes": 111295389,
+      "lfs_pointer": false
+    },
+    "projects/mo_den_maya/director_v2/Mo_Den_Maya_Dao_Dien_V2_1080p.mp4": {
+      "exists": true,
+      "bytes": 135968992,
+      "lfs_pointer": false
+    }
+  },
+  "not_verified_by_this_tool": [
+    "agent_model_response",
+    "Antigravity abilities",
+    "new_voice_synthesis",
+    "visual_quality",
+    "listening_qc"
+  ],
+  "author": "codex",
+  "summary": "V2 forelimbs rejected as unnatural. Rendered V3 with two fixed-length bones, independent supplied paw textures and delayed wrist turns, smaller staggered gestures, no full-body mesh. Inspected current output frames and decoded shoulders; decode passed. User aesthetic and realtime audiovisual review pending.",
+  "next_action": "Review outputs/mo_den_motion_demo_articulated_v3/Mo_Den_demo_15s_articulated_v3.mp4; V1/V2 are rejected motion references. No full-film or production rig approval."
+}

@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "active_writer": "codex",
+  "objective": "Sửa chân trước chưa tự nhiên: xuất demo V3 có khuỷu và bàn chân điều khiển riêng.",
+  "current_task": "ANIM-RIG-003",
+  "next_task": "ANIM-REVIEW-003",
+  "antigravity_capability_status": "pending_native_session_validation",
+  "automatic_failover": false,
+  "latest_user_authorization": "Người dùng phản hồi tay mèo nhìn chưa tự nhiên; sửa tiếp diễn hoạt, giữ PNG nguồn và H.",
+  "production_constraints": [
+    "Maya V2 bị từ chối về đạo diễn; V3 và các file có tên Final chưa được xác nhận đã duyệt trong lượt này.",
+    "Bảo toàn PNG Mỏ Đen supplied; diễn hoạt dùng derivative rig riêng, giữ nhận diện; chưa có rig được duyệt.",
+    "Maya dùng custom H giọng Bắc, 1.25x một lần; giữ bản gốc và QC nghe.",
+    "Kiểm tra kỹ thuật không chứng nhận QC thẩm mỹ hay QC nghe.",
+    "Bảo toàn sáu WAV local đã có trước thay đổi phối hợp agent."
+  ],
+  "next_action": "Xem outputs/mo_den_motion_demo_articulated_v3/Mo_Den_demo_15s_articulated_v3.mp4; chưa duyệt thẩm mỹ, chưa áp dụng phim Maya.",
+  "last_transition_utc": "2026-10-22T09:56:01.204725+00:00"
+}

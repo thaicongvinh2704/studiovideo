@@ -1,0 +1,26 @@
+{
+  "video": "Mo_Den_demo_15s.mp4",
+  "duration_seconds": 15.0,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "video_frames": 450,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_duration_seconds": 15.0,
+  "file_bytes": 1488012,
+  "full_ffmpeg_decode_exit_code": 0,
+  "visual_evidence_opened": [
+    "poster.png",
+    "contact_sheet.jpg",
+    "face_qc.png",
+    "decoded_filmstrip.jpg"
+  ],
+  "visual_findings": "Current inspected frames keep face identity and attached limbs, ears/tail inside frame; no duplicate baked-in mouth or open eyes during closed blink. Font tofu found in first draft and fixed before final encode.",
+  "realtime_playback_qc": "Not independently evaluated by watching/hearing in real time",
+  "vietnamese_phoneme_accuracy": "Not certified; Rhubarb phonetic heuristic",
+  "user_approval": "rejected_motion: forepaws imperceptible, body stretches",
+  "motion_qc": "failed_user_feedback"
+}

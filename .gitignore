@@ -27,6 +27,7 @@ token.json
 *.tmp
 *.log
 backups/git/
+coordination/.state.lock
 
 # Project source, examples, artwork, QC and rendered deliverables are included.
 # Large audio/video/archive/model files use Git LFS (see .gitattributes).

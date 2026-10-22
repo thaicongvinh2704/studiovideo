@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "tasks": [
+    {
+      "id": "ANIM-PLAN-001",
+      "status": "completed_specification_only",
+      "owner": "codex",
+      "objective": "Khảo sát khả năng diễn hoạt Mỏ Đen, bộ PNG và renderer/QC hiện có.",
+      "evidence": "assets/characters/mo_den/animation/README.md",
+      "animation_implemented": false
+    },
+    {
+      "id": "ANIM-RIG-001",
+      "status": "rejected_user_motion_feedback",
+      "owner": "codex",
+      "objective": "Chuẩn bị rig2D đầu/mắt/miệng/thân/chân trước/đuôi theo đúng Mỏ Đen, rồi làm demo ngồi kể chuyện 10–15 giây bằng audio H có sẵn.",
+      "requirements": "assets/characters/mo_den/animation/README.md",
+      "evidence": "projects/mo_den_motion_demo/README.md",
+      "demo": "outputs/mo_den_motion_demo_15s/Mo_Den_demo_15s.mp4",
+      "production_rig_integration_implemented": false,
+      "acceptance": [
+        "Originals bất biến",
+        "Model tách lớp và vùng bị che hoàn thiện",
+        "Nhận diện và khớp nối nguyên vẹn ở biên chuyển động",
+        "Xem/nghe demo lip sync tiếng Việt thật, không tự PASS từ FPS/test",
+        "Người dùng xem demo trước khi áp dụng cả phim"
+      ]
+    },
+    {
+      "id": "SETUP-001",
+      "status": "completed",
+      "owner": "codex",
+      "objective": "Khảo sát môi trường, tạo phân vai, trạng thái/checkpoint và hướng dẫn tiếp quản.",
+      "evidence": "coordination/reports/codex_baseline.md",
+      "acceptance": [
+        "Bảo toàn quy định sản xuất",
+        "Công cụ phối hợp không gọi model/credential",
+        "Có baseline kỹ thuật và bài kiểm tra riêng cho Antigravity"
+      ]
+    },
+    {
+      "id": "AG-001",
+      "status": "pending_native_session",
+      "owner": "antigravity",
+      "objective": "Chứng minh khả năng đọc repo, chạy môi trường/test và tạo báo cáo thật trong phiên Antigravity chính thức.",
+      "instructions": "coordination/ANTIGRAVITY_START.md",
+      "report": "coordination/reports/antigravity_acceptance.md",
+      "allowed_writes": [
+        "coordination/"
+      ],
+      "allowed_test_artifacts": [
+        "Temporary outputs created and cleaned by the specified tests",
+        "Ignored Python caches"
+      ],
+      "source_changes_allowed": false,
+      "acceptance": [
+        "Giải thích đúng Mỏ Đen, H/Bắc/1.25x, V2 bị từ chối, QC không thể suy từ test",
+        "Phát hiện đúng interpreter và dependency hiện có",
+        "Chạy test thật và ghi lệnh, exit code, số test, pass/fail/skip",
+        "Kiểm tra video/audio thật bằng ffprobe; không nhầm file LFS pointer",
+        "Mở một ảnh Mỏ Đen bằng công cụ xem ảnh; thiếu công cụ phải ghi chưa đánh giá",
+        "Cập nhật state/checkpoint mà không đổi tài sản hay giọng"
+      ]
+    },
+    {
+      "id": "PRODUCTION-NEXT",
+      "status": "awaiting_user_production_task",
+      "owner": null,
+      "objective": "Tiếp tục việc video/mã nguồn cụ thể tiếp theo khi người dùng giao; không tự coi phim Maya đã được sửa trong lượt thiết lập agent.",
+      "known_pending_items": [
+        "Đánh giá V3 bằng hình/clip thật theo phản hồi lặp nền",
+        "QC nghe toàn bài H",
+        "Tư liệu và brief tập 02 có sẵn nhưng chưa dựng trong lượt này"
+      ]
+    },
+    {
+      "id": "ANIM-RIG-002",
+      "status": "rejected_forelimbs_unnatural",
+      "owner": "codex",
+      "evidence": "projects/mo_den_motion_demo/rigid_v2/README.md",
+      "demo": "outputs/mo_den_motion_demo_rigid_v2/Mo_Den_demo_15s_rigid_v2.mp4",
+      "production_rig_integration_implemented": false
+    },
+    {
+      "id": "ANIM-RIG-003",
+      "status": "articulated_v3_rendered_awaiting_user_review",
+      "owner": "codex",
+      "evidence": "projects/mo_den_motion_demo/articulated_v3/README.md",
+      "demo": "outputs/mo_den_motion_demo_articulated_v3/Mo_Den_demo_15s_articulated_v3.mp4",
+      "production_rig_integration_implemented": false
+    }
+  ]
+}
