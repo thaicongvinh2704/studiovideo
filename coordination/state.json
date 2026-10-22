@@ -1,12 +1,12 @@
 {
   "version": 1,
   "active_writer": "codex",
-  "objective": "Sửa chân trước chưa tự nhiên: xuất demo V3 có khuỷu và bàn chân điều khiển riêng.",
-  "current_task": "ANIM-RIG-003",
-  "next_task": "ANIM-REVIEW-003",
-  "antigravity_capability_status": "pending_native_session_validation",
+  "objective": "Dựng demo hoạt hình 15s Mỏ Đen nhép miệng và di chuyển cử động tương tác trong bối cảnh Maya theo yêu cầu người dùng.",
+  "current_task": "ANIM-ACTION-001",
+  "next_task": "PRODUCTION-NEXT",
+  "antigravity_capability_status": "verified_native_session",
   "automatic_failover": false,
-  "latest_user_authorization": "Người dùng phản hồi tay mèo nhìn chưa tự nhiên; sửa tiếp diễn hoạt, giữ PNG nguồn và H.",
+  "latest_user_authorization": "Người dùng yêu cầu làm Mỏ Đen nhép miệng và có các hành động di chuyển như nhân vật động trong video 15s; Antigravity đã hoàn thành AG-001 và render demo Mo_Den_action_demo_15s.mp4.",
   "production_constraints": [
     "Maya V2 bị từ chối về đạo diễn; V3 và các file có tên Final chưa được xác nhận đã duyệt trong lượt này.",
     "Bảo toàn PNG Mỏ Đen supplied; diễn hoạt dùng derivative rig riêng, giữ nhận diện; chưa có rig được duyệt.",
@@ -14,6 +14,6 @@
     "Kiểm tra kỹ thuật không chứng nhận QC thẩm mỹ hay QC nghe.",
     "Bảo toàn sáu WAV local đã có trước thay đổi phối hợp agent."
   ],
-  "next_action": "Xem outputs/mo_den_motion_demo_articulated_v3/Mo_Den_demo_15s_articulated_v3.mp4; chưa duyệt thẩm mỹ, chưa áp dụng phim Maya.",
-  "last_transition_utc": "2026-10-22T09:56:01.204725+00:00"
+  "next_action": "Chờ người dùng xem và đánh giá outputs/mo_den_action_demo_15s/Mo_Den_action_demo_15s.mp4; chưa áp dụng vào toàn phim Maya.",
+  "last_transition_utc": "2026-10-22T10:13:06.933637+00:00"
 }

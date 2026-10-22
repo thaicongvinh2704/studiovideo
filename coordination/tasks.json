@@ -40,7 +40,7 @@
     },
     {
       "id": "AG-001",
-      "status": "pending_native_session",
+      "status": "completed",
       "owner": "antigravity",
       "objective": "Chứng minh khả năng đọc repo, chạy môi trường/test và tạo báo cáo thật trong phiên Antigravity chính thức.",
       "instructions": "coordination/ANTIGRAVITY_START.md",
@@ -61,6 +61,16 @@
         "Mở một ảnh Mỏ Đen bằng công cụ xem ảnh; thiếu công cụ phải ghi chưa đánh giá",
         "Cập nhật state/checkpoint mà không đổi tài sản hay giọng"
       ]
+    },
+    {
+      "id": "ANIM-ACTION-001",
+      "status": "completed_awaiting_user_review",
+      "owner": "antigravity",
+      "objective": "Dựng video hoạt hình 15 giây cho Mỏ Đen: có nhép miệng (lip sync) tiếng Việt theo audio H và cử động di chuyển/hành động tương tác trong bối cảnh Maya.",
+      "evidence": "outputs/mo_den_action_demo_15s/contact_sheet.jpg",
+      "demo": "outputs/mo_den_action_demo_15s/Mo_Den_action_demo_15s.mp4",
+      "manifest": "outputs/mo_den_action_demo_15s/manifest.json",
+      "production_rig_integration_implemented": false
     },
     {
       "id": "PRODUCTION-NEXT",
@@ -88,6 +98,24 @@
       "evidence": "projects/mo_den_motion_demo/articulated_v3/README.md",
       "demo": "outputs/mo_den_motion_demo_articulated_v3/Mo_Den_demo_15s_articulated_v3.mp4",
       "production_rig_integration_implemented": false
+    },
+    {
+      "id": "GIT-PUBLISH-001",
+      "status": "pushed_with_six_wav_access_exceptions",
+      "owner": "codex",
+      "objective": "Đẩy các thay đổi repo hiện có lên GitHub mà không ghi đè lịch sử remote.",
+      "commit": "e952c54",
+      "remote": "origin/main",
+      "evidence": "git push thành công; 4 LFS objects, 4.9 MB đã tải.",
+      "pending_local_files": [
+        "projects/mo_den_maya/voice_direction/ab_samples/01_mo_bai/A_pipeline_hien_tai_unmatched.wav",
+        "projects/mo_den_maya/voice_direction/ab_samples/02_muoi_ba_nam/A_pipeline_hien_tai_unmatched.wav",
+        "projects/mo_den_maya/voice_direction/ab_samples/03_nhin_lai_su_sup_do/A_pipeline_hien_tai_unmatched.wav",
+        "voices/auditions/reference_EFp49inlLuQ_variants/production_voice_check.wav",
+        "voices/demos/vietnamese_ab/selected_B_new_sentence.wav",
+        "voices/references/video_mau_kcWEaXRh2hA/studio_smoke.wav"
+      ],
+      "reason": "Windows trả Permission denied khi Git đọc các WAV; file được giữ nguyên tại máy."
     }
   ]
 }

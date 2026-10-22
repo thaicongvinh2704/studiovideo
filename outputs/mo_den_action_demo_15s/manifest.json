@@ -1,0 +1,28 @@
+{
+  "role": "character",
+  "kind": "animated_character_action_demo_15s",
+  "source": "assets\\characters\\mo_den\\library\\named_24_v01\\mo_den_01_neutral_seated_paws_resting.png",
+  "source_sha256": "91bf1830ef8d67fa7f03f2b93753f0f088c4b25eb479cf693d8d1ebbb2a747af",
+  "source_preserved": true,
+  "video": "outputs\\mo_den_action_demo_15s\\Mo_Den_action_demo_15s.mp4",
+  "video_sha256": "6a8b5d5cabbf7a11de19a38c6c6b98e815d3023f2375460f65d3b528252eee64",
+  "audio": "projects\\mo_den_motion_demo\\audio_H_excerpt_15s.wav",
+  "audio_sha256": "f6d07b545ee22120bfb0f7b06a8f4e5314b1e2f5b1ad0758af7ac86f3ffded2b",
+  "speaker": "custom H, Northern Vietnamese, 1.25x (preserved)",
+  "fps": 30,
+  "frames": 450,
+  "duration_seconds": 15.0,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "render_seconds": 22.95,
+  "features": [
+    "Vietnamese lip sync matching custom H narration",
+    "Storytelling gestures: pointing, explaining, thinking, shrugging",
+    "Pupil gaze tracking & organic blinking",
+    "Animated character motion & hop physics across 4 story beats",
+    "Actual Maya backgrounds and water filtration diagram",
+    "Synchronized styled subtitles"
+  ]
+}
