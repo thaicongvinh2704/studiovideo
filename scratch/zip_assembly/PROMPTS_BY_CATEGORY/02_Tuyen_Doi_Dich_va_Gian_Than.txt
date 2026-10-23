@@ -1,0 +1,53 @@
+## HẠNG MỤC 2: TUYẾN NHÂN VẬT ĐỐI NGHỊCH, GIAN THẦN & QUÂN VƯƠNG (10 PROMPTS)
+
+### 9. Nguyên Thủy Thiên Tôn (Yuanshi Tianzun)
+- **Cảnh:** Chương 2 & 5. Vị Thiên Tôn tối cao của Xiển giáo, ngự trên đài sen chín tầng, vầng hào quang rực rỡ sau đầu, vẻ mặt uy nghiêm tối thượng.
+- **Prompt:**
+  > `Yuanshi Tianzun, the supreme primordial Taoist deity, seated in lotus meditation pose on a celestial lotus throne, divine golden halo of pure radiance shining behind his head, wearing majestic white and gold heavenly robes, holding a jade Ruyi scepter, serene omniscient timeless expression, isolated on a pure solid white background. Clean 2D vector art, sharp ink outlines, luminous pastel and gold cel-shading --ar 3:4 --v 6.1`
+
+### 10. Trụ Vương (King Zhou of Shang) trên ngai vàng
+- **Cảnh:** Chương 1 & 3. Vị vua bạo ngược si mê, mặc long bào đen thêu rồng vàng mở phanh ngực, tay cầm chén rượu ngọc, vẻ mặt ngạo mạn hưởng lạc.
+- **Prompt:**
+  > `King Zhou of Shang, tyrant monarch sitting slouched arrogantly on an opulent dragon throne, handsome burly king wearing loosened luxurious black and crimson dragon robes, holding an ornate golden wine goblet, decadent decadent smug expression, isolated on a pure solid white background. Clean 2D graphic novel illustration, bold lines, flat cell shading --ar 3:4 --v 6.1`
+
+### 11. Đát Kỷ (Daji) thì thầm bên tai vua
+- **Cảnh:** Chương 3. Yêu hậu tuyệt sắc, áo lụa mỏng bay lượn, nụ cười hồ ly quyến rũ mê hoặc, phía sau thoắt ẩn thoắt hiện 9 cái đuôi hồ ly mờ ảo.
+- **Prompt:**
+  > `Daji, the cunning nine-tailed fox enchantress, standing seductive graceful pose, dangerously beautiful imperial concubine wearing flowing translucent pink and crimson silk robes, holding an ornate folding fan, subtle phantom ghostly fox tails swaying faintly behind her, alluring scheming smile, isolated on a pure solid white background. Clean 2D vector comic art, crisp clean ink outlines, elegant flat colors --ar 3:4 --v 6.1`
+
+### 12. Thân Công Báo cưỡi Báo Đen chặn đường
+- **Cảnh:** Chương 5. Thân Công Báo mặc hắc bào bí ẩn, cưỡi báo hoa mai đen tuyền, tay cầm trường kiếm chắn ngang đường khiêu khích Khương Tử Nha.
+- **Prompt:**
+  > `Shen Gongbao riding a sleek black panther, sinister confrontation pose, slender Taoist sorcerer clad in dark obsidian silk robes with purple cloud trim, holding an unsheathed narrow sword, sharp goatee and a mocking arrogant smirk, isolated on a pure solid white background. Clean 2D graphic novel vector style, sharp crisp contours, flat cel-shading --ar 3:4 --v 6.1`
+
+### 13. Thân Công Báo bị cuốn vào bồ đoàn lấp biển Bắc Hải
+- **Cảnh:** Chương 5. Thân Công Báo bị quấn chặt như kén trong chiếc chiếu cói bồ đoàn bay lơ lửng, nét mặt hoảng sợ tột độ trước khi bị ném xuống mắt biển.
+- **Prompt:**
+  > `Shen Gongbao tightly wrapped and bound inside a mystical round Taoist woven straw prayer mat (Pu Tuan), only his panicked desperate head exposed, squirming helplessly as magical golden cords bind him, wide terrified eyes, isolated on a pure solid white background. Clean 2D stylized cartoon graphic novel, bold lines, flat cell shading --ar 1:1 --v 6.1`
+
+### 14. Thân Công Báo - Phân Thủy Tướng Quân Đông Hải
+- **Cảnh:** Chương 5. Thân Công Báo sau khi được phong thần, mặc áo giáp vảy cá xanh biếc, tay cầm ngọn cờ phân nước chỉ xuống đại dương.
+- **Prompt:**
+  > `Shen Gongbao as the Water-Parting General of the East Sea, standing authoritative pose, wearing turquoise and silver fish-scale sea armor, holding a magical water-parting trident banner, calm restrained solemn expression, isolated on a pure solid white background. Clean 2D vector art, crisp contours, flat cel-shading --ar 3:4 --v 6.1`
+
+### 15. Phi Liêm & Ác Lai dâng của báu xin hàng
+- **Cảnh:** Chương 1 & 4. Hai gian thần quỳ gối xun xoe, tay nâng hòm gỗ mở nắp đầy ắp vàng ngọc châu báu cầu xin làm quan triều Chu.
+- **Prompt:**
+  > `Fei Lian and E Lai, two corrupt treasonous Shang court officials, kneeling low together in fawning sycophantic posture, holding up an open ornate lacquer box brimming with gold ingots, jade ornaments and pearls, greedy cowardly opportunistic facial expressions, wearing luxurious red silk court robes, isolated on a pure solid white background. Clean 2D vector graphic novel art, crisp dark lines, flat colors --ar 3:4 --v 6.1`
+
+### 16. Phi Liêm & Ác Lai trên pháp trường chém đầu
+- **Cảnh:** Chương 1 & 4. Hai gian thần bị trói giật cánh khuỷu bằng dây thừng gai, quỳ trên pháp trường, vẻ mặt tái mét kinh hoàng trước giờ thi hành án.
+- **Prompt:**
+  > `Fei Lian and E Lai bound tightly with coarse execution ropes around their arms, kneeling condemned on wooden planks, pale terrified faces dripping with cold sweat, stylized clean non-violent illustration, dramatic historical comic art, isolated on a pure solid white background. Clean 2D vector illustration, bold lines, flat cel-shading, no blood, no gore --ar 3:4 --v 6.1`
+
+### 17. Hồn ma Phi Liêm & Ác Lai nhận chức Băng Tiêu Ngõa Giải
+- **Cảnh:** Chương 4. Hai linh hồn ma trơi mờ ảo bay lên trước đàn phong thần, cúi đầu nhận sắc phong sao Băng Tiêu Ngõa Giải với lời răn đe nghiêm khắc.
+- **Prompt:**
+  > `The translucent spectral ghost figures of Fei Lian and E Lai hovering humbly before the altar, ethereal pale bluish-white apparitions bowing their heads in shame, receiving celestial decree seals, symbolic floating ice shards and cracked tile symbols hovering above them, isolated on a pure solid white background. Clean 2D graphic novel art, crisp outlines, glowing flat cel-shading --ar 3:4 --v 6.1`
+
+### 18. Vân Trung Tử (Yunzhongzi) trên đỉnh núi
+- **Cảnh:** Chương 3. Vị tiên nhân phúc đức áo trắng thanh cao đứng trên mỏm đá ngắm nhìn trận hỏa thiêu Tuyệt Long Lĩnh, tay áo bay phần phật, nét mặt từ bi xót thương.
+- **Prompt:**
+  > `Yunzhongzi, the benevolent Taoist immortal of Mount Zhongnan, standing tranquil on cliff edge, pristine white and azure Taoist flowing robes billowing in wind, holding a horsetail whisk, compassionate yet resolute gaze, isolated on a pure solid white background. Clean 2D vector art, elegant ink lineart, pastel flat colors --ar 3:4 --v 6.1`
+
+---

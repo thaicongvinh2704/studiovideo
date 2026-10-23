@@ -1,0 +1,17 @@
+{
+  "base_lm": "voices/local_design/models/VoxCPM2-BaseLM-Q8_0.gguf",
+  "acoustic": "voices/local_design/models/VoxCPM2-Acoustic-F16.gguf",
+  "reference": "projects/mo_den_maya/voice_direction/full_narration_custom_H_125/H_reference_native_16k.wav",
+  "gpu": true,
+  "gpu_layers": 29,
+  "threads": 6,
+  "max_steps": 350,
+  "units": [
+    {
+      "id": 1,
+      "text": "Người chiến thắng đã khắc lên đá ngày họ đốt một thành phố.",
+      "seed": 284617,
+      "output": "scratch/test_unit1.wav"
+    }
+  ]
+}

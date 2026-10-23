@@ -15,7 +15,8 @@ def main():
     parser.add_argument("--start", type=float, default=0.0, help="Start time in seconds")
     parser.add_argument("--length", type=float, default=None, help="Length in seconds (default: full video)")
     parser.add_argument("--fps", type=int, default=24, choices=[12, 24, 30], help="Frames per second")
-    parser.add_argument("--out", type=str, default="outputs/maya_full_documentary_1080p.mp4", help="Output path")
+    parser.add_argument("--out", type=str, default="outputs/Mo_Den_Maya_Dao_Dien_Final_1080p.mp4", help="Output path")
+    parser.add_argument("--gpu", action="store_true", default=True, help="Use GPU hardware encoding (NVENC)")
     args = parser.parse_args()
 
     app = QGuiApplication(sys.argv)
@@ -35,6 +36,7 @@ def main():
 
     print(f"Total video length: {total_len:.1f}s | Segment to render: {render_len:.1f}s (Start: {args.start:.1f}s)")
     print(f"Resolution: {p['width']}x{p['height']} @ {args.fps} FPS")
+    print(f"GPU Hardware Encoding: {args.gpu} (NVIDIA NVENC h264_nvenc)")
     print(f"Output will be saved to: {out_path}")
 
     start_time = time.monotonic()
@@ -47,7 +49,7 @@ def main():
         if curr % (args.fps * 5) == 0 or curr == total:
             print(f"[{pct:5.1f}%] Frame {curr}/{total} | Speed: {fps_speed:.1f} fps | ETA: {remaining/60:.1f} min", flush=True)
 
-    export_video(p, root_dir, out_path, start=args.start, length=render_len, width=p['width'], height=p['height'], fps=args.fps, progress=progress)
+    export_video(p, root_dir, out_path, start=args.start, length=render_len, width=p['width'], height=p['height'], fps=args.fps, progress=progress, gpu=args.gpu)
 
     elapsed_total = time.monotonic() - start_time
     print(f"Successfully finished export in {elapsed_total/60:.1f} minutes!")

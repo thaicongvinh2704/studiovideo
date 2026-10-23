@@ -1,0 +1,6 @@
+<USER_REQUEST>
+tạo giọng đọc cho kịch bản này nhớ phải biên kịch để giọng nói có hồn nhấn nhá như con người hiểu đúng nội dung để diễn đạt như con người.
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-23T14:03:56+07:00.
+</ADDITIONAL_METADATA>

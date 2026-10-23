@@ -1,0 +1,63 @@
+## HẠNG MỤC 3: TUYẾN TIÊN GIA, THẦN TƯỚNG & HỘ PHÁP (12 PROMPTS)
+
+### 19. Triệu Công Minh dũng mãnh cưỡi Hắc Hổ ra trận
+- **Cảnh:** Chương 6. Đại tiên râu quai nón rậm, mắt sáng quắc, tay vung Thiết tiên, cưỡi con cọp đen khổng lồ gầm vang.
+- **Prompt:**
+  > `Zhao Gongming charging forward riding a ferocious giant black tiger, dynamic combat pose, robust bearded warrior immortal clad in dark emerald battle silk and chainmail, raising a heavy black iron whip with crackling golden magical energy, fierce unyielding warrior shout, isolated on a pure solid white background. Clean 2D vector graphic novel illustration, bold lines, vibrant cell shading --ar 3:4 --v 6.1`
+
+### 20. Triệu Công Minh trúng phép Đinh Đầu Thất Tiễn nằm mê man
+- **Cảnh:** Chương 6. Triệu Công Minh nằm thiếp đi trên giường tre trong quân trại, râu tóc rối bời, nét mặt đau đớn tiều tụy, hồn phách bay lơ lửng dần lìa khỏi xác.
+- **Prompt:**
+  > `Zhao Gongming lying weakened on a military camp cot, once mighty warrior now frail and pale, eyes half-closed in feverish delirium, faint wisps of his spirit soul floating upward from his chest, stylized non-violent illness depiction, isolated on a pure solid white background. Clean 2D graphic novel illustration, muted earth tones, crisp contours --ar 3:4 --v 6.1`
+
+### 21. Văn Trọng ôm xác Triệu Công Minh khóc bạn
+- **Cảnh:** Chương 6. Thái sư Văn Trọng quỳ gối gục đầu bên thi thể người bạn hiền vừa trút hơi thở cuối cùng, hai dòng lệ tuôn trào trên khuôn mặt già nua giáp sắt.
+- **Prompt:**
+  > `Grand Preceptor Wen Zhong kneeling beside the fallen body of his dear friend Zhao Gongming in tent, the old armored general weeping bitterly with clenched fists, tears rolling down his weathered bearded cheeks, profound grief of losing a comrade in war, isolated on a pure solid white background. Clean 2D graphic novel art, deeply emotional, bold ink lines, flat colors --ar 3:4 --v 6.1`
+
+### 22. Triệu Công Minh nhận chức Huyền Đàn Chân Quân (Võ Tài Thần)
+- **Cảnh:** Chương 6. Triệu Công Minh ngồi uy nghiêm trên ngai vàng lộng lẫy, tay cầm thỏi vàng lớn và thiết tiên, bốn vị thần lộc tài chầu hai bên.
+- **Prompt:**
+  > `Zhao Gongming enthroned as the Supreme Martial God of Wealth (Xuan Tan Zhen Jun), dignified bearded celestial deity sitting on a golden ornate throne, holding a massive golden ingot in one hand and the iron whip upright in the other, flanked by glowing auspicious wealth clouds, isolated on a pure solid white background. Clean 2D vector game asset style, crisp contours, rich gold and emerald flat colors --ar 3:4 --v 6.1`
+
+### 23. Vân Tiêu Nương Nương can ngăn anh trai
+- **Cảnh:** Chương 6. Nàng tiên nữ thanh nhã mặc áo lụa trắng viền ngọc, giơ tay ngăn Triệu Công Minh, nét mặt đầy âu lo chỉ tay về phía bức tranh Phong Thần Bảng.
+- **Prompt:**
+  > `Goddess Yunxiao, wise immortal maiden, standing in gentle pleading pose, wearing elegant flowing pristine white and jade-green celestial robes with long sleeves, raising one graceful hand in solemn warning, deeply concerned compassionate expression, holding an ancient closed jade scroll, isolated on a pure solid white background. Clean 2D vector graphic art, delicate ink lines, flat pastel colors --ar 3:4 --v 6.1`
+
+### 24. Quỳnh Tiêu & Bích Tiêu trao bảo vật
+- **Cảnh:** Chương 6. Hai cô em gái giận dữ nóng nảy trao chiếc chậu vàng Hỗn Nguyên Kim Đẩu cho anh trai Triệu Công Minh đi đánh giặc.
+- **Prompt:**
+  > `Qiongxiao and Bixiao, two fiery immortal sisters, standing side by side, wearing colorful crimson and turquoise Taoist dresses, handing over the ornate magical Golden Dipper artifact with determined indignant expressions, isolated on a pure solid white background. Clean 2D graphic novel illustration, crisp bold outlines, flat cell shading --ar 3:4 --v 6.1`
+
+### 25. Lục Áp Đạo Nhân (Lu Ya) trao bí kíp Đinh Đầu Thất Tiễn
+- **Cảnh:** Chương 6. Tán tiên áo rách bí ẩn, nụ cười khó lường, đeo bầu rượu sau lưng, trao cuốn sách thẻ tre phép thuật cho Khương Tử Nha.
+- **Prompt:**
+  > `Lu Ya, mysterious wandering hermit immortal, eccentric bohemian Taoist wearing patched grey robes, wooden gourd bottle strapped to his back, smiling with an enigmatic knowing grin as he offers a bound ancient bamboo spell scroll forward, isolated on a pure solid white background. Clean 2D vector illustration, crisp dark lines, flat colors --ar 3:4 --v 6.1`
+
+### 26. Tiêu Thăng & Cao Bảo đánh cờ dưới gốc tùng
+- **Cảnh:** Chương 7. Hai ẩn sĩ ngồi thanh thản chơi cờ vây trên phiến đá, ấm trà bốc khói, cành tùng xanh mát, cuộc sống lánh đời thanh tịnh.
+- **Prompt:**
+  > `Hermits Xiao Sheng and Cao Bao sitting leisurely playing ancient Go (Weiqi) chess on a smooth flat stone table under a bonsai pine branch, steam rising from a clay teapot, wearing rustic hemp robes, serene carefree scholarly atmosphere, isolated on a pure solid white background. Clean 2D vector graphic art, crisp ink outlines, flat color fills --ar 3:4 --v 6.1`
+
+### 27. Tiêu Thăng trúng đòn roi sắt của Triệu Công Minh ngã xuống
+- **Cảnh:** Chương 7. Tiêu Thăng ném đồng tiền nhưng không cản được roi sắt của Công Minh, trúng đòn ngã gục xuống bên bàn cờ ván cờ tan tác.
+- **Prompt:**
+  > `Xiao Sheng falling backward in defeat by the chessboard, the golden winged coin dropping harmlessly beside him, stunned expression as he realizes a common weapon cannot be disarmed by magical coin, stylized non-violent historical comic panel, isolated on a pure solid white background. Clean 2D graphic novel art, bold outlines, flat colors, no blood --ar 3:4 --v 6.1`
+
+### 28. Trịnh Luân (Hanh Tướng) thi triển dị thuật
+- **Cảnh:** Chương 7. Đại tướng cưỡi thú râu quăn, hai lỗ mũi hừ ra hai luồng hào quang màu trắng sáng lóa hút hồn phách đối phương.
+- **Prompt:**
+  > `General Zheng Lun (Heng General) casting his supernatural ability, ferocious armored warrior with dark curled beard riding a mystical horned beast, two intense beams of brilliant white light shooting directly from his nostrils, dynamic shouting combat pose, isolated on a pure solid white background. Clean 2D vector graphic novel illustration, bold lines, flat cell shading --ar 3:4 --v 6.1`
+
+### 29. Trần Kỳ (Cáp Tướng) thi triển dị thuật
+- **Cảnh:** Chương 7. Đại tướng miệng há to thổi ra luồng khói màu vàng rực làm tê liệt quân thù.
+- **Prompt:**
+  > `General Chen Qi (Ha General) expelling his magical yellow vapor, mighty armored general riding a fire-eyed war beast, mouth wide open exhaling a swirling plume of toxic golden yellow smoke, fierce commanding warrior stance, isolated on a pure solid white background. Clean 2D graphic novel illustration, crisp bold ink lines, flat cell shading --ar 3:4 --v 6.1`
+
+### 30. Cặp Hanh Cáp Nhị Tướng uy nghiêm gác cổng trời
+- **Cảnh:** Chương 7. Hai tướng đứng hai bên cổng chùa/đền, giáp trụ sáng lóa, tay cầm kích và chùy, từ hai kẻ thù thành bạn đồng liêu giữ gìn chính pháp.
+- **Prompt:**
+  > `The two temple door guardian generals Heng and Ha standing symmetrically together in vigilant protective poses, ornate golden and silver temple guardian armor with floating silk ribbons, holding poleaxes and thunder batons, solemn unified expression of eternal duty, isolated on a pure solid white background. Clean 2D vector illustration, crisp bold contours, flat cell shading --ar 3:4 --v 6.1`
+
+---

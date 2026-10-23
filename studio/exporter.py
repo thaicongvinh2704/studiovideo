@@ -99,7 +99,7 @@ def mix_audio(project,root,output,start=0.,length=None,cancel=None):
         checked_run(args,cancel)
 
 def export_video(project,root,output,width=None,height=None,fps=None,start=0,length=None,burn=True,
-                 progress=lambda a,b:None,cancel=None):
+                 progress=lambda a,b:None,cancel=None,gpu=False):
     from .character_qc import require_project_qc
     require_project_qc(project,root)
     from .directing import preflight
@@ -122,11 +122,15 @@ def export_video(project,root,output,width=None,height=None,fps=None,start=0,len
     # Temporary files stay on the output drive; final path changes only after success.
     with tempfile.TemporaryDirectory(prefix='stickman_render_',dir=output.parent) as tmp:
         tmp=Path(tmp);video=tmp/'video.mp4'
+        use_gpu = gpu or project.get('gpu', False)
+        if use_gpu:
+            codec_opts = ['-c:v', 'h264_nvenc', '-preset', 'p4', '-cq', str(profile['crf'])]
+        else:
+            codec_opts = ['-c:v', 'libx264', '-preset', profile['preset'], '-crf', str(profile['crf']),
+                          '-threads', str(min(2, max(1, int(project.get('encoder_threads', 2)))))]
         args=[ffmpeg,'-y','-v','error','-f','rawvideo','-pix_fmt','rgb24','-s',f'{width}x{height}',
-              '-r',str(fps),'-i','pipe:0','-an','-vf','scale=out_color_matrix=bt709:out_range=tv',
-              '-c:v','libx264','-preset',profile['preset'],'-crf',str(profile['crf']),
-              '-colorspace','bt709','-color_primaries','bt709','-color_trc','bt709','-color_range','tv',
-              '-threads',str(min(2,max(1,int(project.get('encoder_threads',2))))),'-pix_fmt','yuv420p',str(video)]
+              '-r',str(fps),'-i','pipe:0','-an','-vf','scale=out_color_matrix=bt709:out_range=tv'] +              codec_opts +              ['-colorspace','bt709','-color_primaries','bt709','-color_trc','bt709','-color_range','tv',
+              '-pix_fmt','yuv420p',str(video)]
         with (tmp/'ffmpeg.log').open('w+b') as log:
             proc=subprocess.Popen(args,stdin=subprocess.PIPE,stdout=subprocess.DEVNULL,stderr=log,creationflags=FLAGS)
             try:

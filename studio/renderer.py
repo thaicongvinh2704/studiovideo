@@ -15,6 +15,10 @@ class Renderer:
         self.image_stamps = {}
         self.vectors = {}
         self.last_frame_key=None;self.last_frame=None
+        from PySide6.QtGui import QFontDatabase
+        for fn in ('segoeui.ttf','segoeuib.ttf','segoeuii.ttf','arial.ttf','arialbd.ttf'):
+            wf = Path('C:/Windows/Fonts') / fn
+            if wf.exists(): QFontDatabase.addApplicationFont(str(wf))
 
     def vector(self,root,filename):
         from PySide6.QtSvg import QSvgRenderer

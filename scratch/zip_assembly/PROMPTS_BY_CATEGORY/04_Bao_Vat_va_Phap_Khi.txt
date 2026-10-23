@@ -1,0 +1,63 @@
+## HẠNG MỤC 4: BẢO VẬT, PHÁP KHÍ, BINH KHÍ & CẤM THUẬT (12 PROMPTS)
+
+### 31. Lạc Bảo Kim Tiền bay liệng (Phi thiên kim tiền)
+- **Cảnh:** Chương 7. Cận cảnh đồng tiền vàng tròn lỗ vuông mọc đôi cánh chuồn chuồn trong suốt, đang bay lượn vút lên không trung làm rơi pháp bảo.
+- **Prompt:**
+  > `The mythical flying artifact 'Luobao Jinqian', ancient Chinese round bronze coin with square hole, growing a pair of delicate luminous dragonfly fairy wings, soaring diagonally upwards leaving a soft golden dust trail, isolated on a pure solid white background. Cute clean 2D vector fantasy icon, sharp contours, vibrant cell shading --ar 1:1 --v 6.1`
+
+### 32. 24 Viên Định Hải Châu tỏa sáng ngũ sắc
+- **Cảnh:** Chương 6 & 7. 24 viên ngọc thần tròn xoe như trăng rằm, phát ra hào quang 5 màu cầu vồng lung linh chói lọi càn khôn.
+- **Prompt:**
+  > `A celestial circle of 24 floating Sea-Calming Beads (Dinghai Zhu), glowing crystal spheres radiating brilliant five-colored rainbow halos and oceanic cyan light, celestial energy swirling around the pearls, isolated on a pure solid white background. Clean 2D vector game asset icon, crisp outlines, vibrant cel-shading --ar 1:1 --v 6.1`
+
+### 33. Phược Long Sách (Dây trói rồng rơi xuống đất)
+- **Cảnh:** Chương 7. Sợi dây thừng bằng gân rồng vàng rực bị đồng tiền làm rơi xuống đất mềm nhũn mất hết phép thuật.
+- **Prompt:**
+  > `The magical Dragon-Binding Cord (Fulong Suo), an intricate golden rope woven from mythical dragon sinew, coiling gently on the ground with its golden magic sparks fading away, isolated on a pure solid white background. Clean 2D game asset vector illustration, crisp outlines, flat cel-shading --ar 1:1 --v 6.1`
+
+### 34. Hỗn Nguyên Kim Đẩu (Chậu vàng gom càn khôn)
+- **Cảnh:** Chương 6. Chiếc chậu vàng thần thánh chạm khắc phù điêu vũ trụ cổ đại, phát ra lực hút xoáy tròn huyền ảo.
+- **Prompt:**
+  > `The Primordial Golden Dipper (Hunyuan Jindou), an ancient ornate golden sacred urn adorned with celestial star charts and swirling cosmic cloud reliefs, soft vortex of golden divine light swirling at its mouth, isolated on a pure solid white background. Clean 2D vector fantasy artifact, crisp outlines, rich metallic flat shading --ar 1:1 --v 6.1`
+
+### 35. Đả Thần Tiên (Roi đồng 21 đốt phát quang)
+- **Cảnh:** Toàn phim. Cận cảnh chiếc roi đồng 21 đốt, mỗi đốt có 4 phù chú phát ra ánh sáng lam ngọc linh thiêng.
+- **Prompt:**
+  > `Close-up view of the God-Beating Whip (Dashan Bian), ancient 21-segment bronze heavy baton with ornate bamboo-joint segments, glowing blue sacred Taoist talismans engraved on each section, wrapped dark brown grip, isolated on a pure solid white background. Clean 2D vector weapon icon, sharp edges, flat cell shading --ar 1:1 --v 6.1`
+
+### 36. Roi thép (Thiết Tiên) của Triệu Công Minh
+- **Cảnh:** Chương 7. Chiếc roi sắt đen bóng nặng nề thuần túy binh khí phàm trần (chính vì là vũ khí vật lý nên đồng tiền không làm rơi được).
+- **Prompt:**
+  > `A heavy ancient Chinese solid iron combat whip (Tie Bian), dark charcoal steel baton with ridged hexagonal segments and a spiked brass pommel, raw brutal martial weapon with no magical glow, isolated on a pure solid white background. Clean 2D vector game asset, sharp steel highlights, crisp outlines --ar 1:1 --v 6.1`
+
+### 37. Đàn tế Đinh Đầu Thất Tiễn hoàn chỉnh
+- **Cảnh:** Chương 6. Bàn tế phủ vải gai trắng, trên có ngọn đèn dầu đậu, lư hương khói nghi ngút, chiếc cung gỗ đào và hình nhân rơm dán bùa.
+- **Prompt:**
+  > `A complete Taoist ritual altar for the Seven Arrow Curse, low wooden altar table covered in white hemp cloth, an incense burner with rising smoke, two small oil lamps, a wooden peach-wood bow, and a straw effigy doll with paper talismans pinned on it, isolated on a pure solid white background. Clean 2D graphic novel art, bold outlines, flat colors --ar 16:9 --v 6.1`
+
+### 38. Bát Đại Thông Thiên Thần Hỏa Trụ (Cột đồng phun lửa)
+- **Cảnh:** Chương 3. Một cột đồng lớn chạm khắc phù chú rồng lửa, bên trong phun ra ngọn lửa đỏ rực vây hãm.
+- **Prompt:**
+  > `A towering ancient Chinese bronze column of divine fire, monumental pillar carved with coiling dragon reliefs and mystical trigrams, blazing fiery flames and crimson sparks venting from openings in the bronze, isolated on a pure solid white background. Clean 2D vector illustration, dramatic fantasy asset, crisp outlines, flat cel-shading --ar 1:1 --v 6.1`
+
+### 39. Bàn cờ vây & Hai hũ cờ gỗ mun
+- **Cảnh:** Chương 7. Bàn cờ vây bằng gỗ thông già với các đường kẻ ô vuông rõ nét, hai hũ cờ bằng sứ trắng đựng quân cờ đen trắng bóng bẩy.
+- **Prompt:**
+  > `A traditional ancient Chinese Go game board (Weiqi) made of warm polished pine wood with grid lines, two ceramic bowls containing glossy black and white jade stone stones, isolated on a pure solid white background. Clean 2D vector graphic asset, crisp minimalist lines, flat warm colors --ar 1:1 --v 6.1`
+
+### 40. Rương châu báu ngọc ngà của Phi Liêm Ác Lai
+- **Cảnh:** Chương 1 & 4. Chiếc rương gỗ quý khảm ốc mở nắp, bên trong tràn ngập thỏi vàng nén, chuỗi hạt ngọc bích, san hô đỏ rực lóa mắt.
+- **Prompt:**
+  > `An ancient Chinese open wooden treasure chest overflowing with sparkling gold sycee ingots, jade discs, luminous pearls and polished red coral branches, opulent symbol of worldly greed, isolated on a pure solid white background. Clean 2D vector illustration, crisp ink outlines, flat vibrant colors --ar 1:1 --v 6.1`
+
+### 41. Xoáy nước Mắt Biển Bắc Hải (Mắt biển lạnh giá)
+- **Cảnh:** Chương 5. Vòng xoáy nước biển đen ngòm sâu thẳm giữa băng tuyết bắc cực, nơi Thân Công Báo bị dìm thân lấp mắt biển.
+- **Prompt:**
+  > `A terrifying deep ocean whirlpool called the North Sea Eye, swirling dark sapphire water spiraling into a deep abyss surrounded by jagged floating icebergs, cold ominous atmospheric vortex, isolated on a pure solid white background. Clean 2D stylized graphic novel vector art, crisp contours, flat cell shading --ar 1:1 --v 6.1`
+
+### 42. Tấm bản đồ da thú Phong Đất Tề Quốc
+- **Cảnh:** Chương 8. Tấm bản đồ da thú cổ xưa vẽ vùng đất duyên hải Tề quốc sơn hải trù phú, có con dấu son của Chu Vũ Vương.
+- **Prompt:**
+  > `An ancient rolled-out parchment leather map showing the coastal territory of the State of Qi, inked Chinese geographical mountains and sea shorelines, stamped with a royal vermilion cinnabar seal, isolated on a pure solid white background. Clean 2D vector graphic novel illustration, crisp lines, antique parchment tones --ar 1:1 --v 6.1`
+
+---

@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-23",
+  "branch": "main",
+  "remote": "https://github.com/thaicongvinh2704/studiovideo.git",
+  "included": "GPU exporter, Vietnamese font setup, Maya MP4, Mỏ Đen wiggle assets/demos, Witzna and Phong Thần narration/scripts/SRT/raw units, storyboard prompts, working scripts, coordination.",
+  "excluded_unreadable_files": [
+    {
+      "path": "projects/mo_den_maya/voice_direction/ab_samples/01_mo_bai/A_pipeline_hien_tai_unmatched.wav",
+      "error": "[Errno 13] Permission denied: 'projects\\\\mo_den_maya\\\\voice_direction\\\\ab_samples\\\\01_mo_bai\\\\A_pipeline_hien_tai_unmatched.wav'"
+    },
+    {
+      "path": "projects/mo_den_maya/voice_direction/ab_samples/02_muoi_ba_nam/A_pipeline_hien_tai_unmatched.wav",
+      "error": "[Errno 13] Permission denied: 'projects\\\\mo_den_maya\\\\voice_direction\\\\ab_samples\\\\02_muoi_ba_nam\\\\A_pipeline_hien_tai_unmatched.wav'"
+    },
+    {
+      "path": "projects/mo_den_maya/voice_direction/ab_samples/03_nhin_lai_su_sup_do/A_pipeline_hien_tai_unmatched.wav",
+      "error": "[Errno 13] Permission denied: 'projects\\\\mo_den_maya\\\\voice_direction\\\\ab_samples\\\\03_nhin_lai_su_sup_do\\\\A_pipeline_hien_tai_unmatched.wav'"
+    },
+    {
+      "path": "voices/auditions/reference_EFp49inlLuQ_variants/production_voice_check.wav",
+      "error": "[Errno 13] Permission denied: 'voices\\\\auditions\\\\reference_EFp49inlLuQ_variants\\\\production_voice_check.wav'"
+    },
+    {
+      "path": "voices/demos/vietnamese_ab/selected_B_new_sentence.wav",
+      "error": "[Errno 13] Permission denied: 'voices\\\\demos\\\\vietnamese_ab\\\\selected_B_new_sentence.wav'"
+    },
+    {
+      "path": "voices/references/video_mau_kcWEaXRh2hA/studio_smoke.wav",
+      "error": "[Errno 13] Permission denied: 'voices\\\\references\\\\video_mau_kcWEaXRh2hA\\\\studio_smoke.wav'"
+    }
+  ],
+  "secret_scan": "No matching private key or common API token patterns found in changed text files; not an exhaustive guarantee.",
+  "lfs": "Audio/video/archives via LFS; added WebM pattern.",
+  "validation": "Readability inventory and Git staged review only. No production changes or quality approval in this publishing task."
+}

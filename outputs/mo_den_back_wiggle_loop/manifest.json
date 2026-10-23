@@ -1,0 +1,35 @@
+{
+  "role": "character_motion_asset",
+  "character": "mo_den",
+  "action": "back_wiggle_loop",
+  "view": "rear_back_view",
+  "source_artwork": "projects/mo_den_motion_demo/back_wiggle/mo_den_back_view_source.jpg",
+  "fps": 30,
+  "loop_seconds": 1.2,
+  "cycle_frames": 36,
+  "total_loops": 8,
+  "total_frames": 288,
+  "duration_seconds": 9.6,
+  "files": {
+    "Mo_Den_back_wiggle_1080p_transparent_ProRes4444.mov": {
+      "size": 73471337,
+      "sha256": "2953dc52f00f3cdeb40d03a5d7b940726485e85d46100bacda36b0b687fdd847"
+    },
+    "Mo_Den_back_wiggle_1080p_transparent.webm": {
+      "size": 2527348,
+      "sha256": "a0d6964e439e18945398a315a9a6e70d5e3a1ff4ab60578faa95d1b4a95e64b3"
+    },
+    "Mo_Den_back_wiggle_single_cycle_1.2s.webm": {
+      "size": 335576,
+      "sha256": "67bead646892370ecc2664299e1523d988013b0856989b8277687cca3c503d59"
+    },
+    "Mo_Den_back_wiggle_preview_fun.mp4": {
+      "size": 1057758,
+      "sha256": "072a99c255fe7b1cb17de2fe3e468298f92edbf4198b153fd6ef5606a114b74b"
+    },
+    "contact_sheet.jpg": {
+      "size": 270895,
+      "sha256": "8ab1b8a13c31fdd689a51963c1be2ed221d1e35c245e650675c2ba7d13dea509"
+    }
+  }
+}

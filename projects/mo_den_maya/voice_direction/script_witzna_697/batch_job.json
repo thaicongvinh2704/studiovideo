@@ -1,0 +1,377 @@
+{
+  "base_lm": "D:\\stickman-animation-studio\\stickman-animation-studio\\voices\\local_design\\models\\VoxCPM2-BaseLM-Q8_0.gguf",
+  "acoustic": "D:\\stickman-animation-studio\\stickman-animation-studio\\voices\\local_design\\models\\VoxCPM2-Acoustic-F16.gguf",
+  "reference": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\full_narration_custom_H_125\\H_reference_native_16k.wav",
+  "gpu": true,
+  "gpu_layers": 29,
+  "threads": 6,
+  "max_steps": 350,
+  "units": [
+    {
+      "id": 1,
+      "text": "Người chiến thắng đã khắc lên đá ngày họ đốt một thành phố.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_001.wav"
+    },
+    {
+      "id": 2,
+      "text": "Hơn một nghìn ba trăm năm sau, các nhà nghiên cứu tìm thấy dấu vết của cuộc tấn công ấy dưới đáy hồ.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_002.wav"
+    },
+    {
+      "id": 3,
+      "text": "Nhưng ban đầu, họ không đi tìm chiến tranh. Họ đang tìm hiểu khí hậu.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_003.wav"
+    },
+    {
+      "id": 4,
+      "text": "Câu chuyện bắt đầu ở miền bắc Gua-te-ma-la, gần tàn tích một thành phố Maya ngày nay được gọi là Vít-na.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_004.wav"
+    },
+    {
+      "id": 5,
+      "text": "Năm hai nghìn không trăm mười ba, nhóm nghiên cứu lấy những mẫu trầm tích từ hồ La-gu-na Éc Náp.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_005.wav"
+    },
+    {
+      "id": 6,
+      "text": "Qua thời gian, vật chất lắng xuống đáy hồ thành từng lớp.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_006.wav"
+    },
+    {
+      "id": 7,
+      "text": "Trong đó có phấn hoa, những dấu hiệu hóa học và các mảnh than.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_007.wav"
+    },
+    {
+      "id": 8,
+      "text": "Chúng giúp người nghiên cứu lần ngược về cảnh quan trước đây: cây gì từng mọc, đất đai được sử dụng ra sao, khi nào có lửa.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_008.wav"
+    },
+    {
+      "id": 9,
+      "text": "Rồi họ gặp một lớp than nổi bật.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_009.wav"
+    },
+    {
+      "id": 10,
+      "text": "Nó cho thấy một trận cháy lớn đã xảy ra quanh cuối thế kỷ thứ bảy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_010.wav"
+    },
+    {
+      "id": 11,
+      "text": "Sau sự kiện ấy, các dấu hiệu về hoạt động của con người giảm mạnh.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_011.wav"
+    },
+    {
+      "id": 12,
+      "text": "Một nơi từng có người sinh sống và canh tác đã thay đổi rõ rệt sau đám cháy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_012.wav"
+    },
+    {
+      "id": 13,
+      "text": "Chuyện gì đã xảy ra ở đó?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_013.wav"
+    },
+    {
+      "id": 14,
+      "text": "Một trận cháy lớn chưa đủ để kết luận có quân đội tấn công.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_014.wav"
+    },
+    {
+      "id": 15,
+      "text": "Lửa có thể xuất hiện vì nhiều nguyên nhân.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_015.wav"
+    },
+    {
+      "id": 16,
+      "text": "Muốn tìm ra điều đã xảy ra, nhóm nghiên cứu cần một thứ mà lớp than không thể tự cung cấp: danh tính của sự kiện.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_016.wav"
+    },
+    {
+      "id": 17,
+      "text": "Mảnh ghép ấy lại nằm trong những chữ khắc ở Vít-na.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_017.wav"
+    },
+    {
+      "id": 18,
+      "text": "Các nhà khảo cổ tìm được một dấu hiệu giúp nhận diện tên cổ của thành phố: Ba-lam Hôn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_018.wav"
+    },
+    {
+      "id": 19,
+      "text": "Thoạt nghe, việc biết thêm một cái tên có vẻ không giải thích được một vụ cháy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_019.wav"
+    },
+    {
+      "id": 20,
+      "text": "Nhưng tên gọi ấy cho phép họ tìm Vít-na trong những ghi chép của người Maya, thay vì chỉ nhìn nó như một khu phế tích.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_020.wav"
+    },
+    {
+      "id": 21,
+      "text": "Và Ba-lam Hôn đã xuất hiện trên một công trình ở Na-ran-hô, một thành phố đối địch.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_021.wav"
+    },
+    {
+      "id": 22,
+      "text": "Ghi chép tại đó kể về việc đốt Ba-lam Hôn vào ngày hai mươi mốt tháng năm, năm sáu trăm chín mươi bảy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_022.wav"
+    },
+    {
+      "id": 23,
+      "text": "Bây giờ, câu chuyện đã có hai đầu mối: một trận cháy được lưu lại trong trầm tích, và một cuộc đốt phá được bên chiến thắng ghi trên đá.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_023.wav"
+    },
+    {
+      "id": 24,
+      "text": "Tuy nhiên, có một chi tiết rất dễ bị kể sai.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_024.wav"
+    },
+    {
+      "id": 25,
+      "text": "Lớp than dưới hồ không cho các nhà nghiên cứu biết chính xác ngày hai mươi mốt tháng năm.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_025.wav"
+    },
+    {
+      "id": 26,
+      "text": "Niên đại được xác định cho nó nằm trong khoảng năm sáu trăm chín mươi đến bảy trăm. Ngày cụ thể đến từ văn khắc.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_026.wav"
+    },
+    {
+      "id": 27,
+      "text": "Sức nặng của phát hiện nằm ở việc hai nguồn bằng chứng khác nhau phù hợp với nhau.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_027.wav"
+    },
+    {
+      "id": 28,
+      "text": "Chưa hết. Khi kiểm tra các công trình lớn tại Vít-na, các nhà khảo cổ còn tìm thấy dấu cháy và sự phá hủy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_028.wav"
+    },
+    {
+      "id": 29,
+      "text": "Lời khắc về một cuộc đốt phá giờ có thể được đặt cạnh những gì còn lại ngay tại nơi bị tấn công.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_029.wav"
+    },
+    {
+      "id": 30,
+      "text": "Đó là cơ sở để nhóm nghiên cứu liên kết trận cháy với cuộc chiến được ghi ở Na-ran-hô.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_030.wav"
+    },
+    {
+      "id": 31,
+      "text": "Nhưng vì sao một thành phố bị đốt lại khiến giới nghiên cứu phải xem xét lại cách hiểu về chiến tranh Maya?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_031.wav"
+    },
+    {
+      "id": 32,
+      "text": "Bởi trước đó, một cách nhìn có ảnh hưởng cho rằng chiến tranh trong phần lớn thời kỳ Cổ điển thường tập trung vào giới cầm quyền:",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_032.wav"
+    },
+    {
+      "id": 33,
+      "text": "bắt giữ đối thủ, khuất phục một triều đại, buộc bên thua phải phục tùng.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_033.wav"
+    },
+    {
+      "id": 34,
+      "text": "Bạo lực vẫn tồn tại. Câu hỏi là nó lan rộng đến đâu, và người dân bên ngoài cung điện phải chịu những gì.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_034.wav"
+    },
+    {
+      "id": 35,
+      "text": "Những hình thức tàn phá dữ dội hơn thường được gắn với giai đoạn muộn, khi nhiều trung tâm Maya rơi vào khủng hoảng.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_035.wav"
+    },
+    {
+      "id": 36,
+      "text": "Vít-na khiến cách sắp xếp ấy trở nên khó giữ nguyên.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_036.wav"
+    },
+    {
+      "id": 37,
+      "text": "Cuộc đốt phá năm sáu trăm chín mươi bảy xảy ra sớm hơn giai đoạn suy tàn đó.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_037.wav"
+    },
+    {
+      "id": 38,
+      "text": "Dấu tích của nó cho thấy ảnh hưởng rộng đến thành phố và hoạt động của cư dân.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_038.wav"
+    },
+    {
+      "id": 39,
+      "text": "Vì thế, không thể đơn giản kể rằng xã hội Maya chỉ chuyển sang chiến tranh hủy diệt khi mọi thứ đã bắt đầu sụp đổ.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_039.wav"
+    },
+    {
+      "id": 40,
+      "text": "Ít nhất tại Vít-na, sự tàn phá nghiêm trọng đã có mặt từ trước.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_040.wav"
+    },
+    {
+      "id": 41,
+      "text": "Và đây là lúc câu chuyện chạm đến những người gần như không có tiếng nói trong bản ghi chiến thắng.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_041.wav"
+    },
+    {
+      "id": 42,
+      "text": "Sau cuộc tấn công, hoạt động của con người giảm mạnh. Nhưng điều đó không cho biết số phận từng cư dân.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_042.wav"
+    },
+    {
+      "id": 43,
+      "text": "Bao nhiêu người chết? Bao nhiêu người bị bắt? Bao nhiêu người đã bỏ chạy?",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_043.wav"
+    },
+    {
+      "id": 44,
+      "text": "Các tác giả nghiên cứu không thể xác định điều ấy từ những bằng chứng hiện có.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_044.wav"
+    },
+    {
+      "id": 45,
+      "text": "Khoảng trống này quan trọng.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_045.wav"
+    },
+    {
+      "id": 46,
+      "text": "Bởi nếu kể rằng toàn bộ dân cư bị giết, hoặc cả thành phố biến mất chỉ trong một đêm, chúng ta sẽ làm câu chuyện dữ dội hơn bằng những điều chưa được chứng minh.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_046.wav"
+    },
+    {
+      "id": 47,
+      "text": "Điều có thể nói là cuộc tấn công đã gây tác động nặng nề lên cộng đồng sống tại đây.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_047.wav"
+    },
+    {
+      "id": 48,
+      "text": "Đằng sau một dòng ghi chiến công là sự đứt gãy mà dữ liệu về cư trú và sử dụng đất vẫn còn cho thấy.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_048.wav"
+    },
+    {
+      "id": 49,
+      "text": "Vít-na cũng không kết thúc hoàn toàn vào ngày bị đốt.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_049.wav"
+    },
+    {
+      "id": 50,
+      "text": "Thành phố có phục hồi một phần với quy mô dân cư nhỏ hơn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_050.wav"
+    },
+    {
+      "id": 51,
+      "text": "Một tấm bia được dựng khoảng một thế kỷ sau cuộc tấn công cho thấy câu chuyện của nơi này còn tiếp diễn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_051.wav"
+    },
+    {
+      "id": 52,
+      "text": "Bởi vậy, phát hiện ấy không phải lời giải duy nhất cho sự suy tàn của cả thế giới Maya.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_052.wav"
+    },
+    {
+      "id": 53,
+      "text": "Nó giúp sửa lại một phần bức tranh: chiến tranh đã có thể tàn phá một cộng đồng nghiêm trọng đến mức nào, ngay trước giai đoạn khủng hoảng về sau.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_053.wav"
+    },
+    {
+      "id": 54,
+      "text": "Hãy quay lại với hai đầu mối ban đầu.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_054.wav"
+    },
+    {
+      "id": 55,
+      "text": "Một bên là văn khắc mà người chiến thắng muốn lưu lại. Một bên là những dấu vết vật chất tích tụ dưới hồ.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_055.wav"
+    },
+    {
+      "id": 56,
+      "text": "Nếu chỉ có lời khắc, ta còn phải hỏi nó mô tả chính xác đến đâu.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_056.wav"
+    },
+    {
+      "id": 57,
+      "text": "Nếu chỉ có lớp than, ta biết đã có lửa nhưng chưa đủ để gọi tên cuộc tấn công.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_057.wav"
+    },
+    {
+      "id": 58,
+      "text": "Nhờ nhận diện được Ba-lam Hôn, các nhà nghiên cứu đã nối chúng lại với nhau.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_058.wav"
+    },
+    {
+      "id": 59,
+      "text": "Số phận của nhiều cư dân vẫn chưa thể kể trọn.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_059.wav"
+    },
+    {
+      "id": 60,
+      "text": "Nhưng cuộc chiến ấy đã để lại nhiều hơn một lời tuyên công.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_060.wav"
+    },
+    {
+      "id": 61,
+      "text": "Nó còn để lại dấu cháy, những công trình bị phá hủy và một thay đổi lớn trong hoạt động của con người — những dấu vết mà hơn một nghìn năm sau, ta vẫn có thể đem ra đối chiếu.",
+      "seed": 284617,
+      "output": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_maya\\voice_direction\\script_witzna_697\\raw\\unit_061.wav"
+    }
+  ]
+}

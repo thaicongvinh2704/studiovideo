@@ -1,0 +1,61 @@
+## HẠNG MỤC 5: ĐẠO CỤ DIỄN GIẢI (EXPLAINER UI), THẺ BÀI & CẢNH KẾT (12 PROMPTS)
+
+### 43. Hai tờ giấy trên bàn Mỏ Đen ("Thắng Trận" vs "Sau Khi Chết")
+- **Cảnh:** Chương 2. Hai tờ văn bản cổ đặt cạnh nhau: tờ bên trái ghi danh sách chiến thắng cõi người, tờ bên phải ghi danh sách phong thần cõi âm.
+- **Prompt:**
+  > `Two ancient Chinese official manuscript papers laid side by side on a desk, the left paper written in dignified black calligraphy titled 'Mortal Victories', the right scroll written in glowing cinnabar vermilion ink titled 'Spirit Appointments', isolated on a pure solid white background. Clean 2D minimalist vector graphic illustration, crisp lines, flat paper texture --ar 16:9 --v 6.1`
+
+### 44. Thẻ bài phân hạng: Tiên Đạo (Đám mây thanh tịnh)
+- **Cảnh:** Chương 6 & 8. Thẻ bài gỗ viền bạc chạm khắc hình đám mây tiên bồng bềnh, tượng trưng cho con đường tu tiên tự do thanh cao.
+- **Prompt:**
+  > `A rectangular ceremonial jade tablet card representing 'The Way of Immortality' (Xian Dao), carved with elegant floating white cloud motifs and a flying crane, serene ethereal silver and jade glow, isolated on a pure solid white background. Clean 2D vector UI card icon, crisp dark outlines, flat cell shading --ar 3:4 --v 6.1`
+
+### 45. Thẻ bài phân hạng: Thần Đạo (Xiềng xích trách nhiệm & Chức vị)
+- **Cảnh:** Chương 6 & 8. Thẻ bài đồng chạm khắc hình chiếc lệnh bài thiên đình và vòng xích vàng, tượng trưng cho thần chức có trách nhiệm và ràng buộc.
+- **Prompt:**
+  > `A rectangular ceremonial bronze tablet card representing 'The Way of Deities' (Shen Dao), carved with celestial imperial seal motifs and ornate golden responsibility reins, symbolizing cosmic duty and heavenly binding, isolated on a pure solid white background. Clean 2D vector UI card icon, bold ink lines, flat cel-shading --ar 3:4 --v 6.1`
+
+### 46. Thẻ bài phân hạng: Nhân Đạo (Vương quyền & Đất phong)
+- **Cảnh:** Chương 8. Thẻ bài gỗ sơn mài đỏ viền vàng chạm khắc mũ miện vương hầu và bản đồ đất phong, tượng trưng cho bổng lộc cõi người.
+- **Prompt:**
+  > `A rectangular ceremonial lacquer tablet card representing 'The Mortal Realm' (Ren Dao), carved with a royal coronet and a castle seal, symbolizing worldly power, territory and mortal feudal rank, isolated on a pure solid white background. Clean 2D vector UI card icon, sharp contours, flat colors --ar 3:4 --v 6.1`
+
+### 47. Thẻ bài "Băng Tiêu Ngõa Giải" (Băng tan ngói vỡ)
+- **Cảnh:** Chương 4. Thẻ bài đá đen có hình khối băng đang tan chảy và viên ngói vỡ đôi, minh họa chức thần của Phi Liêm Ác Lai.
+- **Prompt:**
+  > `A symbolic graphic card illustrating 'Ice Thawing and Tiles Shattering' (Bing Xiao Wa Jie), stylized cracked ancient roof tiles splitting in half alongside melting ice crystal blocks, isolated on a pure solid white background. Clean 2D graphic novel icon, bold expressive lines, flat cool color palette --ar 1:1 --v 6.1`
+
+### 48. Thẻ bài "Lôi Bộ Thiên Cung" (Sấm sét & Thiện ác)
+- **Cảnh:** Chương 3. Biểu tượng lôi đài với tia chớp xanh biếc và trống sấm, tượng trưng cho cơ quan thưởng thiện phạt ác do Văn Trọng đứng đầu.
+- **Prompt:**
+  > `A symbolic emblem card for the Heavenly Thunder Ministry (Lei Bu), dynamic circular emblem featuring an ancient Chinese thunder drum surrounded by golden lightning bolts and dark storm clouds, isolated on a pure solid white background. Clean 2D vector game badge, crisp contours, vibrant cell shading --ar 1:1 --v 6.1`
+
+### 49. Nhóm 7 tướng Nhục Thân Thành Thánh bước vào mây trắng
+- **Cảnh:** Chương 8. Dáng bóng 7 vị tướng (Dương Tiễn, Na Tra, Lôi Chấn Tử...) quay lưng bước lên núi cao, bỏ lại vinh hoa cõi người trở về tiên cảnh.
+- **Prompt:**
+  > `Seven legendary Chinese heroic figures seen from behind walking away toward radiant mountain clouds, silhouettes of Yang Jian with his three-pointed spear, young Nezha with his flying ribbon and wheels, and their comrades walking into serene misty sunrise, leaving worldly court behind, isolated on a pure solid white background. Clean 2D graphic novel art, crisp silhouettes, flat colors --ar 16:9 --v 6.1`
+
+### 50. Dương Tiễn & Na Tra (Cận cảnh 2 vị tiêu biểu Nhục Thân Thành Thánh)
+- **Cảnh:** Chương 8. Cận cảnh Dương Tiễn anh tuấn uy phong và Na Tra dũng mãnh, hai nhân vật tiêu biểu không nhận chức thần mà tự tu thành thánh.
+- **Prompt:**
+  > `Yang Jian (Erlang Shen) and young Nezha standing proudly side by side, Yang Jian clad in silver dragon armor with his celestial hound sitting alert beside his boots, Nezha in lotus battle tunic holding his fire spear, youthful fearless heroic expressions, isolated on a pure solid white background. Clean 2D vector comic illustration, crisp bold ink lines, flat cell shading --ar 3:4 --v 6.1`
+
+### 51. Đàn Phong Thần nhìn từ góc trên cao (Toàn cảnh)
+- **Cảnh:** Chương 1 & 9. Góc nhìn toàn cảnh từ trên cao nhìn xuống đàn đá trắng, Khương Tử Nha nhỏ bé đứng ở trung tâm, bao quanh là các đạo kỳ và linh hồn chầu phục.
+- **Prompt:**
+  > `High overhead bird's-eye perspective of the grand Fengshen Altar, symmetrical white octagonal stone terrace with steps radiating outward, central ceremonial platform with burning cauldrons, surrounded by misty celestial clouds, wide cinematic layout, no human figures, clean 2D vector architectural concept --ar 16:9 --v 6.1`
+
+### 52. Cổng Nam Thiên Môn uy nghiêm giữa trời mây
+- **Cảnh:** Chương 7. Đôi cánh cổng ngọc bích sừng sững giữa trời mây, ánh hào quang kim quang chiếu rọi nơi Hanh Cáp Nhị Tướng trấn thủ.
+- **Prompt:**
+  > `The grand celestial South Heaven Gate (Nantianmen), colossal ancient Chinese ceremonial archway carved from translucent white jade with golden cloud roofs, standing majestic amidst floating celestial clouds under a golden dawn sky, 16:9 widescreen, no characters --ar 16:9 --v 6.1`
+
+### 53. Cơn mưa lành tưới mát non sông (Ruộng đồng hồi sinh)
+- **Cảnh:** Chương 9. Cảnh đồng quê mùa màng tươi tốt dưới chân núi, những giọt mưa thần mát lành trút xuống tưới tắm mầm non xanh biếc, không gian thanh bình sau khói lửa chiến tranh.
+- **Prompt:**
+  > `A peaceful ancient Chinese countryside valley flourishing under gentle life-giving rain, vibrant green terraced rice fields and blooming trees drinking in fresh raindrops, dark clouds parting to reveal soft golden sunbeams over misty mountains, peaceful serene atmosphere after war. Clean 2D graphic novel illustration, lush vibrant flat colors, 16:9 widescreen --ar 16:9 --v 6.1`
+
+### 54. Văn Trọng - Thần Cai Quản Mây Mưa & Lôi Bộ (Cảnh kết bài)
+- **Cảnh:** Chương 9 (Câu kết toàn bộ video). Gương mặt hiền hòa uy nghiêm của Văn Trọng mờ ảo ẩn hiện giữa làn mây ngũ sắc, trút nước làm mưa nuôi dưỡng cõi trần nghìn năm.
+- **Prompt:**
+  > `A poetic grand finale illustration of Grand Preceptor Wen Zhong transformed into the supreme benevolent Thunder Deity, a noble translucent face appearing amidst celestial rain clouds, gentle divine rain showering down to nourish green earth below, harmonious eternal presence watching over mortal realm. Clean 2D vector graphic art style, serene inspiring mood, elegant colors, wide cinematic 16:9 view --ar 16:9 --v 6.1`

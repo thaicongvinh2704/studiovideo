@@ -1,0 +1,19 @@
+{
+  "character": "mo_den",
+  "action": "butt_and_hip_wiggle_dance",
+  "action_vi": "Lắc mông & đánh hông vui nhộn (vòng lặp hoàn hảo)",
+  "loop_cycle_seconds": 1.2,
+  "loop_cycle_frames": 36,
+  "fps": 30,
+  "total_loops_in_clip": 8,
+  "total_duration_seconds": 9.6,
+  "files": {
+    "prores_transparent_mov": "outputs\\mo_den_wiggle_loop\\Mo_Den_wiggle_1080p_transparent_ProRes4444.mov",
+    "full_hd_transparent_webm": "outputs\\mo_den_wiggle_loop\\Mo_Den_wiggle_1080p_transparent.webm",
+    "single_cycle_transparent_webm": "outputs\\mo_den_wiggle_loop\\Mo_Den_wiggle_single_cycle_1.2s.webm",
+    "full_hd_preview_mp4": "outputs\\mo_den_wiggle_loop\\Mo_Den_wiggle_preview_fun.mp4",
+    "contact_sheet": "outputs\\mo_den_wiggle_loop\\contact_sheet.jpg"
+  },
+  "seamless_loop_guarantee": "All motion equations use pure integer harmonic sine/cosine functions with zero boundary delta.",
+  "usage_guide_vi": "File ProRes4444 (.mov) và WebM (.webm) có sẵn kênh Alpha trong suốt. Chỉ cần kéo thả thẳng vào track trên timeline của bất kỳ phần mềm dựng phim nào (Premiere, CapCut, DaVinci, Studio) là nhân vật sẽ nổi trên nền video. Nhân bản (Ctrl+D / Alt+Drag) bao nhiêu lần tùy thích mà không lo bị khựng."
+}

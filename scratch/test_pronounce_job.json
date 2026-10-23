@@ -1,0 +1,35 @@
+{
+  "base_lm": "voices/local_design/models/VoxCPM2-BaseLM-Q8_0.gguf",
+  "acoustic": "voices/local_design/models/VoxCPM2-Acoustic-F16.gguf",
+  "reference": "projects/mo_den_maya/voice_direction/full_narration_custom_H_125/H_reference_native_16k.wav",
+  "gpu": true,
+  "gpu_layers": 29,
+  "threads": 6,
+  "max_steps": 350,
+  "units": [
+    {
+      "id": 1,
+      "text": "tàn tích một thành phố Maya ngày nay được gọi là Witzna.",
+      "seed": 284617,
+      "output": "scratch/test_witzna_raw.wav"
+    },
+    {
+      "id": 2,
+      "text": "tàn tích một thành phố Maya ngày nay được gọi là Vít-na.",
+      "seed": 284617,
+      "output": "scratch/test_vitna_phonetic.wav"
+    },
+    {
+      "id": 3,
+      "text": "Bahlam Jol đã xuất hiện trên một công trình ở Naranjo.",
+      "seed": 284617,
+      "output": "scratch/test_bahlam_raw.wav"
+    },
+    {
+      "id": 4,
+      "text": "Ba-lam Hôn đã xuất hiện trên một công trình ở Na-ran-hô.",
+      "seed": 284617,
+      "output": "scratch/test_bahlam_phonetic.wav"
+    }
+  ]
+}

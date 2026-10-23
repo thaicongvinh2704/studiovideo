@@ -1,0 +1,43 @@
+## HẠNG MỤC 1: CÁC TRẠNG THÁI & BIẾN THỂ CỦA KHƯƠNG TỬ NHA & VĂN TRỌNG (8 PROMPTS)
+
+### 1. Khương Tử Nha tuổi 32 mới lên núi Côn Lôn tu đạo
+- **Cảnh:** Chương 2 (Hồi 15). Chàng thanh niên 32 tuổi mặc áo vải thô mộc mạc, quỳ bái trước cổng núi Côn Lôn tuyết phủ với tâm nguyện tu tiên thoát tục.
+- **Prompt:**
+  > `Young Jiang Ziya at age 32, humble ancient Chinese Taoist disciple, youthful determined face with clean shaven chin, wearing simple rustic coarse grey hemp robes, kneeling respectfully with palms together in prayer, carrying a wooden bamboo travel basket on back, isolated on a pure solid white background. Clean 2D vector graphic novel art, crisp dark ink outlines, flat cell shading --ar 3:4 --v 6.1`
+
+### 2. Khương Tử Nha tuổi 72 nghe thầy phán không thành tiên
+- **Cảnh:** Chương 2. Lão nhân 72 tuổi râu tóc bạc phơ quỳ dập đầu nghe Nguyên Thủy Thiên Tôn báo đường tiên khó thành, nét mặt nghẹn ngào ngậm ngùi xin được ở lại núi chịu khổ.
+- **Prompt:**
+  > `Elderly Jiang Ziya at age 72, venerable Taoist hermit with long white beard and hair in a high bun, kneeling sorrowfully with head bowed low, palms pressed to floor, pleading expression full of deep yearning and melancholy, wearing faded light blue Taoist vestment, isolated on a pure solid white background. Clean 2D graphic novel art, bold expressive outlines, muted flat colors --ar 3:4 --v 6.1`
+
+### 3. Khương Tử Nha nách mang nải hành lý xuống núi Côn Lôn
+- **Cảnh:** Chương 2. Lão nhân 72 tuổi đeo tay nải vải lam trên vai, tay chống gậy trúc, ngoảnh đầu nhìn lại đỉnh Côn Lôn lần cuối bước xuống trần gian.
+- **Prompt:**
+  > `Elderly Jiang Ziya walking down mountain path, side profile view with head turned back with wistful longing eyes, carrying a simple blue cloth travel bundle on shoulder and holding a rustic bamboo walking staff, wind blowing his white beard, isolated on a pure solid white background. Clean 2D vector comic illustration, sharp clean contours, flat cel-shading --ar 3:4 --v 6.1`
+
+### 4. Khương Tử Nha trang nghiêm trên Phong Thần Đài
+- **Cảnh:** Chương 1 & Chương 9. Tử Nha mặc đạo bào tía thêu bát quái, tay trái giơ cao cuộn Phong Thần Bảng phát sáng, tay phải cầm Đả Thần Tiên uy nghiêm phát lệnh.
+- **Prompt:**
+  > `Jiang Ziya standing grandly on the divine investiture altar, commanding supreme authority pose, venerable sage holding high a glowing golden celestial decree scroll in left hand and the 21-segment bronze God-Beating Whip in right hand, wearing ceremonial purple and gold Taoist robes with embroidered trigrams, dignified solemn heroic face, isolated on a pure solid white background. Clean 2D vector graphic novel art style, crisp ink contours, flat vibrant colors --ar 3:4 --v 6.1`
+
+### 5. Khương Tử Nha bắn cung phép Đinh Đầu Thất Tiễn
+- **Cảnh:** Chương 6. Tử Nha đứng trước bàn tế, giương chiếc cung gỗ đào nhỏ bắn mũi tên dâu vào hình nhân rơm mang tên Triệu Công Minh.
+- **Prompt:**
+  > `Jiang Ziya performing an ancient Taoist ritual, standing in archery stance drawing a sacred peach-wood bow with a glowing spirit arrow, intense focused solemn expression, wearing ritual robes with Taoist charms tucked in belt, isolated on a pure solid white background. Clean 2D graphic novel illustration, bold lines, flat cell shading --ar 3:4 --v 6.1`
+
+### 6. Khương Tử Nha nhận đất phong ở Tề quốc (Tuổi già cô đơn)
+- **Cảnh:** Chương 8. Lão vương Khương Tử Nha mặc áo bào chư hầu gấm vóc lộng lẫy đội vương miện, ngồi trên ngai vàng Tề quốc nhưng ánh mắt xa xăm cô độc nhìn về phương trời mây trắng.
+- **Prompt:**
+  > `Jiang Ziya as the elderly Duke of Qi state, sitting majestically on an ornate low carved wooden throne wearing lavish crimson and gold feudal lord robes and a jade coronet, resting chin on hand with a melancholic contemplative gaze, having all worldly glory but deeply solitary, isolated on a pure solid white background. Clean 2D vector illustration, crisp bold ink lines, elegant flat colors --ar 3:4 --v 6.1`
+
+### 7. Thái sư Văn Trọng oai phong trên lưng Mặc Kỳ Lân
+- **Cảnh:** Chương 3. Văn Trọng lẫm liệt mặc giáp đồng vảy rồng, tay cầm Kim Tiên song chùy, cưỡi con linh thú Mặc Kỳ Lân vảy đen mắt đỏ rực.
+- **Prompt:**
+  > `Grand Preceptor Wen Zhong riding his mythical black dragon-scale beast Mo Qilin, epic heroic pose, venerable warrior general with third celestial eye glowing on forehead, clad in heavy bronze dragon-scale battle armor with fluttering scarlet cape, wielding twin golden thunder maces, the black qilin rearing up proudly, isolated on a pure solid white background. Clean 2D graphic novel vector art, crisp ink lines, rich flat colors --ar 3:4 --v 6.1`
+
+### 8. Hồn ma Văn Trọng hiện về báo mộng cho Trụ Vương
+- **Cảnh:** Chương 3. Linh hồn trong suốt phát sáng xanh mờ ảo của Văn Trọng bay vào cung cấm Triều Ca, chắp tay quỳ gối tha thiết can gián vua Trụ sửa mình cứu nước.
+- **Prompt:**
+  > `The glowing translucent spirit ghost of Grand Preceptor Wen Zhong appearing in a phantom mist, spectral ethereal pale blue apparition, kneeling urgently with clasped hands offering desperate final loyal counsel to his king, phantom battle armor and fluttering spectral beard, isolated on a pure solid white background. Clean 2D stylized graphic novel art, luminous semi-transparent cel-shading, crisp contours --ar 3:4 --v 6.1`
+
+---

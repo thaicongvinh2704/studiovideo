@@ -73,6 +73,30 @@
       "production_rig_integration_implemented": false
     },
     {
+      "id": "ANIM-WIGGLE-001",
+      "status": "completed_awaiting_user_review",
+      "owner": "antigravity",
+      "objective": "Xây dựng hoạt hình Mỏ Đen lắc mông vui nhộn (seamless loop 1.2s) dạng video trong suốt ProRes 4444 và WebM dùng liên tục trong các video.",
+      "evidence": "outputs/mo_den_wiggle_loop/contact_sheet.jpg",
+      "demo": "outputs/mo_den_wiggle_loop/Mo_Den_wiggle_preview_fun.mp4",
+      "transparent_prores": "outputs/mo_den_wiggle_loop/Mo_Den_wiggle_1080p_transparent_ProRes4444.mov",
+      "transparent_webm": "outputs/mo_den_wiggle_loop/Mo_Den_wiggle_1080p_transparent.webm",
+      "manifest": "outputs/mo_den_wiggle_loop/manifest.json",
+      "production_rig_integration_implemented": false
+    },
+    {
+      "id": "ANIM-BACKWIGGLE-001",
+      "status": "completed_awaiting_user_review",
+      "owner": "antigravity",
+      "objective": "Xây dựng hoạt hình Mỏ Đen quay lưng lắc mông vui nhộn (back-view rear butt wiggle, seamless loop 1.2s) dạng video trong suốt ProRes 4444 và WebM.",
+      "evidence": "outputs/mo_den_back_wiggle_loop/contact_sheet.jpg",
+      "demo": "outputs/mo_den_back_wiggle_loop/Mo_Den_back_wiggle_preview_fun.mp4",
+      "transparent_prores": "outputs/mo_den_back_wiggle_loop/Mo_Den_back_wiggle_1080p_transparent_ProRes4444.mov",
+      "transparent_webm": "outputs/mo_den_back_wiggle_loop/Mo_Den_back_wiggle_1080p_transparent.webm",
+      "manifest": "outputs/mo_den_back_wiggle_loop/manifest.json",
+      "production_rig_integration_implemented": false
+    },
+    {
       "id": "PRODUCTION-NEXT",
       "status": "awaiting_user_production_task",
       "owner": null,
@@ -106,7 +130,7 @@
       "objective": "Đẩy các thay đổi repo hiện có lên GitHub mà không ghi đè lịch sử remote.",
       "commit": "e952c54",
       "remote": "origin/main",
-      "evidence": "git push thành công; 4 LFS objects, 4.9 MB đã tải.",
+      "evidence": "Đã push origin/main thành công; commit e952c54 gồm 83 file/4 LFS objects (4.9 MB), commit 2878672 gồm demo hành động 15 giây/1 LFS object (2.7 MB).",
       "pending_local_files": [
         "projects/mo_den_maya/voice_direction/ab_samples/01_mo_bai/A_pipeline_hien_tai_unmatched.wav",
         "projects/mo_den_maya/voice_direction/ab_samples/02_muoi_ba_nam/A_pipeline_hien_tai_unmatched.wav",
@@ -115,7 +139,61 @@
         "voices/demos/vietnamese_ab/selected_B_new_sentence.wav",
         "voices/references/video_mau_kcWEaXRh2hA/studio_smoke.wav"
       ],
-      "reason": "Windows trả Permission denied khi Git đọc các WAV; file được giữ nguyên tại máy."
+      "reason": "Windows trả Permission denied khi Git đọc các WAV; file được giữ nguyên tại máy.",
+      "published_commits": [
+        "e952c54",
+        "2878672"
+      ]
+    },
+    {
+      "id": "MAYA-RENDER-GPU-001",
+      "status": "completed",
+      "owner": "antigravity",
+      "objective": "Render toàn bộ phim tài liệu Mỏ Đen Maya (14m12s, 1080p, 24fps) bản đạo diễn sạch (Mỏ Đen tĩnh, không hoạt họa người thừa, không ghi chú item thừa) bằng tăng tốc GPU NVENC và sửa lỗi font chữ tiếng Việt.",
+      "evidence": "outputs/Mo_Den_Maya_Dao_Dien_Final_1080p.mp4",
+      "gpu_speed": "114.1 fps (~3.3 phút cho 20453 frames)",
+      "video_size_mb": 181.4
+    },
+    {
+      "id": "VOICE-WITZNA-697",
+      "status": "completed",
+      "owner": "antigravity",
+      "objective": "Biên kịch và xuất giọng đọc diễn cảm, có hồn, nhấn nhá tự nhiên cho kịch bản Vụ cháy Witzna (Bahlam Jol) năm 697 SCN bằng giọng Mỏ Đen Custom H chuẩn Bắc, tốc độ 1.25x và xuất file âm thanh kèm phụ đề SRT đồng bộ.",
+      "evidence": "projects/mo_den_maya/voice_direction/script_witzna_697/report_witzna.json",
+      "audio_wav": "projects/mo_den_maya/voice_direction/script_witzna_697/Mo_Den_Witzna_697_Custom_H_1_25x.wav",
+      "audio_mp3": "projects/mo_den_maya/voice_direction/script_witzna_697/Mo_Den_Witzna_697_Custom_H_1_25x.mp3",
+      "subtitles_srt": "projects/mo_den_maya/voice_direction/script_witzna_697/Mo_Den_Witzna_697.srt",
+      "duration": "3m52s (232.64s)",
+      "units": 61
+    },
+    {
+      "id": "VOICE-PHONG-THAN-001",
+      "status": "completed",
+      "owner": "antigravity",
+      "objective": "Biên kịch và kết xuất giọng đọc diễn cảm, có hồn, giàu chất triết lý nhân sinh cho kịch bản Phong Thần Diễn Nghĩa (Vì sao kẻ địch của Khương Tử Nha vẫn được phong thần?) gồm 243 cụm nghĩa bằng giọng Mỏ Đen Custom H chuẩn Bắc 1.25x dài 14m52s kèm phụ đề SRT đồng bộ.",
+      "evidence": "projects/mo_den_phong_than/voice_direction/report_phong_than.json",
+      "audio_wav": "projects/mo_den_phong_than/voice_direction/Mo_Den_Phong_Than_Dien_Nghia_Custom_H_1_25x.wav",
+      "audio_mp3": "projects/mo_den_phong_than/voice_direction/Mo_Den_Phong_Than_Dien_Nghia_Custom_H_1_25x.mp3",
+      "subtitles_srt": "projects/mo_den_phong_than/voice_direction/Mo_Den_Phong_Than_Dien_Nghia.srt",
+      "duration": "14m52s (892.13s)",
+      "units": 243,
+      "sections": 9
+    },
+    {
+      "id": "GIT-PUBLISH-20261023",
+      "owner": "codex",
+      "status": "prepared_for_commit_and_push",
+      "objective": "Đồng bộ toàn bộ thay đổi và nguyên liệu hiện có ngày 23/10/2026 lên origin/main.",
+      "pending_local_files": [
+        "projects/mo_den_maya/voice_direction/ab_samples/01_mo_bai/A_pipeline_hien_tai_unmatched.wav",
+        "projects/mo_den_maya/voice_direction/ab_samples/02_muoi_ba_nam/A_pipeline_hien_tai_unmatched.wav",
+        "projects/mo_den_maya/voice_direction/ab_samples/03_nhin_lai_su_sup_do/A_pipeline_hien_tai_unmatched.wav",
+        "voices/auditions/reference_EFp49inlLuQ_variants/production_voice_check.wav",
+        "voices/demos/vietnamese_ab/selected_B_new_sentence.wav",
+        "voices/references/video_mau_kcWEaXRh2hA/studio_smoke.wav"
+      ],
+      "exception_reason": "Sáu WAV cũ vẫn bị Windows từ chối quyền đọc; đã thử đọc toàn bộ file với quyền ngoài sandbox. Giữ nguyên bản local.",
+      "quality_note": "Đồng bộ Git không chứng nhận chất lượng hình ảnh hoặc nghe giọng; giữ trạng thái duyệt hiện có."
     }
   ]
 }
