@@ -182,7 +182,7 @@
     {
       "id": "GIT-PUBLISH-20261023",
       "owner": "codex",
-      "status": "prepared_for_commit_and_push",
+      "status": "pushed_with_six_old_wav_access_exceptions",
       "objective": "Đồng bộ toàn bộ thay đổi và nguyên liệu hiện có ngày 23/10/2026 lên origin/main.",
       "pending_local_files": [
         "projects/mo_den_maya/voice_direction/ab_samples/01_mo_bai/A_pipeline_hien_tai_unmatched.wav",
@@ -193,7 +193,9 @@
         "voices/references/video_mau_kcWEaXRh2hA/studio_smoke.wav"
       ],
       "exception_reason": "Sáu WAV cũ vẫn bị Windows từ chối quyền đọc; đã thử đọc toàn bộ file với quyền ngoài sandbox. Giữ nguyên bản local.",
-      "quality_note": "Đồng bộ Git không chứng nhận chất lượng hình ảnh hoặc nghe giọng; giữ trạng thái duyệt hiện có."
+      "quality_note": "Đồng bộ Git không chứng nhận chất lượng hình ảnh hoặc nghe giọng; giữ trạng thái duyệt hiện có.",
+      "commit": "f5b9fe1",
+      "evidence": "git push origin main exit 0; 630 LFS objects, 985 MB, main advanced 2878672..f5b9fe1; 1108 files committed."
     }
   ]
 }
