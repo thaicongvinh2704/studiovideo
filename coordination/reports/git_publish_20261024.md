@@ -26,3 +26,13 @@ thay bằng tệp rỗng và không xóa nội dung đã có trong lịch sử G
 
 Kết quả push và commit được ghi vào task `GIT-PUBLISH-20261024` sau khi xác minh
 remote. Upload thành công không chứng nhận chất lượng hình ảnh hoặc nghe giọng.
+
+## Kết quả xác minh
+
+- Commit nội dung: `95c8bfb3eddee4949a92f928d74d9d5445e615cf` — 1.585 file.
+- `git push origin main`: exit 0, `4881053..95c8bfb`.
+- LFS upload: 793 objects, 890 MB, 100%.
+- `git ls-remote origin refs/heads/main`: khớp commit nội dung sau push.
+- Đã kiểm tra cú pháp 21 file Python; không có blob Git vượt 90 MiB hoặc runtime/cache trong commit.
+- Cảnh báo khoảng trắng cuối dòng ở HTML cũ được giữ; không chỉnh bản dựng trong lượt upload.
+- Sáu WAV cũ vẫn là ngoại lệ; không có tư liệu mới hôm nay bị bỏ vì lỗi này.

@@ -291,9 +291,9 @@
     {
       "id": "GIT-PUBLISH-20261024",
       "owner": "codex",
-      "status": "prepared_for_push",
+      "status": "pushed_with_six_legacy_wav_access_exceptions",
       "objective": "Đưa thay đổi ngày 24/10 lên origin/main, gồm mã và tư liệu; bảo toàn lịch sử và sáu WAV lỗi cũ.",
-      "evidence": "coordination/reports/git_publish_20261024.md",
+      "evidence": "git push origin main exit 0: 4881053..95c8bfb; 793 LFS objects/890 MB. git ls-remote confirmed same SHA.",
       "full_render_authorized": false,
       "staged_files": 1585,
       "python_syntax_checked": 21,
@@ -307,7 +307,12 @@
         "voices/demos/vietnamese_ab/selected_B_new_sentence.wav",
         "voices/references/video_mau_kcWEaXRh2hA/studio_smoke.wav"
       ],
-      "exception_reason": "Retried full reads outside sandbox; Windows Permission denied errno 13 persists for six old WAVs. Preserved unchanged."
+      "exception_reason": "Retried full reads outside sandbox; Windows Permission denied errno 13 persists for six old WAVs. Preserved unchanged.",
+      "commit": "95c8bfb3eddee4949a92f928d74d9d5445e615cf",
+      "remote": "origin/main",
+      "verified_remote_commit": "95c8bfb3eddee4949a92f928d74d9d5445e615cf",
+      "uploaded_lfs_objects": 793,
+      "uploaded_lfs_display_size": "890 MB"
     }
   ]
 }
