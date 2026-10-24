@@ -1,0 +1,498 @@
+{
+  "schema": 1,
+  "name": "Bản Thử Diễn Hoạt Nhân Vật: Khương Tử Nha & Văn Trọng",
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "scenes": [
+    {
+      "id": "scene_dan_phong_than_van_trong_motion",
+      "name": "Đàn phong thần - Văn Trọng nhận lệnh quỳ nghe sắc",
+      "start": 0.0,
+      "duration": 21.4,
+      "background": "white",
+      "background_file": "motion_test_assets/bg_dan_phong_than.png",
+      "effects": [],
+      "camera": {
+        "keys": {
+          "zoom": [
+            {
+              "t": 0.0,
+              "v": 1.0,
+              "ease": "linear"
+            }
+          ],
+          "x": [
+            {
+              "t": 0.0,
+              "v": 640.0,
+              "ease": "linear"
+            }
+          ],
+          "y": [
+            {
+              "t": 0.0,
+              "v": 360.0,
+              "ease": "linear"
+            }
+          ]
+        },
+        "follow": ""
+      },
+      "objects": [
+        {
+          "id": "obj_tu_nha_body",
+          "kind": "image",
+          "name": "Khương Tử Nha (Thân & Đạo phục)",
+          "file": "motion_test_assets/tu_nha_body.png",
+          "x": 350.0,
+          "y": 520.0,
+          "scale": 0.38,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 21.4,
+          "pivot": [
+            447.5,
+            1065.0
+          ],
+          "keys": {
+            "scale": [
+              {
+                "t": 0.0,
+                "v": 0.38,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 1.7,
+                "v": 0.382,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 3.4,
+                "v": 0.38,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 5.1,
+                "v": 0.382,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 6.8,
+                "v": 0.38,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.5,
+                "v": 0.382,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 10.2,
+                "v": 0.38,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 11.9,
+                "v": 0.382,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 13.6,
+                "v": 0.38,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 15.3,
+                "v": 0.382,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 17.0,
+                "v": 0.38,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 18.7,
+                "v": 0.382,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 21.4,
+                "v": 0.38,
+                "ease": "ease_in_out"
+              }
+            ]
+          }
+        },
+        {
+          "id": "obj_tu_nha_head",
+          "kind": "image",
+          "name": "Khương Tử Nha (Đầu & Râu)",
+          "file": "motion_test_assets/tu_nha_head.png",
+          "x": 365.0,
+          "y": 140.0,
+          "scale": 0.38,
+          "rotation": 5.0,
+          "opacity": 1.0,
+          "layer": 15,
+          "start": 0.0,
+          "end": 21.4,
+          "pivot": [
+            230.0,
+            360.0
+          ],
+          "keys": {
+            "rotation": [
+              {
+                "t": 0.0,
+                "v": 5.0,
+                "ease": "linear"
+              },
+              {
+                "t": 3.6,
+                "v": 5.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 4.8,
+                "v": -8.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 12.0,
+                "v": -8.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 14.5,
+                "v": -2.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 21.4,
+                "v": -2.0,
+                "ease": "linear"
+              }
+            ]
+          }
+        },
+        {
+          "id": "obj_tu_nha_arm_whip",
+          "kind": "image",
+          "name": "Khương Tử Nha (Tay cầm Roi Đả Thần)",
+          "file": "motion_test_assets/tu_nha_arm_whip.png",
+          "x": 320.0,
+          "y": 228.0,
+          "scale": 0.38,
+          "rotation": -25.0,
+          "opacity": 1.0,
+          "layer": 20,
+          "start": 0.0,
+          "end": 21.4,
+          "pivot": [
+            100.0,
+            500.0
+          ],
+          "keys": {
+            "rotation": [
+              {
+                "t": 0.0,
+                "v": -25.0,
+                "ease": "linear"
+              },
+              {
+                "t": 5.0,
+                "v": -25.0,
+                "ease": "ease_out"
+              },
+              {
+                "t": 7.0,
+                "v": 18.0,
+                "ease": "ease_out"
+              },
+              {
+                "t": 11.8,
+                "v": 18.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 14.5,
+                "v": -10.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 21.4,
+                "v": -10.0,
+                "ease": "linear"
+              }
+            ]
+          }
+        },
+        {
+          "id": "obj_badge_tu_nha",
+          "kind": "image",
+          "name": "Nhãn Khương Tử Nha",
+          "file": "motion_test_assets/badge_tu_nha.png",
+          "x": 350.0,
+          "y": 45.0,
+          "scale": 0.35,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 21.4,
+          "pivot": [
+            282.0,
+            67.0
+          ]
+        },
+        {
+          "id": "obj_van_trong_p1",
+          "kind": "image",
+          "name": "Văn Trọng (P1 - Đứng thẳng lẫm liệt)",
+          "file": "motion_test_assets/van_trong_p1_stand.png",
+          "x": 940.0,
+          "y": 590.0,
+          "scale": 0.36,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 10,
+          "start": 0.0,
+          "end": 8.7,
+          "pivot": [
+            512.0,
+            1390.0
+          ],
+          "keys": {
+            "opacity": [
+              {
+                "t": 0.0,
+                "v": 1.0,
+                "ease": "linear"
+              },
+              {
+                "t": 7.8,
+                "v": 1.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.7,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              }
+            ]
+          }
+        },
+        {
+          "id": "obj_van_trong_p2",
+          "kind": "image",
+          "name": "Văn Trọng (P2 - Chùng gối hạ trọng tâm)",
+          "file": "motion_test_assets/van_trong_p2_bend.png",
+          "x": 940.0,
+          "y": 590.0,
+          "scale": 0.36,
+          "rotation": 0.0,
+          "opacity": 0.0,
+          "layer": 11,
+          "start": 7.8,
+          "end": 9.8,
+          "pivot": [
+            512.0,
+            1390.0
+          ],
+          "keys": {
+            "opacity": [
+              {
+                "t": 7.8,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 8.7,
+                "v": 1.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.8,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              }
+            ]
+          }
+        },
+        {
+          "id": "obj_van_trong_p3",
+          "kind": "image",
+          "name": "Văn Trọng (P3 - Gối chạm đất)",
+          "file": "motion_test_assets/van_trong_p3_touchdown.png",
+          "x": 940.0,
+          "y": 590.0,
+          "scale": 0.36,
+          "rotation": 0.0,
+          "opacity": 0.0,
+          "layer": 12,
+          "start": 8.7,
+          "end": 11.0,
+          "pivot": [
+            512.0,
+            1390.0
+          ],
+          "keys": {
+            "opacity": [
+              {
+                "t": 8.7,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 9.8,
+                "v": 1.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 11.0,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              }
+            ]
+          }
+        },
+        {
+          "id": "obj_van_trong_p4",
+          "kind": "image",
+          "name": "Văn Trọng (P4 - Quỳ uy nghiêm nghe sắc)",
+          "file": "motion_test_assets/van_trong_p4_kneel.png",
+          "x": 940.0,
+          "y": 590.0,
+          "scale": 0.36,
+          "rotation": 0.0,
+          "opacity": 0.0,
+          "layer": 13,
+          "start": 9.8,
+          "end": 21.4,
+          "pivot": [
+            512.0,
+            1390.0
+          ],
+          "keys": {
+            "opacity": [
+              {
+                "t": 9.8,
+                "v": 0.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 11.0,
+                "v": 1.0,
+                "ease": "linear"
+              },
+              {
+                "t": 21.4,
+                "v": 1.0,
+                "ease": "linear"
+              }
+            ]
+          }
+        },
+        {
+          "id": "obj_badge_van_trong",
+          "kind": "image",
+          "name": "Nhãn Văn Trọng",
+          "file": "motion_test_assets/badge_van_trong.png",
+          "x": 940.0,
+          "y": 75.0,
+          "scale": 0.35,
+          "rotation": 0.0,
+          "opacity": 1.0,
+          "layer": 30,
+          "start": 0.0,
+          "end": 21.4,
+          "pivot": [
+            257.0,
+            70.0
+          ],
+          "keys": {
+            "y": [
+              {
+                "t": 0.0,
+                "v": 75.0,
+                "ease": "linear"
+              },
+              {
+                "t": 7.8,
+                "v": 75.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 11.0,
+                "v": 140.0,
+                "ease": "ease_in_out"
+              },
+              {
+                "t": 21.4,
+                "v": 140.0,
+                "ease": "linear"
+              }
+            ]
+          }
+        }
+      ],
+      "subtitle_ids": [
+        "sub_c68",
+        "sub_c69",
+        "sub_c70",
+        "sub_c71"
+      ],
+      "audio_ids": [
+        "aud_cue_68_71"
+      ]
+    }
+  ],
+  "subtitles": [
+    {
+      "id": "sub_c68",
+      "start": 0.23,
+      "end": 5.09,
+      "text": "Khi được gọi lên, ông vẫn giữ khí thế cũ, dẫn theo các vị thuộc Lôi bộ tiến đến mà chưa chịu quỳ."
+    },
+    {
+      "id": "sub_c69",
+      "start": 5.17,
+      "end": 8.88,
+      "text": "Khương Tử Nha phải cầm roi, yêu cầu ông quỳ nghe sắc lệnh, ông mới làm theo."
+    },
+    {
+      "id": "sub_c70",
+      "start": 9.18,
+      "end": 14.04,
+      "text": "Người từng chống Tử Nha đến cùng nay được giao đứng đầu Lôi bộ, nhận chức Cửu Thiên Ứng Nguyên Lôi Thanh Phổ Hóa Thiên Tôn."
+    },
+    {
+      "id": "sub_c71",
+      "start": 14.16,
+      "end": 21.27,
+      "text": "Sắc phong nhắc đến sự tận trung của ông với hai đời vua. Chức trách mới liên quan đến mây mưa, nuôi dưỡng vạn vật, trừ gian và việc họa phúc theo thiện ác."
+    }
+  ],
+  "audio": [
+    {
+      "id": "aud_cue_68_71",
+      "file": "motion_test_assets/cue_68_71_van_trong_kneeling.wav",
+      "start": 0.0,
+      "volume": 1.0
+    }
+  ],
+  "references": [],
+  "subtitle_style": {
+    "enabled": true,
+    "size": 26,
+    "font": "Segoe UI",
+    "color": "#ffffff",
+    "background": true,
+    "y": 0.88
+  },
+  "duck_music": false
+}

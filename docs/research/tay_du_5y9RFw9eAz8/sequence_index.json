@@ -1,0 +1,91 @@
+[
+  {
+    "id": "tea_action",
+    "start": 133,
+    "end": 143,
+    "sample_fps": 4,
+    "frames": 40,
+    "boards": [
+      "docs/research/tay_du_5y9RFw9eAz8/boards/tea_action_1.jpg",
+      "docs/research/tay_du_5y9RFw9eAz8/boards/tea_action_2.jpg"
+    ]
+  },
+  {
+    "id": "weapon_interaction",
+    "start": 164,
+    "end": 174,
+    "sample_fps": 4,
+    "frames": 40,
+    "boards": [
+      "docs/research/tay_du_5y9RFw9eAz8/boards/weapon_interaction_1.jpg",
+      "docs/research/tay_du_5y9RFw9eAz8/boards/weapon_interaction_2.jpg"
+    ]
+  },
+  {
+    "id": "pig_gag",
+    "start": 198,
+    "end": 208,
+    "sample_fps": 4,
+    "frames": 40,
+    "boards": [
+      "docs/research/tay_du_5y9RFw9eAz8/boards/pig_gag_1.jpg",
+      "docs/research/tay_du_5y9RFw9eAz8/boards/pig_gag_2.jpg"
+    ]
+  },
+  {
+    "id": "foreground_scale",
+    "start": 229,
+    "end": 240,
+    "sample_fps": 2,
+    "frames": 22,
+    "boards": [
+      "docs/research/tay_du_5y9RFw9eAz8/boards/foreground_scale_1.jpg"
+    ]
+  },
+  {
+    "id": "route_compare",
+    "start": 315,
+    "end": 345,
+    "sample_fps": 2,
+    "frames": 60,
+    "boards": [
+      "docs/research/tay_du_5y9RFw9eAz8/boards/route_compare_1.jpg",
+      "docs/research/tay_du_5y9RFw9eAz8/boards/route_compare_2.jpg",
+      "docs/research/tay_du_5y9RFw9eAz8/boards/route_compare_3.jpg"
+    ]
+  },
+  {
+    "id": "dragon_consequence",
+    "start": 409,
+    "end": 435,
+    "sample_fps": 2,
+    "frames": 52,
+    "boards": [
+      "docs/research/tay_du_5y9RFw9eAz8/boards/dragon_consequence_1.jpg",
+      "docs/research/tay_du_5y9RFw9eAz8/boards/dragon_consequence_2.jpg",
+      "docs/research/tay_du_5y9RFw9eAz8/boards/dragon_consequence_3.jpg"
+    ]
+  },
+  {
+    "id": "distance_diagram",
+    "start": 572,
+    "end": 585,
+    "sample_fps": 2,
+    "frames": 26,
+    "boards": [
+      "docs/research/tay_du_5y9RFw9eAz8/boards/distance_diagram_1.jpg",
+      "docs/research/tay_du_5y9RFw9eAz8/boards/distance_diagram_2.jpg"
+    ]
+  },
+  {
+    "id": "food_reveal",
+    "start": 661,
+    "end": 675,
+    "sample_fps": 2,
+    "frames": 28,
+    "boards": [
+      "docs/research/tay_du_5y9RFw9eAz8/boards/food_reveal_1.jpg",
+      "docs/research/tay_du_5y9RFw9eAz8/boards/food_reveal_2.jpg"
+    ]
+  }
+]

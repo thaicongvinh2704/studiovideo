@@ -14,6 +14,11 @@ Record purposeful exceptions with actual visual evidence; never treat counts
 or technical tests as aesthetic approval. Do not call the film corrected when
 only the rule or shot list has changed.
 
+Full video rendering must not be initiated without user review and approval (24/10/2026).
+Always present the edit to the user first—via Studio UI interactive preview, shot list
+breakdown, contact sheet/review boards, or a short draft snippet—and only render the
+final video when the user has approved the edit.
+
 ## Current production direction: Mỏ Đen
 
 The user has selected Mỏ Đen, an externally prepared cartoon cat, as the main recurring character instead of the human presenter. Read `assets/characters/mo_den/README.md` and `manifest.json` before planning character assets. The user will supply individual images and expressions from outside Studio. Accept those supplied assets regardless of their external creation method; the earlier no-image-generation constraint does not prohibit importing images the user deliberately supplies. Do not generate replacements or redesign Mỏ Đen without a request.

@@ -1,0 +1,30 @@
+{
+  "glaxnimate": "0.6.0-git-d2da67a",
+  "rendered_frames": 2,
+  "sizes": [
+    [
+      400,
+      180
+    ],
+    [
+      400,
+      180
+    ]
+  ],
+  "bounds": [
+    [
+      45,
+      66,
+      218,
+      114
+    ],
+    [
+      118,
+      66,
+      292,
+      114
+    ]
+  ],
+  "frames_differ": true,
+  "input": "vector_tool_test.json"
+}

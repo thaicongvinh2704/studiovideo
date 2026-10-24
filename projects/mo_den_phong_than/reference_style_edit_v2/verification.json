@@ -1,0 +1,34 @@
+{
+  "scenes": 192,
+  "duration_seconds": 895.6321458333333,
+  "cue_coverage": "1-243 exactly once",
+  "timeline_continuous": true,
+  "referenced_derivatives_exist": true,
+  "original_voice": "projects\\mo_den_phong_than\\voice_direction\\Mo_Den_Phong_Than_Dien_Nghia_Custom_H_1_25x.wav",
+  "original_voice_sha256": "78f4bafb25510891c370bb6c2f88ae3f05df48b3933d15a4dbb88260c3860450",
+  "speed_applied_here": 1.0,
+  "no_full_mp4_created": true,
+  "source_human_artwork": "static supplied originals; final character QC pending",
+  "listening_qc_completed": false,
+  "final_aesthetic_approval": false,
+  "current_artifact_sha256": {
+    "timeline.json": "59a4af88cac768aaa1f468f84e8a332721e94980283d6b94dbbe9ded08d95014",
+    "project.json": "7df9f2ffea463812cc28c845ddec09f565be5e5b28f0f58a8b9c4d20879a4caa",
+    "assets_manifest.json": "dca0455269fd51ec97473b38639e38bb17ada463bf7a17a35a6f77923249637e",
+    "edit_plan.txt": "bf19a5b958aa70250f759baabc9792186113c866163e09369d561840df78ae2f",
+    "preview.html": "db29be01d39cd285c25e85189794a8dfeb336403810049a781f3d5f11e395749"
+  },
+  "audio_seek_verification": {
+    "http_range_status": 206,
+    "requested_bytes": 1000,
+    "received_bytes": 1000,
+    "browser_seekable_seconds": [
+      0,
+      892.132146
+    ],
+    "started_at": "09:58",
+    "observed_clock": "10:04",
+    "observed_audio_seconds": 603.41616,
+    "visible_error": ""
+  }
+}

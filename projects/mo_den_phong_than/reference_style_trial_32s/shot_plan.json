@@ -1,0 +1,65 @@
+[
+  {
+    "in": 0,
+    "out": 1.3,
+    "name": "Gặp nhau tại đàn",
+    "assets": "Y02",
+    "purpose": "Định vị hai người và thứ bậc; không kéo dài đại cảnh."
+  },
+  {
+    "in": 1.3,
+    "out": 4.944,
+    "name": "Văn Trọng chưa chịu quỳ",
+    "assets": "Y02 + Mỏ Đen 14",
+    "purpose": "Cận người đối đầu; Mỏ Đen chỉ xuất hiện như phản ứng nghi ngờ."
+  },
+  {
+    "in": 4.944,
+    "out": 7.48,
+    "name": "Roi và mệnh lệnh",
+    "assets": "Y02",
+    "purpose": "Cận đúng roi đang cầm, đường chỉ dẫn sang nơi nhận lệnh."
+  },
+  {
+    "in": 7.48,
+    "out": 8.952,
+    "name": "Làm theo sắc lệnh",
+    "assets": "Y02_B",
+    "purpose": "Cut sang tư thế quỳ được cung cấp; cùng không gian, không kéo méo người."
+  },
+  {
+    "in": 8.952,
+    "out": 13.936,
+    "name": "Nhận chức Lôi bộ",
+    "assets": "Y02_B + O01",
+    "purpose": "Người nhận và cuộn sắc; nội dung hiện theo nhịp, không che mặt."
+  },
+  {
+    "in": 13.936,
+    "out": 16.45,
+    "name": "Tận trung hai đời vua",
+    "assets": "O01",
+    "purpose": "Cận sắc và hai dấu mốc; nêu phẩm chất được lời kể nhắc."
+  },
+  {
+    "in": 16.45,
+    "out": 21.125,
+    "name": "Chức trách mới",
+    "assets": "B15 + vector mây/mưa",
+    "purpose": "Mây đưa nước xuống đất, có giọt chạm đất và vòng nước; nhìn thấy hệ quả."
+  },
+  {
+    "in": 21.125,
+    "out": 27.057,
+    "name": "Phạm vi rộng hơn triều đại",
+    "assets": "O06 + B15 + chân dung Văn Trọng",
+    "purpose": "Cờ Thương bên trái, ruộng bên phải, đổi đích của đường nối."
+  },
+  {
+    "in": 27.057,
+    "out": 31.787000000000006,
+    "name": "Nhìn nhận phẩm chất đối thủ",
+    "assets": "Mỏ Đen 13/16 + chân dung hai người",
+    "purpose": "Tò mò chuyển sang nhận ra; đưa lại quan hệ hai người để kết ý."
+  }
+]

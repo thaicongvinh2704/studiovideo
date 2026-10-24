@@ -1,19 +1,22 @@
 {
   "version": 1,
   "active_writer": null,
-  "objective": "Hoàn thành render toàn bộ phim tài liệu Mỏ Đen Maya (14 phút 12 giây, 1080p 24fps) bản đạo diễn sạch bằng GPU NVENC kèm sửa triệt để lỗi font tiếng Việt.",
-  "current_task": "MAYA-RENDER-GPU-001",
-  "next_task": "PRODUCTION-NEXT",
+  "objective": "Đồng bộ thay đổi hôm nay lên GitHub; giữ việc dựng Phong Thần tạm dừng.",
+  "current_task": "GIT-PUBLISH-20261024",
+  "next_task": "USER-DISCUSSION-PRODUCTION-PAUSED",
   "antigravity_capability_status": "verified_native_session",
   "automatic_failover": false,
-  "latest_user_authorization": "Người dùng yêu cầu tạo lại video Mỏ Đen Maya bản cũ (Mỏ Đen không nhép miệng/hoạt động, không vẽ nhiều hoạt họa người dân, không ghi chú item thừa) và render bằng GPU; Antigravity đã hoàn thành xuất file MP4 1080p đạt chuẩn.",
+  "latest_user_authorization": "Đưa thay đổi hôm nay lên Git, ngày 24/10/2026.",
   "production_constraints": [
     "Maya V2 bị từ chối về đạo diễn; V3 và các file có tên Final chưa được xác nhận đã duyệt trong lượt này.",
     "Bảo toàn PNG Mỏ Đen supplied; diễn hoạt dùng derivative rig riêng, giữ nhận diện; chưa có rig được duyệt.",
     "Maya dùng custom H giọng Bắc, 1.25x một lần; giữ bản gốc và QC nghe.",
     "Kiểm tra kỹ thuật không chứng nhận QC thẩm mỹ hay QC nghe.",
-    "Bảo toàn sáu WAV local đã có trước thay đổi phối hợp agent."
+    "Bảo toàn sáu WAV local đã có trước thay đổi phối hợp agent.",
+    "Bắt buộc duyệt edit trước khi render (24/10/2026): Không tự ý render full video final khi chưa cung cấp bản dựng (shot list / review boards / Studio UI) và chưa có sự phê duyệt của người dùng."
   ],
-  "next_action": "Chờ người dùng kiểm tra file outputs/Mo_Den_Maya_Dao_Dien_Final_1080p.mp4.",
-  "last_transition_utc": "2026-10-23T09:54:25.096919+00:00"
+  "next_action": "Commit và push mã/tư liệu hiện có; không sửa hoặc render phim.",
+  "last_transition_utc": "2026-10-24T09:50:31.311702+00:00",
+  "editing_tools_report": "coordination/reports/editing_tools_20261024/README.md",
+  "production_paused_by_user": true
 }

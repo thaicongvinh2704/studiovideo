@@ -1,0 +1,261 @@
+=== PHẦN 1: Hai mệnh lệnh (19 cues, 0.0s -> 54.3s, dài 54.3s) ===
+  [001] 0.00-2.03s: Khương Tử Nha vừa ra lệnh xử chém hai người.
+  [002] 2.22-6.57s: Tội của họ được kể rất rõ: làm loạn triều chính, mê hoặc nhà vua, khiến đất nước sụp đổ.
+  [003] 6.64-10.35s: Đến khi chủ cũ chết, họ lại đem của báu sang cầu được làm quan cho triều đại mới.
+  [004] 10.60-11.56s: Khương Tử Nha ra án.
+  [005] 11.90-16.25s: Hai người bị đưa ra ngoài. Đao phủ thi hành án. Quân lính trở vào báo việc đã xong.
+  [006] 16.45-20.16s: Rồi Khương Tử Nha bước lên đàn, gọi hồn chính hai người ấy đến… để phong thần.
+  [007] 20.29-21.10s: Khoan đã.
+  [008] 21.28-23.50s: Lệnh giết còn chưa nguội, sao đã có lệnh bổ nhiệm?
+  [009] 23.81-27.34s: Nếu bạn nghĩ Phong Thần Bảng là danh sách khen thưởng sau chiến thắng, cảnh này thật khó hiểu.
+  [010] 27.54-28.95s: Người vừa bị kết tội nay lại có thần vị.
+  [011] 28.98-31.41s: Kẻ từng giúp Trụ Vương cũng được giao việc trong trật tự mới.
+  [012] 31.59-33.58s: Mà đây còn chưa phải trường hợp khiến Mỏ Đen chú ý nhất.
+  [013] 33.81-35.22s: Có một người chống Khương Tử Nha đến chết.
+  [014] 35.29-37.79s: Khi hồn được gọi lên nhận chức, ông vẫn không chịu quỳ.
+  [015] 37.79-41.83s: Một người khác gần như đi khắp nơi tìm đối thủ về đánh Tử Nha, cuối cùng cũng có tên được phong.
+  [016] 42.15-46.37s: Trong khi đó, chính người cầm bảng, đọc sắc phong cho người khác, lại đi đến một kết cục rất khác.
+  [017] 46.46-49.79s: Muốn hiểu chuyện này, trước hết hãy nhìn vào thứ Khương Tử Nha cầm trên tay.
+  [018] 49.89-51.17s: Ông có quyền tuyên bố các chức vị.
+  [019] 51.23-54.27s: Nhưng quyền ấy bắt đầu từ một mệnh lệnh mà chính ông cũng phải tuân theo.
+
+=== PHẦN 2: Người đọc danh sách (27 cues, 54.7s -> 136.5s, dài 81.8s) ===
+  [020] 54.66-56.65s: Lùi về lúc Khương Tử Nha còn ở núi Côn Lôn.
+  [021] 56.85-58.25s: Ông lên núi năm ba mươi hai tuổi.
+  [022] 58.29-60.60s: Đến khi được thầy gọi đến, ông đã bảy mươi hai.
+  [023] 60.67-64.38s: Bốn mươi năm tu hành, đủ lâu để một người đi gần hết cuộc đời với cùng một mong muốn.
+  [024] 64.47-67.16s: Rồi Nguyên Thủy Thiên Tôn báo rằng đường tiên của ông khó thành.
+  [025] 67.21-72.07s: Phần dành cho ông là phúc ở nhân gian: xuống núi, giúp nhà Chu, làm tướng làm quan và thay thầy thực hiện việc phong thần.
+  [026] 72.18-73.85s: Khương Tử Nha nghe vậy thì xin được ở lại.
+  [027] 73.95-75.23s: Ông đã thật lòng xuất gia.
+  [028] 75.32-76.12s: Tuổi cũng đã cao.
+  [029] 76.37-79.05s: Ông vẫn muốn tiếp tục chịu khổ trên núi để theo đuổi việc tu hành.
+  [030] 79.05-81.23s: Nhưng lời thỉnh cầu không thay đổi được quyết định.
+  [031] 81.29-84.49s: Tử Nha đành thu xếp hành lý, bái biệt thầy, xuống núi.
+  [032] 84.67-90.43s: Chi tiết này rất dễ bị những trận đánh về sau che mất. Người đứng ra phong thần vốn đã không được chọn con đường mình mong muốn ngay từ đầu.
+  [033] 90.61-94.33s: Cũng trong hồi này, truyện cho biết việc phong thần đã được bàn định ở cấp các bậc giáo chủ.
+  [034] 94.35-97.04s: Có ba trăm sáu mươi lăm vị chính thần, chia thành các bộ và chức trách.
+  [035] 97.24-102.10s: Bên dưới là cuộc thay ngôi giữa nhà Thương và nhà Chu; bên trên là kiếp nạn của những người tu hành và việc sắp đặt các thần vị.
+  [036] 102.36-104.15s: Hai việc ấy cùng diễn ra trong một câu chuyện.
+  [037] 104.31-108.35s: Cho nên, khi một người chết trên chiến trường, câu hỏi không dừng ở chỗ họ đứng về bên nào.
+  [038] 108.54-113.27s: Còn phải xem họ có phần trong việc phong thần hay không, được giao chức gì và sắc phong nói thế nào về cuộc đời họ.
+  [039] 113.49-118.99s: Đến lễ phong thần, Khương Tử Nha nhận phù sắc của Nguyên Thủy Thiên Tôn. Ông làm lễ, công bố chiếu lệnh rồi mới gọi từng người.
+  [040] 119.23-121.15s: Hãy hình dung trên bàn Mỏ Đen có hai tờ giấy.
+  [041] 121.15-122.43s: Một tờ ghi ai thắng trận.
+  [042] 122.49-124.48s: Tờ kia ghi ai đảm nhiệm chức vụ sau khi chết.
+  [043] 124.57-125.97s: Có người xuất hiện trên cả hai.
+  [044] 126.04-127.45s: Có người chỉ xuất hiện ở một tờ.
+  [045] 127.53-130.55s: Nhầm hai tờ thành một, chúng ta sẽ thấy hàng loạt chuyện vô lý.
+  [046] 130.92-136.46s: Và người đầu tiên giúp tách chúng ra là một vị tướng thất bại, nhưng lòng trung thành vẫn còn nguyên cả sau khi chết.
+
+=== PHẦN 3: Văn Trọng đã chết, nhưng chưa chịu cúi đầu (28 cues, 136.9s -> 250.3s, dài 113.4s) ===
+  [047] 136.92-144.03s: Văn Trọng là trụ cột của nhà Thương. Với quân Tây Kỳ, ông là một đối thủ phải đánh bại. Với chính mình, ông là bề tôi đang gắng giữ lấy cơ nghiệp của chủ.
+  [048] 144.29-147.23s: Hồi năm mươi hai đưa ông vào những ngày cuối cùng của cuộc gắng sức ấy.
+  [049] 147.39-154.69s: Đường rút liên tiếp bị chặn. Tướng dưới quyền lần lượt chết. Quân lính hao hụt, mỏi mệt và đói. Đến con mặc kỳ lân theo ông ra trận cũng bị đánh chết.
+  [050] 154.86-159.21s: Có lúc Văn Trọng nghĩ mình vẫn có thể dùng phép thoát về Triều Ca, rồi chỉnh đốn binh mã đánh lại.
+  [051] 159.21-160.68s: Nhưng còn đoàn quân đang theo ông.
+  [052] 160.84-162.76s: Bỏ họ để một mình thoát thân là điều ông không đành.
+  [053] 163.08-164.23s: Thế là cuộc rút lui tiếp tục.
+  [054] 164.49-166.67s: Đến Tuyệt Long Lĩnh, Vân Trung Tử đã chờ sẵn.
+  [055] 166.83-169.64s: Những cột thần hỏa dựng lên, vây Văn Trọng vào giữa.
+  [056] 169.68-172.49s: Ông dùng phép tránh lửa, rồi tìm cách thoát lên phía trên.
+  [057] 172.61-173.89s: Nhưng lối ấy cũng đã bị chặn.
+  [058] 174.01-175.49s: Vị thái sư chết trong vòng vây.
+  [059] 175.78-181.28s: Nếu câu chuyện dừng ở đây, ta đã có một kết cục bi tráng quen thuộc. Nhưng tác giả còn cho Văn Trọng làm thêm một việc.
+  [060] 181.36-184.05s: Hồn ông trở về Triều Ca, hiện vào giấc mộng của Trụ Vương.
+  [061] 184.18-185.15s: Ông báo mình đã chết.
+  [062] 185.19-189.03s: Rồi vẫn khuyên nhà vua sửa sang chính sự, tìm người hiền giúp nước, đừng tiếp tục chìm trong hoang dâm.
+  [063] 189.09-192.10s: Đến lần cuối cùng gặp chủ, điều ông muốn nói vẫn là chuyện cứu lấy triều đại.
+  [064] 192.45-198.53s: Trụ Vương tỉnh dậy, kể lại giấc mộng. Đát Kỷ giải thích rằng vì nhà vua lo Văn thái sư đi đánh giặc nên mới mộng thấy như thế.
+  [065] 198.88-199.88s: Và nhà vua lại yên lòng.
+  [066] 200.21-206.48s: Ở đây có một nỗi buồn rất cụ thể: người bề tôi đã chết vẫn cố nói lời can gián, còn người sống nghe xong lại gác nó sang một bên.
+  [067] 206.78-211.77s: Mang theo điều đó trở lại đàn phong thần, ta sẽ hiểu vì sao Văn Trọng không phải một cái tên vô nghĩa trong danh sách kẻ bại trận.
+  [068] 212.03-216.89s: Khi được gọi lên, ông vẫn giữ khí thế cũ, dẫn theo các vị thuộc Lôi bộ tiến đến mà chưa chịu quỳ.
+  [069] 216.97-220.68s: Khương Tử Nha phải cầm roi, yêu cầu ông quỳ nghe sắc lệnh, ông mới làm theo.
+  [070] 220.98-225.84s: Người từng chống Tử Nha đến cùng nay được giao đứng đầu Lôi bộ, nhận chức Cửu Thiên Ứng Nguyên Lôi Thanh Phổ Hóa Thiên Tôn.
+  [071] 225.96-233.07s: Sắc phong nhắc đến sự tận trung của ông với hai đời vua. Chức trách mới liên quan đến mây mưa, nuôi dưỡng vạn vật, trừ gian và việc họa phúc theo thiện ác.
+  [072] 233.15-238.72s: Cuộc đời ông kết thúc bằng việc không giữ được nhà Thương. Công việc sau khi chết lại hướng ra một phạm vi lớn hơn triều đại ông từng bảo vệ.
+  [073] 239.08-243.56s: Đến đây, có vẻ chúng ta đã tìm được lời giải: Khương Tử Nha vẫn nhìn nhận phẩm chất của một đối thủ.
+  [074] 243.83-250.29s: Điều đó đúng với Văn Trọng. Nhưng hãy để chỗ trống trên bàn cho hai người ở đầu câu chuyện. Bởi với họ, lời giải ấy sẽ không còn đủ.
+
+=== PHẦN 4: Có thần vị, tội vẫn còn (23 cues, 250.8s -> 327.3s, dài 76.5s) ===
+  [075] 250.84-252.51s: Hai người đó là Phi Liêm và Ác Lai.
+  [076] 252.67-259.07s: Ở cuối hồi chín mươi chín, khi họ bị gọi đến, Khương Tử Nha kết tội họ mê hoặc nhà vua, phá hoại chính sự, làm mất cơ nghiệp nhà Thương.
+  [077] 259.28-262.61s: Sau khi nước mất, họ lại đem vật báu mong được hưởng bổng lộc dưới nhà Chu.
+  [078] 262.72-266.17s: Tử Nha ra lệnh xử chém. Sang đầu hồi một trăm, án được thi hành.
+  [079] 266.34-267.82s: Rồi hồn hai người được gọi lên đàn.
+  [080] 268.08-269.74s: Điều đáng chú ý nằm ở chính lời sắc phong.
+  [081] 269.84-270.80s: Tội cũ được nhắc lại.
+  [082] 271.00-273.31s: Họ vẫn bị gọi là gian nịnh, làm hại vua và nước.
+  [083] 273.35-275.85s: Truyện không thêm một chiến công bí mật nào để biến họ thành người tốt.
+  [084] 275.96-279.93s: Chức giao cho họ có tên Băng Tiêu Ngõa Giải, gợi đến băng tan và ngói vỡ.
+  [085] 279.93-283.26s: Kèm theo chức vị là lời răn phải làm đúng phận sự, không được tiếp tục gây điều hung dữ.
+  [086] 283.46-284.86s: Vậy hai mệnh lệnh lúc đầu đã rõ hơn.
+  [087] 285.08-287.07s: Một lệnh xử tội họ trong cuộc đời đã sống.
+  [088] 287.28-289.27s: Lệnh sau định việc cho họ trong thế giới thần linh.
+  [089] 289.37-292.89s: Cùng một người có thể bị kết án ở việc trước, rồi vẫn được đặt vào một chức ở việc sau.
+  [090] 293.08-296.41s: Đây là lý do không thể nhìn thấy hai chữ phong thần rồi tự động hiểu thành được tuyên dương.
+  [091] 296.52-299.46s: Ngay trong danh sách ấy đã có những chức gắn với tai họa, bệnh dịch và điều dữ.
+  [092] 299.67-304.41s: Thế giới mà truyện dựng lên có người quản việc mưa thuận, cũng có người quản những sức mạnh khiến con người sợ hãi.
+  [093] 304.68-308.71s: Nhưng cũng đừng vội đổi sang một đáp án ngược lại, rằng được phong thần thì ai cũng bị trừng phạt.
+  [094] 308.99-314.88s: Văn Trọng có lời ghi nhận lòng trung. Phi Liêm, Ác Lai bị nhắc tội. Cùng là nhận chức, ý nghĩa đối với từng người đã khác nhau.
+  [095] 315.03-321.94s: Muốn biết một cuộc phong thần có nghĩa gì, phải đọc cả lời phán về người ấy và công việc được giao. Chỉ đọc tên chức sẽ bỏ mất một nửa câu chuyện.
+  [096] 322.11-326.34s: Còn nếu bạn đang nghĩ Khương Tử Nha hẳn phải dành ngoại lệ cho người ghét mình nhất, thì tên tiếp theo lại xuất hiện.
+  [097] 326.54-327.34s: Thân Công Báo.
+
+=== PHẦN 5: Kẻ cản đường lại giúp danh sách thành hình (24 cues, 327.5s -> 425.4s, dài 97.9s) ===
+  [098] 327.55-333.05s: Văn Trọng đánh Tử Nha để giữ nhà Thương. Với Thân Công Báo, cuộc đối đầu còn mang theo sự thù hằn cá nhân.
+  [099] 333.23-338.22s: Trong hồi bảy mươi hai, Khương Tử Nha vừa qua một trận nguy hiểm, thương tích mới lành, đã gặp Thân Công Báo chặn đường.
+  [100] 338.28-339.76s: Hai người nhắc lại mối bất hòa cũ.
+  [101] 339.94-342.89s: Thân Công Báo ra tay; Tử Nha phải chống đỡ trong lúc sức chưa hồi phục.
+  [102] 343.08-346.60s: Nhưng lần này Thân Công Báo bị bắt và đưa đến trước Nguyên Thủy Thiên Tôn.
+  [103] 346.95-352.32s: Tại đó, ông bị hỏi tội vì rủ người ở các núi, các đảo đi đánh Tây Kỳ, rồi còn tìm cách hại Tử Nha.
+  [104] 352.43-357.94s: Muốn được thả, Thân Công Báo phải thề rằng nếu tiếp tục xúi người tu tiên cản đường Khương Tử Nha, ông sẽ đem thân lấp mắt biển Bắc Hải.
+  [105] 358.15-361.68s: Một lời thề rất cụ thể. Và sau đó truyện cho thấy nó được thực hiện cũng rất cụ thể.
+  [106] 361.94-365.65s: Sau khi Vạn Tiên Trận bị phá, Thân Công Báo tìm đường chạy.
+  [107] 365.71-368.14s: Ông bị bắt lại, không có lời nào để chối lời thề trước đó.
+  [108] 368.14-370.64s: Nguyên Thủy sai người cuốn ông vào bồ đoàn, đem đi lấp mắt biển.
+  [109] 370.91-372.71s: Đến lễ phong thần, tên ông vẫn được gọi.
+  [110] 372.86-378.75s: Lời sắc nhắc lại việc chống đối và lỗi cũ. Nó cũng xét đến công tu hành, rồi giao cho ông chức Phân Thủy Tướng Quân, với nhiệm vụ ở Đông Hải.
+  [111] 379.01-383.05s: Tuy nhiên, điều khiến trường hợp này đáng kể nhất lại nằm sớm hơn, ngay ở đoạn ông bị buộc phải thề.
+  [112] 383.26-387.48s: Người kể chuyện chen vào giải thích rằng Nguyên Thủy biết Thân Công Báo có vai trò thu tụ những người thuộc số phong thần.
+  [113] 387.66-393.16s: Nghĩa là việc ông đi tìm thêm người về chống Tử Nha, xét trong mạch truyện, đồng thời đưa thêm người vào cuộc đại chiến gắn với việc phong thần.
+  [114] 393.25-397.28s: Càng cố cản đường người thi hành, ông càng góp phần kéo những nhân vật khác đến nơi số phận của họ được định đoạt.
+  [115] 397.57-400.00s: Đây là một nghịch lý có ngay trong lời kể của nguyên tác.
+  [116] 400.08-404.63s: Ta không cần dựng thêm chuyện hai người bí mật bắt tay, hoặc khẳng định Thân Công Báo đang diễn theo một kế hoạch mà chính ông biết rõ.
+  [117] 404.97-408.17s: Truyện cho thấy hành động chống đối của ông có một tác dụng lớn hơn ý định trước mắt.
+  [118] 408.30-412.66s: Nó vẫn khiến ông phải chịu trách nhiệm, phải giữ lời thề, và cuối cùng nhận một công việc theo sắc lệnh.
+  [119] 412.77-417.63s: Vì thế, nếu hỏi tại sao Tử Nha còn phong cho Thân Công Báo, ta phải nhớ ông đang thực hiện việc phong thần theo mệnh lệnh.
+  [120] 417.78-420.28s: Mối thù giữa hai người không đủ để xóa phần đã được định cho người kia.
+  [121] 420.48-425.45s: Đến lúc này, một câu hỏi khác sẽ xuất hiện: nhận được thần vị như vậy, rốt cuộc có đáng mừng không?
+
+=== PHẦN 6: Một chức thần có thể đổi lấy điều gì? (40 cues, 425.8s -> 573.7s, dài 147.9s) ===
+  [122] 425.76-427.55s: Hãy nhìn một người tu hành trước khi bước vào chiến trận.
+  [123] 427.66-431.11s: Họ có động phủ, có thầy, có pháp thuật, có những năm tháng tu luyện.
+  [124] 431.20-433.12s: Mong muốn của họ có thể là tiếp tục con đường ấy.
+  [125] 433.26-437.48s: Sau khi xuống núi, họ chết, hồn vào đài phong thần, rồi được giao một chức vụ.
+  [126] 437.61-441.92s: Ta có thể thấy một danh hiệu rất lớn ở cuối hành trình. Nhưng nhân vật vừa mất những gì trên đường đến đó?
+  [127] 442.29-444.21s: Triệu Công Minh là một trường hợp như thế.
+  [128] 444.44-450.84s: Ông đứng về phía Văn Trọng, trở thành đối thủ đáng sợ của quân Tây Kỳ. Nhưng trước khi đi đến cái chết, ông từng có một lần được khuyên dừng lại.
+  [129] 451.06-453.75s: Khi mất pháp bảo, Công Minh đến chỗ các em gái để mượn bảo vật khác.
+  [130] 453.77-455.05s: Vân Tiêu không muốn cho mượn.
+  [131] 455.11-459.08s: Nàng nhắc chuyện Phong Thần Bảng, lời thầy dặn phải ở yên trong động, rồi khuyên anh trở về núi.
+  [132] 459.09-461.59s: Đợi việc phong thần xong, nàng sẽ giúp đòi lại bảo vật.
+  [133] 461.79-466.85s: Ở thời điểm ấy, điều nàng đề nghị khá rõ: tạm chịu mất thứ đang muốn lấy lại, để tránh bước sâu hơn vào cuộc chiến.
+  [134] 467.16-468.09s: Công Minh không chịu.
+  [135] 468.27-470.96s: Ông thấy chính em mình còn từ chối thì người ngoài sẽ thế nào.
+  [136] 470.96-474.16s: Nỗi tức giận của người mất của va vào nỗi lo của người muốn giữ anh lại.
+  [137] 474.24-477.05s: Sau thêm lời thúc giục từ những người khác, bảo vật được cho mượn.
+  [138] 477.05-478.20s: Ông trở lại chiến trường.
+  [139] 478.30-481.31s: Biết trước hồi cuối, ta có thể chỉ nhìn thấy một người có số phải chết.
+  [140] 481.36-487.89s: Đọc đến cuộc nói chuyện này, ta còn thấy một lựa chọn có lý do và sức nặng: lời cảnh báo đã được nói ra, nhưng mất mát trước mắt khiến ông không muốn dừng.
+  [141] 488.15-495.19s: Để đối phó với ông, Lục Áp trao cho Khương Tử Nha phép Đinh Đầu Thất Tiễn: dựng người rơm có tên Triệu Công Minh, làm lễ theo ngày rồi dùng cung tên tác động vào hình ấy.
+  [142] 495.35-498.55s: Đến hồi bốn mươi chín, người từng có pháp lực mạnh nằm yếu trong doanh trại.
+  [143] 498.74-501.43s: Văn Trọng ngồi cạnh, biết mình đã kéo bạn vào tai họa.
+  [144] 501.64-503.30s: Ông có thể nhìn người ấy chết mà không cứu được.
+  [145] 503.44-506.64s: Khương Tử Nha bắn vào hình nhân; Triệu Công Minh chết ở doanh bên kia.
+  [146] 506.81-512.57s: Về sau, ông được phong Huyền Đàn Chân Quân, có các vị dưới quyền gắn với việc chiêu tài, nạp trân và lợi thị.
+  [147] 512.72-515.02s: Đó là một thần vị đáng trọng trong cách trình bày của truyện.
+  [148] 515.02-517.46s: Nhưng nó không biến cái chết trước đó thành điều nhân vật đã mong muốn.
+  [149] 517.48-521.32s: Văn Trọng khóc bạn ngay trong trận chiến, dù người đọc biết sau này còn có một lễ phong thần.
+  [150] 521.58-527.09s: Câu chuyện cho phép cả hai điều cùng tồn tại: một sự tôn phong về sau và một mất mát có thật đối với nhân vật ở lúc ấy.
+  [151] 527.37-532.87s: Ở hồi bảy mươi bảy, khi các giáo chủ đối thoại, nguyên tác còn phân biệt tiên đạo, thần đạo và nhân đạo theo căn hạnh.
+  [152] 532.97-537.70s: Con đường thành tiên và con đường nhận thần vị có sự khác nhau trong chính cách tác phẩm sắp đặt thế giới.
+  [153] 537.90-542.77s: Vì vậy, một người tu tiên bị chết rồi nhận chức thần không thể được hiểu đơn giản như vừa lên thêm một bậc sức mạnh.
+  [154] 543.01-545.70s: Sắc phong giao phạm vi phụ trách, quyền hạn và nghĩa vụ.
+  [155] 545.72-550.27s: Các vị thần phải làm việc theo chức; trong chiếu lệnh còn có lời răn về việc không được làm bậy, và nhắc đến khả năng thăng tiến theo công.
+  [156] 550.56-553.76s: Nhưng từ đó kết luận mọi thần vị đều là nhà tù thì cũng quá tay.
+  [157] 553.97-557.30s: Truyện có lời thương xót, có ghi công, có tặng vinh dự cho những người đã chết.
+  [158] 557.42-560.11s: Có người từng là phàm nhân, có người vốn tu hành.
+  [159] 560.28-561.94s: Điểm xuất phát và kết cục của họ không giống nhau.
+  [160] 562.10-566.65s: Cách đọc chắc hơn là nhìn phong thần như một sự sắp đặt số phận và chức trách, trong đó có cả ân điển lẫn kỷ luật.
+  [161] 566.94-573.67s: Một khi đã nhận chức, những con người ấy còn đứng cạnh ai? Danh sách dưới quyền Triệu Công Minh có một cái tên khiến câu hỏi ấy trở nên khó chịu hơn ta tưởng.
+
+=== PHẦN 7: Đứng dưới quyền người từng giết mình (37 cues, 574.2s -> 711.8s, dài 137.6s) ===
+  [162] 574.20-578.04s: Trước khi Triệu Công Minh mất mạng vì phép người rơm, chính ông đã giết một người đang giúp đối phương.
+  [163] 578.16-579.44s: Người ấy tên Tiêu Thăng.
+  [164] 579.66-581.07s: Câu chuyện bắt đầu rất yên bình.
+  [165] 581.23-583.73s: Tiêu Thăng và Cao Bảo đang ngồi đánh cờ dưới gốc thông.
+  [166] 583.79-586.61s: Rồi Nhiên Đăng chạy đến, phía sau là Triệu Công Minh đuổi theo.
+  [167] 586.61-588.78s: Một cuộc truy sát từ chiến trường tràn vào giữa ván cờ.
+  [168] 589.01-590.93s: Hai người hỏi nguyên do và đứng ra can thiệp.
+  [169] 591.13-592.60s: Triệu Công Minh dùng pháp bảo.
+  [170] 592.75-595.44s: Tiêu Thăng tung một đồng tiền có cánh, tên là Lạc Bảo Kim Tiền.
+  [171] 595.63-597.03s: Dây trói rồng của Công Minh rơi xuống.
+  [172] 597.24-600.06s: Tiếp đến, cả Định Hải Châu cũng bị đồng tiền làm rơi.
+  [173] 600.15-601.43s: Cao Bảo thu lấy những bảo vật ấy.
+  [174] 601.73-606.08s: Trong vài nhịp ngắn, một người đang truy đuổi đối phương với thế mạnh áp đảo bỗng mất liền hai món đồ quan trọng.
+  [175] 606.24-609.70s: Công Minh nổi giận, đánh ra roi. Tiêu Thăng tiếp tục tung đồng tiền.
+  [176] 609.84-616.75s: Nhưng lần này không giống trước. Theo quy tắc truyện đưa ra ở đây, roi là binh khí, đồng tiền không làm rơi được nó. Tiêu Thăng trúng đòn và chết.
+  [177] 617.03-621.38s: Điều khiến đoạn này dễ nhớ là người vừa thắng hai lần bằng cùng một cách đã không kịp nhận ra lần thứ ba thuộc một trường hợp khác.
+  [178] 621.38-624.32s: Một sự nhầm lẫn giữa bảo vật và binh khí kết thúc cuộc đời ông.
+  [179] 624.55-626.99s: Sau đó Triệu Công Minh cũng chết, như ta vừa theo dõi.
+  [180] 627.20-632.71s: Đến lễ phong thần, Công Minh nhận chức đứng đầu một nhóm có bốn vị dưới quyền. Trong bốn vị ấy có Tiêu Thăng, được phong Chiêu Bảo Thiên Tôn.
+  [181] 632.99-635.17s: Người bị giết nay được xếp dưới quyền chính người đã giết mình.
+  [182] 635.41-641.81s: Nếu mới nhìn một bức hình nhóm thần chức, chúng ta có thể thấy năm người đứng cùng nhau, ai cũng có chức danh, tưởng rằng họ vốn là một nhóm từ trước.
+  [183] 641.83-644.78s: Đọc lại truyện, quan hệ giữa những người trong hình bỗng đổi khác hoàn toàn.
+  [184] 644.99-647.49s: Và còn một cặp khác: Trịnh Luân và Trần Kỳ.
+  [185] 647.77-652.00s: Trong lời sắc, Trịnh Luân được nhắc là người bỏ Trụ theo Chu, còn Trần Kỳ từng cản quân đánh Trụ.
+  [186] 652.14-657.52s: Một người đã đổi sang bên thắng; người kia bị nhận xét là trái thiên mệnh, nhưng lòng trung với nước vẫn có chỗ được ghi nhận.
+  [187] 657.67-662.73s: Họ được phong cùng làm Hanh Cáp Nhị Tướng, nhận việc trấn giữ cửa, bảo vệ pháp bảo và tuyên truyền giáo hóa.
+  [188] 663.04-665.47s: Hai lý lịch thuộc hai phía chiến tuyến được đưa vào một phận sự chung.
+  [189] 665.74-670.73s: Đến đây ta có thể nhìn thấy kết quả của việc phong thần bằng một hình rất cụ thể: các đường nối cũ bị thay.
+  [190] 670.74-674.45s: Trước kia chúng nối người này với chủ cũ, với bạn cùng trận, hoặc với kẻ mình muốn đánh bại.
+  [191] 674.45-677.39s: Bây giờ có thêm những đường nối theo bộ, theo chức và theo người chỉ huy.
+  [192] 677.49-683.25s: Lễ phong thần đưa ra cách sắp đặt cho thế giới sau chiến tranh. Những tên từng đứng ở hai bên được chuyển vào những vị trí sẽ cùng tồn tại lâu dài.
+  [193] 683.48-686.50s: Nhưng nguyên tác không dành một cuộc trò chuyện riêng để Tiêu Thăng tha thứ cho Công Minh.
+  [194] 686.64-688.30s: Ta cũng không biết sau khi nhận chức ông nghĩ gì.
+  [195] 688.49-691.94s: Chức vụ đã được sắp; sự hòa giải trong lòng từng người thì không được kể rõ như thế.
+  [196] 692.14-697.64s: Chính khoảng cách này làm cảnh ấy gợi nghĩ. Những mối quan hệ mới đã hình thành, còn người đọc vẫn nhớ cái giá của các cuộc đời cũ.
+  [197] 697.86-706.30s: Đặt lại câu hỏi ban đầu, ta sẽ thấy nó đã mở rộng: kẻ địch của Khương Tử Nha được phong thần; ngay cả những người từng đứng đối diện, từng giết nhau, cũng được sắp vào cùng hệ thống.
+  [198] 706.62-711.78s: Vậy người thi hành cả việc ấy đi về đâu? Sau khi đọc xong phần của từng người, Khương Tử Nha nhận phần gì cho mình?
+
+=== PHẦN 8: Người phong thần đi về đâu? (23 cues, 712.2s -> 805.2s, dài 93.0s) ===
+  [199] 712.18-716.40s: Đặt Khương Tử Nha trở lại bên cạnh những người vừa được gọi tên, ta mới thấy lời dặn ở Côn Lôn quan trọng thế nào.
+  [200] 716.73-722.49s: Lúc ấy, ông xin được ở lại tu. Thầy nói phần của ông ở nhân gian. Đến cuối truyện, đường đời ấy vẫn được giữ.
+  [201] 722.74-725.24s: Sau lễ phong thần là lễ phân phong ở cõi người.
+  [202] 725.34-730.08s: Nhà Chu có những người sống cần được ghi nhận công lao, có đất đai và chức tước cần sắp đặt.
+  [203] 730.08-734.30s: Khương Tử Nha được phong ở Tề, nhận quyền và phần thưởng tương ứng với địa vị của mình.
+  [204] 734.37-738.73s: Ông không bước xuống khỏi đàn rồi quay sang gọi hồn bản thân để tự nhận một ghế trong danh sách vừa đọc.
+  [205] 738.89-742.85s: Cũng ở cuối truyện, những người như Dương Tiễn, Na Tra cùng một số người khác xin trở về núi.
+  [206] 742.97-744.89s: Tác phẩm gọi nhóm bảy người này là nhục thân thành thánh.
+  [207] 744.99-748.51s: Họ đi theo một kết cục khác với những người đã chết rồi được gọi hồn nhận sắc.
+  [208] 748.71-756.27s: Chỉ trong đoạn kết, đã có những ngả đường khác nhau: người nhận thần chức sau khi chết; người sống trở về tiếp tục việc tu hành; người ở lại với quyền vị và công việc nhân gian.
+  [209] 756.41-761.15s: Điều ấy giải thích vì sao không thể xếp tất cả nhân vật trên một bảng thành tích rồi hỏi người nào đáng được phần thưởng lớn nhất.
+  [210] 761.43-765.39s: Với Khương Tử Nha, có một nỗi ngậm ngùi mà người xem có thể tự cảm thấy khi nối đầu truyện với cuối truyện.
+  [211] 765.56-766.97s: Ông đã dành bốn mươi năm trên núi.
+  [212] 766.97-768.76s: Ông từng xin được tiếp tục con đường đó.
+  [213] 768.81-775.08s: Cuối cùng, ông có công lớn, có quyền vị, có đất phong; nhưng phần đời được trao vẫn là phần ở nhân gian mà thầy đã báo từ trước.
+  [214] 775.28-777.46s: Đây không phải bằng chứng rằng ông bị lừa mất thần vị.
+  [215] 777.63-779.93s: Truyện đã đặt lời báo ấy ngay lúc ông xuống núi.
+  [216] 779.93-784.99s: Cũng không có lý do từ bản này để kể rằng ông quên dành ghế cho mình, hoặc vừa định ngồi thì có người chiếm mất.
+  [217] 785.34-788.80s: Khi bỏ những lời giải thích truyền miệng ấy sang một bên, kết cục của ông vẫn đủ sức gợi nghĩ.
+  [218] 789.04-795.12s: Một người có thể hoàn thành việc rất lớn, rồi nhận một phần xứng đáng theo trật tự câu chuyện, trong khi mong muốn ban đầu của họ vẫn không trở thành hiện thực.
+  [219] 795.27-798.59s: Và đó cũng là điều khiến cảnh phong thần bớt giống một buổi trao giải vui vẻ.
+  [220] 798.70-800.87s: Đứng trên đàn là một người từng phải rời con đường mình muốn.
+  [221] 801.04-805.20s: Bên dưới là những người đã chết, mang theo các cuộc đời rất khác nhau, chờ nghe phần tiếp theo của mình.
+
+=== PHẦN 9: Trở lại trước đàn (22 cues, 805.7s -> 891.5s, dài 85.8s) ===
+  [222] 805.70-808.20s: Bây giờ, quay lại lúc Văn Trọng đứng trước Khương Tử Nha.
+  [223] 808.30-812.53s: Trên chiến trường, ông đã mất quân, mất bạn, mất mạng và không giữ được triều đại.
+  [224] 812.69-816.53s: Đến đàn phong thần, ông vẫn mang khí thế của vị thái sư từng chống đối người trên đài.
+  [225] 816.83-819.52s: Ông được ghi nhận lòng trung. Nhưng ông cũng phải quỳ nghe sắc.
+  [226] 819.77-823.22s: Hai chi tiết ấy đặt cạnh nhau sẽ nói rõ hơn bất kỳ câu giải thích đơn lẻ nào.
+  [227] 823.37-827.21s: Tác phẩm giữ lại phẩm chất của ông, đồng thời đặt ông vào một trật tự mà ông phải chấp hành.
+  [228] 827.37-830.83s: Phi Liêm và Ác Lai cũng nhận chức, nhưng tội của họ bị đọc lại ngay trong sắc phong.
+  [229] 830.94-833.37s: Thân Công Báo nhận việc sau khi phải chịu lời thề của mình.
+  [230] 833.44-836.96s: Triệu Công Minh có thần vị, còn cái chết của ông vẫn là một cảnh khiến người ở cạnh phải khóc.
+  [231] 837.17-842.03s: Những cuộc đời khác nhau cùng đi qua một nghi lễ. Bởi vậy, ý nghĩa của nghi lễ ấy không thể chỉ có một màu.
+  [232] 842.23-844.45s: Vậy vì sao kẻ địch của Khương Tử Nha vẫn được phong thần?
+  [233] 844.67-849.02s: Trong thế giới Phong Thần Diễn Nghĩa, việc ấy đã được bàn định vượt lên trên cuộc tranh thắng giữa hai đạo quân.
+  [234] 849.02-852.35s: Khương Tử Nha nhận mệnh thi hành; thần vị không chỉ dành cho người từng đứng bên ông.
+  [235] 852.37-856.73s: Khi tuyên phong, sắc lệnh vẫn xét phẩm chất, lỗi lầm, công tu hành và nhiệm vụ được giao.
+  [236] 856.86-860.19s: Đánh bại một người ở chiến trường và định phần cho người ấy sau khi chết là hai việc khác nhau.
+  [237] 860.31-865.81s: Từ đây, Mỏ Đen nghĩ điều đáng chú ý nhất khi nhìn Phong Thần Bảng là đọc từng cái tên cùng với cuộc đời vừa kết thúc của họ.
+  [238] 865.95-867.94s: Một chức vị có thể an ủi người đã chết oan.
+  [239] 868.05-869.71s: Nó có thể ghi nhận lòng trung của người thua cuộc.
+  [240] 869.72-872.22s: Nó cũng có thể đi kèm lời kết tội và một mệnh lệnh phải tuân theo.
+  [241] 872.45-876.17s: Cái bảng gom họ lại. Nhưng những dòng sắc phong vẫn giữ dấu vết của từng người.
+  [242] 876.29-883.57s: Và khi nhìn Văn Trọng lần nữa, ta sẽ thấy trọn vẹn sự chuyển đổi ấy: người từng đem quân giữ lấy nhà Thương, giờ nhận công việc làm mây, làm mưa, nuôi dưỡng vạn vật.
+  [243] 884.27-891.53s: Nhà vua ông cố cứu đã không nghe lời can gián cuối cùng. Còn từ đây, người bề tôi ấy được giao một phận sự vẫn tiếp tục, dù triều đại của ông đã qua.
+

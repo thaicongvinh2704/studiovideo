@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mỏ Đen Phong Thần · Bản Thử Diễn Hoạt Nhân Vật (21.4s)</title>
+  <style>
+    :root {
+      --bg-dark: #121417;
+      --card-bg: #1a1e24;
+      --card-border: #2c3540;
+      --accent: #d97736;
+      --accent-gold: #f2c94c;
+      --text-main: #f0f2f5;
+      --text-sub: #a0aec0;
+      --active-tab: #2d3748;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg-dark);
+      color: var(--text-main);
+      line-height: 1.5;
+      padding: 24px;
+    }
+    .container {
+      max-width: 1320px;
+      margin: 0 auto;
+    }
+    header {
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--card-border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 16px;
+    }
+    .badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .badge-review { background-color: #8b5cf6; color: #fff; }
+    .badge-cue { background-color: #10b981; color: #fff; }
+    h1 { font-size: 24px; font-weight: 700; color: #ffffff; }
+    .subhead { color: var(--text-sub); font-size: 14px; margin-top: 4px; }
+    
+    .nav-links {
+      display: flex;
+      gap: 12px;
+    }
+    .btn-link {
+      padding: 8px 16px;
+      background: #232a35;
+      border: 1px solid var(--card-border);
+      color: #fff;
+      text-decoration: none;
+      border-radius: 6px;
+      font-size: 13px;
+      font-weight: 500;
+      transition: all 0.2s;
+    }
+    .btn-link:hover {
+      background: #2d3748;
+      border-color: var(--accent);
+    }
+    
+    .main-grid {
+      display: grid;
+      grid-template-columns: 880px 1fr;
+      gap: 24px;
+    }
+    @media (max-width: 1200px) {
+      .main-grid { grid-template-columns: 1fr; }
+    }
+    
+    .player-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    }
+    .video-wrapper {
+      position: relative;
+      background: #000;
+      aspect-ratio: 16 / 9;
+      width: 100%;
+    }
+    video {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+    .controls-panel {
+      padding: 16px 20px;
+      background: #171b21;
+      border-top: 1px solid var(--card-border);
+    }
+    .timeline-slider-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .time-display {
+      font-family: monospace;
+      font-size: 14px;
+      color: var(--accent-gold);
+      min-width: 100px;
+    }
+    input[type=range] {
+      flex: 1;
+      accent-color: var(--accent);
+      cursor: pointer;
+    }
+    .buttons-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .btn-group {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    button {
+      padding: 6px 14px;
+      border-radius: 6px;
+      border: 1px solid var(--card-border);
+      background: #252c37;
+      color: #fff;
+      font-size: 13px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    button:hover {
+      background: #323b49;
+      border-color: var(--accent);
+    }
+    button.btn-primary {
+      background: var(--accent);
+      border-color: var(--accent);
+      font-weight: 600;
+    }
+    button.btn-primary:hover {
+      background: #e06822;
+    }
+    button.active-speed {
+      background: var(--accent-gold);
+      color: #000;
+      font-weight: 700;
+      border-color: var(--accent-gold);
+    }
+    
+    .beat-jump-panel {
+      margin-top: 14px;
+      padding-top: 12px;
+      border-top: 1px dashed #2d3748;
+    }
+    .beat-title {
+      font-size: 12px;
+      text-transform: uppercase;
+      color: var(--text-sub);
+      margin-bottom: 8px;
+      font-weight: bold;
+    }
+    .beat-buttons {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 6px;
+    }
+    .btn-beat {
+      font-size: 11px;
+      padding: 6px 4px;
+      text-align: center;
+      line-height: 1.2;
+      background: #1e242e;
+    }
+    .btn-beat:hover {
+      background: #2b3543;
+      color: var(--accent-gold);
+    }
+    
+    .sidebar {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+    .info-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 18px 20px;
+    }
+    .info-card h3 {
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--accent-gold);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .info-list {
+      list-style: none;
+      font-size: 13px;
+      color: #cbd5e0;
+    }
+    .info-list li {
+      margin-bottom: 10px;
+      padding-left: 18px;
+      position: relative;
+    }
+    .info-list li::before {
+      content: "•";
+      color: var(--accent);
+      position: absolute;
+      left: 0;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 1;
+    }
+    .highlight {
+      color: #fff;
+      font-weight: 600;
+    }
+    
+    .tabs-section {
+      margin-top: 32px;
+    }
+    .tabs-header {
+      display: flex;
+      gap: 8px;
+      border-bottom: 1px solid var(--card-border);
+      margin-bottom: 16px;
+    }
+    .tab-btn {
+      padding: 10px 20px;
+      background: transparent;
+      border: none;
+      border-bottom: 2px solid transparent;
+      color: var(--text-sub);
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      border-radius: 0;
+    }
+    .tab-btn.active {
+      color: var(--accent-gold);
+      border-bottom: 2px solid var(--accent-gold);
+      background: transparent;
+    }
+    .tab-content {
+      display: none;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 12px;
+      padding: 20px;
+    }
+    .tab-content.active { display: block; }
+    .gallery-img {
+      width: 100%;
+      border-radius: 8px;
+      border: 1px solid var(--card-border);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+      display: block;
+    }
+    .caption-box {
+      margin-top: 12px;
+      font-size: 13px;
+      color: var(--text-sub);
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div>
+        <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 6px;">
+          <span class="badge badge-review">Motion Test Review</span>
+          <span class="badge badge-cue">Audio Cues 68–71 · 21.4s</span>
+        </div>
+        <h1>Mỏ Đen Phong Thần: Bản Thử Diễn Hoạt Nhân Vật (Khương Tử Nha & Văn Trọng)</h1>
+        <div class="subhead">Diễn hoạt khớp, tư thế trung gian (in-betweens), chuyển trọng tâm quỳ, cử động tay cầm roi và nhãn tên độc lập.</div>
+      </div>
+      <div class="nav-links">
+        <a href="preview_player.html" class="btn-link">← Về Trình Xem Toàn Phim</a>
+        <a href="shot_list_table.md" class="btn-link">Bảng Shot List</a>
+      </div>
+    </header>
+
+    <div class="main-grid">
+      <!-- Player Column -->
+      <div class="player-card">
+        <div class="video-wrapper">
+          <video id="motionVideo" playsinline preload="auto">
+            <source src="motion_test_review/van_trong_kneeling_motion_test_22s.mp4" type="video/mp4">
+            Trình duyệt không hỗ trợ thẻ video.
+          </video>
+        </div>
+        <div class="controls-panel">
+          <div class="timeline-slider-row">
+            <span class="time-display" id="timeDisplay">00:00.0 / 00:21.4</span>
+            <input type="range" id="seekSlider" min="0" max="21.375" step="0.0416" value="0">
+          </div>
+          <div class="buttons-row">
+            <div class="btn-group">
+              <button id="btnPlayPause" class="btn-primary">▶ Phát Video</button>
+              <button id="btnPrevFrame" title="Lùi 1 Frame (1/24s)">◀ Frame</button>
+              <button id="btnNextFrame" title="Tới 1 Frame (1/24s)">Frame ▶</button>
+              <button id="btnRestart">↺ Đầu</button>
+            </div>
+            <div class="btn-group">
+              <span style="font-size: 12px; color: var(--text-sub);">Tốc độ soi:</span>
+              <button class="speed-btn" data-speed="0.25">0.25x</button>
+              <button class="speed-btn" data-speed="0.5">0.5x</button>
+              <button class="speed-btn active-speed" data-speed="1.0">1.0x</button>
+            </div>
+          </div>
+
+          <!-- Beat Jump Buttons -->
+          <div class="beat-jump-panel">
+            <div class="beat-title">Nhảy Trực Tiếp Đến 5 Nhịp Đạo Diễn:</div>
+            <div class="beat-buttons">
+              <button class="btn-beat" onclick="seekTo(0.0)"><b>1. Đứng thẳng</b><br>Tử Nha đọc sắc<br><span style="color:#f2c94c">0.0s</span></button>
+              <button class="btn-beat" onclick="seekTo(3.8)"><b>2. Chuyển nhìn</b><br>Tử Nha quay đầu<br><span style="color:#f2c94c">3.8s</span></button>
+              <button class="btn-beat" onclick="seekTo(5.2)"><b>3. Nâng Roi</b><br>Lệnh quỳ nghe sắc<br><span style="color:#f2c94c">5.2s</span></button>
+              <button class="btn-beat" onclick="seekTo(7.8)"><b>4. Chuyển thế quỳ</b><br>Hạ trọng tâm/in-betweens<br><span style="color:#f2c94c">7.8s</span></button>
+              <button class="btn-beat" onclick="seekTo(11.2)"><b>5. Quỳ trang nghiêm</b><br>Giữ nhịp nghe sắc<br><span style="color:#f2c94c">11.2s</span></button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Info Sidebar -->
+      <div class="sidebar">
+        <div class="info-card">
+          <h3>🎯 5 Tiêu Chuẩn Đạo Diễn Đã Triển Khai</h3>
+          <ul class="info-list">
+            <li><span class="highlight">1. Tử Nha nâng/đọc sắc:</span> Ban đầu đầu cúi đọc văn bản sắc phong trên án lễ. Đến cuối câu "mà chưa chịu quỳ" (3.8s), Tử Nha ngẩng đầu và xoay hướng nhìn dứt khoát sang Văn Trọng.</li>
+            <li><span class="highlight">2. Văn Trọng đứng thẳng:</span> Khí thế lẫm liệt, cằm ngẩng cao, ngực ưỡn, con mắt thứ ba mở to kiên định, hai chân giạng vững trên sân đàn.</li>
+            <li><span class="highlight">3. Tử Nha nâng Roi Đả Thần (5.0s - 7.0s):</span> Cánh tay cầm roi từ từ nâng lên từ ngang hông lên ngang ngực, chỉ lệnh yêu cầu quỳ; cử động có chuẩn bị, vươn tay và dừng chắc chắn uy nghiêm, không vung đánh.</li>
+            <li><span class="highlight">4. Văn Trọng chuyển quỳ qua In-betweens (7.8s - 11.0s):</span> Không cắt cảnh hay fade đen! Chuyển trọng lượng cơ thể qua 2 tư thế trung gian: chùng gối hạ hông 120px (thân nghiêng 5.5° giữ thăng bằng) → gối tiếp đất, vạt áo phủ sàn → vào thế quỳ vững chãi.</li>
+            <li><span class="highlight">5. Giữ nhịp quỳ nghiêm nghị (11.0s - 21.4s):</span> Camera hoàn toàn tĩnh tại để kiểm tra độ vững chãi; Văn Trọng quỳ thẳng lưng, ngực thở uy nghi, con mắt thứ ba sáng uy dũng. Nhãn tên trượt êm theo đà hạ của đầu.</li>
+          </ul>
+        </div>
+
+        <div class="info-card">
+          <h3>📐 Cấu Trúc Kỹ Thuật</h3>
+          <ul class="info-list">
+            <li><span class="highlight">Tách lớp:</span> Đầu (neck pivot), Thân (blue robe/armor), Cánh tay cầm Roi Đả Thần (shoulder pivot), Nhãn tên độc lập.</li>
+            <li><span class="highlight">Tư thế trung gian:</span> P1 (Đứng) → P2 (Chùng gối) → P3 (Chạm đất) → P4 (Quỳ vững).</li>
+            <li><span class="highlight">Đường sàn & Trọng tâm:</span> Giữ nguyên sàn đá y=1390, chân không bị trôi hay nổi lơ lửng.</li>
+            <li><span class="highlight">Voice:</span> Voice gốc Custom H 1.25x Cues 68–71, dài 21.4s.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Review Boards Tabs -->
+    <div class="tabs-section">
+      <div class="tabs-header">
+        <button class="tab-btn active" onclick="switchTab('tab-9beats')">Bảng Soi 9 Nhịp Chuyển Động (Contact Sheet)</button>
+        <button class="tab-btn" onclick="switchTab('tab-inbetweens')">Phân Tích Tư Thế Trung Gian (In-Betweens)</button>
+      </div>
+
+      <div id="tab-9beats" class="tab-content active">
+        <img src="motion_test_review/contact_sheet_motion_test_9beats.jpg" alt="Contact Sheet 9 Nhịp" class="gallery-img">
+        <div class="caption-box">
+          <b>Giải thích 9 khung hình mốc thời gian:</b><br>
+          • <b>01 (1.5s):</b> Tử Nha cúi đầu đọc sắc phong; Văn Trọng đứng ngạo nghễ không quỳ.<br>
+          • <b>02 (4.5s):</b> Tử Nha quay đầu và mắt sang nhìn thẳng Văn Trọng.<br>
+          • <b>03 (6.5s):</b> Tử Nha đưa tay cầm Roi Đả Thần giơ lên chỉ lệnh phong thần uy nghiêm.<br>
+          • <b>04 (8.0s):</b> Văn Trọng nhìn thấy sắc lệnh và roi, đầu hơi cúi một nhịp chấp nhận mệnh lệnh thiên đình.<br>
+          • <b>05 (9.0s):</b> Chùng gối hạ trọng tâm: đầu gối gập, hông hạ 120px, thân nghiêng 5.5° về trước đón thế.<br>
+          • <b>06 (10.2s):</b> Đầu gối chạm sàn đá, áo choàng dồn xuống, tay tiếp xúc mặt đùi.<br>
+          • <b>07 (11.5s):</b> Vào thế quỳ vững chắc: lưng dựng thẳng, mặt trang nghiêm, nhãn tên hạ xuống vừa vặn.<br>
+          • <b>08 (14.0s):</b> Tử Nha hạ roi về vị trí trang trọng khi xướng sắc Cửu Thiên Ứng Nguyên Lôi Thanh Phổ Hóa Thiên Tôn.<br>
+          • <b>09 (18.0s):</b> Giữ nhịp quỳ trang nghiêm, camera đứng yên trọn vẹn.
+        </div>
+      </div>
+
+      <div id="tab-inbetweens" class="tab-content">
+        <img src="motion_test_assets/kneeling_sequence_verified.jpg" alt="Kneeling Sequence Verified" class="gallery-img">
+        <div class="caption-box">
+          <b>Đường sàn chuẩn (Ground Line - Vạch đỏ y=1390):</b><br>
+          • <b>P1 Đứng thẳng:</b> Đỉnh đầu y=35, chiều cao 1355px, hai bàn chân cắm chặt sàn đá.<br>
+          • <b>P2 Chùng gối (In-between 1):</b> Hông hạ 120px, chân áo co ngắn và bè sang hai bên, ngực nghiêng nhẹ về trước.<br>
+          • <b>P3 Chạm đất (In-between 2):</b> Hông hạ 220px, một gối chạm đất, vạt áo choàng xòe rộng phủ mặt sàn.<br>
+          • <b>P4 Quỳ vững:</b> Hai gối tiếp đất vững chãi, lưng thẳng đứng, đỉnh đầu y=215 (hạ đúng 180px so với thế đứng).
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const video = document.getElementById('motionVideo');
+    const playBtn = document.getElementById('btnPlayPause');
+    const slider = document.getElementById('seekSlider');
+    const timeDisplay = document.getElementById('timeDisplay');
+    const speedBtns = document.querySelectorAll('.speed-btn');
+
+    function formatTime(s) {
+      const mins = Math.floor(s / 60);
+      const secs = (s % 60).toFixed(1);
+      return `${mins.toString().padStart(2, '0')}:${secs.padStart(4, '0')}`;
+    }
+
+    playBtn.addEventListener('click', () => {
+      if (video.paused) {
+        video.play();
+        playBtn.textContent = '⏸ Tạm Dừng';
+      } else {
+        video.pause();
+        playBtn.textContent = '▶ Phát Video';
+      }
+    });
+
+    video.addEventListener('play', () => { playBtn.textContent = '⏸ Tạm Dừng'; });
+    video.addEventListener('pause', () => { playBtn.textContent = '▶ Phát Video'; });
+
+    video.addEventListener('timeupdate', () => {
+      slider.value = video.currentTime;
+      timeDisplay.textContent = `${formatTime(video.currentTime)} / ${formatTime(video.duration || 21.4)}`;
+    });
+
+    slider.addEventListener('input', () => {
+      video.currentTime = parseFloat(slider.value);
+    });
+
+    document.getElementById('btnRestart').addEventListener('click', () => {
+      video.currentTime = 0;
+      video.play();
+    });
+
+    document.getElementById('btnPrevFrame').addEventListener('click', () => {
+      video.pause();
+      video.currentTime = Math.max(0, video.currentTime - 1/24);
+    });
+
+    document.getElementById('btnNextFrame').addEventListener('click', () => {
+      video.pause();
+      video.currentTime = Math.min(video.duration || 21.4, video.currentTime + 1/24);
+    });
+
+    function seekTo(t) {
+      video.currentTime = t;
+      slider.value = t;
+    }
+
+    speedBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        speedBtns.forEach(b => b.classList.remove('active-speed'));
+        btn.classList.add('active-speed');
+        video.playbackRate = parseFloat(btn.dataset.speed);
+      });
+    });
+
+    // Spacebar play/pause
+    window.addEventListener('keydown', (e) => {
+      if (e.code === 'Space' && e.target.tagName !== 'INPUT' && e.target.tagName !== 'BUTTON') {
+        e.preventDefault();
+        playBtn.click();
+      } else if (e.code === 'ArrowLeft') {
+        video.currentTime = Math.max(0, video.currentTime - 1/24);
+      } else if (e.code === 'ArrowRight') {
+        video.currentTime = Math.min(video.duration || 21.4, video.currentTime + 1/24);
+      }
+    });
+
+    function switchTab(tabId) {
+      document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+      document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+      event.target.classList.add('active');
+      document.getElementById(tabId).classList.add('active');
+    }
+  </script>
+</body>
+</html>

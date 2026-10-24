@@ -1,0 +1,261 @@
+{
+  "method": "Draft screen counts broad images/crops with >=30% content box and >55% source width and >50% source height. True face/hand/prop details and small diagram windows need visual verification, never automatic aesthetic approval. State variants grouped.",
+  "families": {
+    "court": [
+      {
+        "shot": 2,
+        "start": 3.7202166666666665,
+        "end": 8.136216666666666,
+        "purpose": "Nhìn rõ hai người bị kết tội và vật họ mang theo.",
+        "image": "review/shot_002.jpg"
+      },
+      {
+        "shot": 5,
+        "start": 13.396483333333332,
+        "end": 17.948483333333336,
+        "purpose": "Cổng đóng thay cho hành quyết trực diện; không dựng thêm bạo lực.",
+        "image": "review/shot_005.jpg"
+      },
+      {
+        "shot": 64,
+        "start": 252.34386666666666,
+        "end": 254.16786666666667,
+        "purpose": "Nhận diện hai người, dùng ảnh trong hồ sơ nhỏ không thành đại cảnh mới.",
+        "image": "review/shot_064.jpg"
+      }
+    ],
+    "dais": [
+      {
+        "shot": 6,
+        "start": 17.948483333333336,
+        "end": 21.788483333333335,
+        "purpose": "Lần đầu thấy hai người xuất hiện ở nghi lễ sau khi chết.",
+        "image": "review/shot_006.jpg"
+      },
+      {
+        "shot": 57,
+        "start": 213.52534999999997,
+        "end": 218.46935,
+        "purpose": "Thiết lập khoảng cách Tử Nha–Văn Trọng trước mệnh lệnh.",
+        "image": "review/shot_057.jpg"
+      },
+      {
+        "shot": 58,
+        "start": 218.46935,
+        "end": 222.47734999999997,
+        "purpose": "Cận roi rồi cut sang ảnh quỳ cùng góc; không tự tạo rig người.",
+        "image": "review/shot_058.jpg"
+      }
+    ],
+    "kunlun": [
+      {
+        "shot": 16,
+        "start": 56.15741666666666,
+        "end": 58.34568333333333,
+        "purpose": "Một nhịp định vị ngắn cho hồi tưởng.",
+        "image": "review/shot_016.jpg"
+      },
+      {
+        "shot": 17,
+        "start": 58.34568333333333,
+        "end": 59.793683333333334,
+        "purpose": "Thiết lập đúng góc tu hành chuẩn bị match cut thời gian.",
+        "image": "review/shot_017.jpg"
+      },
+      {
+        "shot": 18,
+        "start": 59.793683333333334,
+        "end": 62.16968333333333,
+        "purpose": "Cùng cửa sổ và tư thế, thay tuổi bằng ảnh đã có.",
+        "image": "review/shot_018.jpg"
+      }
+    ],
+    "retreat": [
+      {
+        "shot": 38,
+        "start": 138.42075,
+        "end": 145.78786666666667,
+        "purpose": "Toàn đội quân và vị chủ soái, thiết lập con người ông không muốn bỏ.",
+        "image": "review/shot_038.jpg"
+      },
+      {
+        "shot": 40,
+        "start": 148.89186666666666,
+        "end": 156.35586666666666,
+        "purpose": "Thay trạng thái chiến thắng bằng rút lui, quân và kỳ lân mất mát.",
+        "image": "review/shot_040.jpg"
+      }
+    ],
+    "fire": [
+      {
+        "shot": 44,
+        "start": 165.99213333333333,
+        "end": 168.32813333333334,
+        "purpose": "Người chờ và địa hình cùng hiện, giới thiệu phục kích.",
+        "image": "review/shot_044.jpg"
+      },
+      {
+        "shot": 45,
+        "start": 168.32813333333334,
+        "end": 171.17613333333333,
+        "purpose": "Thấy vòng cột lửa đã khép, chuyển trạng thái từ người đợi sẵn sang không gian bị vây.",
+        "image": "review/shot_045.jpg"
+      }
+    ],
+    "dream": [
+      {
+        "shot": 50,
+        "start": 182.8604,
+        "end": 186.68866666666668,
+        "purpose": "Thiết lập vua đang ngủ và người bề tôi đã chết trong cùng cảnh.",
+        "image": "review/shot_050.jpg"
+      },
+      {
+        "shot": 53,
+        "start": 193.94893333333334,
+        "end": 200.3772,
+        "purpose": "Hai người đang trao đổi, thấy rõ ai nghe ai.",
+        "image": "review/shot_053.jpg"
+      }
+    ],
+    "field": [
+      {
+        "shot": 60,
+        "start": 227.46134999999998,
+        "end": 234.64961666666667,
+        "purpose": "Từ phẩm chất sang phận sự, giọt mưa có điểm chạm ruộng.",
+        "image": "review/shot_060.jpg"
+      },
+      {
+        "shot": 189,
+        "start": 877.7946333333333,
+        "end": 885.7744166666668,
+        "purpose": "Cảnh có Văn Trọng và ruộng để thấy nhiệm vụ mới có đối tượng.",
+        "image": "review/shot_189.jpg"
+      },
+      {
+        "shot": 190,
+        "start": 885.7744166666668,
+        "end": 893.6321458333333,
+        "purpose": "Mưa chạm ruộng rồi lắng, kết ở công việc tiếp diễn không ở huân chương.",
+        "image": "review/shot_190.jpg"
+      }
+    ],
+    "forest": [
+      {
+        "shot": 81,
+        "start": 334.7257333333333,
+        "end": 339.78173333333336,
+        "purpose": "Thiết lập tương quan hai đối thủ, không giả vờ có giao chiến hoạt hình.",
+        "image": "review/shot_081.jpg"
+      },
+      {
+        "shot": 82,
+        "start": 339.78173333333336,
+        "end": 344.57800000000003,
+        "purpose": "Hai cận chân dung nối bằng đường đối đầu, cắt bỏ nền không cần.",
+        "image": "review/shot_082.jpg"
+      }
+    ],
+    "sea": [
+      {
+        "shot": 87,
+        "start": 369.6425333333333,
+        "end": 372.4148,
+        "purpose": "Bồ đoàn và biển cùng khung, không dùng bồ đoàn làm phông trang trí.",
+        "image": "review/shot_087.jpg"
+      }
+    ],
+    "cave": [
+      {
+        "shot": 98,
+        "start": 427.25913333333335,
+        "end": 429.15513333333337,
+        "purpose": "Định vị động phủ dưới hai giây, không dùng nền trống phủ cả đoạn kể.",
+        "image": "review/shot_098.jpg"
+      },
+      {
+        "shot": 104,
+        "start": 455.2653333333334,
+        "end": 463.2856,
+        "purpose": "Toàn cuộc đối thoại rõ hai người và khoảng cách giữa họ.",
+        "image": "review/shot_104.jpg"
+      },
+      {
+        "shot": 110,
+        "start": 479.79920000000004,
+        "end": 482.85946666666666,
+        "purpose": "Người ở lại nhìn anh rời đi; cảnh kết cuộc đối thoại chứ không phủ phong cảnh.",
+        "image": "review/shot_110.jpg"
+      }
+    ],
+    "camp": [
+      {
+        "shot": 112,
+        "start": 489.6514666666667,
+        "end": 496.8514666666667,
+        "purpose": "Ba nhịp theo thứ tự, nhãn HÌNH NHÂN luôn rõ để không hiểu là bắn người thật.",
+        "image": "review/shot_112.jpg"
+      },
+      {
+        "shot": 113,
+        "start": 496.8514666666667,
+        "end": 500.2434666666667,
+        "purpose": "Cơ thể trên giường và người bên cạnh cùng rõ; không biến thành pose mới.",
+        "image": "review/shot_113.jpg"
+      }
+    ],
+    "chess": [
+      {
+        "shot": 128,
+        "start": 581.1578999999999,
+        "end": 585.2901666666667,
+        "purpose": "Cảnh rộng duy nhất cho không gian trước truy sát.",
+        "image": "review/shot_128.jpg"
+      },
+      {
+        "shot": 129,
+        "start": 585.2901666666667,
+        "end": 590.5061666666667,
+        "purpose": "Hai người truy đuổi và hướng chạy trong ảnh nguyên gốc.",
+        "image": "review/shot_129.jpg"
+      },
+      {
+        "shot": 139,
+        "start": 622.8784333333333,
+        "end": 626.0544333333333,
+        "purpose": "Dáng sau cái chết được giữ nguyên, hạ nhịp thay vì ăn mừng.",
+        "image": "review/shot_139.jpg"
+      }
+    ],
+    "gate": [
+      {
+        "shot": 144,
+        "start": 646.4864333333333,
+        "end": 649.2747,
+        "purpose": "Nhận diện đủ hai người giữ cửa, không dùng làm minh họa Công Minh.",
+        "image": "review/shot_144.jpg"
+      }
+    ],
+    "zhou": [
+      {
+        "shot": 154,
+        "start": 724.2369,
+        "end": 731.5771666666667,
+        "purpose": "Chuyển sang quyền lực nhà Chu và người sống, phân biệt đàn gọi hồn.",
+        "image": "review/shot_154.jpg"
+      }
+    ],
+    "qi": [
+      {
+        "shot": 162,
+        "start": 762.9254333333333,
+        "end": 767.0614333333333,
+        "purpose": "Đại cảnh cô độc có người và điểm nhìn, giữ một lần cho nhịp lắng.",
+        "image": "review/shot_162.jpg"
+      }
+    ]
+  },
+  "over_default_limit": {},
+  "not_aesthetic_approval": true
+}

@@ -106,3 +106,26 @@ nhiều lần toàn cảnh công trình tương tự. Có thể dàn dựng:
 `tools/audit_visual_repetition.py` thống kê các cảnh nền chính của project.
 Các cảnh thiếu phân loại/giải trình vẫn cần người đạo diễn xem; thống kê không
 được tự ghi PASS cho chất lượng kể chuyện.
+
+
+## 7. Quy trình tiền kỳ: Xem và duyệt edit trước mỗi lần render
+
+Áp dụng từ chỉ đạo của người dùng ngày 24/10/2026: Không cần và tuyệt đối không
+tự ý render video hoàn chỉnh (full 1080p/4K) khi chưa qua bước xem và duyệt edit.
+
+1. **Không vội vàng render full:** Render cả phim dài tiêu tốn GPU, thời gian và
+   dung lượng lưu trữ; mọi sửa đổi về góc máy, thời lượng, câu thoại, bối cảnh hay
+   nhân vật sau khi render đều gây lãng phí lớn.
+2. **Cung cấp bản dựng để duyệt:** Trước khi render, đạo diễn/agent phải xuất
+   và gửi bản xem trước cho người dùng qua một trong các hình thức phù hợp:
+   - *Giao diện Studio App UI:* Mở project trên Canvas và Timeline thời gian thực
+     để người dùng tua, xem trực quan nhịp dựng và nghe audio đồng bộ.
+   - *Bảng phân cảnh (Shot list table / Edit plan):* Danh sách chi tiết từng cut,
+     thời gian bắt đầu/kết thúc, câu thoại tiếng Việt, bối cảnh và hành động Mỏ Đen.
+   - *Bảng ảnh tiếp xúc (Contact sheets / Review boards):* Lưới ảnh chụp keyframe
+     đại diện từng cảnh (các file `board_*.jpg` hoặc `contact_sheet.jpg`) kèm nhãn mốc thời gian.
+   - *Render nháp phân đoạn ngắn (Draft preview segment):* Nếu cần kiểm tra chuyển động
+     hoặc lip sync, chỉ render 5–15 giây của phân cảnh đó thay vì render cả phim.
+3. **Phê duyệt của người dùng là điều kiện tiên quyết:** Chỉ tiến hành render
+   toàn bộ video khi người dùng đã xem bản dựng và đưa ra phản hồi đồng ý ("Đã duyệt",
+   "Render đi", v.v.).

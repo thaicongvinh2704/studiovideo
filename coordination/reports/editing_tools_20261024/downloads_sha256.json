@@ -1,0 +1,14 @@
+{
+  "glaxnimate-0.6.0-x86_64.exe": {
+    "bytes": 109638768,
+    "sha256": "6c75d1ecd87decff67aa8da8a02602def1af5f7a38e521225f5040e626caf86b"
+  },
+  "ollama-windows-amd64-0.40.10.zip": {
+    "bytes": 1586229413,
+    "sha256": "d52aea2d323bdd324bf66a4b1226844aa5fb665cc5974fbcceceda1ce3d934eb"
+  },
+  "python-3.11.9-embed-amd64.zip": {
+    "bytes": 11249023,
+    "sha256": "009d6bf7e3b2ddca3d784fa09f90fe54336d5b60f0e0f305c37f400bf83cfd3b"
+  }
+}

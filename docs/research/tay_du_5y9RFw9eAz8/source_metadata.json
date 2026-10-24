@@ -1,0 +1,36 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "vp9",
+      "codec_type": "video",
+      "width": 1920,
+      "height": 1080,
+      "avg_frame_rate": "430040/14349"
+    },
+    {
+      "index": 1,
+      "codec_name": "opus",
+      "codec_type": "audio",
+      "avg_frame_rate": "0/0"
+    }
+  ],
+  "format": {
+    "duration": "717.454000",
+    "size": "215524978"
+  },
+  "source_path": "C:\\Users\\ADMIN\\Downloads\\Những fact lmao nhất trong Tây Du Ký (Phần 2) [5y9RFw9eAz8].mp4",
+  "sampling": "One frame every 3 seconds; not a shot-complete log",
+  "audio_listened": false,
+  "source_sha256": "9c18d8cf06fc39f95ccf39f6de837a98de0c901ec5285c0bbc11add3048d4efb",
+  "review_coverage": {
+    "overview_frames": 239,
+    "dense_sequence_frames": 308,
+    "total": 547,
+    "overview_boards_opened": 8,
+    "sequence_boards_opened": 17,
+    "scope": "Visual frame-sequence study; no continuous audiovisual listening or exact shot census."
+  }
+}

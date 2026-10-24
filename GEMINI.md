@@ -15,4 +15,4 @@ Never say takeover is tested until you have produced your own evidence.
 
 Before ending repo work, update task state, record exact checks and limitations,
 release ownership when stopping and write a checkpoint. Preserve source assets,
-local WAV edits, selected H voice and all character/export-QC requirements.
+local WAV edits, selected H voice and all character/export-QC requirements. Do not render full video without prior user review and approval of the edit (mandated 24/10/2026).

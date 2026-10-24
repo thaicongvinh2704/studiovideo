@@ -1,0 +1,191 @@
+# cue range | composition | source(s) | screen text | new information / directing purpose
+1|detail|K01@0.25,0.12,0.5,0.84|LỆNH XỬ CHÉM|Mở thẳng vào bàn tay và thẻ án, chưa giới thiệu phong cảnh.
+2|wide|K02|PHI LIÊM · ÁC LAI|Nhìn rõ hai người bị kết tội và vật họ mang theo.
+3|focus|K02@0.12,0.48,0.42,0.42|MANG BÁU CẦU QUAN|Cận khay báu, nối động cơ cầu lợi với vật đang nhìn thấy.
+4|drop|O02|RA ÁN|Thẻ lệnh hạ xuống mặt bàn; tác động có điểm đến.
+5|wide|K03|ÁN ĐÃ THI HÀNH|Cổng đóng thay cho hành quyết trực diện; không dựng thêm bạo lực.
+6|wide|Y01|GỌI HỒN · PHONG THẦN|Lần đầu thấy hai người xuất hiện ở nghi lễ sau khi chết.
+7-8|orders|O02,O01|XỬ TỘI~GIAO CHỨC|Hai vật khác nhau hiện nối tiếp; Mỏ Đen nghi ngờ sự trái ngược.
+9|reaction|14|PHONG THẦN = KHEN THƯỞNG?|Nêu giả định cần kiểm tra, dấu bằng bị gạch sau một nhịp.
+10-11|detail|Y01@0.49,0.24,0.48,0.73|BỊ KẾT TỘI → VẪN NHẬN CHỨC|Nhìn chính hai hồn nhận sắc thay vì chiếu lại toàn đàn.
+12|reaction|13|CÒN MỘT TRƯỜNG HỢP KHÁC|Mỏ Đen đặt sự chú ý vào một hồ sơ chưa mở.
+13-14|focus|Y02@0.61,0.19,0.35,0.77|CHƯA CHỊU QUỲ|Giới thiệu Văn Trọng bằng dáng đứng đối đầu trong ảnh gốc.
+15|focus|Y04@0.04,0.15,0.5,0.8|ĐI MỜI ĐỐI THỦ|Chủ thể là Công Báo đang nói với người trong động.
+16|detail|K27@0.08,0.13,0.43,0.83|CÒN NGƯỜI ĐỌC SẮC?|Cận Tử Nha, mở câu hỏi về kết cục người thi hành.
+17|object|O05|THỨ ÔNG CẦM TRÊN TAY|Đưa roi rời vào điểm nhìn; không lặp cả cảnh cung điện.
+18-19|mandate|C_NT,O01,C_JZ|MỆNH LỆNH → NGƯỜI THI HÀNH|Đường đi từ thầy qua sắc đến Tử Nha, quyền có nguồn gốc.
+20|wide|B01|CÔN LÔN · TRƯỚC CHIẾN TRANH|Một nhịp định vị ngắn cho hồi tưởng.
+21|wide|Y08|32 TUỔI|Thiết lập đúng góc tu hành chuẩn bị match cut thời gian.
+22|wide|Y09|72 TUỔI|Cùng cửa sổ và tư thế, thay tuổi bằng ảnh đã có.
+23|age|Y08@0.14,0.18,0.42,0.73,Y09@0.14,0.18,0.42,0.73|40 NĂM · MỘT MONG MUỐN|Hai gương mặt ở cùng trục, vạch thời gian chạy giữa hai mốc.
+24|focus|K10@0.57,0.12,0.42,0.8|ĐƯỜNG TIÊN KHÓ THÀNH|Cận người thầy đang đưa lời phán, bỏ nền thừa.
+25|route|O04,O01|XUỐNG NÚI~GIÚP CHU~PHONG THẦN|Hành lý đến sắc lệnh, tuyến công việc ở cõi người hiện từng chặng.
+26-27|portrait|A02|XIN ĐƯỢC Ở LẠI|Giữ dáng thỉnh cầu có sẵn, không biến đổi khớp tay.
+28-29|detail|Y09@0.14,0.18,0.42,0.73|VẪN MUỐN TU HÀNH|Quay lại khuôn mặt già để nói cái giá của mong muốn, không mở rộng phòng.
+30|focus|K10@0.56,0.15,0.43,0.78|QUYẾT ĐỊNH KHÔNG ĐỔI|Cận tay đưa sắc và phía người thầy; nhấn điều không thương lượng.
+31|portrait|A03|BÁI BIỆT · XUỐNG NÚI|Dáng bước đi đã được chuẩn bị, chỉ đạo cụ hành lý được dẫn mắt.
+32|reaction|15|NGƯỜI PHONG THẦN CŨNG KHÔNG ĐƯỢC CHỌN|Mỏ Đen dừng để làm rõ mối liên hệ thay vì chuyển sang trận đánh.
+33-34|constellation|O01|365 VỊ CHÍNH THẦN|Hiện con số đã có trong lời kể và những nhóm chức trách; không tạo 365 chân dung.
+35-36|levels|O06,O01|THƯƠNG → CHU~SẮP ĐẶT THẦN VỊ|Tách hai trục chiến tranh và thần chức trên hai tầng rõ ràng.
+37|detail|X01@0.18,0.45,0.46,0.5|ĐÃ CHẾT TRÊN CHIẾN TRƯỜNG|Cận dấu tích, không kéo dài chiến trường trống.
+38|scroll|O01|CÓ TÊN?~CHỨC GÌ?~SẮC NÓI GÌ?|Ba câu hỏi được viết lần lượt trên sắc, là tiêu chí đọc phần sau.
+39|portrait|A17|NHẬN PHÙ SẮC · LÀM LỄ · GỌI TÊN|Đối tượng là Tử Nha thực hiện nghi lễ, các bước lên theo thứ tự.
+40|papers|O10|HAI TỜ GIẤY|Bàn trắng với hai tờ giấy vector mở trống để chuẩn bị thông tin.
+41|papers|O10|AI THẮNG TRẬN?|Chỉ tờ bên trái có chữ, bên kia còn trống.
+42|papers|O10|AI NHẬN THẦN CHỨC?|Tờ bên phải nhận tiêu đề riêng; hai chức năng không nhập lại.
+43-44|papers|O10|CÓ TÊN Ở CẢ HAI · HOẶC CHỈ MỘT|Đường nối cùng một tên qua hai giấy rồi thêm tên chỉ thuộc một bên.
+45|reaction|16|HAI DANH SÁCH KHÁC NHAU|Mỏ Đen kéo hai nhãn tách biệt bằng đường chỉ, kết phép phân biệt.
+46|portrait|C_WZ|VĂN TRỌNG|Giới thiệu rõ diện mạo vị tướng trước phần đời cuối.
+47|wide|K04|GIỮ LẤY NHÀ THƯƠNG|Toàn đội quân và vị chủ soái, thiết lập con người ông không muốn bỏ.
+48|focus|K04@0.06,0.1,0.45,0.83|NHỮNG NGÀY CUỐI|Cận vị chủ soái khi lời kể chuyển tới hồi năm mươi hai, không kéo dài toàn đội quân.
+49|wide|K05|ĐƯỜNG LUI BỊ CHẶN|Thay trạng thái chiến thắng bằng rút lui, quân và kỳ lân mất mát.
+50|object|O06|THOÁT VỀ TRIỀU CA?|Cờ rách và tuyến thoát dự tính; mũi tên dừng ở dấu hỏi, không khẳng định đã về.
+51-52|detail|K04@0.52,0.15,0.46,0.8|NHƯNG CÒN BA QUÂN|Cận quân mệt phía sau, đổi điểm nhìn sang những người bị bỏ lại.
+53|object|O04|CUỘC RÚT LUI TIẾP TỤC|Hành lý đi dọc đường ngắn tới chướng ngại; không kéo méo người.
+54|wide|K06|TUYỆT LONG LĨNH|Người chờ và địa hình cùng hiện, giới thiệu phục kích.
+55|wide|X02|VÒNG VÂY THẦN HỎA|Thấy vòng cột lửa đã khép, chuyển trạng thái từ người đợi sẵn sang không gian bị vây.
+56|detail|Y03@0.12,0.23,0.48,0.7|TÌM LỐI THOÁT LÊN TRÊN|Cận hướng nhìn và vị trí mắc kẹt; đường chỉ đi lên có mục tiêu.
+57|object|O09|LỐI TRÊN CŨNG BỊ CHẶN|Bát úp hạ chặn đầu tuyến; không bịa thêm động tác nhân vật.
+58|detail|Y03@0.18,0.2,0.43,0.72|VĂN TRỌNG MẤT|Giữ nét mặt một nhịp, không dùng hiệu ứng vui hoặc rung vô nghĩa.
+59|object|O21|CHƯA PHẢI VIỆC CUỐI CÙNG|Mũ trụ còn lại làm dấu chuyển từ cái chết sang báo mộng.
+60-61|wide|K07|HỒN VỀ TRIỀU CA|Thiết lập vua đang ngủ và người bề tôi đã chết trong cùng cảnh.
+62|focus|K07@0.02,0.12,0.46,0.82|VẪN KHUYÊN CỨU NƯỚC|Cận người can gián; ba ý chính hiện từng dòng, không thêm lời thoại giả.
+63|object|O06|ĐẾN CUỐI VẪN LO TRIỀU ĐẠI|Lá cờ trở lại như đối tượng lòng trung chứ không làm nền cảnh.
+64|wide|K08|ĐÁT KỶ GIẢI THÍCH GIẤC MỘNG|Hai người đang trao đổi, thấy rõ ai nghe ai.
+65|detail|K09@0.5,0.15,0.46,0.78|NHÀ VUA LẠI YÊN LÒNG|Cận người nghe đã bỏ lời can; không chiếu lại cả yến tiệc.
+66|object|O26|LỜI CAN BỊ GÁC LẠI|Nến tĩnh và dòng lời can mờ dần, giữ nhịp buồn vừa đủ.
+67|portrait|C_WZ|KHÔNG CHỈ LÀ TÊN KẺ BẠI TRẬN|Đưa con người vừa có lịch sử trở lại trước việc nhận chức.
+68|wide|Y02|ĐẾN ĐÀN · CHƯA QUỲ|Thiết lập khoảng cách Tử Nha–Văn Trọng trước mệnh lệnh.
+69|kneel|Y02,Y02_B|QUỲ NGHE SẮC|Cận roi rồi cut sang ảnh quỳ cùng góc; không tự tạo rig người.
+70|scroll|O01|ĐỨNG ĐẦU LÔI BỘ|Sắc và dấu sét xuất hiện; danh hiệu đầy đủ vẫn có trong phụ đề.
+71|rain|B15|TẬN TRUNG HAI ĐỜI VUA~MÂY MƯA NUÔI VẠN VẬT|Từ phẩm chất sang phận sự, giọt mưa có điểm chạm ruộng.
+72|scope|O06,K28@0.05,0.12,0.48,0.8|GIỮ TRIỀU ĐẠI~CHĂM LO VẠN VẬT|Đổi đích của đường nối từ lá cờ sang ruộng; phạm vi nhiệm vụ mở ra.
+73|reaction|16|NHÌN NHẬN PHẨM CHẤT ĐỐI THỦ|Mỏ Đen nhận ra lời giải tạm thời rồi chừa khoảng để kiểm chứng.
+74|object|O01|CÒN PHI LIÊM VÀ ÁC LAI?|Hai nhãn tên đi vào vùng sắc còn trống, đưa phản ví dụ lên trước.
+75|detail|K02@0.05,0.08,0.9,0.82|PHI LIÊM · ÁC LAI|Nhận diện hai người, dùng ảnh trong hồ sơ nhỏ không thành đại cảnh mới.
+76|scroll|O01|MÊ HOẶC VUA~PHÁ HOẠI CHÍNH SỰ~MẤT CƠ NGHIỆP|Các tội danh lên lần lượt, không biến sắc thành huy chương.
+77|object|O03|BÁU VẬT ĐỔI BỔNG LỘC|Khay báu chuyển về nhãn triều đại mới, mô tả động cơ đã kể.
+78|drop|O02|HỒI 99 → HỒI 100|Mệnh lệnh và thi hành tách hai mốc, không chiếu lại cổng thành.
+79|detail|Y01@0.49,0.27,0.48,0.69|HỒN ĐƯỢC GỌI LÊN|Lần trở lại nhấn cùng người đã chết, không dùng toàn đàn.
+80-82|detail|K31@0.1,0.6,0.8,0.37|TỘI CŨ VẪN ĐƯỢC ĐỌC|Cuộn sắc phía trước và hai người phía sau cùng chịu lời kết tội.
+83|reaction|14|KHÔNG CÓ CHIẾN CÔNG BÍ MẬT|Gạch giả thuyết chưa được truyện kể, không bịa thêm cảnh lập công.
+84|wide|X05|BĂNG TIÊU · NGÕA GIẢI|Băng tan và ngói vỡ giúp hiểu tên chức bằng hình.
+85|scroll|O01|NHẬN CHỨC → PHẢI ĐÚNG PHẬN SỰ|Đường nối từ chức vị tới nghĩa vụ, không kết luận là được khen.
+86-89|verdict|O02,O01|CUỘC ĐỜI ĐÃ SỐNG~VIỆC ĐƯỢC GIAO SAU KHI CHẾT|Một tên đi qua hai thời điểm; tội không bị xóa bởi mệnh lệnh sau.
+90|reaction|14|PHONG THẦN ≠ TỰ ĐỘNG TUYÊN DƯƠNG|Dấu khác hiện đúng lúc phá ngộ nhận, không lặp sơ đồ đầu phim.
+91-92|weather|B15,X05|MƯA THUẬN~TAI HỌA|Hai cửa sổ khác chức năng; thời tiết và đổ vỡ được chỉ vào đúng phần.
+93|reaction|15|CŨNG KHÔNG PHẢI AI ĐỀU BỊ PHẠT|Đảo ngộ nhận thứ hai, giữ câu chữ đầy đủ để tránh hiểu một chiều.
+94|contrast|K30@0.5,0.08,0.46,0.75,K31@0.1,0.6,0.8,0.37|GHI NHẬN LÒNG TRUNG~NHẮC LẠI TỘI|Đặt hai lời phán cạnh nhau, giữ người và sắc là bằng chứng nhìn được.
+95|scroll|O01|ĐỌC LỜI PHÁN~ĐỌC CÔNG VIỆC|Hai vùng trên cùng sắc được đánh dấu lần lượt, chốt cách đọc.
+96-97|portrait|C_SG|THÂN CÔNG BÁO|Giới thiệu tên mới bằng chân dung, không quay lại bàn trống.
+98|relations|C_WZ,C_SG,C_JZ|GIỮ NHÀ THƯƠNG~THÙ HẰN CÁ NHÂN|Hai nguồn xung đột dẫn đến cùng Tử Nha nhưng có động cơ khác.
+99|wide|K11|CHẶN ĐƯỜNG NGƯỜI MỚI LÀNH THƯƠNG|Thiết lập tương quan hai đối thủ, không giả vờ có giao chiến hoạt hình.
+100-101|detail|K11@0.05,0.1,0.9,0.8|MỐI BẤT HÒA CŨ → RA TAY|Hai cận chân dung nối bằng đường đối đầu, cắt bỏ nền không cần.
+102|focus|K12@0.02,0.22,0.44,0.75|BỊ ĐƯA ĐẾN TRƯỚC THẦY|Cận Công Báo bị đưa đến, đổi vị thế từ kẻ chặn đường sang người chịu xét tội.
+103|focus|K12@0.02,0.22,0.44,0.75|RỦ NGƯỜI · CẢN TÂY KỲ · HẠI TỬ NHA|Cận Công Báo bị hỏi, tội danh lên bên cạnh không che mặt.
+104-105|oath|O11|LỜI THỀ~LẤP MẮT BIỂN BẮC HẢI|Lời thề được đóng trong khung rồi đường đi hướng về biển; rõ điều kiện tái phạm.
+106-107|wide|K13|CHẠY KHÔNG THOÁT|Công Báo bị giữ lại sau Vạn Tiên Trận, thấy ai bắt ai.
+108|wide|E04|LỜI THỀ ĐƯỢC THỰC HIỆN|Bồ đoàn và biển cùng khung, không dùng bồ đoàn làm phông trang trí.
+109|object|O01|ĐẾN LỄ · VẪN ĐƯỢC GỌI TÊN|Cuộn sắc chuyển nhịp từ chịu trách nhiệm sang nhận việc.
+110|seas|O11,K32@0.5,0.07,0.48,0.8|BẮC HẢI: LỜI THỀ~ĐÔNG HẢI: PHẬN SỰ|Hai biển là hai nhãn theo truyện, không vẽ bản đồ địa lý sai hoặc nhập làm một.
+111-112|focus|K12@0.54,0.12,0.42,0.72|VAI TRÒ THU TỤ NGƯỜI THUỘC SỐ|Cận người thầy biết vai trò; đây là giải thích của người kể trong nguyên tác.
+113|wide|Y04|MỜI NGƯỜI CHỐNG TÂY KỲ|Lần rộng duy nhất của cuộc mời người, thấy người nghe ở cửa động.
+114-115|funnel|C_SG,O01|CẢN ĐƯỜNG → GOM THÊM NGƯỜI|Tên người đi về cùng sắc, hành động có hệ quả trái với ý định trước mắt.
+116|reaction|14|KHÔNG DỰNG THÊM CHUYỆN BÍ MẬT BẮT TAY|Giữ phần không được kể thành câu chú giải, không tạo ảnh bắt tay giả.
+117|detail|Y04@0.04,0.12,0.48,0.78|HỆ QUẢ LỚN HƠN Ý ĐỊNH|Cận Công Báo đang mời, đường chỉ đi từ lời mời sang danh sách ngoài khung.
+118|object|O11|VẪN PHẢI CHỊU TRÁCH NHIỆM|Bồ đoàn trở lại như hệ quả lời thề, không lặp toàn cảnh biển.
+119-120|mandate2|O01,C_SG|MỐI THÙ KHÔNG XÓA PHẦN ĐƯỢC ĐỊNH|Sắc ở trên, tên Công Báo được đặt dưới; đường mệnh lệnh thay đường xung đột.
+121|reaction|13|NHẬN THẦN VỊ CÓ ĐÁNG MỪNG?|Chuyển câu hỏi từ người thi hành sang điều nhân vật đã mất.
+122|wide|X06|TRƯỚC KHI XUỐNG NÚI|Định vị động phủ dưới hai giây, không dùng nền trống phủ cả đoạn kể.
+123-124|portrait|C_ZM|MONG MUỐN TIẾP TỤC TU HÀNH|Chuyển về con người có mong muốn, giữ hình nguyên vẹn và không kéo dài động phủ trống.
+125|journey|O04,O20,O01|XUỐNG NÚI~MẤT MẠNG~NHẬN CHỨC|Chuỗi vật rời biểu hiện các trạng thái, không làm người chết cử động.
+126|object|O20|DANH HIỆU LỚN · MẤT NHỮNG GÌ?|Áo trống là thiếu vắng người, giữ khoảng trống có ý nghĩa.
+127-128|portrait|C_ZM|TRIỆU CÔNG MINH|Giới thiệu con người trước khi nói về thần vị về sau.
+129|object|O15|MẤT PHÁP BẢO → MƯỢN BẢO VẬT KHÁC|Bảo vật khép, không vẽ tay cầm sai hoặc kéo mở ra.
+130-132|wide|K14|VÂN TIÊU KHUYÊN ANH DỪNG LẠI|Toàn cuộc đối thoại rõ hai người và khoảng cách giữa họ.
+133|focus|K14@0.56,0.14,0.42,0.78|CHỜ QUA VIỆC PHONG THẦN|Cận người muốn giữ anh, lời cảnh báo nằm cạnh không biến thành thoại mới.
+134-135|focus|K14@0.02,0.1,0.47,0.8|CÔNG MINH KHÔNG CHỊU|Đổi điểm nhìn sang người mất của, thấy nguyên do không dừng.
+136|emotion|K14@0.02,0.1,0.47,0.8,K14@0.56,0.14,0.42,0.78|TỨC GIẬN~LO CHO ANH|Hai cận mặt với đường lực đi ngược, không phải hai cảnh rộng khác nhau.
+137|focus|K15@0.23,0.32,0.5,0.58|BẢO VẬT ĐƯỢC TRAO|Cận hai bàn tay và kéo khép, giữ đúng chiều trao trong bản supplied đã sửa.
+138|object|O15|TRỞ LẠI CHIẾN TRƯỜNG|Bảo vật rời rời khỏi vùng động, đường đi có đích.
+139|wide|Y05|LỜI CẢNH BÁO ĐÃ ĐƯỢC NÓI|Người ở lại nhìn anh rời đi; cảnh kết cuộc đối thoại chứ không phủ phong cảnh.
+140|focus|Y05@0.56,0.14,0.42,0.79|MẤT MÁT TRƯỚC MẮT KHIẾN ANH KHÔNG DỪNG|Cận người đã cảnh báo để nhấn lựa chọn, không giữ đại cảnh suốt đoạn phân tích.
+141|ritual|K16,Y06,K18|CHỈ DẪN~LÀM LỄ~BẮN HÌNH NHÂN|Ba nhịp theo thứ tự, nhãn HÌNH NHÂN luôn rõ để không hiểu là bắn người thật.
+142|wide|K17|NGƯỜI TỪNG MẠNH NAY SUY KIỆT|Cơ thể trên giường và người bên cạnh cùng rõ; không biến thành pose mới.
+143-144|detail|Y07@0.27,0.12,0.4,0.65|VĂN TRỌNG KHÔNG CỨU ĐƯỢC BẠN|Cận nét mặt và tay trên giường, ưu tiên cảm xúc có trong tranh.
+145|causality|K18,K17@0.02,0.26,0.49,0.67|HÌNH NHÂN~NGƯỜI Ở DOANH BÊN KIA|Mũi tên nối tác động và hệ quả, chỉ một mũi tên trong ảnh gốc.
+146-147|hierarchy|C_ZM,O01|HUYỀN ĐÀN CHÂN QUÂN~CHIÊU TÀI · NẠP TRÂN · LỢI THỊ|Chức ở đỉnh và phạm vi công việc dưới, không bịa đủ bốn hình người.
+148|object|O20|KHÔNG BIẾN CÁI CHẾT THÀNH MONG MUỐN|Áo trống cắt ngang danh hiệu, không dùng hiệu ứng chiến thắng.
+149|detail|Y07@0.27,0.12,0.4,0.65|VĂN TRỌNG VẪN KHÓC BẠN|Quay lại khuôn mặt vì lời kể nhắc trực tiếp nỗi mất mát.
+150|loss|O01,O20|TÔN PHONG VỀ SAU~MẤT MÁT LÚC ẤY|Hai thời điểm cùng tồn tại, không gạch bỏ phía nào.
+151-152|paths|O04,O01,O10|TIÊN ĐẠO~THẦN ĐẠO~NHÂN ĐẠO|Ba lối tỏa ra từ một nút, không biến thành bảng xếp hạng sức mạnh.
+153|reaction|14|NHẬN CHỨC ≠ TĂNG MỘT BẬC SỨC MẠNH|Mỏ Đen bác cách đọc thang bậc, không thêm biểu tượng trò chơi.
+154-155|scroll|O01|PHẠM VI~QUYỀN HẠN~NGHĨA VỤ|Các phần của sắc lần lượt hiện, gắn chức vị với việc phải làm.
+156|reaction|15|CŨNG KHÔNG THỂ GỌI TẤT CẢ LÀ NHÀ TÙ|Câu phản biện giữ ngữ cảnh, không vẽ cảnh xiềng xích bịa đặt.
+157-159|origins|C_WZ,C_FL,C_ZM|ĐIỂM XUẤT PHÁT KHÁC NHAU|Ba nguồn gốc nối về thần chức; chân dung chỉ nhận diện, không dựng nhóm giả.
+160|balance|O01|ÂN ĐIỂN~KỶ LUẬT|Hai vế có trọng lượng ngang nhau; dấu cân là sơ đồ đọc truyện, không hiện vật lịch sử.
+161|portrait|C_XS|CÁI TÊN DƯỚI QUYỀN CÔNG MINH|Từ câu hỏi sang người cụ thể, chưa tiết lộ quan hệ bằng đại cảnh nhóm.
+162-163|relations2|C_ZM,C_XS|NGƯỜI GIẾT~NGƯỜI BỊ GIẾT|Đường đối đầu đỏ trước khi có đường chỉ huy; không giả cảnh hòa giải.
+164-165|wide|K19|MỘT VÁN CỜ YÊN BÌNH|Cảnh rộng duy nhất cho không gian trước truy sát.
+166-167|wide|X07|CUỘC TRUY SÁT TRÀN VÀO|Hai người truy đuổi và hướng chạy trong ảnh nguyên gốc.
+168|detail|K19@0.12,0.55,0.77,0.39|HAI NGƯỜI ĐỨNG RA CAN THIỆP|Hai người bên bàn, vòng chỉ đúng chủ thể hỏi nguyên do.
+169|object|O17|DÂY TRÓI RỒNG|Giới thiệu đúng pháp bảo trước khi mô tả đồng tiền khắc chế.
+170|object|O16|LẠC BẢO KIM TIỀN|Đồng tiền có cánh bay tới điểm chạm, giữ hình và tỉ lệ supplied.
+171|rope|O16,O17|LẦN 1 · DÂY RƠI|Dây đi xuống sau điểm chạm đồng tiền; không để vật bay không có hệ quả.
+172-173|pearls|O16,O18|LẦN 2 · 24 HẠT ĐỊNH HẢI CHÂU|Đúng 24 hạt xếp 4×6, rơi rồi gom về phía Cao Bảo theo lời kể.
+174|object|O17,O18|MẤT LIỀN HAI PHÁP BẢO|Hai món rời khỏi vị trí Công Minh, tổng kết thế trận vừa đổi.
+175|focus|K21@0.03,0.12,0.52,0.8|LẦN THỨ BA · ROI SẮT|Cận đồng tiền và vị trí roi vượt qua, không phát lại cả bối cảnh ván cờ.
+176|bypass|O16,O19|PHÁP BẢO ≠ BINH KHÍ|Roi vượt tuyến khắc chế; hai nhãn giúp hiểu quy tắc thất bại.
+177|repeat|O17,O18,O19|HAI LẦN ĐƯỢC · LẦN BA KHÁC|Hai dấu xác nhận rồi một gạch chéo, không thêm người chịu đòn.
+178|wide|K22|NHẦM LẪN KẾT THÚC MỘT CUỘC ĐỜI|Dáng sau cái chết được giữ nguyên, hạ nhịp thay vì ăn mừng.
+179|object|O20|SAU ĐÓ CÔNG MINH CŨNG MẤT|Áo trống nối người gây cái chết với cái chết của chính mình.
+180-181|rank|C_ZM,C_XS|CÔNG MINH~TIÊU THĂNG · CHIÊU BẢO THIÊN TÔN|Sơ đồ bốn vị trí dưới quyền, Tiêu Thăng là một vị trí có tên, ba vị trí còn lại không bịa mặt.
+182|wide|K23|NHÌN NHÓM THẦN CHỨC TỪ BÊN NGOÀI|Giữ đủ hai người và sắc, tránh cắt mất đầu trong ảnh đối chiếu.
+183|focus|K23@0.02,0.05,0.45,0.86|BIẾT QUÁ KHỨ · QUAN HỆ ĐỔI KHÁC|Cận Tiêu Thăng, đưa ký ức người bị giết vào cách nhìn nhóm hiện tại.
+184|wide|K24|TRỊNH LUÂN · TRẦN KỲ|Nhận diện đủ hai người giữ cửa, không dùng làm minh họa Công Minh.
+185-186|sides|C_ZL,C_CQ|BỎ TRỤ THEO CHU~TỪNG CẢN QUÂN ĐÁNH TRỤ|Hai phía chiến tuyến khác nhau giữ nguyên tên người.
+187-188|gates|C_ZL,C_CQ,O01|CÙNG GIỮ CỬA~BẢO VỆ PHÁP BẢO~GIÁO HÓA|Hai người tĩnh hai phía cửa vector, đường chức trách chung hiện ở giữa.
+189-190|oldlinks|C_ZM,C_XS,C_WZ,O06|CHỦ CŨ · BẠN CÙNG TRẬN · ĐỐI THỦ|Đường nối đỏ theo quan hệ cũ, chuẩn bị thay tiêu chí tổ chức.
+191-192|newlinks|C_ZM,C_XS,C_WZ,O01|BỘ · CHỨC · NGƯỜI CHỈ HUY|Cùng nút người, tuyến xanh đi về công việc thay cho tuyến thù địch.
+193-195|reaction|15|CHỨC VỤ ĐÃ SẮP · HÒA GIẢI KHÔNG ĐƯỢC KỂ RÕ|Không dựng bắt tay; dấu hỏi nằm giữa tên hai người, thừa nhận giới hạn truyện kể.
+196|object|O20,O01|QUAN HỆ MỚI · CÁI GIÁ CŨ|Vật còn lại và sắc cùng khung, không xóa mất mát bằng danh hiệu.
+197|system|C_JZ,C_ZM,C_XS,C_SG|NHỮNG NGƯỜI TỪNG ĐỐI ĐẦU → CÙNG HỆ THỐNG|Nhiều đường về chức trách, hình nhân vật không biến thành một nhóm hòa thuận.
+198|portrait|C_JZ|NGƯỜI THI HÀNH NHẬN PHẦN GÌ?|Tử Nha trở thành chủ thể, nhãn câu hỏi thay vì toàn đàn lặp lại.
+199-200|memory|Y08@0.14,0.18,0.42,0.73,K10@0.56,0.14,0.43,0.77|XIN Ở LẠI~PHẦN Ở NHÂN GIAN|Hồi tưởng hai chi tiết đã xem bằng cận khác mục đích, không dựng lại cả Côn Lôn.
+201-202|wide|K25|PHÂN PHONG Ở CÕI NGƯỜI|Chuyển sang quyền lực nhà Chu và người sống, phân biệt đàn gọi hồn.
+203|object|O23|ĐẤT TỀ · QUYỀN VỊ NHÂN GIAN|Ấn và nhãn đất phong, không dùng bản đồ lãnh thổ không có nguồn.
+204|reaction|14|KHÔNG CÓ CẢNH TỰ GỌI HỒN MÌNH|Làm rõ điều truyện không kể, không minh họa nó như sự kiện.
+205|wide|K26|DƯƠNG TIỄN · NA TRA VỀ NÚI|Người sống trở lại tu hành, giữ riêng với nhánh người chết nhận chức.
+206|focus|K26@0.02,0.08,0.48,0.84|NHÓM BẢY NGƯỜI · NHỤC THÂN THÀNH THÁNH|Cận một người trong nhóm được nêu, phụ đề giữ rõ đây là kết cục của bảy người.
+207|object|O04|NGƯỜI SỐNG TIẾP TỤC ĐƯỜNG TU|Hành lý về núi giúp phân biệt với người chết được gọi hồn nhận sắc.
+208|paths2|O01,O04,O23|THẦN CHỨC~VỀ NÚI TU~Ở LẠI NHÂN GIAN|Ba ngả có trạng thái sống/chết ghi rõ, phục vụ kết cục khác nhau.
+209|reaction|15|KHÔNG PHẢI MỘT BẢNG THÀNH TÍCH|Bỏ khung xếp hạng; Mỏ Đen nhìn ba nhãn ngang hàng.
+210|wide|K27|TỬ NHA NHÌN VỀ NÚI|Đại cảnh cô độc có người và điểm nhìn, giữ một lần cho nhịp lắng.
+211-212|detail|Y09@0.14,0.18,0.42,0.73|40 NĂM · VẪN MUỐN Ở LẠI|Cận người tu già trở lại như ký ức cụ thể, không gọi là bối cảnh mới.
+213|object|O23|CÓ CÔNG · CÓ QUYỀN · VẪN Ở NHÂN GIAN|Ấn được trao nhưng đường hướng núi dừng lại, biểu hiện sự ngậm ngùi.
+214-216|reaction|14|KHÔNG BỊ LỪA MẤT GHẾ · KHÔNG QUÊN PHẦN MÌNH|Đính chính lời truyền miệng bằng chữ; tuyệt đối không dựng người tranh ghế.
+217|detail|K27@0.07,0.14,0.45,0.79|KẾT CỤC VẪN ĐỦ GỢI NGHĨ|Cận mặt nhìn xa sau khi gạt lời truyền miệng, không thêm bi kịch bịa đặt.
+218|object|O23,O04|PHẦN XỨNG ĐÁNG ≠ MONG MUỐN BAN ĐẦU|Ấn quyền vị và hành lý tu hành là hai mục tiêu khác nhau; không giữ một cận mặt gần mười giây.
+219|closingtableau|C_JZ,C_WZ,C_FL,C_SG|NHỮNG CUỘC ĐỜI KHÁC NHAU~CÙNG CHỜ NGHE PHẦN TIẾP|Sắp thứ bậc trên trắng thành sơ đồ nghi lễ, không dùng lại đại cảnh B16 trống.
+220|portrait|C_JZ|NGƯỜI TỪNG RỜI CON ĐƯỜNG MÌNH MUỐN|Cận đúng người đọc sắc trên đàn, đổi trọng tâm từ nghi lễ sang đời ông.
+221|names|O01|NHỮNG NGƯỜI CHỜ NGHE PHẦN TIẾP|Tên người dưới đàn hiện lần lượt, không cần mở lại toàn đàn.
+222|focus|Y02@0.6,0.18,0.36,0.78|TRỞ LẠI VĂN TRỌNG|Cận dáng đứng để dẫn thẳng vào hai ý cuối, không mở lại toàn đàn.
+223|losses|O06,O21,O20|MẤT QUÂN · MẤT BẠN · MẤT MẠNG · MẤT TRIỀU ĐẠI|Vật chứng lần lượt rời vị trí, tổng kết giá trả chứ không lặp cảnh chết.
+224|detail|Y02@0.65,0.19,0.29,0.48|KHÍ THẾ CŨ VẪN CÒN|Cận mặt và vai, không lặp toàn dáng đứng lần nữa.
+225|obedience|Y02_B@0.6,0.37,0.38,0.6,O01|GHI NHẬN LÒNG TRUNG~VẪN QUỲ NGHE SẮC|Giữ tư thế quỳ với hai nhãn đồng tồn tại, không đặt chúng triệt tiêu nhau.
+226-227|scroll|O01|GIỮ PHẨM CHẤT~CHẤP HÀNH TRẬT TỰ|Hai vế trên cùng sắc được nối, đây là tổng hợp của hai chi tiết vừa xem.
+228|detail|K31@0.1,0.6,0.8,0.37|CÓ CHỨC · TỘI VẪN ĐƯỢC NHẮC|Quay lại đúng lời phán phản ví dụ, ảnh nhỏ có mục tiêu nhận diện.
+229|object|O11|CÔNG BÁO · GIỮ LỜI THỀ|Nhắc bằng bồ đoàn, không phát lại toàn bộ chuỗi bắt giữ.
+230|detail|Y07@0.27,0.12,0.4,0.65|CÔNG MINH · MẤT MÁT VẪN CÒN|Nét mặt người khóc là bằng chứng cảm xúc, tôn trọng ảnh gốc.
+231|reaction|15|CÙNG NGHI LỄ · KHÔNG CHỈ MỘT Ý NGHĨA|Mỏ Đen tổng hợp, không biến ba số phận thành cùng màu khen/phạt.
+232|reaction|13|VÌ SAO KẺ ĐỊCH VẪN ĐƯỢC PHONG THẦN?|Nhắc nguyên câu hỏi sau khi đã có các phản ví dụ.
+233-234|mandate3|C_NT,O01,C_JZ|BÀN ĐỊNH → THI HÀNH~KHÔNG CHỈ NGƯỜI CÙNG PHE|Đường cấp lệnh được đọc lại từ trên xuống, đối chiếu sự thiên vị cá nhân.
+235|criteria|O01|PHẨM CHẤT~LỖI LẦM~CÔNG TU HÀNH~NHIỆM VỤ|Bốn tiêu chí theo đúng câu kể, lần lượt đánh dấu trên hồ sơ.
+236|orders2|O02,O01|ĐÁNH BẠI Ở CHIẾN TRƯỜNG~ĐỊNH PHẦN SAU KHI CHẾT|Hai thời điểm tách rành mạch, trả lời nghịch lý mở phim.
+237|reaction|24|ĐỌC CÁI TÊN CÙNG CUỘC ĐỜI|Mỏ Đen hướng khán giả về cách đọc thay vì chỉ chốt một kết luận.
+238|object|O20,O01|AN ỦI NGƯỜI CHẾT OAN|Vật vắng người và sắc cùng hiện, không tự gán thêm tên người chết oan.
+239|portrait|C_WZ|GHI NHẬN LÒNG TRUNG NGƯỜI THUA|Con người được giữ nguyên dù cờ chiến trận đã mất.
+240|object|O02,O01|LỜI KẾT TỘI · MỆNH LỆNH PHẢI THEO|Chức vị vẫn đi với trách nhiệm; không phát lại sơ đồ mở phim nguyên vẹn.
+241|names|O01|MỖI DÒNG SẮC GIỮ MỘT CUỘC ĐỜI|Các tên riêng hiện trên đường chức trách, không biến thành danh sách thưởng chung.
+242|wide|K28|TỪ GIỮ TRIỀU ĐẠI → NUÔI VẠN VẬT|Cảnh có Văn Trọng và ruộng để thấy nhiệm vụ mới có đối tượng.
+243|rainend|B15|TRIỀU ĐẠI QUA · PHẬN SỰ TIẾP TỤC|Mưa chạm ruộng rồi lắng, kết ở công việc tiếp diễn không ở huân chương.

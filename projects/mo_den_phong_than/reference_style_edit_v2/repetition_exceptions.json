@@ -1,0 +1,278 @@
+[
+  {
+    "cue_groups": [
+      [
+        2
+      ],
+      [
+        5
+      ]
+    ],
+    "reason": "Bàn án đến hệ quả ngoài khung qua cổng đóng.",
+    "frames": [
+      "review/shot_002.jpg",
+      "review/shot_005.jpg"
+    ],
+    "start": [
+      3.7202166666666665,
+      13.396483333333332
+    ],
+    "user_approved": false
+  },
+  {
+    "cue_groups": [
+      [
+        20
+      ],
+      [
+        21,
+        22
+      ]
+    ],
+    "reason": "Định vị Côn Lôn rồi đổi tuổi cùng góc tu hành.",
+    "frames": [
+      "review/shot_016.jpg",
+      "review/shot_017.jpg",
+      "review/shot_018.jpg"
+    ],
+    "start": [
+      56.15741666666666,
+      58.34568333333333,
+      59.793683333333334
+    ],
+    "user_approved": false
+  },
+  {
+    "cue_groups": [
+      [
+        47
+      ],
+      [
+        49
+      ]
+    ],
+    "reason": "Đội quân cần giữ chuyển sang tổn thất và đường lui.",
+    "frames": [
+      "review/shot_038.jpg",
+      "review/shot_040.jpg"
+    ],
+    "start": [
+      138.42075,
+      148.89186666666666
+    ],
+    "user_approved": false
+  },
+  {
+    "cue_groups": [
+      [
+        54
+      ],
+      [
+        55
+      ]
+    ],
+    "reason": "Người đợi sẵn chuyển sang cột lửa vây hãm.",
+    "frames": [
+      "review/shot_044.jpg",
+      "review/shot_045.jpg"
+    ],
+    "start": [
+      165.99213333333333,
+      168.32813333333334
+    ],
+    "user_approved": false
+  },
+  {
+    "cue_groups": [
+      [
+        60,
+        61
+      ],
+      [
+        64
+      ]
+    ],
+    "reason": "Báo mộng chuyển sang vua thức nghe giải thích, đổi người nói và trạng thái.",
+    "frames": [
+      "review/shot_050.jpg",
+      "review/shot_053.jpg"
+    ],
+    "start": [
+      182.8604,
+      193.94893333333334
+    ],
+    "user_approved": false
+  },
+  {
+    "cue_groups": [
+      [
+        68
+      ],
+      [
+        69
+      ]
+    ],
+    "reason": "Chưa quỳ chuyển sang roi và ảnh quỳ cùng trục.",
+    "frames": [
+      "review/shot_057.jpg",
+      "review/shot_058.jpg"
+    ],
+    "start": [
+      213.52534999999997,
+      218.46935
+    ],
+    "user_approved": false
+  },
+  {
+    "cue_groups": [
+      [
+        122
+      ],
+      [
+        130,
+        131,
+        132
+      ]
+    ],
+    "reason": "Động tu yên tĩnh chuyển sang đối thoại có người, không cùng bố cục trống.",
+    "frames": [
+      "review/shot_098.jpg",
+      "review/shot_104.jpg"
+    ],
+    "start": [
+      427.25913333333335,
+      455.2653333333334
+    ],
+    "user_approved": false
+  },
+  {
+    "cue_groups": [
+      [
+        130,
+        131,
+        132
+      ],
+      [
+        139
+      ]
+    ],
+    "reason": "Khuyên dừng chuyển sang anh đã rời đi; cận trao bảo vật ở giữa.",
+    "frames": [
+      "review/shot_104.jpg",
+      "review/shot_110.jpg"
+    ],
+    "start": [
+      455.2653333333334,
+      479.79920000000004
+    ],
+    "user_approved": false
+  },
+  {
+    "cue_groups": [
+      [
+        141
+      ],
+      [
+        142
+      ]
+    ],
+    "reason": "Nghi lễ hình nhân và hậu quả ở doanh khác.",
+    "frames": [
+      "review/shot_112.jpg",
+      "review/shot_113.jpg"
+    ],
+    "start": [
+      489.6514666666667,
+      496.8514666666667
+    ],
+    "user_approved": false
+  },
+  {
+    "cue_groups": [
+      [
+        164,
+        165
+      ],
+      [
+        166,
+        167
+      ]
+    ],
+    "reason": "Ván cờ yên bình chuyển sang truy sát tràn vào.",
+    "frames": [
+      "review/shot_128.jpg",
+      "review/shot_129.jpg"
+    ],
+    "start": [
+      581.1578999999999,
+      585.2901666666667
+    ],
+    "user_approved": false
+  },
+  {
+    "cue_groups": [
+      [
+        166,
+        167
+      ],
+      [
+        178
+      ]
+    ],
+    "reason": "Sau chuỗi khắc chế pháp bảo là hậu quả chết người bên ván cờ.",
+    "frames": [
+      "review/shot_129.jpg",
+      "review/shot_139.jpg"
+    ],
+    "start": [
+      585.2901666666667,
+      622.8784333333333
+    ],
+    "user_approved": false
+  },
+  {
+    "cue_groups": [
+      [
+        242
+      ],
+      [
+        243
+      ]
+    ],
+    "reason": "Văn Trọng nhận nhiệm vụ và ruộng tiếp tục nhận mưa ở kết.",
+    "frames": [
+      "review/shot_189.jpg",
+      "review/shot_190.jpg"
+    ],
+    "start": [
+      877.7946333333333,
+      885.7744166666668
+    ],
+    "user_approved": false
+  },
+  {
+    "cue_groups": [
+      [
+        40
+      ],
+      [
+        41
+      ],
+      [
+        42
+      ],
+      [
+        43,
+        44
+      ]
+    ],
+    "reason": "Một cấu trúc hai tờ giấy tiến triển qua bốn trạng thái trong cùng phép phân biệt; không quay lại bố cục bất biến.",
+    "frames": [
+      "review/shot_032.jpg",
+      "review/shot_033.jpg",
+      "review/shot_034.jpg",
+      "review/shot_035.jpg"
+    ],
+    "user_approved": false
+  }
+]

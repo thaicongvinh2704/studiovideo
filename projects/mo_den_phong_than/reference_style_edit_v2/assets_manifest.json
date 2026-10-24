@@ -1,0 +1,1621 @@
+[
+  {
+    "url": "media/5a80a2169bd97e75.png",
+    "source_id": "cat13",
+    "source": "assets/characters/mo_den/library/named_24_v01/mo_den_13_curious_seated_paw_near_chin.png",
+    "source_sha256": "bbab26f38b6fda68a0c3883475d6f0e54eda038b6cd74ab846c64d1c75b52bf9",
+    "role": "character",
+    "crop": null,
+    "width": 830,
+    "height": 1000,
+    "derivative_sha256": "96558e218d80370cbb37fc7b20d9086b3dbb19433756ac201763b9f66b0594a9",
+    "original_preserved": true
+  },
+  {
+    "url": "media/6b77f03f44ad4639.png",
+    "source_id": "K01",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K01.png",
+    "source_sha256": "3b2589f7a339d6f5bf9a1950fc5bbfa704ff817d326f07fdf3e4f3a54dc727dd",
+    "role": "character",
+    "crop": [
+      0.25,
+      0.12,
+      0.5,
+      0.84
+    ],
+    "width": 836,
+    "height": 790,
+    "derivative_sha256": "32d5908b35cab3ba42abe3f07fcc41d19570d693418c730144a790fe2c6064c8",
+    "original_preserved": true
+  },
+  {
+    "url": "media/ed874d668453f5ff.png",
+    "source_id": "K02",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K02.png",
+    "source_sha256": "f8538f30345f7188da7c71b23f89838224bb8330f8d4dc26e7acafabc5739be8",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "c5e2d7e6efd15ccecbae73791c5be411103d68238ab0b9ff15b547820aa75d32",
+    "original_preserved": true
+  },
+  {
+    "url": "media/64f2e48127c79cf7.png",
+    "source_id": "K02",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K02.png",
+    "source_sha256": "f8538f30345f7188da7c71b23f89838224bb8330f8d4dc26e7acafabc5739be8",
+    "role": "character",
+    "crop": [
+      0.12,
+      0.48,
+      0.42,
+      0.42
+    ],
+    "width": 702,
+    "height": 395,
+    "derivative_sha256": "a695c8bbf41acc5c6d0c3efc54d8466281c2b26fc6ceae8af515c1f57222ce54",
+    "original_preserved": true
+  },
+  {
+    "url": "media/33ccbc174ef618cc.png",
+    "source_id": "O02",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O02.png",
+    "source_sha256": "a120a62dd871fdcd88611d164e110a0b68c0203c808a03de8ed9a57775f11891",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 948,
+    "height": 1000,
+    "derivative_sha256": "04a87c86297cfca1f427ab3dc724cce1819605be24f94db67977eb629523d170",
+    "original_preserved": true
+  },
+  {
+    "url": "media/61fa36e73a6a8fef.png",
+    "source_id": "K03",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K03.png",
+    "source_sha256": "40e710e4d062234fb222c1539e88bf51029a1841c1b94fc8e3cd02c145ff39de",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 843,
+    "derivative_sha256": "652c22af3fb680f590082ba59423c1c7b27b9c736e2eeb267590b0ce0c5b85bb",
+    "original_preserved": true
+  },
+  {
+    "url": "media/79e1f72fd0445e4d.png",
+    "source_id": "Y01",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y01.png",
+    "source_sha256": "8e133551ff35551d18617e45bc44a62810505d3dacc54a467b01bee918ce3402",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "0648fc955d68a57188a4e03c87e8b8fdb56d49a06c3661c614e83ac5ef1115a6",
+    "original_preserved": true
+  },
+  {
+    "url": "media/4a69aa6fb34f3dd0.png",
+    "source_id": "cat14",
+    "source": "assets/characters/mo_den/library/named_24_v01/mo_den_14_skeptical_seated_arms_crossed.png",
+    "source_sha256": "7a93234a2a50e671a044718ba67a22a0c1181aeff8b54c83b6382792bac1be21",
+    "role": "character",
+    "crop": null,
+    "width": 809,
+    "height": 1000,
+    "derivative_sha256": "d73c19c89a8e2101d6c230d8a9dc66de6d40e590d099968772449cc4fe8707a9",
+    "original_preserved": true
+  },
+  {
+    "url": "media/9a2d6edd21130ce9.png",
+    "source_id": "O01",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O01.png",
+    "source_sha256": "d92da199db63e497926135558bd35ce078e2cb9f39b5feb8eb53683b1ed6072f",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 997,
+    "height": 1000,
+    "derivative_sha256": "7d6c7d301b2791fc941be5e4d33e035bc4ff6cee63e35d7922a8ba37dca7d337",
+    "original_preserved": true
+  },
+  {
+    "url": "media/cedd73c1dda76f52.png",
+    "source_id": "Y01",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y01.png",
+    "source_sha256": "8e133551ff35551d18617e45bc44a62810505d3dacc54a467b01bee918ce3402",
+    "role": "character",
+    "crop": [
+      0.49,
+      0.24,
+      0.48,
+      0.73
+    ],
+    "width": 803,
+    "height": 687,
+    "derivative_sha256": "d28218ed370fc93e3bad8746c05e45adb49e3f790f1911f8f48c016491409511",
+    "original_preserved": true
+  },
+  {
+    "url": "media/33eef7869e619a9d.png",
+    "source_id": "C_WZ",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/C_WZ.png",
+    "source_sha256": "ea4bf72e2108caddb3517646adb7a89e42628a8021f48881e48e6aa4dcd38e65",
+    "role": "character",
+    "crop": null,
+    "width": 680,
+    "height": 1000,
+    "derivative_sha256": "16371ee2d60a863df3c84337c53e5c7e951f5952976574d13bef3e2460258df3",
+    "original_preserved": true
+  },
+  {
+    "url": "media/3e1690a0fc091461.png",
+    "source_id": "C_SG",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/C_SG.png",
+    "source_sha256": "78cc1cd4da0b7fad0e928303e373310c4c016fbc179f0ef5bfeb275bb9d4ed76",
+    "role": "character",
+    "crop": null,
+    "width": 637,
+    "height": 1000,
+    "derivative_sha256": "bf5582eb0809ec118d9ebbeacc0e7f1461469c0c406356e5811960e63db75e6f",
+    "original_preserved": true
+  },
+  {
+    "url": "media/0bf233622c1557f8.png",
+    "source_id": "Y02",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y02.png",
+    "source_sha256": "d8bd6bec1ce91f7a5e8d9e619874ff6ef334964552c18d225156b10e8be9b6b6",
+    "role": "character",
+    "crop": [
+      0.61,
+      0.19,
+      0.35,
+      0.77
+    ],
+    "width": 585,
+    "height": 724,
+    "derivative_sha256": "d2da0de2a97a2e8bd4ced08f1662dc84be22e7621bf7390d9c59bf88da21579e",
+    "original_preserved": true
+  },
+  {
+    "url": "media/4351ae3bae07ca66.png",
+    "source_id": "Y04",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y04.png",
+    "source_sha256": "ed780c8edf26751a55921485bd6cc67ca1f4853444a0737ed0d42a239fac950b",
+    "role": "character",
+    "crop": [
+      0.04,
+      0.15,
+      0.5,
+      0.8
+    ],
+    "width": 836,
+    "height": 753,
+    "derivative_sha256": "ed578e5c79fb7b681dd2b27cb39a16856d2d1e3dffbf6ca653e8f7c73016fb8d",
+    "original_preserved": true
+  },
+  {
+    "url": "media/5956671ccef09761.png",
+    "source_id": "K27",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K27.png",
+    "source_sha256": "a895ee89ab67bad3c6cb930eb455c37c94aa8f0b656744fcd420841076d15ec3",
+    "role": "character",
+    "crop": [
+      0.08,
+      0.13,
+      0.43,
+      0.83
+    ],
+    "width": 719,
+    "height": 781,
+    "derivative_sha256": "290eceb33f41fbf96c3ca3a5594ac2483608dca95b63dc1f05cd081fe22d265a",
+    "original_preserved": true
+  },
+  {
+    "url": "media/d1cb392a0bd49015.png",
+    "source_id": "O05",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O05.png",
+    "source_sha256": "de7ec2bf39cacc68bce2551ceaa3893a28464ac12031e7da8763667c520a44be",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1002,
+    "height": 1000,
+    "derivative_sha256": "568c583c023ee329c2b400fff3b63f35d8872bcd3e216183546e3c57a1d3e495",
+    "original_preserved": true
+  },
+  {
+    "url": "media/2de20ae86fe0cdd5.png",
+    "source_id": "C_NT",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/C_NT.png",
+    "source_sha256": "420fc5b1a34c46941fc3ad887449f1f60d25803df5a6cf8fb7f8f0bf74b6f4b6",
+    "role": "character",
+    "crop": null,
+    "width": 669,
+    "height": 1000,
+    "derivative_sha256": "ac9ed7c9e0b51da6dcab0d844ade20ab4bcf2994024f88c640e8f1e982e78e4e",
+    "original_preserved": true
+  },
+  {
+    "url": "media/c0347d7dd9424b6f.png",
+    "source_id": "C_JZ",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/C_JZ.png",
+    "source_sha256": "6d281ae654a63c50067d1558ed5ee6ab41c9452257763914ca91dbe2b43df638",
+    "role": "character",
+    "crop": null,
+    "width": 640,
+    "height": 1000,
+    "derivative_sha256": "71db943f669508bf239275dc357fc2e9601b6a4050884d5ca211343192fc7daa",
+    "original_preserved": true
+  },
+  {
+    "url": "media/4429f279dbc4b9ae.png",
+    "source_id": "B01",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/B01.png",
+    "source_sha256": "444fdd281c1e26d965bedd66266eed760b43b2f0dded476d2d978e625809eebd",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "e57b308176a455d0d848baa9cbee0701a07478e4d8c6396f4f611afa2af1e75c",
+    "original_preserved": true
+  },
+  {
+    "url": "media/d01b25fbd2ba0808.png",
+    "source_id": "Y08",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y08.png",
+    "source_sha256": "216459d28af6d9c7f3c863c0b468875c6285245133121551857de9bd6491a4bf",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 843,
+    "derivative_sha256": "c23463551b0bbdcc99d9494181aa11846f3db897591bd0e2f956279e5c5eda35",
+    "original_preserved": true
+  },
+  {
+    "url": "media/64b53ff95e0af46a.png",
+    "source_id": "Y09",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y09.png",
+    "source_sha256": "e37a469b55906a8963421ff946b2ebb471c6b4a6d9690a8cb96ae191273f460e",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 843,
+    "derivative_sha256": "665b7fe4f933ca0c595c57d8182a96f52f6193a56830297b2045681c0165a8de",
+    "original_preserved": true
+  },
+  {
+    "url": "media/7b705615a2942ec5.png",
+    "source_id": "Y08",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y08.png",
+    "source_sha256": "216459d28af6d9c7f3c863c0b468875c6285245133121551857de9bd6491a4bf",
+    "role": "character",
+    "crop": [
+      0.14,
+      0.18,
+      0.42,
+      0.73
+    ],
+    "width": 702,
+    "height": 686,
+    "derivative_sha256": "67e9cad0c2d52832994d5fb6bc137b346c314f1d54b3b279b13e3e8e6395b50f",
+    "original_preserved": true
+  },
+  {
+    "url": "media/ee41f359ea47a123.png",
+    "source_id": "Y09",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y09.png",
+    "source_sha256": "e37a469b55906a8963421ff946b2ebb471c6b4a6d9690a8cb96ae191273f460e",
+    "role": "character",
+    "crop": [
+      0.14,
+      0.18,
+      0.42,
+      0.73
+    ],
+    "width": 702,
+    "height": 686,
+    "derivative_sha256": "aa5f55bc0cd0121226bae67c5d7988d2e1706e3cf755252a94667abd38724582",
+    "original_preserved": true
+  },
+  {
+    "url": "media/aa022a3f95ba7645.png",
+    "source_id": "K10",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K10.png",
+    "source_sha256": "609bd145748011df003ff622a1506b891779dd798c28ee3241bd64c68236bcdd",
+    "role": "character",
+    "crop": [
+      0.57,
+      0.12,
+      0.42,
+      0.8
+    ],
+    "width": 702,
+    "height": 753,
+    "derivative_sha256": "960ec60fd0d9470cd115aba16baa962c5f36b4dfc87616f8256ba6f020629b8d",
+    "original_preserved": true
+  },
+  {
+    "url": "media/26c6461f6d34af50.png",
+    "source_id": "O04",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O04.png",
+    "source_sha256": "787534f4aee33bcc7f4597c64e0eac5483002448f19b67ccfa890f38090ba728",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 989,
+    "height": 1000,
+    "derivative_sha256": "a01bec67737561f404232b4c048c280f77293122406afb43e85d02e28febb8ff",
+    "original_preserved": true
+  },
+  {
+    "url": "media/f86a7d81f7068915.png",
+    "source_id": "A02",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/A02.png",
+    "source_sha256": "5304d303289cd65ebfe6e1cf6691f5956859006551809b81d6543f808ccbe183",
+    "role": "character",
+    "crop": null,
+    "width": 690,
+    "height": 1000,
+    "derivative_sha256": "bc46aa6e20639bce05add302e02b5bcbf5e13e203a19a56aabc55de057a1b60e",
+    "original_preserved": true
+  },
+  {
+    "url": "media/92250575f8e9ad4c.png",
+    "source_id": "K10",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K10.png",
+    "source_sha256": "609bd145748011df003ff622a1506b891779dd798c28ee3241bd64c68236bcdd",
+    "role": "character",
+    "crop": [
+      0.56,
+      0.15,
+      0.43,
+      0.78
+    ],
+    "width": 719,
+    "height": 734,
+    "derivative_sha256": "8aab267965cde82fd7fa8ff2ae2815fe2560e354073a5a89586defbf809c67ce",
+    "original_preserved": true
+  },
+  {
+    "url": "media/b8758d4916dbbf8d.png",
+    "source_id": "A03",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/A03.png",
+    "source_sha256": "dcb3f7ab6f153003d085d94e1dda28bc16c469f0b7e8af421d5b22794ed07c53",
+    "role": "character",
+    "crop": null,
+    "width": 669,
+    "height": 1000,
+    "derivative_sha256": "5020475d92fb6afbb7e67908ae4bcd7d61dc25ed1536ec2e81bfd6041a074391",
+    "original_preserved": true
+  },
+  {
+    "url": "media/880074577224b125.png",
+    "source_id": "O06",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O06.png",
+    "source_sha256": "f5c11b8aba747f2cacf2b2abcda9427fbc497b574510c8b09db4a2097522d38f",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 990,
+    "height": 1000,
+    "derivative_sha256": "8fbca5865b9f1c155a772d7e68a003f7c9faec8344b53fd5571d969516e2c4f9",
+    "original_preserved": true
+  },
+  {
+    "url": "media/288c770fed32afc6.png",
+    "source_id": "X01",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/X01.png",
+    "source_sha256": "a009c5e9ad9ede9706425961f8b0871ca7aa0fd015dba8401bc8a62e004cc2b3",
+    "role": "object_or_environment",
+    "crop": [
+      0.18,
+      0.45,
+      0.46,
+      0.5
+    ],
+    "width": 769,
+    "height": 471,
+    "derivative_sha256": "57919df5e5b1b4cb00d965bcdde8471e8bf922839e459247b18ed22705f1d309",
+    "original_preserved": true
+  },
+  {
+    "url": "media/3c40bff462386ecc.png",
+    "source_id": "A17",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/A17.png",
+    "source_sha256": "0512a6b5c157d812694e26eb0bc4ba78721db52a05ac56fd010c31ec4de482b7",
+    "role": "character",
+    "crop": null,
+    "width": 654,
+    "height": 1000,
+    "derivative_sha256": "b1a14f8c1b75f15808c9e5cb877665990b4d537a7731063f9d9f754598ff383b",
+    "original_preserved": true
+  },
+  {
+    "url": "media/c30dc54250aba376.png",
+    "source_id": "cat15",
+    "source": "assets/characters/mo_den/library/named_24_v01/mo_den_15_thinking_seated_chin_rest.png",
+    "source_sha256": "071d3d94d42cba545cc27866fd2036a26ff00c7e6353bdf8d657d41457211e0f",
+    "role": "character",
+    "crop": null,
+    "width": 818,
+    "height": 1000,
+    "derivative_sha256": "82ab0cecc7bf12af534b50071b1f98f5c4bfce89d6b22050ce4c3035fd03e295",
+    "original_preserved": true
+  },
+  {
+    "url": "media/a704d3d30f2b1509.png",
+    "source_id": "O10",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O10.png",
+    "source_sha256": "0430f1f7a6dcb431fbe7ac920c2a6de317f84d3c85e19b91855857ff61944df1",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1067,
+    "height": 1000,
+    "derivative_sha256": "e2efa20af74ee76c877099aa0cbeb3bbcc29899d8dc49ddb2837cf8eb723f0e4",
+    "original_preserved": true
+  },
+  {
+    "url": "media/2bbe70912a9611ac.png",
+    "source_id": "cat16",
+    "source": "assets/characters/mo_den/library/named_24_v01/mo_den_16_realization_seated_paw_raised.png",
+    "source_sha256": "65042a62dde0f350cf9dd52660e99ef218667ddf755d93081b611c0362afa1fa",
+    "role": "character",
+    "crop": null,
+    "width": 810,
+    "height": 1000,
+    "derivative_sha256": "9cfa3608ecac9e674c95f865a26b2896cba6672a298c1eec3265b11716dc1da7",
+    "original_preserved": true
+  },
+  {
+    "url": "media/9ebf83066b644a95.png",
+    "source_id": "K04",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K04.png",
+    "source_sha256": "83350c85e1a38c5ae9eb16ed6ba8f2336cecebdba214e2c75ac6f8c4ed042c20",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "84d24c89930a8b0efa76cf8050316a33680ef74e785d773ce8e517e1bbb8e865",
+    "original_preserved": true
+  },
+  {
+    "url": "media/1deb9bddb1a6fc3d.png",
+    "source_id": "K04",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K04.png",
+    "source_sha256": "83350c85e1a38c5ae9eb16ed6ba8f2336cecebdba214e2c75ac6f8c4ed042c20",
+    "role": "character",
+    "crop": [
+      0.06,
+      0.1,
+      0.45,
+      0.83
+    ],
+    "width": 753,
+    "height": 781,
+    "derivative_sha256": "9c17b12e50c9af32c468b31c81ee7c7a965cf9b2ce8bd5b4489ee212d093cafb",
+    "original_preserved": true
+  },
+  {
+    "url": "media/010bfc6d1e95968c.png",
+    "source_id": "K05",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K05.png",
+    "source_sha256": "cd8e9cf8fa90f0a45dd9232878c59ea9ed750a9edc855fdb40589225ddbf3acd",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "3580592cebda2519f008958e8e6a1e8492f24748cf7d8482a4e3cbc7288a96c3",
+    "original_preserved": true
+  },
+  {
+    "url": "media/151c8cb94d2f95e4.png",
+    "source_id": "K04",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K04.png",
+    "source_sha256": "83350c85e1a38c5ae9eb16ed6ba8f2336cecebdba214e2c75ac6f8c4ed042c20",
+    "role": "character",
+    "crop": [
+      0.52,
+      0.15,
+      0.46,
+      0.8
+    ],
+    "width": 770,
+    "height": 753,
+    "derivative_sha256": "b204afa755af935e0a4e6b1325e5ac2ae14f0337380e95c51ba9fee321cd10bb",
+    "original_preserved": true
+  },
+  {
+    "url": "media/c8fd84e32914fdb9.png",
+    "source_id": "K06",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K06.png",
+    "source_sha256": "8b9db32df7f02cb4a1a2c5c502370aa54b3db984657256d949fbfb05a183d456",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "7d901042d9dacd51b86704c2bc8c8ea4bb340d92e56fcac7c92bf52ce49f0e84",
+    "original_preserved": true
+  },
+  {
+    "url": "media/0ec844bb56a6747e.png",
+    "source_id": "X02",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/X02.png",
+    "source_sha256": "72da6ad40aedeaacba6734fb36163521fce86abf29f1047e029d9462ab526b1a",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "55ae7f7b6ca8ca246b9b4697f6a62e33cb07a730dba1d3eb4efbdd5d349ffe01",
+    "original_preserved": true
+  },
+  {
+    "url": "media/c21deb1245380613.png",
+    "source_id": "Y03",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y03.png",
+    "source_sha256": "e7553dd1b67825956a2bb5f9ac6fee10784146522d55f7eddba1e585c8b28ed5",
+    "role": "character",
+    "crop": [
+      0.12,
+      0.23,
+      0.48,
+      0.7
+    ],
+    "width": 802,
+    "height": 659,
+    "derivative_sha256": "52496cfc4cc30dce0c060f047a356e7db6d24dad7f00a5d9b31aa5bce4d54c2d",
+    "original_preserved": true
+  },
+  {
+    "url": "media/9104571bc46218de.png",
+    "source_id": "O09",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O09.png",
+    "source_sha256": "704df54639e5c1ab648384575e6e35c063decca61ed039a27f9a425734796dcc",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1018,
+    "height": 1000,
+    "derivative_sha256": "f114dcbb704455f44c544a42a23dd1df325d0ef5ae5a699c477a1fe63eaa4e67",
+    "original_preserved": true
+  },
+  {
+    "url": "media/325e015dd5a251d2.png",
+    "source_id": "Y03",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y03.png",
+    "source_sha256": "e7553dd1b67825956a2bb5f9ac6fee10784146522d55f7eddba1e585c8b28ed5",
+    "role": "character",
+    "crop": [
+      0.18,
+      0.2,
+      0.43,
+      0.72
+    ],
+    "width": 719,
+    "height": 678,
+    "derivative_sha256": "0e9097292301700d30fde891b1cc2d1681d6d4216aa66243edcde2fccd677d73",
+    "original_preserved": true
+  },
+  {
+    "url": "media/a134e87ec8c7934c.png",
+    "source_id": "O21",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O21.png",
+    "source_sha256": "b48cf314702a2a8dd8ec1453b2b4147c669178af1b83c3c5ff26204db022f5bb",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1005,
+    "height": 1000,
+    "derivative_sha256": "56d25a4aebef5fbeff23cf8e997c53b9f8cd8f0ed513d07f6b1c71e997c72759",
+    "original_preserved": true
+  },
+  {
+    "url": "media/8be9ec7b2285bff3.png",
+    "source_id": "K07",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K07.png",
+    "source_sha256": "a6fb6c6d5c075ee05c013f8e6817d6f6bfae61f17507d4917b69c09eb64314be",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "2a4e0da342dea43f40b7d14aead830ee39f885c5eebccad58e7e4fae371c175e",
+    "original_preserved": true
+  },
+  {
+    "url": "media/016f5a236d543683.png",
+    "source_id": "K07",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K07.png",
+    "source_sha256": "a6fb6c6d5c075ee05c013f8e6817d6f6bfae61f17507d4917b69c09eb64314be",
+    "role": "character",
+    "crop": [
+      0.02,
+      0.12,
+      0.46,
+      0.82
+    ],
+    "width": 770,
+    "height": 772,
+    "derivative_sha256": "3435e4e29c436945281e72ce23494728c26a4a612e17be24d41358c765360c89",
+    "original_preserved": true
+  },
+  {
+    "url": "media/fab954d189cc30fd.png",
+    "source_id": "K08",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K08.png",
+    "source_sha256": "31fb19fc76039c1c96769d28020bcffed9667fc9f40936c5cdc2df8e329c3860",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "3c14782d90e4e5f0b140a64e01b2e93eda0689432b3c2894d01a3e6df542d429",
+    "original_preserved": true
+  },
+  {
+    "url": "media/9a456dbad4a4c088.png",
+    "source_id": "K09",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K09.png",
+    "source_sha256": "ba05d5f0559f1e6d273a4ac9683cf0dbe00486265ac4b9eead6d987d9bac892a",
+    "role": "character",
+    "crop": [
+      0.5,
+      0.15,
+      0.46,
+      0.78
+    ],
+    "width": 769,
+    "height": 734,
+    "derivative_sha256": "6069cda473bb0ee4cb249626f0e823fc5b36beb44a466c853e8e3d49828156e2",
+    "original_preserved": true
+  },
+  {
+    "url": "media/f744a6ed26efd501.png",
+    "source_id": "O26",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O26.png",
+    "source_sha256": "f89381059c3e78d521698ef49046d3829e5c847b16a64c289f21095963ab6bf1",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1013,
+    "height": 1000,
+    "derivative_sha256": "005d581c71c7c47915959c2b3ce4cfb25ae042a21ddc73379acd6f65dff13f17",
+    "original_preserved": true
+  },
+  {
+    "url": "media/ffaf8d8614cf9aab.png",
+    "source_id": "Y02",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y02.png",
+    "source_sha256": "d8bd6bec1ce91f7a5e8d9e619874ff6ef334964552c18d225156b10e8be9b6b6",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "552574855b66fec0220945f4345d52f5a5c5121d6a78afe002110aa8d51515c4",
+    "original_preserved": true
+  },
+  {
+    "url": "media/0a42e7247adaa999.png",
+    "source_id": "Y02",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y02.png",
+    "source_sha256": "d8bd6bec1ce91f7a5e8d9e619874ff6ef334964552c18d225156b10e8be9b6b6",
+    "role": "character",
+    "crop": [
+      0.05,
+      0.11,
+      0.4,
+      0.6
+    ],
+    "width": 668,
+    "height": 564,
+    "derivative_sha256": "af098747312e2736ab469dbd1a8d79421757f668c89199857f7278c6294b0d74",
+    "original_preserved": true
+  },
+  {
+    "url": "media/567249f729827d1c.png",
+    "source_id": "Y02_B",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y02_B.png",
+    "source_sha256": "d609326ffeb529718ef2f99d94f6f87f340a4b61cc4c41651d69e5db445da03d",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "b57907cf59b12209ebd8e36b18e74266753b0a05c4702257b96dd71a71893764",
+    "original_preserved": true
+  },
+  {
+    "url": "media/17401acf7e0ee9a0.png",
+    "source_id": "B15",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/B15.png",
+    "source_sha256": "4859c0f74d80581c5782a736e6f72d62b42b204e7d445d0dbaa6827c6ed73182",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "b15f1a628933045025f6c83a85fae8eba74f9040bb1697a06fb7a9b99e266842",
+    "original_preserved": true
+  },
+  {
+    "url": "media/947429de97a2f50f.png",
+    "source_id": "K28",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K28.png",
+    "source_sha256": "3e1e4eaa90f68304eab49f6e2809e57b95036c10be80fa408b975083c84555ff",
+    "role": "character",
+    "crop": [
+      0.05,
+      0.12,
+      0.48,
+      0.8
+    ],
+    "width": 802,
+    "height": 753,
+    "derivative_sha256": "17b32cb6eab015675da33e8b3cfe6aa2db3b32290b4cda3fba1a3d9126fa166d",
+    "original_preserved": true
+  },
+  {
+    "url": "media/6ac16d3412a3478d.png",
+    "source_id": "K02",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K02.png",
+    "source_sha256": "f8538f30345f7188da7c71b23f89838224bb8330f8d4dc26e7acafabc5739be8",
+    "role": "character",
+    "crop": [
+      0.05,
+      0.08,
+      0.9,
+      0.82
+    ],
+    "width": 1500,
+    "height": 770,
+    "derivative_sha256": "cc3d309cd0936fc2d970f8374ca6429eb7b794e41461617908cd3a1af47cbe2f",
+    "original_preserved": true
+  },
+  {
+    "url": "media/7cf1e51a36e2c9d6.png",
+    "source_id": "O03",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O03.png",
+    "source_sha256": "6bbbbb7dacac531d0b36ea55a4ab1472d9f379bf2356ae8a60ba15de105a58f0",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1072,
+    "height": 1000,
+    "derivative_sha256": "faf7c11e20a10d60c84534e21cbf809bd88759a2d801dea9f6b77e2429622b1d",
+    "original_preserved": true
+  },
+  {
+    "url": "media/5c6888a5a48510ae.png",
+    "source_id": "Y01",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y01.png",
+    "source_sha256": "8e133551ff35551d18617e45bc44a62810505d3dacc54a467b01bee918ce3402",
+    "role": "character",
+    "crop": [
+      0.49,
+      0.27,
+      0.48,
+      0.69
+    ],
+    "width": 803,
+    "height": 649,
+    "derivative_sha256": "beaf054acf4564287ca1663109261a2bf435f558d7476a0873b962603751d7b7",
+    "original_preserved": true
+  },
+  {
+    "url": "media/c1002eeeee806a2c.png",
+    "source_id": "K31",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K31.png",
+    "source_sha256": "cb6a8ccb93b29856c4a3d8f7b40846eb6bfe578aaa37ca643f7c71211c7d0b4b",
+    "role": "character",
+    "crop": [
+      0.1,
+      0.6,
+      0.8,
+      0.37
+    ],
+    "width": 1338,
+    "height": 348,
+    "derivative_sha256": "8cefbba3467c245598ea2c37d11ce6c390ed5fb0072a0cb160f156c0c012a77c",
+    "original_preserved": true
+  },
+  {
+    "url": "media/979ba041ef8d2735.png",
+    "source_id": "X05",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/X05.png",
+    "source_sha256": "de6f627e3e47272d34568744bc8201c35ccd7dc524d76928066ba134237f59b9",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "ec50450ef3552e2de63a49a1e053ef97e4ba259d7aba30995dba58ec0175cf50",
+    "original_preserved": true
+  },
+  {
+    "url": "media/740c09ccd034eb48.png",
+    "source_id": "cat24",
+    "source": "assets/characters/mo_den/library/named_24_v01/mo_den_24_explaining_seated_open_paw_gesture.png",
+    "source_sha256": "753b194d838237db46224317a304e2843630f1e09834f24a7b4865d84eceb91f",
+    "role": "character",
+    "crop": null,
+    "width": 849,
+    "height": 1000,
+    "derivative_sha256": "314ae0b3dacc085e6462259563375b77d1c09eaf99854e079268ab95bf21423e",
+    "original_preserved": true
+  },
+  {
+    "url": "media/ccdf02a1bb83de61.png",
+    "source_id": "K30",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K30.png",
+    "source_sha256": "4c48b2b0ea397dca82a2d6fd1a5417b069c6de04dac6f39ec0218be26e1b4418",
+    "role": "character",
+    "crop": [
+      0.5,
+      0.08,
+      0.46,
+      0.75
+    ],
+    "width": 769,
+    "height": 706,
+    "derivative_sha256": "a9cbc17a25180dd5db9396cba7943d6054c1eff6f3ab74062f9283a8429042a1",
+    "original_preserved": true
+  },
+  {
+    "url": "media/384f8d3c90654ccf.png",
+    "source_id": "K11",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K11.png",
+    "source_sha256": "33e887cfa13e37c6e89e360dfe94b262a8db16ac6ca6c8543f7e528a3926f2b8",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "25ff7de0c416ffd88a0253b5cfef15e500f0d410417d59189d2b7974b30015d6",
+    "original_preserved": true
+  },
+  {
+    "url": "media/80bda4f138ffd037.png",
+    "source_id": "K11",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K11.png",
+    "source_sha256": "33e887cfa13e37c6e89e360dfe94b262a8db16ac6ca6c8543f7e528a3926f2b8",
+    "role": "character",
+    "crop": [
+      0.05,
+      0.1,
+      0.9,
+      0.8
+    ],
+    "width": 1500,
+    "height": 751,
+    "derivative_sha256": "0ffef2fe92fa759103006b0f351db93025b50770882bcd6f18080a20711a3e84",
+    "original_preserved": true
+  },
+  {
+    "url": "media/5dc16b71f58d1acd.png",
+    "source_id": "K12",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K12.png",
+    "source_sha256": "6866cf2de5d6cc66a028294882624910d0990ae4455c3f6b1da660bf648b9dda",
+    "role": "character",
+    "crop": [
+      0.02,
+      0.22,
+      0.44,
+      0.75
+    ],
+    "width": 736,
+    "height": 706,
+    "derivative_sha256": "e95fb43c3c696f1a4d4ab7a36942f52d8ac0a1c6a0cf398350e4509bd0b425b0",
+    "original_preserved": true
+  },
+  {
+    "url": "media/eb06e804e79b70ab.png",
+    "source_id": "O11",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O11.png",
+    "source_sha256": "9bec1f9b511dd1d14dcad4ea6bb5048f6e3eabecaf091559d127e89472b5dc7f",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1058,
+    "height": 1000,
+    "derivative_sha256": "b04ffd0b16673278b9c31a9127eb60451b672ef6840e5d066196bba8ec2848a1",
+    "original_preserved": true
+  },
+  {
+    "url": "media/45a8fbd07c6a7e46.png",
+    "source_id": "K13",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K13.png",
+    "source_sha256": "3b73a7b3b48871398d951141cf381122fb61df3a6d0c8c7d66f84b6b88d28200",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "b97001cd4394eb2d4e6fe5033ceb662337ce04d40158e430d8243a70475ece58",
+    "original_preserved": true
+  },
+  {
+    "url": "media/643a9cfc7fd9ace1.png",
+    "source_id": "E04",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/E04.png",
+    "source_sha256": "3d4a7c3500656521822446969c8034d7237fffaac79f8173bfea7e8adff6bd20",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "622adbbaad3c62628f2e8ca2180a8749567cc5317f0cb450612de1e8fc10a941",
+    "original_preserved": true
+  },
+  {
+    "url": "media/80b0edc32474031a.png",
+    "source_id": "K32",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K32.png",
+    "source_sha256": "f891c9de72ac58108b708e9d3595e3fcb1e77757fb37aa91cf72a46c64054520",
+    "role": "character",
+    "crop": [
+      0.5,
+      0.07,
+      0.48,
+      0.8
+    ],
+    "width": 803,
+    "height": 753,
+    "derivative_sha256": "d5cb16d40982ddb59c0e8775b0ddae71e1e7d4a4a26d987bb8f24c60a87b1c15",
+    "original_preserved": true
+  },
+  {
+    "url": "media/cd199018a90b418b.png",
+    "source_id": "K12",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K12.png",
+    "source_sha256": "6866cf2de5d6cc66a028294882624910d0990ae4455c3f6b1da660bf648b9dda",
+    "role": "character",
+    "crop": [
+      0.54,
+      0.12,
+      0.42,
+      0.72
+    ],
+    "width": 702,
+    "height": 677,
+    "derivative_sha256": "678628bb5f5a9d6edaef3bae6ad7d6929f4d53edbc334d72f01d29827fc8e51c",
+    "original_preserved": true
+  },
+  {
+    "url": "media/e2fb08d9e22d2b5b.png",
+    "source_id": "Y04",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y04.png",
+    "source_sha256": "ed780c8edf26751a55921485bd6cc67ca1f4853444a0737ed0d42a239fac950b",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "aedf6d61e68c1a17017b74014cc54ec24f699016e0887af99077b49684f32edd",
+    "original_preserved": true
+  },
+  {
+    "url": "media/7013b3d7fc5331d5.png",
+    "source_id": "Y04",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y04.png",
+    "source_sha256": "ed780c8edf26751a55921485bd6cc67ca1f4853444a0737ed0d42a239fac950b",
+    "role": "character",
+    "crop": [
+      0.04,
+      0.12,
+      0.48,
+      0.78
+    ],
+    "width": 802,
+    "height": 734,
+    "derivative_sha256": "378864a193cb6de2cfc97ad05b875f07e15fae4b6956cf092c5566682d531299",
+    "original_preserved": true
+  },
+  {
+    "url": "media/412b422e2b76e765.png",
+    "source_id": "X06",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/X06.png",
+    "source_sha256": "9e045347ee05945008d032240b8252b1b0cb7e5bb955c65f2a2e6fe8b6e3bf57",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "5c0166fd4b7831abc5c8740a7af442382221f117d11533490056996906aa1fda",
+    "original_preserved": true
+  },
+  {
+    "url": "media/d7270223f63aa0d8.png",
+    "source_id": "C_ZM",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/C_ZM.png",
+    "source_sha256": "de09fac84362d5fac94ec2341ffd025c98091b5247aba24394805f6056e665c3",
+    "role": "character",
+    "crop": null,
+    "width": 670,
+    "height": 1000,
+    "derivative_sha256": "09ac9a0746d41fb056622816da247ab5ed2127bc366cdb0ae2ed78c0d42634a0",
+    "original_preserved": true
+  },
+  {
+    "url": "media/cd96d39fc193e604.png",
+    "source_id": "O20",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O20.png",
+    "source_sha256": "eaaf6c61dabe48329f392329d6288239ca40aabbd8bd30339c1dc4c48160c993",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1048,
+    "height": 1000,
+    "derivative_sha256": "4ad59b26e911c6643e90cbdb814717ee3211ab31cc221044856e95baada220e9",
+    "original_preserved": true
+  },
+  {
+    "url": "media/6ca90734e90c3db7.png",
+    "source_id": "O15",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O15.png",
+    "source_sha256": "95fd45883b6b645e3e9ef75375dd51d5a889e0914188475755b19b3b236825b3",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 968,
+    "height": 1000,
+    "derivative_sha256": "49308ae9110890a1bacd46b3aee4038e7064e125d6168244f2d40403b58e4930",
+    "original_preserved": true
+  },
+  {
+    "url": "media/c60972994faec7e1.png",
+    "source_id": "K14",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K14.png",
+    "source_sha256": "20e256418689cf576374d4b5552c76b29ef6013385db054ff3660e957b6d84ea",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "72c995a0deb97a6308ce050c85909a9dc9a9e0d2005bf69ed93d1b7d3ad2d62b",
+    "original_preserved": true
+  },
+  {
+    "url": "media/ed1c298384c84bf8.png",
+    "source_id": "K14",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K14.png",
+    "source_sha256": "20e256418689cf576374d4b5552c76b29ef6013385db054ff3660e957b6d84ea",
+    "role": "character",
+    "crop": [
+      0.56,
+      0.14,
+      0.42,
+      0.78
+    ],
+    "width": 703,
+    "height": 734,
+    "derivative_sha256": "9a7ef7d0f3ef6a1c29a47907c7964c7ae9b70ef9cb5c08555c30dba12bf5fa21",
+    "original_preserved": true
+  },
+  {
+    "url": "media/d0be9a31632601f1.png",
+    "source_id": "K14",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K14.png",
+    "source_sha256": "20e256418689cf576374d4b5552c76b29ef6013385db054ff3660e957b6d84ea",
+    "role": "character",
+    "crop": [
+      0.02,
+      0.1,
+      0.47,
+      0.8
+    ],
+    "width": 786,
+    "height": 753,
+    "derivative_sha256": "219aa9bd5c63e20264116332bf6616621cda505d4bac014e2b62baa22b7cb16d",
+    "original_preserved": true
+  },
+  {
+    "url": "media/5a134aad355d5fc0.png",
+    "source_id": "K15",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K15.png",
+    "source_sha256": "1ab31ee49b2fc0ecc46af1bb89c39e1465ab03910eeaf0326599f999149a3bf8",
+    "role": "character",
+    "crop": [
+      0.23,
+      0.32,
+      0.5,
+      0.58
+    ],
+    "width": 836,
+    "height": 546,
+    "derivative_sha256": "b192f6e836b617e39964c73b344dee97af5f68243cf632170645e6956914e56b",
+    "original_preserved": true
+  },
+  {
+    "url": "media/cf649b343e055a65.png",
+    "source_id": "Y05",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y05.png",
+    "source_sha256": "bdf372a9cc03c4522886a971905c9f7ddab6fea4b37b72b351aa712eb19ace6e",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "58ead8c02d3bed049ca4625b30750b1f8e00ae103fd670be512e3940993729e5",
+    "original_preserved": true
+  },
+  {
+    "url": "media/d7e57f3359c0fd66.png",
+    "source_id": "Y05",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y05.png",
+    "source_sha256": "bdf372a9cc03c4522886a971905c9f7ddab6fea4b37b72b351aa712eb19ace6e",
+    "role": "character",
+    "crop": [
+      0.56,
+      0.14,
+      0.42,
+      0.79
+    ],
+    "width": 703,
+    "height": 743,
+    "derivative_sha256": "33e1ea9dc2465861de51b23f3005dbd9aed098ced131221e03748d318b63db33",
+    "original_preserved": true
+  },
+  {
+    "url": "media/72f487e941bc6853.png",
+    "source_id": "K16",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K16.png",
+    "source_sha256": "5f5cde87086273b97548ba52045f7412f983065580ef3c1e88b7e16cfd07e8c4",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "cca1172bc3405ae5693cb1d1a5679443aacda231264fde285cf3d466455c3c18",
+    "original_preserved": true
+  },
+  {
+    "url": "media/ab7f153c5d059dd1.png",
+    "source_id": "Y06",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y06.png",
+    "source_sha256": "4e30660084d74134a96d75e6d2f40103cc439541c015e7beb61206b7acaac5ca",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 843,
+    "derivative_sha256": "8921faa1a567467a302760ba9d50c5092ae86d729826b700993626ab99a5f896",
+    "original_preserved": true
+  },
+  {
+    "url": "media/d55999cdd473e6e5.png",
+    "source_id": "K18",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K18.png",
+    "source_sha256": "cb75c7c13b711c0d9a73ed168982298759745a81c0d60cadcee9f5ba72863785",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "2eabe41652e39f8e450b847edff46f98b2e3e63c2f43234b90db5089bffe0613",
+    "original_preserved": true
+  },
+  {
+    "url": "media/6a9ce9166ee5a319.png",
+    "source_id": "K17",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K17.png",
+    "source_sha256": "8f064a9c66a0e195775339df05c37078b97e7785b4c8a84245ef8dbc19d2fc32",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "f8d8f5a88f3d043ac38bf355eb83ea2e55868d4b464ef77ba241c57813db7274",
+    "original_preserved": true
+  },
+  {
+    "url": "media/49fc4b34f6053137.png",
+    "source_id": "Y07",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y07.png",
+    "source_sha256": "6d9241d0f9496a602b86eb5fb2f27ab9cae2ac8642b68a046cc3375665d447db",
+    "role": "character",
+    "crop": [
+      0.27,
+      0.12,
+      0.4,
+      0.65
+    ],
+    "width": 669,
+    "height": 612,
+    "derivative_sha256": "e11ee1dbb9cbb31f3ede1eb4a8fad1d65f676442bd9ecfacceb40d111e1d48e8",
+    "original_preserved": true
+  },
+  {
+    "url": "media/a7d3210da27e225d.png",
+    "source_id": "K17",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K17.png",
+    "source_sha256": "8f064a9c66a0e195775339df05c37078b97e7785b4c8a84245ef8dbc19d2fc32",
+    "role": "character",
+    "crop": [
+      0.02,
+      0.26,
+      0.49,
+      0.67
+    ],
+    "width": 820,
+    "height": 630,
+    "derivative_sha256": "ac56890ce4881512d1969b5ff700beee15ab1793267cc6c1ff906d585946c7bb",
+    "original_preserved": true
+  },
+  {
+    "url": "media/29d2da8193aa1cc8.png",
+    "source_id": "C_FL",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/C_FL.png",
+    "source_sha256": "c586a0e191ec564f7e3f1ce07baf3ab848bc2c70ca09572e9113e38a45590c92",
+    "role": "character",
+    "crop": null,
+    "width": 672,
+    "height": 1000,
+    "derivative_sha256": "f9dadbd2dbde17ea5b1d1240eb69fe342750cb3888529880bc26b59d90da62ad",
+    "original_preserved": true
+  },
+  {
+    "url": "media/f744b989269e2402.png",
+    "source_id": "C_XS",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/C_XS.png",
+    "source_sha256": "d5781d99183774cc8b263409ba91b26ffa53f0d1b743818fc3b987f308f3cf53",
+    "role": "character",
+    "crop": null,
+    "width": 669,
+    "height": 1000,
+    "derivative_sha256": "a0b085689c5d0bbc88ce9380db36cd8ecad9841681abede2abe9790280ec2e3c",
+    "original_preserved": true
+  },
+  {
+    "url": "media/f512ffb8135f00bb.png",
+    "source_id": "K19",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K19.png",
+    "source_sha256": "a4ee76f1e03002d9197a9d1c01ee92a4f4c0c14f0c6663a39c16cb9af46bc0f9",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "99f88dc7f1a6b2b4a39f3697ee105fee8780c80b8ce2cff66fb15f9307dc5243",
+    "original_preserved": true
+  },
+  {
+    "url": "media/7aea368ea0a9b193.png",
+    "source_id": "X07",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/X07.png",
+    "source_sha256": "0d930447c2e50458102fd7ea6edd1449cfac922f677c51e5e959e706373d26e9",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "0a0cc5a733dbd0485c0da42d2d6fcaa30a83a6800b5ef60aa629862aca6da84f",
+    "original_preserved": true
+  },
+  {
+    "url": "media/de787471b35e45f4.png",
+    "source_id": "K19",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K19.png",
+    "source_sha256": "a4ee76f1e03002d9197a9d1c01ee92a4f4c0c14f0c6663a39c16cb9af46bc0f9",
+    "role": "character",
+    "crop": [
+      0.12,
+      0.55,
+      0.77,
+      0.39
+    ],
+    "width": 1287,
+    "height": 367,
+    "derivative_sha256": "7bba26069d600701d1c430d7e0c55554b93837b4e727cf72d7bc9e58fece693c",
+    "original_preserved": true
+  },
+  {
+    "url": "media/d2fb4695c8066946.png",
+    "source_id": "O17",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O17.png",
+    "source_sha256": "2be9f956a6eed8ab0e44ad8c130d24eb2c0c7d28628812529953eb1da57fba8c",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1009,
+    "height": 1000,
+    "derivative_sha256": "476dc695c3d9da3d9b88401291122263a9c426e363bd2e08a52b4edb3b9975bf",
+    "original_preserved": true
+  },
+  {
+    "url": "media/df32ef7416b45239.png",
+    "source_id": "O16",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O16.png",
+    "source_sha256": "6ef91bad7f51463950001d9931724edca1ca1cf3b40ef84f5fa44975079bc7d9",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 989,
+    "height": 1000,
+    "derivative_sha256": "668bc50a811e3a0bea97289491d61db76dd746f7c75b9ec80c7315c9fb64a37e",
+    "original_preserved": true
+  },
+  {
+    "url": "media/919471bad3fbb3e6.png",
+    "source_id": "O18",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O18.png",
+    "source_sha256": "edc2186ed56032f651ff61917199abba67f773563fe02a7be3892231b683bce6",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 954,
+    "height": 1000,
+    "derivative_sha256": "fc9726326643f0535627d747d1ac32f93499f32d8e14c77b4bf38230a8bf45e3",
+    "original_preserved": true
+  },
+  {
+    "url": "media/c991104b289d6de8.png",
+    "source_id": "C_CB",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/C_CB.png",
+    "source_sha256": "3584e0409a0c94cb47a0bbc16028cd697cb8495bebb4f8ef834208a9a3d9558c",
+    "role": "character",
+    "crop": null,
+    "width": 674,
+    "height": 1000,
+    "derivative_sha256": "dae64a7e321de43f55a06d385d856129f194512cdee4a0d19cbf51f7f5b1702c",
+    "original_preserved": true
+  },
+  {
+    "url": "media/078a2bd6462da9a5.png",
+    "source_id": "K21",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K21.png",
+    "source_sha256": "f74070902eb91f4c53e5e2a3af820de244602e6d353ea13008c15ffc9457222d",
+    "role": "character",
+    "crop": [
+      0.03,
+      0.12,
+      0.52,
+      0.8
+    ],
+    "width": 870,
+    "height": 753,
+    "derivative_sha256": "3f7fdd424db1e76b71da9f1447fc44675f6f57a65258d34812b34cd7b4458e6f",
+    "original_preserved": true
+  },
+  {
+    "url": "media/50f80ab15c01f613.png",
+    "source_id": "O19",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O19.png",
+    "source_sha256": "90f671d5921176c7cfd29df63161e4fa76d04823a9f0a219ecb6f3d30477f2fe",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1010,
+    "height": 1000,
+    "derivative_sha256": "24c0849a67c8f865f0566db441a7c311aadde69ff4c3dd492a2900f75914a728",
+    "original_preserved": true
+  },
+  {
+    "url": "media/7bc3fac2dffe38ef.png",
+    "source_id": "K22",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K22.png",
+    "source_sha256": "7588ac55ee9033f3ad8ee77419815cc34c0461bf25572d40a353074b78c6e519",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "a726cbedf5265b4f8fe15ec1da9520fe2673f477d0bd77ee1dd67e0db31758ba",
+    "original_preserved": true
+  },
+  {
+    "url": "media/f7805f47effc4ab9.png",
+    "source_id": "K23",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K23.png",
+    "source_sha256": "66a0f1a9ddd3ecaac2cb55630a23bd3d106f1519ff15ceff38f74f322f09292b",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "6a55658cc4a041d351077e9d7d7bb518973eaffb298c9a2802ea3373ca60e664",
+    "original_preserved": true
+  },
+  {
+    "url": "media/3d4c51a5e58afebf.png",
+    "source_id": "K23",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K23.png",
+    "source_sha256": "66a0f1a9ddd3ecaac2cb55630a23bd3d106f1519ff15ceff38f74f322f09292b",
+    "role": "character",
+    "crop": [
+      0.02,
+      0.05,
+      0.45,
+      0.86
+    ],
+    "width": 753,
+    "height": 809,
+    "derivative_sha256": "951457ce17fff453c908e25c63c013367035e5b9ee314450cd2220fece8aadd4",
+    "original_preserved": true
+  },
+  {
+    "url": "media/4435d2004f85271b.png",
+    "source_id": "K24",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K24.png",
+    "source_sha256": "9c90c63ed2b0ff53e9f30d6f2b4de0f0fc0ee8fde82abd59bdb23035d091187f",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "e899bd425a3991315ad45559153e149bdd5083f7ceca5f473ca6d8d4355998ef",
+    "original_preserved": true
+  },
+  {
+    "url": "media/0c28d8c572f7252c.png",
+    "source_id": "C_ZL",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/C_ZL.png",
+    "source_sha256": "6eb859b771ff16e8900071998394073894233a4c958df6a195069fad05804134",
+    "role": "character",
+    "crop": null,
+    "width": 673,
+    "height": 1000,
+    "derivative_sha256": "e7033b15b50976ef7c869e36bf722437c04bf96239a98f3f1d14ec916ba3a789",
+    "original_preserved": true
+  },
+  {
+    "url": "media/12d91941405effb2.png",
+    "source_id": "C_CQ",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/C_CQ.png",
+    "source_sha256": "e10e03f29de7357838c5a7ae6643bfe10a76f984ea5ca4fa8373fb0811007ee1",
+    "role": "character",
+    "crop": null,
+    "width": 652,
+    "height": 1000,
+    "derivative_sha256": "9ca246308796a9b11afb7af60352638e3958345c8a6e7ac7d8c18f96e965acf1",
+    "original_preserved": true
+  },
+  {
+    "url": "media/3b6b8450e2875eab.png",
+    "source_id": "K10",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K10.png",
+    "source_sha256": "609bd145748011df003ff622a1506b891779dd798c28ee3241bd64c68236bcdd",
+    "role": "character",
+    "crop": [
+      0.56,
+      0.14,
+      0.43,
+      0.77
+    ],
+    "width": 719,
+    "height": 724,
+    "derivative_sha256": "79a6470f080971895db3eb1a7275564f5fe7f720e14745882588f21101028410",
+    "original_preserved": true
+  },
+  {
+    "url": "media/3e727f28f9ba23f4.png",
+    "source_id": "K25",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K25.png",
+    "source_sha256": "6266d94bce3218f4c7201fade31e0bd03ce50b1e8575562c3454650f1ee0cf0a",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "22e330be6b0668a4269dcae4b56c3c01fe7598b8f5704f1ec8f293e45328dc5a",
+    "original_preserved": true
+  },
+  {
+    "url": "media/4fb7b727e01d7004.png",
+    "source_id": "O23",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O23.png",
+    "source_sha256": "918a12b3c2124db4ad8c8532d5496b64a98abd87de13259d7741bc5515204749",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 946,
+    "height": 1000,
+    "derivative_sha256": "14350d47d3a3b08358107a4542f663be3fdb881b9b300c1a90cf8e350f815d66",
+    "original_preserved": true
+  },
+  {
+    "url": "media/9e82729e5d23a6ae.png",
+    "source_id": "K26",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K26.png",
+    "source_sha256": "3746c82dad915b3f91d2561eaf14358f8aa3bc5bcb02a0612eaf828e750a19ec",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "036703f5d69cc989dd1eed8e890ff8260626bc5f6e0c3bbff91d2a74bbd0cc2d",
+    "original_preserved": true
+  },
+  {
+    "url": "media/1d96830d79c78abc.png",
+    "source_id": "K26",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K26.png",
+    "source_sha256": "3746c82dad915b3f91d2561eaf14358f8aa3bc5bcb02a0612eaf828e750a19ec",
+    "role": "character",
+    "crop": [
+      0.02,
+      0.08,
+      0.48,
+      0.84
+    ],
+    "width": 803,
+    "height": 791,
+    "derivative_sha256": "49581384faa0d397e7ad285b85888a7dd18308614341650a095c2f4814f4d688",
+    "original_preserved": true
+  },
+  {
+    "url": "media/55618e1ff26df51c.png",
+    "source_id": "K27",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K27.png",
+    "source_sha256": "a895ee89ab67bad3c6cb930eb455c37c94aa8f0b656744fcd420841076d15ec3",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "9fe7a417492b0e66c07134eb8c0b898e1254fd5a7c902a80d6a4835bf32388fe",
+    "original_preserved": true
+  },
+  {
+    "url": "media/17dbe55bfce6183e.png",
+    "source_id": "O28",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/O28.png",
+    "source_sha256": "ba77008b43832041aba2817c66d7e899dd81788f2581801d662968178eb0b983",
+    "role": "object_or_environment",
+    "crop": null,
+    "width": 1067,
+    "height": 1000,
+    "derivative_sha256": "065ab550f05940616bb9b19df431cafb657397b27d627b1fc757c3eab8826d3a",
+    "original_preserved": true
+  },
+  {
+    "url": "media/9e4aebbbf9a6db2e.png",
+    "source_id": "K27",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K27.png",
+    "source_sha256": "a895ee89ab67bad3c6cb930eb455c37c94aa8f0b656744fcd420841076d15ec3",
+    "role": "character",
+    "crop": [
+      0.07,
+      0.14,
+      0.45,
+      0.79
+    ],
+    "width": 752,
+    "height": 743,
+    "derivative_sha256": "1735a1fae84de75d82f38175cbd9d0e5ae82c88fee0304c49e06ee88e9e39e65",
+    "original_preserved": true
+  },
+  {
+    "url": "media/cd8308e84984108a.png",
+    "source_id": "Y02",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y02.png",
+    "source_sha256": "d8bd6bec1ce91f7a5e8d9e619874ff6ef334964552c18d225156b10e8be9b6b6",
+    "role": "character",
+    "crop": [
+      0.6,
+      0.18,
+      0.36,
+      0.78
+    ],
+    "width": 602,
+    "height": 734,
+    "derivative_sha256": "b066252c87a4b2d4e623b9bc3fae0fbc5ea84ac8e667af33ad21b5592fa7af78",
+    "original_preserved": true
+  },
+  {
+    "url": "media/c9d4c71c07ed056e.png",
+    "source_id": "Y02",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y02.png",
+    "source_sha256": "d8bd6bec1ce91f7a5e8d9e619874ff6ef334964552c18d225156b10e8be9b6b6",
+    "role": "character",
+    "crop": [
+      0.65,
+      0.19,
+      0.29,
+      0.48
+    ],
+    "width": 485,
+    "height": 451,
+    "derivative_sha256": "3dea27a8e696a88f1e2af246c85cbcf4543308154ddc3f0400da7f794885e79b",
+    "original_preserved": true
+  },
+  {
+    "url": "media/d9e0fefdcb09f570.png",
+    "source_id": "Y02_B",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/Y02_B.png",
+    "source_sha256": "d609326ffeb529718ef2f99d94f6f87f340a4b61cc4c41651d69e5db445da03d",
+    "role": "character",
+    "crop": [
+      0.6,
+      0.37,
+      0.38,
+      0.6
+    ],
+    "width": 636,
+    "height": 565,
+    "derivative_sha256": "ae39b41866cc6d9441b56841782ba9772a803a1debd3a91c398c3fe8a4aaf0e9",
+    "original_preserved": true
+  },
+  {
+    "url": "media/84d5cdcfbfdc3325.png",
+    "source_id": "K28",
+    "source": "projects/mo_den_phong_than/assets/Mo_Den_Phong_Than_V2/images/K28.png",
+    "source_sha256": "3e1e4eaa90f68304eab49f6e2809e57b95036c10be80fa408b975083c84555ff",
+    "role": "character",
+    "crop": null,
+    "width": 1500,
+    "height": 844,
+    "derivative_sha256": "89f2ab182c1d8733e9663a245b8d63dec8b78fe91bdf3be807819870518cd187",
+    "original_preserved": true
+  },
+  {
+    "url": "media/910db2a4a5075aca.png",
+    "source_id": "cat08",
+    "source": "assets/characters/mo_den/library/named_24_v01/mo_den_08_smug_seated_one_paw_shrug.png",
+    "source_sha256": "2fb908efd49679a90f105d30ff6f08def35e0042b7b2a958060534d1966d8b3c",
+    "role": "character",
+    "crop": null,
+    "width": 808,
+    "height": 1000,
+    "derivative_sha256": "5e906c8960ac71eb6d11a1eb5fde5f67a04255fae33f649807369c289cd1be50",
+    "original_preserved": true
+  }
+]

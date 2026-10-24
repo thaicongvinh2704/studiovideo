@@ -84,10 +84,18 @@ class StudioWindow(ExplainerActions,QMainWindow):
             a=QAction(title,self);a.triggered.connect(fn);toolbar.addAction(a)
         export=QPushButton('Xuất MP4');export.setObjectName('primary');export.clicked.connect(self.export_dialog);toolbar.addWidget(export)
         tools=QToolBar('Minh họa',self);tools.setMovable(False);self.addToolBarBreak();self.addToolBar(tools)
+        helper_action=QAction('Hỗ trợ dựng…',self)
+        helper_action.triggered.connect(self.editing_helpers)
+        tools.addAction(helper_action)
         for title,fn in [('Bàn vẽ…',self.drawing_desk),('Kịch bản + voice…',self.story_wizard),('Người dẫn',lambda:self.add_graphic('presenter')),('Chữ',lambda:self.add_graphic('text')),
             ('Hình / mũi tên',lambda:self.add_graphic('shape')),('Sửa nội dung…',self.graphic_dialog),('Tư thế…',self.pose_picker),('Diện mạo…',self.appearance_picker),
             ('Bố cục…',self.add_layout),('Thư viện hình…',self.art_picker),('Cha / điểm xoay…',self.parent_picker),('Nhóm…',self.group_dialog),('Nhân bản lớp',self.duplicate_object),('Cắt lớp',self.split_object),('Waveform',self.analyze_voice)]:
             a=QAction(title,self);a.triggered.connect(fn);tools.addAction(a)
+
+    def editing_helpers(self):
+        from .editing_tools_dialog import EditingToolsDialog
+        self.pause()
+        EditingToolsDialog(self).exec()
 
     def build_ui(self):
         outer=QSplitter(Qt.Orientation.Vertical);self.setCentralWidget(outer)

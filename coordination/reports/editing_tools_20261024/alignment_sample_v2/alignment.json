@@ -1,0 +1,653 @@
+{
+  "language": "vi",
+  "engine": "whisperx",
+  "alignment_model": "dragonSwing/wav2vec2-base-vietnamese",
+  "device": "cpu",
+  "original_inputs": {
+    "audio_sha256": "9f17e2b69b12a51349e5f2c9de1d7960a771798f9cc221d91d24a7c1f9b07148",
+    "srt_sha256": "1cf1883a8148ff2dc3b2384e7589b65b8d75069c4d0ee1a169c46fb87effb822"
+  },
+  "duration_seconds": 10.5,
+  "original_cues": [
+    {
+      "id": "f63486ea759c",
+      "start": 0.0,
+      "end": 2.028,
+      "text": "Khương Tử Nha vừa ra lệnh xử chém hai người.",
+      "role": "Narrator"
+    },
+    {
+      "id": "8240014411c4",
+      "start": 2.22,
+      "end": 6.572,
+      "text": "Tội của họ được kể rất rõ: làm loạn triều chính, mê hoặc nhà vua, khiến đất nước sụp đổ.",
+      "role": "Narrator"
+    },
+    {
+      "id": "90efe991aed7",
+      "start": 6.636,
+      "end": 10.348,
+      "text": "Đến khi chủ cũ chết, họ lại đem của báu sang cầu được làm quan cho triều đại mới.",
+      "role": "Narrator"
+    }
+  ],
+  "aligned_segments": [
+    {
+      "start": 0.161,
+      "end": 1.867,
+      "text": "Khương Tử Nha vừa ra lệnh xử chém hai người.",
+      "words": [
+        {
+          "word": "Khương",
+          "start": 0.161,
+          "end": 0.321,
+          "score": 0.624
+        },
+        {
+          "word": "Tử",
+          "start": 0.341,
+          "end": 0.462,
+          "score": 0.967
+        },
+        {
+          "word": "Nha",
+          "start": 0.482,
+          "end": 0.683,
+          "score": 0.917
+        },
+        {
+          "word": "vừa",
+          "start": 0.723,
+          "end": 0.843,
+          "score": 0.989
+        },
+        {
+          "word": "ra",
+          "start": 0.883,
+          "end": 0.984,
+          "score": 0.969
+        },
+        {
+          "word": "lệnh",
+          "start": 1.004,
+          "end": 1.124,
+          "score": 0.786
+        },
+        {
+          "word": "xử",
+          "start": 1.205,
+          "end": 1.325,
+          "score": 0.792
+        },
+        {
+          "word": "chém",
+          "start": 1.385,
+          "end": 1.506,
+          "score": 0.356
+        },
+        {
+          "word": "hai",
+          "start": 1.546,
+          "end": 1.646,
+          "score": 0.979
+        },
+        {
+          "word": "người.",
+          "start": 1.667,
+          "end": 1.867,
+          "score": 0.691
+        }
+      ]
+    },
+    {
+      "start": 2.32,
+      "end": 6.532,
+      "text": "Tội của họ được kể rất rõ: làm loạn triều chính, mê hoặc nhà vua, khiến đất nước sụp đổ.",
+      "words": [
+        {
+          "word": "Tội",
+          "start": 2.32,
+          "end": 2.461,
+          "score": 0.677
+        },
+        {
+          "word": "của",
+          "start": 2.501,
+          "end": 2.621,
+          "score": 0.835
+        },
+        {
+          "word": "họ",
+          "start": 2.641,
+          "end": 2.782,
+          "score": 0.928
+        },
+        {
+          "word": "được",
+          "start": 2.802,
+          "end": 2.902,
+          "score": 0.963
+        },
+        {
+          "word": "kể",
+          "start": 2.942,
+          "end": 3.062,
+          "score": 1.0
+        },
+        {
+          "word": "rất",
+          "start": 3.102,
+          "end": 3.203,
+          "score": 0.876
+        },
+        {
+          "word": "rõ:",
+          "start": 3.243,
+          "end": 3.443,
+          "score": 1.0
+        },
+        {
+          "word": "làm",
+          "start": 3.985,
+          "end": 4.105,
+          "score": 0.901
+        },
+        {
+          "word": "loạn",
+          "start": 4.145,
+          "end": 4.266,
+          "score": 0.885
+        },
+        {
+          "word": "triều",
+          "start": 4.306,
+          "end": 4.446,
+          "score": 0.889
+        },
+        {
+          "word": "chính,",
+          "start": 4.466,
+          "end": 4.627,
+          "score": 0.907
+        },
+        {
+          "word": "mê",
+          "start": 4.887,
+          "end": 5.008,
+          "score": 0.52
+        },
+        {
+          "word": "hoặc",
+          "start": 5.028,
+          "end": 5.148,
+          "score": 0.68
+        },
+        {
+          "word": "nhà",
+          "start": 5.168,
+          "end": 5.309,
+          "score": 0.816
+        },
+        {
+          "word": "vua,",
+          "start": 5.329,
+          "end": 5.509,
+          "score": 0.758
+        },
+        {
+          "word": "khiến",
+          "start": 5.79,
+          "end": 5.91,
+          "score": 0.642
+        },
+        {
+          "word": "đất",
+          "start": 5.93,
+          "end": 6.01,
+          "score": 0.84
+        },
+        {
+          "word": "nước",
+          "start": 6.031,
+          "end": 6.151,
+          "score": 0.755
+        },
+        {
+          "word": "sụp",
+          "start": 6.191,
+          "end": 6.291,
+          "score": 0.763
+        },
+        {
+          "word": "đổ.",
+          "start": 6.311,
+          "end": 6.532,
+          "score": 0.557
+        }
+      ]
+    },
+    {
+      "start": 6.797,
+      "end": 10.167,
+      "text": "Đến khi chủ cũ chết, họ lại đem của báu sang cầu được làm quan cho triều đại mới.",
+      "words": [
+        {
+          "word": "Đến",
+          "start": 6.797,
+          "end": 6.917,
+          "score": 0.999
+        },
+        {
+          "word": "khi",
+          "start": 6.957,
+          "end": 7.097,
+          "score": 0.718
+        },
+        {
+          "word": "chủ",
+          "start": 7.118,
+          "end": 7.238,
+          "score": 0.977
+        },
+        {
+          "word": "cũ",
+          "start": 7.258,
+          "end": 7.378,
+          "score": 0.866
+        },
+        {
+          "word": "chết,",
+          "start": 7.419,
+          "end": 7.559,
+          "score": 0.804
+        },
+        {
+          "word": "họ",
+          "start": 8.121,
+          "end": 8.221,
+          "score": 0.999
+        },
+        {
+          "word": "lại",
+          "start": 8.241,
+          "end": 8.342,
+          "score": 0.94
+        },
+        {
+          "word": "đem",
+          "start": 8.362,
+          "end": 8.502,
+          "score": 0.845
+        },
+        {
+          "word": "của",
+          "start": 8.542,
+          "end": 8.622,
+          "score": 0.981
+        },
+        {
+          "word": "báu",
+          "start": 8.642,
+          "end": 8.763,
+          "score": 0.915
+        },
+        {
+          "word": "sang",
+          "start": 8.803,
+          "end": 8.943,
+          "score": 0.875
+        },
+        {
+          "word": "cầu",
+          "start": 8.964,
+          "end": 9.144,
+          "score": 0.956
+        },
+        {
+          "word": "được",
+          "start": 9.184,
+          "end": 9.285,
+          "score": 0.875
+        },
+        {
+          "word": "làm",
+          "start": 9.305,
+          "end": 9.425,
+          "score": 0.834
+        },
+        {
+          "word": "quan",
+          "start": 9.465,
+          "end": 9.586,
+          "score": 0.879
+        },
+        {
+          "word": "cho",
+          "start": 9.606,
+          "end": 9.706,
+          "score": 0.984
+        },
+        {
+          "word": "triều",
+          "start": 9.726,
+          "end": 9.866,
+          "score": 0.765
+        },
+        {
+          "word": "đại",
+          "start": 9.887,
+          "end": 9.987,
+          "score": 0.97
+        },
+        {
+          "word": "mới.",
+          "start": 10.027,
+          "end": 10.167,
+          "score": 0.75
+        }
+      ]
+    }
+  ],
+  "word_segments": [
+    {
+      "word": "Khương",
+      "start": 0.161,
+      "end": 0.321,
+      "score": 0.624
+    },
+    {
+      "word": "Tử",
+      "start": 0.341,
+      "end": 0.462,
+      "score": 0.967
+    },
+    {
+      "word": "Nha",
+      "start": 0.482,
+      "end": 0.683,
+      "score": 0.917
+    },
+    {
+      "word": "vừa",
+      "start": 0.723,
+      "end": 0.843,
+      "score": 0.989
+    },
+    {
+      "word": "ra",
+      "start": 0.883,
+      "end": 0.984,
+      "score": 0.969
+    },
+    {
+      "word": "lệnh",
+      "start": 1.004,
+      "end": 1.124,
+      "score": 0.786
+    },
+    {
+      "word": "xử",
+      "start": 1.205,
+      "end": 1.325,
+      "score": 0.792
+    },
+    {
+      "word": "chém",
+      "start": 1.385,
+      "end": 1.506,
+      "score": 0.356
+    },
+    {
+      "word": "hai",
+      "start": 1.546,
+      "end": 1.646,
+      "score": 0.979
+    },
+    {
+      "word": "người.",
+      "start": 1.667,
+      "end": 1.867,
+      "score": 0.691
+    },
+    {
+      "word": "Tội",
+      "start": 2.32,
+      "end": 2.461,
+      "score": 0.677
+    },
+    {
+      "word": "của",
+      "start": 2.501,
+      "end": 2.621,
+      "score": 0.835
+    },
+    {
+      "word": "họ",
+      "start": 2.641,
+      "end": 2.782,
+      "score": 0.928
+    },
+    {
+      "word": "được",
+      "start": 2.802,
+      "end": 2.902,
+      "score": 0.963
+    },
+    {
+      "word": "kể",
+      "start": 2.942,
+      "end": 3.062,
+      "score": 1.0
+    },
+    {
+      "word": "rất",
+      "start": 3.102,
+      "end": 3.203,
+      "score": 0.876
+    },
+    {
+      "word": "rõ:",
+      "start": 3.243,
+      "end": 3.443,
+      "score": 1.0
+    },
+    {
+      "word": "làm",
+      "start": 3.985,
+      "end": 4.105,
+      "score": 0.901
+    },
+    {
+      "word": "loạn",
+      "start": 4.145,
+      "end": 4.266,
+      "score": 0.885
+    },
+    {
+      "word": "triều",
+      "start": 4.306,
+      "end": 4.446,
+      "score": 0.889
+    },
+    {
+      "word": "chính,",
+      "start": 4.466,
+      "end": 4.627,
+      "score": 0.907
+    },
+    {
+      "word": "mê",
+      "start": 4.887,
+      "end": 5.008,
+      "score": 0.52
+    },
+    {
+      "word": "hoặc",
+      "start": 5.028,
+      "end": 5.148,
+      "score": 0.68
+    },
+    {
+      "word": "nhà",
+      "start": 5.168,
+      "end": 5.309,
+      "score": 0.816
+    },
+    {
+      "word": "vua,",
+      "start": 5.329,
+      "end": 5.509,
+      "score": 0.758
+    },
+    {
+      "word": "khiến",
+      "start": 5.79,
+      "end": 5.91,
+      "score": 0.642
+    },
+    {
+      "word": "đất",
+      "start": 5.93,
+      "end": 6.01,
+      "score": 0.84
+    },
+    {
+      "word": "nước",
+      "start": 6.031,
+      "end": 6.151,
+      "score": 0.755
+    },
+    {
+      "word": "sụp",
+      "start": 6.191,
+      "end": 6.291,
+      "score": 0.763
+    },
+    {
+      "word": "đổ.",
+      "start": 6.311,
+      "end": 6.532,
+      "score": 0.557
+    },
+    {
+      "word": "Đến",
+      "start": 6.797,
+      "end": 6.917,
+      "score": 0.999
+    },
+    {
+      "word": "khi",
+      "start": 6.957,
+      "end": 7.097,
+      "score": 0.718
+    },
+    {
+      "word": "chủ",
+      "start": 7.118,
+      "end": 7.238,
+      "score": 0.977
+    },
+    {
+      "word": "cũ",
+      "start": 7.258,
+      "end": 7.378,
+      "score": 0.866
+    },
+    {
+      "word": "chết,",
+      "start": 7.419,
+      "end": 7.559,
+      "score": 0.804
+    },
+    {
+      "word": "họ",
+      "start": 8.121,
+      "end": 8.221,
+      "score": 0.999
+    },
+    {
+      "word": "lại",
+      "start": 8.241,
+      "end": 8.342,
+      "score": 0.94
+    },
+    {
+      "word": "đem",
+      "start": 8.362,
+      "end": 8.502,
+      "score": 0.845
+    },
+    {
+      "word": "của",
+      "start": 8.542,
+      "end": 8.622,
+      "score": 0.981
+    },
+    {
+      "word": "báu",
+      "start": 8.642,
+      "end": 8.763,
+      "score": 0.915
+    },
+    {
+      "word": "sang",
+      "start": 8.803,
+      "end": 8.943,
+      "score": 0.875
+    },
+    {
+      "word": "cầu",
+      "start": 8.964,
+      "end": 9.144,
+      "score": 0.956
+    },
+    {
+      "word": "được",
+      "start": 9.184,
+      "end": 9.285,
+      "score": 0.875
+    },
+    {
+      "word": "làm",
+      "start": 9.305,
+      "end": 9.425,
+      "score": 0.834
+    },
+    {
+      "word": "quan",
+      "start": 9.465,
+      "end": 9.586,
+      "score": 0.879
+    },
+    {
+      "word": "cho",
+      "start": 9.606,
+      "end": 9.706,
+      "score": 0.984
+    },
+    {
+      "word": "triều",
+      "start": 9.726,
+      "end": 9.866,
+      "score": 0.765
+    },
+    {
+      "word": "đại",
+      "start": 9.887,
+      "end": 9.987,
+      "score": 0.97
+    },
+    {
+      "word": "mới.",
+      "start": 10.027,
+      "end": 10.167,
+      "score": 0.75
+    }
+  ],
+  "words_missing_timestamps": [],
+  "source_text_preserved": true,
+  "timing_requires_review": true,
+  "listening_qc": false,
+  "region_and_tones_verified": false,
+  "voice_modified": false
+}

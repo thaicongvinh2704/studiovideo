@@ -1,0 +1,10 @@
+{
+  "image": "D:\\stickman-animation-studio\\stickman-animation-studio\\projects\\mo_den_phong_than\\reference_style_edit_v2\\review\\shot_005.jpg",
+  "narration": "Hai người bị đưa ra ngoài. Đao phủ thi hành án. Quân lính trở vào báo việc đã xong.",
+  "expected": "Phải thấy hai người bị áp giải và quân lính. Chỉ đánh giá nhân vật thực sự nhìn thấy; không coi nội dung phụ đề là bằng chứng.",
+  "model": "qwen3-vl:2b-instruct",
+  "observations": "- **Chỗ thiếu**: Không thấy hai người bị áp giải và quân lính như trong lời kể.  \n- **Chỗ không chắc chắn**: Không thể xác định rõ hai người bị áp giải và quân lính.  \n- **Chỗ không thể kết luận**: Không thể xác định rõ hai người bị áp giải và quân lính.",
+  "human_review_required": true,
+  "qc_approval": false,
+  "timing_verified": false
+}

@@ -1,0 +1,93 @@
+{
+  "kind": "user_requested_short_directing_trial",
+  "duration_seconds": 31.787000000000006,
+  "fps": 24,
+  "full_film_rendered": false,
+  "image_generation": false,
+  "new_voice_generation": false,
+  "voice_source": "projects\\mo_den_phong_than\\voice_direction\\Mo_Den_Phong_Than_Dien_Nghia_Custom_H_1_25x.wav",
+  "voice_source_sha256": "78f4bafb25510891c370bb6c2f88ae3f05df48b3933d15a4dbb88260c3860450",
+  "source_excerpt": [
+    212.025,
+    243.562
+  ],
+  "source_cues": [
+    68,
+    69,
+    70,
+    71,
+    72,
+    73
+  ],
+  "speed_applied_to_excerpt": 1.0,
+  "existing_master_speed": 1.25,
+  "assets": [
+    {
+      "file": "projects\\mo_den_phong_than\\assets\\Mo_Den_Phong_Than_V2\\images\\Y02.png",
+      "sha256": "d8bd6bec1ce91f7a5e8d9e619874ff6ef334964552c18d225156b10e8be9b6b6",
+      "role": "character",
+      "original_preserved": true,
+      "source": "existing supplied library",
+      "human_motion": "static source pose, source-to-source cuts only"
+    },
+    {
+      "file": "projects\\mo_den_phong_than\\assets\\Mo_Den_Phong_Than_V2\\images\\Y02_B.png",
+      "sha256": "d609326ffeb529718ef2f99d94f6f87f340a4b61cc4c41651d69e5db445da03d",
+      "role": "character",
+      "original_preserved": true,
+      "source": "existing supplied library",
+      "human_motion": "static source pose, source-to-source cuts only"
+    },
+    {
+      "file": "projects\\mo_den_phong_than\\assets\\Mo_Den_Phong_Than_V2\\images\\B15.png",
+      "sha256": "4859c0f74d80581c5782a736e6f72d62b42b204e7d445d0dbaa6827c6ed73182",
+      "role": "object_or_environment",
+      "original_preserved": true,
+      "source": "existing supplied library",
+      "human_motion": null
+    },
+    {
+      "file": "projects\\mo_den_phong_than\\assets\\Mo_Den_Phong_Than_V2\\images\\O01.png",
+      "sha256": "d92da199db63e497926135558bd35ce078e2cb9f39b5feb8eb53683b1ed6072f",
+      "role": "object_or_environment",
+      "original_preserved": true,
+      "source": "existing supplied library",
+      "human_motion": null
+    },
+    {
+      "file": "projects\\mo_den_phong_than\\assets\\Mo_Den_Phong_Than_V2\\images\\O06.png",
+      "sha256": "f5c11b8aba747f2cacf2b2abcda9427fbc497b574510c8b09db4a2097522d38f",
+      "role": "object_or_environment",
+      "original_preserved": true,
+      "source": "existing supplied library",
+      "human_motion": null
+    },
+    {
+      "file": "assets\\characters\\mo_den\\library\\named_24_v01\\mo_den_13_curious_seated_paw_near_chin.png",
+      "sha256": "bbab26f38b6fda68a0c3883475d6f0e54eda038b6cd74ab846c64d1c75b52bf9",
+      "role": "character",
+      "original_preserved": true,
+      "source": "existing supplied library",
+      "human_motion": null
+    },
+    {
+      "file": "assets\\characters\\mo_den\\library\\named_24_v01\\mo_den_14_skeptical_seated_arms_crossed.png",
+      "sha256": "7a93234a2a50e671a044718ba67a22a0c1181aeff8b54c83b6382792bac1be21",
+      "role": "character",
+      "original_preserved": true,
+      "source": "existing supplied library",
+      "human_motion": null
+    },
+    {
+      "file": "assets\\characters\\mo_den\\library\\named_24_v01\\mo_den_16_realization_seated_paw_raised.png",
+      "sha256": "65042a62dde0f350cf9dd52660e99ef218667ddf755d93081b611c0362afa1fa",
+      "role": "character",
+      "original_preserved": true,
+      "source": "existing supplied library",
+      "human_motion": null
+    }
+  ],
+  "review_status": "draft_for_user_review",
+  "human_rig_used": false,
+  "note": "Composite sources and crops preserve supplied illustrations; no new human master or changed anatomy. This demo does not approve the long-form edit."
+}
