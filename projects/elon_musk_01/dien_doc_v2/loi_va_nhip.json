@@ -1,0 +1,2721 @@
+[
+  {
+    "id": 1,
+    "group": 1,
+    "scene": "01",
+    "copy": "Ba lần phóng. Cả ba lần, đội của Elon Musk đều không đưa được tên lửa vào quỹ đạo.",
+    "spoken": "Ba lần phóng. Cả ba lần, đội của I lơn Mấc đều không đưa được tên lửa vào quỹ đạo.",
+    "readings": [
+      {
+        "start": 33,
+        "end": 42,
+        "original": "Elon Musk",
+        "spoken": "I lơn Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "hóng. Cả ba lần, đội của Elon Musk đều không đưa được tên l"
+      }
+    ],
+    "style": "nén",
+    "tempo": 1.035,
+    "db": -0.25,
+    "gap": 0.08
+  },
+  {
+    "id": 2,
+    "group": 1,
+    "scene": "01",
+    "copy": "Tháng 9 năm 2008, giữa Thái Bình Dương, đội SpaceX đặt quả thứ tư lên bệ.",
+    "spoken": "Tháng chín năm hai nghìn lẻ tám, giữa Thái Bình Dương, đội Spây Xếch đặt quả thứ tư lên bệ.",
+    "readings": [
+      {
+        "start": 6,
+        "end": 7,
+        "original": "9",
+        "spoken": "chín",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Tháng 9 năm 2008, giữa Thái Bình"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "original": "2008",
+        "spoken": "hai nghìn lẻ tám",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Tháng 9 năm 2008, giữa Thái Bình Dương, đ"
+      },
+      {
+        "start": 44,
+        "end": 50,
+        "original": "SpaceX",
+        "spoken": "Spây Xếch",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "iữa Thái Bình Dương, đội SpaceX đặt quả thứ tư lên bệ."
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.38
+  },
+  {
+    "id": 3,
+    "group": 1,
+    "scene": "01",
+    "copy": "Nếu lần này cũng hỏng thì sao?",
+    "spoken": "Nếu lần này cũng hỏng thì sao?",
+    "readings": [],
+    "style": "thủ thỉ",
+    "tempo": 0.94,
+    "db": -1.15,
+    "gap": 0.4
+  },
+  {
+    "id": 4,
+    "group": 1,
+    "scene": "01",
+    "copy": "Musk kể, tiền của công ty chỉ còn đủ cho chuyến này.",
+    "spoken": "Mấc kể, tiền của công ty chỉ còn đủ cho chuyến này.",
+    "readings": [
+      {
+        "start": 0,
+        "end": 4,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Musk kể, tiền của công ty chỉ"
+      }
+    ],
+    "style": "đáp",
+    "tempo": 0.935,
+    "db": 0.65,
+    "gap": 0.7
+  },
+  {
+    "id": 5,
+    "group": 2,
+    "scene": "01",
+    "copy": "Sáu năm trước đó, theo lời ông, riêng vụ bán PayPal đã mang về khoảng 180 triệu đô sau thuế.",
+    "spoken": "Sáu năm trước đó, theo lời ông, riêng vụ bán Pây Pal đã mang về khoảng một trăm tám mươi triệu đô sau thuế.",
+    "readings": [
+      {
+        "start": 45,
+        "end": 51,
+        "original": "PayPal",
+        "spoken": "Pây Pal",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "eo lời ông, riêng vụ bán PayPal đã mang về khoảng 180 tr"
+      },
+      {
+        "start": 70,
+        "end": 73,
+        "original": "180",
+        "spoken": "một trăm tám mươi",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "PayPal đã mang về khoảng 180 triệu đô sau thuế."
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.55
+  },
+  {
+    "id": 6,
+    "group": 2,
+    "scene": "01",
+    "copy": "Chừng ấy tiền đi đâu hết?",
+    "spoken": "Chừng ấy tiền đi đâu hết?",
+    "readings": [],
+    "style": "hỏi",
+    "tempo": 0.98,
+    "db": 0.4,
+    "gap": 0.32
+  },
+  {
+    "id": 7,
+    "group": 3,
+    "scene": "01",
+    "copy": "Muốn lần theo số tiền ấy, phải về cái thời Elon muốn dùng máy tính còn phải đứng đợi.",
+    "spoken": "Muốn lần theo số tiền ấy, phải về cái thời I lơn muốn dùng máy tính còn phải đứng đợi.",
+    "readings": [
+      {
+        "start": 43,
+        "end": 47,
+        "original": "Elon",
+        "spoken": "I lơn",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "iền ấy, phải về cái thời Elon muốn dùng máy tính còn p"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.67
+  },
+  {
+    "id": 8,
+    "group": 3,
+    "scene": "01",
+    "copy": "Đợi đến tối.",
+    "spoken": "Đợi đến tối.",
+    "readings": [],
+    "style": "tỉnh",
+    "tempo": 1.025,
+    "db": -0.9,
+    "gap": 0.28
+  },
+  {
+    "id": 9,
+    "group": 4,
+    "scene": "02",
+    "copy": "California, năm 1995. Hai anh em Elon và Kimbal Musk cùng khởi nghiệp.",
+    "spoken": "Ca li phoóc ni a, năm một nghìn chín trăm chín mươi lăm. Hai anh em I lơn và Kim bồ Mấc cùng khởi nghiệp.",
+    "readings": [
+      {
+        "start": 0,
+        "end": 10,
+        "original": "California",
+        "spoken": "Ca li phoóc ni a",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "California, năm 1995. Hai anh em El"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "original": "1995",
+        "spoken": "một nghìn chín trăm chín mươi lăm",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "California, năm 1995. Hai anh em Elon và Kimb"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "original": "Elon",
+        "spoken": "I lơn",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ia, năm 1995. Hai anh em Elon và Kimbal Musk cùng khởi"
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "original": "Kimbal",
+        "spoken": "Kim bồ",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "1995. Hai anh em Elon và Kimbal Musk cùng khởi nghiệp."
+      },
+      {
+        "start": 48,
+        "end": 52,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ai anh em Elon và Kimbal Musk cùng khởi nghiệp."
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.74
+  },
+  {
+    "id": 10,
+    "group": 4,
+    "scene": "02",
+    "copy": "Bạn thử hình dung cần tìm một tiệm sửa xe ở thành phố mình mới chuyển tới. Cuốn danh bạ cho bạn tên tiệm, số điện thoại và địa chỉ.",
+    "spoken": "Bạn thử hình dung cần tìm một tiệm sửa xe ở thành phố mình mới chuyển tới. Cuốn danh bạ cho bạn tên tiệm, số điện thoại và địa chỉ.",
+    "readings": [],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.29
+  },
+  {
+    "id": 11,
+    "group": 4,
+    "scene": "02",
+    "copy": "Rồi sao nữa?",
+    "spoken": "Rồi sao nữa?",
+    "readings": [],
+    "style": "hỏi",
+    "tempo": 0.98,
+    "db": 0.4,
+    "gap": 0.2
+  },
+  {
+    "id": 12,
+    "group": 4,
+    "scene": "02",
+    "copy": "Rồi bạn đi kiếm cái bản đồ.",
+    "spoken": "Rồi bạn đi kiếm cái bản đồ.",
+    "readings": [],
+    "style": "tỉnh",
+    "tempo": 1.025,
+    "db": -0.9,
+    "gap": 0.36
+  },
+  {
+    "id": 13,
+    "group": 4,
+    "scene": "02",
+    "copy": "Hai anh em thấy hai việc ấy có thể làm ở cùng một chỗ, ngay trên màn hình máy tính. Công ty của họ sau này mang tên Zip2.",
+    "spoken": "Hai anh em thấy hai việc ấy có thể làm ở cùng một chỗ, ngay trên màn hình máy tính. Công ty của họ sau này mang tên Díp Tu.",
+    "readings": [
+      {
+        "start": 116,
+        "end": 120,
+        "original": "Zip2",
+        "spoken": "Díp Tu",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " của họ sau này mang tên Zip2."
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.35
+  },
+  {
+    "id": 14,
+    "group": 5,
+    "scene": "02",
+    "copy": "Thứ họ có trong văn phòng buổi đầu là một chiếc máy tính.",
+    "spoken": "Thứ họ có trong văn phòng buổi đầu là một chiếc máy tính.",
+    "readings": [],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.39
+  },
+  {
+    "id": 15,
+    "group": 5,
+    "scene": "02",
+    "copy": "Ban ngày, máy chạy trang web cho khách. Ban đêm, Elon lấy nó để viết chương trình.",
+    "spoken": "Ban ngày, máy chạy trang uép cho khách. Ban đêm, I lơn lấy nó để viết chương trình.",
+    "readings": [
+      {
+        "start": 25,
+        "end": 28,
+        "original": "web",
+        "spoken": "uép",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Ban ngày, máy chạy trang web cho khách. Ban đêm, Elon"
+      },
+      {
+        "start": 49,
+        "end": 53,
+        "original": "Elon",
+        "spoken": "I lơn",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " web cho khách. Ban đêm, Elon lấy nó để viết chương tr"
+      }
+    ],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.23
+  },
+  {
+    "id": 16,
+    "group": 6,
+    "scene": "02",
+    "copy": "Đến sợi dây mạng của họ cũng có một lối đi riêng. Nhà cung cấp Internet ở ngay tầng dưới. Musk kể hai anh em khoan một lỗ xuyên sàn để kéo dây lên.",
+    "spoken": "Đến sợi dây mạng của họ cũng có một lối đi riêng. Nhà cung cấp In tơ nét ở ngay tầng dưới. Mấc kể hai anh em khoan một lỗ xuyên sàn để kéo dây lên.",
+    "readings": [
+      {
+        "start": 63,
+        "end": 71,
+        "original": "Internet",
+        "spoken": "In tơ nét",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "i đi riêng. Nhà cung cấp Internet ở ngay tầng dưới. Musk k"
+      },
+      {
+        "start": 90,
+        "end": 94,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ternet ở ngay tầng dưới. Musk kể hai anh em khoan một "
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.33
+  },
+  {
+    "id": 17,
+    "group": 6,
+    "scene": "02",
+    "copy": "Còn chuyện về nhà sau giờ làm thì đơn giản hơn nữa. Ông ngủ trên chiếc ghế trong văn phòng, sáng đi tắm nhờ ở khu thể thao.",
+    "spoken": "Còn chuyện về nhà sau giờ làm thì đơn giản hơn nữa. Ông ngủ trên chiếc ghế trong văn phòng, sáng đi tắm nhờ ở khu thể thao.",
+    "readings": [],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.28
+  },
+  {
+    "id": 18,
+    "group": 6,
+    "scene": "02",
+    "copy": "Khách hàng dùng Zip2 để tìm đường. Còn đường truyền của Zip2?",
+    "spoken": "Khách hàng dùng Díp Tu để tìm đường. Còn đường truyền của Díp Tu?",
+    "readings": [
+      {
+        "start": 16,
+        "end": 20,
+        "original": "Zip2",
+        "spoken": "Díp Tu",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Khách hàng dùng Zip2 để tìm đường. Còn đường "
+      },
+      {
+        "start": 56,
+        "end": 60,
+        "original": "Zip2",
+        "spoken": "Díp Tu",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ng. Còn đường truyền của Zip2?"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.37
+  },
+  {
+    "id": 19,
+    "group": 6,
+    "scene": "02",
+    "copy": "Cứ lần theo cái lỗ trên sàn.",
+    "spoken": "Cứ lần theo cái lỗ trên sàn.",
+    "readings": [],
+    "style": "tỉnh",
+    "tempo": 1.025,
+    "db": -0.9,
+    "gap": 0.48
+  },
+  {
+    "id": 20,
+    "group": 7,
+    "scene": "02",
+    "copy": "Nhưng có bản đồ chạy được mới giải xong nửa bài toán. Ai chịu trả tiền để hai anh em tiếp tục làm?",
+    "spoken": "Nhưng có bản đồ chạy được mới giải xong nửa bài toán. Ai chịu trả tiền để hai anh em tiếp tục làm?",
+    "readings": [],
+    "style": "hỏi",
+    "tempo": 0.98,
+    "db": 0.4,
+    "gap": 0.61
+  },
+  {
+    "id": 21,
+    "group": 7,
+    "scene": "02",
+    "copy": "Một nhóm khách hàng xuất hiện từ chỗ ít ngờ tới: các tòa soạn báo.",
+    "spoken": "Một nhóm khách hàng xuất hiện từ chỗ ít ngờ tới: các tòa soạn báo.",
+    "readings": [],
+    "style": "đáp",
+    "tempo": 0.935,
+    "db": 0.65,
+    "gap": 0.44
+  },
+  {
+    "id": 22,
+    "group": 7,
+    "scene": "02",
+    "copy": "Họ đã biết nhà hàng nào mới mở, rạp nào đang chiếu phim, người dân trong vùng muốn đọc gì. Họ cần một cách đưa những thứ đó lên mạng.",
+    "spoken": "Họ đã biết nhà hàng nào mới mở, rạp nào đang chiếu phim, người dân trong vùng muốn đọc gì. Họ cần một cách đưa những thứ đó lên mạng.",
+    "readings": [],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.25
+  },
+  {
+    "id": 23,
+    "group": 7,
+    "scene": "02",
+    "copy": "Với phần mềm của Zip2, một tờ báo có thể mở cả cẩm nang thành phố trên trang của mình. Lần tới một độc giả cần tìm tiệm sửa xe, họ có thể ghé trang của tờ báo địa phương.",
+    "spoken": "Với phần mềm của Díp Tu, một tờ báo có thể mở cả cẩm nang thành phố trên trang của mình. Lần tới một độc giả cần tìm tiệm sửa xe, họ có thể ghé trang của tờ báo địa phương.",
+    "readings": [
+      {
+        "start": 17,
+        "end": 21,
+        "original": "Zip2",
+        "spoken": "Díp Tu",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Với phần mềm của Zip2, một tờ báo có thể mở cả"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.19
+  },
+  {
+    "id": 24,
+    "group": 7,
+    "scene": "02",
+    "copy": "Zip2 kiếm tiền nhờ bán cho tờ báo cái công cụ đứng phía sau lần tìm kiếm ấy.",
+    "spoken": "Díp Tu kiếm tiền nhờ bán cho tờ báo cái công cụ đứng phía sau lần tìm kiếm ấy.",
+    "readings": [
+      {
+        "start": 0,
+        "end": 4,
+        "original": "Zip2",
+        "spoken": "Díp Tu",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Zip2 kiếm tiền nhờ bán cho tờ"
+      }
+    ],
+    "style": "đáp",
+    "tempo": 0.935,
+    "db": 0.65,
+    "gap": 0.34
+  },
+  {
+    "id": 25,
+    "group": 8,
+    "scene": "02",
+    "copy": "Năm 1999, Compaq mua Zip2.",
+    "spoken": "Năm một nghìn chín trăm chín mươi chín, Com pắc mua Díp Tu.",
+    "readings": [
+      {
+        "start": 4,
+        "end": 8,
+        "original": "1999",
+        "spoken": "một nghìn chín trăm chín mươi chín",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Năm 1999, Compaq mua Zip2."
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "original": "Compaq",
+        "spoken": "Com pắc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Năm 1999, Compaq mua Zip2."
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "original": "Zip2",
+        "spoken": "Díp Tu",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Năm 1999, Compaq mua Zip2."
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.53
+  },
+  {
+    "id": 26,
+    "group": 8,
+    "scene": "02",
+    "copy": "Phần của Elon vào khoảng 22 triệu đô.",
+    "spoken": "Phần của I lơn vào khoảng hai mươi hai triệu đô.",
+    "readings": [
+      {
+        "start": 9,
+        "end": 13,
+        "original": "Elon",
+        "spoken": "I lơn",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Phần của Elon vào khoảng 22 triệu đô."
+      },
+      {
+        "start": 25,
+        "end": 27,
+        "original": "22",
+        "spoken": "hai mươi hai",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Phần của Elon vào khoảng 22 triệu đô."
+      }
+    ],
+    "style": "số",
+    "tempo": 0.94,
+    "db": 0.35,
+    "gap": 0.24
+  },
+  {
+    "id": 27,
+    "group": 8,
+    "scene": "02",
+    "copy": "Muốn biết đời ông đổi khác thế nào, có một thước phim còn hay hơn biểu đồ: CNN có mặt hôm một chiếc McLaren F1 được giao cho Musk.",
+    "spoken": "Muốn biết đời ông đổi khác thế nào, có một thước phim còn hay hơn biểu đồ: Xi En En có mặt hôm một chiếc Mắc La ren ép một được giao cho Mấc.",
+    "readings": [
+      {
+        "start": 75,
+        "end": 78,
+        "original": "CNN",
+        "spoken": "Xi En En",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "him còn hay hơn biểu đồ: CNN có mặt hôm một chiếc McL"
+      },
+      {
+        "start": 100,
+        "end": 110,
+        "original": "McLaren F1",
+        "spoken": "Mắc La ren ép một",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "CNN có mặt hôm một chiếc McLaren F1 được giao cho Musk."
+      },
+      {
+        "start": 125,
+        "end": 129,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "McLaren F1 được giao cho Musk."
+      }
+    ],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.39
+  },
+  {
+    "id": 28,
+    "group": 8,
+    "scene": "02",
+    "copy": "Mới mấy năm trước ông còn phải chờ hết ca của cái máy tính. Giờ có hẳn một đội truyền hình đến xem ông nhận chìa khóa xe.",
+    "spoken": "Mới mấy năm trước ông còn phải chờ hết ca của cái máy tính. Giờ có hẳn một đội truyền hình đến xem ông nhận chìa khóa xe.",
+    "readings": [],
+    "style": "tâm tình",
+    "tempo": 0.975,
+    "db": -0.5,
+    "gap": 0.25
+  },
+  {
+    "id": 29,
+    "group": 9,
+    "scene": "03",
+    "copy": "Chiếc McLaren là phần dễ chụp ảnh nhất của 22 triệu đô. Phần đáng theo dõi hơn nằm ở X.com, công ty tài chính trực tuyến Musk lập tiếp đó.",
+    "spoken": "Chiếc Mắc La ren là phần dễ chụp ảnh nhất của hai mươi hai triệu đô. Phần đáng theo dõi hơn nằm ở Ích chấm com, công ty tài chính trực tuyến Mấc lập tiếp đó.",
+    "readings": [
+      {
+        "start": 6,
+        "end": 13,
+        "original": "McLaren",
+        "spoken": "Mắc La ren",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Chiếc McLaren là phần dễ chụp ảnh nhất"
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "original": "22",
+        "spoken": "hai mươi hai",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "hần dễ chụp ảnh nhất của 22 triệu đô. Phần đáng theo"
+      },
+      {
+        "start": 85,
+        "end": 90,
+        "original": "X.com",
+        "spoken": "Ích chấm com",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " đáng theo dõi hơn nằm ở X.com, công ty tài chính trực "
+      },
+      {
+        "start": 121,
+        "end": 125,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " ty tài chính trực tuyến Musk lập tiếp đó."
+      }
+    ],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.73
+  },
+  {
+    "id": 30,
+    "group": 9,
+    "scene": "03",
+    "copy": "Ông muốn khách có thể làm việc với ngân hàng qua mạng. Hồi cuối thập niên chín mươi, gửi một bức thư qua máy tính đã khá tiện.",
+    "spoken": "Ông muốn khách có thể làm việc với ngân hàng qua mạng. Hồi cuối thập niên chín mươi, gửi một bức thư qua máy tính đã khá tiện.",
+    "readings": [],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.25
+  },
+  {
+    "id": 31,
+    "group": 9,
+    "scene": "03",
+    "copy": "Gửi kèm tiền cho người ở đầu kia lại là một câu chuyện dài.",
+    "spoken": "Gửi kèm tiền cho người ở đầu kia lại là một câu chuyện dài.",
+    "readings": [],
+    "style": "đáp",
+    "tempo": 0.935,
+    "db": 0.65,
+    "gap": 0.34
+  },
+  {
+    "id": 32,
+    "group": 10,
+    "scene": "03",
+    "copy": "Giả sử bạn vừa thắng đấu giá một chiếc máy ảnh cũ trên eBay. Bạn và người bán chưa từng gặp. Hai người ở hai thành phố khác nhau.",
+    "spoken": "Giả sử bạn vừa thắng đấu giá một chiếc máy ảnh cũ trên I bây. Bạn và người bán chưa từng gặp. Hai người ở hai thành phố khác nhau.",
+    "readings": [
+      {
+        "start": 55,
+        "end": 59,
+        "original": "eBay",
+        "spoken": "I bây",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ột chiếc máy ảnh cũ trên eBay. Bạn và người bán chưa t"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.48
+  },
+  {
+    "id": 33,
+    "group": 10,
+    "scene": "03",
+    "copy": "Chủ cũ giữ máy ảnh, bạn giữ tiền.",
+    "spoken": "Chủ cũ giữ máy ảnh, bạn giữ tiền.",
+    "readings": [],
+    "style": "nén",
+    "tempo": 1.035,
+    "db": -0.25,
+    "gap": 0.23
+  },
+  {
+    "id": 34,
+    "group": 10,
+    "scene": "03",
+    "copy": "Hai bên có thể gửi cho nhau bao nhiêu email tùy thích, chiếc máy ảnh vẫn nằm nguyên trên bàn nhà người ta. Thứ cả hai cần là một cách để người bán biết tiền đã tới và có thể gói hàng gửi đi.",
+    "spoken": "Hai bên có thể gửi cho nhau bao nhiêu i meo tùy thích, chiếc máy ảnh vẫn nằm nguyên trên bàn nhà người ta. Thứ cả hai cần là một cách để người bán biết tiền đã tới và có thể gói hàng gửi đi.",
+    "readings": [
+      {
+        "start": 38,
+        "end": 43,
+        "original": "email",
+        "spoken": "i meo",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ể gửi cho nhau bao nhiêu email tùy thích, chiếc máy ảnh"
+      }
+    ],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.27
+  },
+  {
+    "id": 35,
+    "group": 11,
+    "scene": "03",
+    "copy": "Một công ty khác tên Confinity làm ra sản phẩm PayPal, cho phép chuyển tiền cho người có địa chỉ email. X.com và Confinity sáp nhập vào năm 2000.",
+    "spoken": "Một công ty khác tên Cơn phi ni ti làm ra sản phẩm Pây Pal, cho phép chuyển tiền cho người có địa chỉ i meo. Ích chấm com và Cơn phi ni ti sáp nhập vào năm hai nghìn.",
+    "readings": [
+      {
+        "start": 21,
+        "end": 30,
+        "original": "Confinity",
+        "spoken": "Cơn phi ni ti",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Một công ty khác tên Confinity làm ra sản phẩm PayPal, "
+      },
+      {
+        "start": 47,
+        "end": 53,
+        "original": "PayPal",
+        "spoken": "Pây Pal",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "onfinity làm ra sản phẩm PayPal, cho phép chuyển tiền ch"
+      },
+      {
+        "start": 97,
+        "end": 102,
+        "original": "email",
+        "spoken": "i meo",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "iền cho người có địa chỉ email. X.com và Confinity sáp "
+      },
+      {
+        "start": 104,
+        "end": 109,
+        "original": "X.com",
+        "spoken": "Ích chấm com",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " người có địa chỉ email. X.com và Confinity sáp nhập và"
+      },
+      {
+        "start": 113,
+        "end": 122,
+        "original": "Confinity",
+        "spoken": "Cơn phi ni ti",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " địa chỉ email. X.com và Confinity sáp nhập vào năm 2000."
+      },
+      {
+        "start": 140,
+        "end": 144,
+        "original": "2000",
+        "spoken": "hai nghìn",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "nfinity sáp nhập vào năm 2000."
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.36
+  },
+  {
+    "id": 36,
+    "group": 11,
+    "scene": "03",
+    "copy": "Musk muốn làm ngân hàng. Đội Confinity mang đến công cụ thanh toán.",
+    "spoken": "Mấc muốn làm ngân hàng. Đội Cơn phi ni ti mang đến công cụ thanh toán.",
+    "readings": [
+      {
+        "start": 0,
+        "end": 4,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Musk muốn làm ngân hàng. Đội "
+      },
+      {
+        "start": 29,
+        "end": 38,
+        "original": "Confinity",
+        "spoken": "Cơn phi ni ti",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " muốn làm ngân hàng. Đội Confinity mang đến công cụ thanh t"
+      }
+    ],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.26
+  },
+  {
+    "id": 37,
+    "group": 11,
+    "scene": "03",
+    "copy": "Còn anh bán máy ảnh chỉ có mỗi một câu hỏi. Tiền vào chưa, để tôi còn gửi hàng?",
+    "spoken": "Còn anh bán máy ảnh chỉ có mỗi một câu hỏi. Tiền vào chưa, để tôi còn gửi hàng?",
+    "readings": [],
+    "style": "hỏi",
+    "tempo": 0.98,
+    "db": 0.4,
+    "gap": 0.32
+  },
+  {
+    "id": 38,
+    "group": 11,
+    "scene": "03",
+    "copy": "Những người như anh có lý do để quay lại dùng PayPal sau mỗi lần đấu giá.",
+    "spoken": "Những người như anh có lý do để quay lại dùng Pây Pal sau mỗi lần đấu giá.",
+    "readings": [
+      {
+        "start": 46,
+        "end": 52,
+        "original": "PayPal",
+        "spoken": "Pây Pal",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ó lý do để quay lại dùng PayPal sau mỗi lần đấu giá."
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.32
+  },
+  {
+    "id": 39,
+    "group": 12,
+    "scene": "03",
+    "copy": "Giờ thử đứng về phía hãng thanh toán. Bạn làm ra một dịch vụ chuyển tiền, nhưng người đầu tiên mở tài khoản định chuyển cho ai nếu bạn bè họ đều chưa dùng?",
+    "spoken": "Giờ thử đứng về phía hãng thanh toán. Bạn làm ra một dịch vụ chuyển tiền, nhưng người đầu tiên mở tài khoản định chuyển cho ai nếu bạn bè họ đều chưa dùng?",
+    "readings": [],
+    "style": "hỏi",
+    "tempo": 0.98,
+    "db": 0.4,
+    "gap": 0.5
+  },
+  {
+    "id": 40,
+    "group": 12,
+    "scene": "03",
+    "copy": "PayPal từng trả thưởng từ năm tới mười đô cho người mở tài khoản đủ điều kiện, rồi trả thưởng cả cho người giới thiệu.",
+    "spoken": "Pây Pal từng trả thưởng từ năm tới mười đô cho người mở tài khoản đủ điều kiện, rồi trả thưởng cả cho người giới thiệu.",
+    "readings": [
+      {
+        "start": 0,
+        "end": 6,
+        "original": "PayPal",
+        "spoken": "Pây Pal",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "PayPal từng trả thưởng từ năm t"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.3
+  },
+  {
+    "id": 41,
+    "group": 12,
+    "scene": "03",
+    "copy": "Mở tài khoản xong, nhìn vào đã thấy tiền.",
+    "spoken": "Mở tài khoản xong, nhìn vào đã thấy tiền.",
+    "readings": [],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.3
+  },
+  {
+    "id": 42,
+    "group": 12,
+    "scene": "03",
+    "copy": "Phần hướng dẫn sử dụng đến đây coi như xong được một nửa.",
+    "spoken": "Phần hướng dẫn sử dụng đến đây coi như xong được một nửa.",
+    "readings": [],
+    "style": "tỉnh",
+    "tempo": 1.025,
+    "db": -0.9,
+    "gap": 0.32
+  },
+  {
+    "id": 43,
+    "group": 12,
+    "scene": "03",
+    "copy": "Đến khi cả người bán lẫn người mua đã dùng được, chính các giao dịch của họ mới là thứ khiến mạng lưới ấy có giá trị.",
+    "spoken": "Đến khi cả người bán lẫn người mua đã dùng được, chính các giao dịch của họ mới là thứ khiến mạng lưới ấy có giá trị.",
+    "readings": [],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.42
+  },
+  {
+    "id": 44,
+    "group": 13,
+    "scene": "03",
+    "copy": "Tháng 9 năm 2000, Peter Thiel trở lại điều hành công ty. Musk rời ghế tổng giám đốc.",
+    "spoken": "Tháng chín năm hai nghìn, Pi tơ Thiêu trở lại điều hành công ty. Mấc rời ghế tổng giám đốc.",
+    "readings": [
+      {
+        "start": 6,
+        "end": 7,
+        "original": "9",
+        "spoken": "chín",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Tháng 9 năm 2000, Peter Thiel tr"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "original": "2000",
+        "spoken": "hai nghìn",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Tháng 9 năm 2000, Peter Thiel trở lại điề"
+      },
+      {
+        "start": 18,
+        "end": 29,
+        "original": "Peter Thiel",
+        "spoken": "Pi tơ Thiêu",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Tháng 9 năm 2000, Peter Thiel trở lại điều hành công t"
+      },
+      {
+        "start": 57,
+        "end": 61,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ở lại điều hành công ty. Musk rời ghế tổng giám đốc."
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.71
+  },
+  {
+    "id": 45,
+    "group": 13,
+    "scene": "03",
+    "copy": "Ghế giám đốc đổi chủ. Cổ phần của ông thì vẫn nằm đấy.",
+    "spoken": "Ghế giám đốc đổi chủ. Cổ phần của ông thì vẫn nằm đấy.",
+    "readings": [],
+    "style": "nén",
+    "tempo": 1.035,
+    "db": -0.25,
+    "gap": 0.43
+  },
+  {
+    "id": 46,
+    "group": 13,
+    "scene": "03",
+    "copy": "Hai năm sau, chi tiết đó mới đáng tiền.",
+    "spoken": "Hai năm sau, chi tiết đó mới đáng tiền.",
+    "readings": [],
+    "style": "thủ thỉ",
+    "tempo": 0.94,
+    "db": -1.15,
+    "gap": 0.49
+  },
+  {
+    "id": 47,
+    "group": 14,
+    "scene": "03",
+    "copy": "Rồi chính eBay mua PayPal. Tháng 10 năm 2002, thương vụ hoàn tất, trị giá khoảng một tỷ rưỡi đô la.",
+    "spoken": "Rồi chính I bây mua Pây Pal. Tháng mười năm hai nghìn lẻ hai, thương vụ hoàn tất, trị giá khoảng một tỷ rưỡi đô la.",
+    "readings": [
+      {
+        "start": 10,
+        "end": 14,
+        "original": "eBay",
+        "spoken": "I bây",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Rồi chính eBay mua PayPal. Tháng 10 năm"
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "original": "PayPal",
+        "spoken": "Pây Pal",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Rồi chính eBay mua PayPal. Tháng 10 năm 2002, thươ"
+      },
+      {
+        "start": 33,
+        "end": 35,
+        "original": "10",
+        "spoken": "mười",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "h eBay mua PayPal. Tháng 10 năm 2002, thương vụ hoàn"
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "original": "2002",
+        "spoken": "hai nghìn lẻ hai",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "mua PayPal. Tháng 10 năm 2002, thương vụ hoàn tất, trị"
+      }
+    ],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.51
+  },
+  {
+    "id": 48,
+    "group": 14,
+    "scene": "03",
+    "copy": "Một tỷ rưỡi là giá eBay trả bằng cổ phiếu để mua cả PayPal. Trong số những người được hưởng có cả vị giám đốc đã rời ghế hai năm trước.",
+    "spoken": "Một tỷ rưỡi là giá I bây trả bằng cổ phiếu để mua cả Pây Pal. Trong số những người được hưởng có cả vị giám đốc đã rời ghế hai năm trước.",
+    "readings": [
+      {
+        "start": 19,
+        "end": 23,
+        "original": "eBay",
+        "spoken": "I bây",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Một tỷ rưỡi là giá eBay trả bằng cổ phiếu để mua"
+      },
+      {
+        "start": 52,
+        "end": 58,
+        "original": "PayPal",
+        "spoken": "Pây Pal",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " bằng cổ phiếu để mua cả PayPal. Trong số những người đư"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.22
+  },
+  {
+    "id": 49,
+    "group": 15,
+    "scene": "03",
+    "copy": "Phần của Musk là bao nhiêu?",
+    "spoken": "Phần của Mấc là bao nhiêu?",
+    "readings": [
+      {
+        "start": 9,
+        "end": 13,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Phần của Musk là bao nhiêu?"
+      }
+    ],
+    "style": "hỏi",
+    "tempo": 0.98,
+    "db": 0.4,
+    "gap": 0.42
+  },
+  {
+    "id": 50,
+    "group": 15,
+    "scene": "03",
+    "copy": "Theo ông kể lại, sau thuế, khoảng 180 triệu đô.",
+    "spoken": "Theo ông kể lại, sau thuế, khoảng một trăm tám mươi triệu đô.",
+    "readings": [
+      {
+        "start": 34,
+        "end": 37,
+        "original": "180",
+        "spoken": "một trăm tám mươi",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "kể lại, sau thuế, khoảng 180 triệu đô."
+      }
+    ],
+    "style": "số",
+    "tempo": 0.94,
+    "db": 0.35,
+    "gap": 0.61
+  },
+  {
+    "id": 51,
+    "group": 16,
+    "scene": "03",
+    "copy": "Đến đây ông đã có thừa tiền để sống cùng chiếc xe mình thích.",
+    "spoken": "Đến đây ông đã có thừa tiền để sống cùng chiếc xe mình thích.",
+    "readings": [],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.43
+  },
+  {
+    "id": 52,
+    "group": 16,
+    "scene": "03",
+    "copy": "Nhưng đây mới là khoản khó tin trong chuyện chi tiêu của ông. Musk nói có lúc ông đã phải đi vay tiền trả tiền thuê nhà.",
+    "spoken": "Nhưng đây mới là khoản khó tin trong chuyện chi tiêu của ông. Mấc nói có lúc ông đã phải đi vay tiền trả tiền thuê nhà.",
+    "readings": [
+      {
+        "start": 62,
+        "end": 66,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "chuyện chi tiêu của ông. Musk nói có lúc ông đã phải đ"
+      }
+    ],
+    "style": "thủ thỉ",
+    "tempo": 0.94,
+    "db": -1.15,
+    "gap": 0.34
+  },
+  {
+    "id": 53,
+    "group": 16,
+    "scene": "03",
+    "copy": "Muốn nối hai chuyện ấy với nhau, ta phải nhìn vào ba chỗ số tiền đã đi tới.",
+    "spoken": "Muốn nối hai chuyện ấy với nhau, ta phải nhìn vào ba chỗ số tiền đã đi tới.",
+    "readings": [],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.48
+  },
+  {
+    "id": 54,
+    "group": 17,
+    "scene": "04",
+    "copy": "Musk kể lại các khoản ông đã bỏ ra qua nhiều năm như sau.",
+    "spoken": "Mấc kể lại các khoản ông đã bỏ ra qua nhiều năm như sau.",
+    "readings": [
+      {
+        "start": 0,
+        "end": 4,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Musk kể lại các khoản ông đã "
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.65
+  },
+  {
+    "id": 55,
+    "group": 17,
+    "scene": "04",
+    "copy": "SpaceX, khoảng 100 triệu đô.",
+    "spoken": "Spây Xếch, khoảng một trăm triệu đô.",
+    "readings": [
+      {
+        "start": 0,
+        "end": 6,
+        "original": "SpaceX",
+        "spoken": "Spây Xếch",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "SpaceX, khoảng 100 triệu đô."
+      },
+      {
+        "start": 15,
+        "end": 18,
+        "original": "100",
+        "spoken": "một trăm",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "SpaceX, khoảng 100 triệu đô."
+      }
+    ],
+    "style": "số",
+    "tempo": 0.94,
+    "db": 0.35,
+    "gap": 0.23
+  },
+  {
+    "id": 56,
+    "group": 17,
+    "scene": "04",
+    "copy": "Tesla, khoảng 70 triệu.",
+    "spoken": "Tét sla, khoảng bảy mươi triệu.",
+    "readings": [
+      {
+        "start": 0,
+        "end": 5,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Tesla, khoảng 70 triệu."
+      },
+      {
+        "start": 14,
+        "end": 16,
+        "original": "70",
+        "spoken": "bảy mươi",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Tesla, khoảng 70 triệu."
+      }
+    ],
+    "style": "số",
+    "tempo": 0.94,
+    "db": 0.35,
+    "gap": 0.24
+  },
+  {
+    "id": 57,
+    "group": 17,
+    "scene": "04",
+    "copy": "SolarCity, khoảng 10 triệu.",
+    "spoken": "Sô la Xi ti, khoảng mười triệu.",
+    "readings": [
+      {
+        "start": 0,
+        "end": 9,
+        "original": "SolarCity",
+        "spoken": "Sô la Xi ti",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "SolarCity, khoảng 10 triệu."
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "original": "10",
+        "spoken": "mười",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "SolarCity, khoảng 10 triệu."
+      }
+    ],
+    "style": "số",
+    "tempo": 0.94,
+    "db": 0.35,
+    "gap": 0.32
+  },
+  {
+    "id": 58,
+    "group": 17,
+    "scene": "04",
+    "copy": "Ba khoản ráp lại vừa khít. Hẳn ông đã tính kỹ từ đầu?",
+    "spoken": "Ba khoản ráp lại vừa khít. Hẳn ông đã tính kỹ từ đầu?",
+    "readings": [],
+    "style": "hỏi",
+    "tempo": 0.98,
+    "db": 0.4,
+    "gap": 0.47
+  },
+  {
+    "id": 59,
+    "group": 18,
+    "scene": "04",
+    "copy": "Riêng tiền làm tên lửa, ông nhớ mình dự trù có 50 triệu thôi.",
+    "spoken": "Riêng tiền làm tên lửa, ông nhớ mình dự trù có năm mươi triệu thôi.",
+    "readings": [
+      {
+        "start": 47,
+        "end": 49,
+        "original": "50",
+        "spoken": "năm mươi",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": ", ông nhớ mình dự trù có 50 triệu thôi."
+      }
+    ],
+    "style": "tỉnh",
+    "tempo": 1.025,
+    "db": -0.9,
+    "gap": 0.55
+  },
+  {
+    "id": 60,
+    "group": 19,
+    "scene": "04",
+    "copy": "Vì sao một người vừa bán xong công ty thanh toán lại muốn đụng đến tên lửa?",
+    "spoken": "Vì sao một người vừa bán xong công ty thanh toán lại muốn đụng đến tên lửa?",
+    "readings": [],
+    "style": "hỏi",
+    "tempo": 0.98,
+    "db": 0.4,
+    "gap": 0.57
+  },
+  {
+    "id": 61,
+    "group": 19,
+    "scene": "04",
+    "copy": "Theo lời ông kể, một trong những ý tưởng thuở đầu là gửi một nhà kính nhỏ lên sao Hỏa. Thứ ông hình dung công chúng sẽ nhìn thấy là màu xanh của cây trên một hành tinh đỏ.",
+    "spoken": "Theo lời ông kể, một trong những ý tưởng thuở đầu là gửi một nhà kính nhỏ lên sao Hỏa. Thứ ông hình dung công chúng sẽ nhìn thấy là màu xanh của cây trên một hành tinh đỏ.",
+    "readings": [],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.25
+  },
+  {
+    "id": 62,
+    "group": 19,
+    "scene": "04",
+    "copy": "Nghe rất có hình. Đến phần tìm phương tiện chở cái nhà kính đi, bài toán đổi hẳn.",
+    "spoken": "Nghe rất có hình. Đến phần tìm phương tiện chở cái nhà kính đi, bài toán đổi hẳn.",
+    "readings": [],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.23
+  },
+  {
+    "id": 63,
+    "group": 19,
+    "scene": "04",
+    "copy": "Sau những chuyến đi hỏi mua tên lửa, ông quay lại với ý định tự lập công ty làm phương tiện đưa đồ lên không gian. SpaceX ra đời năm 2002.",
+    "spoken": "Sau những chuyến đi hỏi mua tên lửa, ông quay lại với ý định tự lập công ty làm phương tiện đưa đồ lên không gian. Spây Xếch ra đời năm hai nghìn lẻ hai.",
+    "readings": [
+      {
+        "start": 115,
+        "end": 121,
+        "original": "SpaceX",
+        "spoken": "Spây Xếch",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "n đưa đồ lên không gian. SpaceX ra đời năm 2002."
+      },
+      {
+        "start": 133,
+        "end": 137,
+        "original": "2002",
+        "spoken": "hai nghìn lẻ hai",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " gian. SpaceX ra đời năm 2002."
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.31
+  },
+  {
+    "id": 64,
+    "group": 19,
+    "scene": "04",
+    "copy": "Chặng đầu của công ty là đưa được một vật vào quỹ đạo quanh Trái Đất. Cái nhà kính còn xa lắm.",
+    "spoken": "Chặng đầu của công ty là đưa được một vật vào quỹ đạo quanh Trái Đất. Cái nhà kính còn xa lắm.",
+    "readings": [],
+    "style": "tâm tình",
+    "tempo": 0.975,
+    "db": -0.5,
+    "gap": 0.3
+  },
+  {
+    "id": 65,
+    "group": 20,
+    "scene": "04",
+    "copy": "Còn Tesla? Musk bỏ vốn từ sớm, vào hội đồng quản trị năm 2004, bốn năm sau mới giữ chức tổng giám đốc.",
+    "spoken": "Còn Tét sla? Mấc bỏ vốn từ sớm, vào hội đồng quản trị năm hai nghìn lẻ bốn, bốn năm sau mới giữ chức tổng giám đốc.",
+    "readings": [
+      {
+        "start": 4,
+        "end": 9,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Còn Tesla? Musk bỏ vốn từ sớm, vào"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Còn Tesla? Musk bỏ vốn từ sớm, vào hội đ"
+      },
+      {
+        "start": 57,
+        "end": 61,
+        "original": "2004",
+        "spoken": "hai nghìn lẻ bốn",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ào hội đồng quản trị năm 2004, bốn năm sau mới giữ chứ"
+      }
+    ],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.53
+  },
+  {
+    "id": 66,
+    "group": 20,
+    "scene": "04",
+    "copy": "Hãng bắt đầu với chiếc xe thể thao chạy điện Roadster. Để người ta hiểu một chiếc xe điện cũng có thể khiến họ muốn ngồi vào ghế lái, mang một chiếc xe thật ra trước mặt họ có lý hơn là đứng nói về tương lai cả buổi.",
+    "spoken": "Hãng bắt đầu với chiếc xe thể thao chạy điện Rốt stơ. Để người ta hiểu một chiếc xe điện cũng có thể khiến họ muốn ngồi vào ghế lái, mang một chiếc xe thật ra trước mặt họ có lý hơn là đứng nói về tương lai cả buổi.",
+    "readings": [
+      {
+        "start": 45,
+        "end": 53,
+        "original": "Roadster",
+        "spoken": "Rốt stơ",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ếc xe thể thao chạy điện Roadster. Để người ta hiểu một ch"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.19
+  },
+  {
+    "id": 67,
+    "group": 20,
+    "scene": "04",
+    "copy": "Năm 2006 có một câu hỏi mà chính Musk phải lên tiếng giải thích. Tesla muốn nhiều người đi xe điện.",
+    "spoken": "Năm hai nghìn lẻ sáu có một câu hỏi mà chính Mấc phải lên tiếng giải thích. Tét sla muốn nhiều người đi xe điện.",
+    "readings": [
+      {
+        "start": 4,
+        "end": 8,
+        "original": "2006",
+        "spoken": "hai nghìn lẻ sáu",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Năm 2006 có một câu hỏi mà chính "
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " có một câu hỏi mà chính Musk phải lên tiếng giải thíc"
+      },
+      {
+        "start": 65,
+        "end": 70,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ải lên tiếng giải thích. Tesla muốn nhiều người đi xe đ"
+      }
+    ],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.36
+  },
+  {
+    "id": 68,
+    "group": 20,
+    "scene": "04",
+    "copy": "Thế sao chiếc đầu tiên lại đắt đến mức ít người mua nổi?",
+    "spoken": "Thế sao chiếc đầu tiên lại đắt đến mức ít người mua nổi?",
+    "readings": [],
+    "style": "hỏi",
+    "tempo": 0.98,
+    "db": 0.4,
+    "gap": 0.25
+  },
+  {
+    "id": 69,
+    "group": 20,
+    "scene": "04",
+    "copy": "Đại ý là ở quy mô nhỏ, mỗi chiếc làm ra còn quá tốn kém. Hãy bán cho nhóm khách đủ tiền mua xe thể thao trước, dùng số tiền và kinh nghiệm thu được để phát triển chiếc rẻ hơn, rồi mới đến chiếc rẻ hơn nữa.",
+    "spoken": "Đại ý là ở quy mô nhỏ, mỗi chiếc làm ra còn quá tốn kém. Hãy bán cho nhóm khách đủ tiền mua xe thể thao trước, dùng số tiền và kinh nghiệm thu được để phát triển chiếc rẻ hơn, rồi mới đến chiếc rẻ hơn nữa.",
+    "readings": [],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.34
+  },
+  {
+    "id": 70,
+    "group": 20,
+    "scene": "04",
+    "copy": "Musk giải thích hết chuyện này trong một bài viết. Ông đặt tên cho nó là kế hoạch bí mật của Tesla.",
+    "spoken": "Mấc giải thích hết chuyện này trong một bài viết. Ông đặt tên cho nó là kế hoạch bí mật của Tét sla.",
+    "readings": [
+      {
+        "start": 0,
+        "end": 4,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Musk giải thích hết chuyện nà"
+      },
+      {
+        "start": 93,
+        "end": 98,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ó là kế hoạch bí mật của Tesla."
+      }
+    ],
+    "style": "tâm tình",
+    "tempo": 0.975,
+    "db": -0.5,
+    "gap": 0.51
+  },
+  {
+    "id": 71,
+    "group": 21,
+    "scene": "04",
+    "copy": "Rồi ông đăng lên mạng.",
+    "spoken": "Rồi ông đăng lên mạng.",
+    "readings": [],
+    "style": "tỉnh",
+    "tempo": 1.025,
+    "db": -0.9,
+    "gap": 0.64
+  },
+  {
+    "id": 72,
+    "group": 22,
+    "scene": "04",
+    "copy": "Đó là lời hẹn mà những người bỏ tiền vào Tesla có thể quay lại kiểm tra. Bán được một chiếc Roadster chứng tỏ có người chịu chi cho xe thể thao chạy điện.",
+    "spoken": "Đó là lời hẹn mà những người bỏ tiền vào Tét sla có thể quay lại kiểm tra. Bán được một chiếc Rốt stơ chứng tỏ có người chịu chi cho xe thể thao chạy điện.",
+    "readings": [
+      {
+        "start": 41,
+        "end": 46,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " những người bỏ tiền vào Tesla có thể quay lại kiểm tra"
+      },
+      {
+        "start": 92,
+        "end": 100,
+        "original": "Roadster",
+        "spoken": "Rốt stơ",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " tra. Bán được một chiếc Roadster chứng tỏ có người chịu c"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.71
+  },
+  {
+    "id": 73,
+    "group": 22,
+    "scene": "04",
+    "copy": "Bước khó hơn là biến số tiền đó thành chiếc xe tiếp theo và giao được xe cho khách. Hãng vừa phải xoay tiền cho những chiếc đang làm, vừa phải tìm tiền cho mẫu còn trên bản vẽ.",
+    "spoken": "Bước khó hơn là biến số tiền đó thành chiếc xe tiếp theo và giao được xe cho khách. Hãng vừa phải xoay tiền cho những chiếc đang làm, vừa phải tìm tiền cho mẫu còn trên bản vẽ.",
+    "readings": [],
+    "style": "nén",
+    "tempo": 1.035,
+    "db": -0.25,
+    "gap": 0.37
+  },
+  {
+    "id": 74,
+    "group": 23,
+    "scene": "04",
+    "copy": "Hãy để ý điều vừa đổi đối với Musk. Với Zip2, ông có thể chờ khách dùng xong rồi ngồi vào chính cái máy ấy sửa tiếp.",
+    "spoken": "Hãy để ý điều vừa đổi đối với Mấc. Với Díp Tu, ông có thể chờ khách dùng xong rồi ngồi vào chính cái máy ấy sửa tiếp.",
+    "readings": [
+      {
+        "start": 30,
+        "end": 34,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ể ý điều vừa đổi đối với Musk. Với Zip2, ông có thể ch"
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "original": "Zip2",
+        "spoken": "Díp Tu",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ừa đổi đối với Musk. Với Zip2, ông có thể chờ khách dù"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.44
+  },
+  {
+    "id": 75,
+    "group": 23,
+    "scene": "04",
+    "copy": "Ở Tesla, mỗi chiếc xe giao đi mang theo pin, thân xe, linh kiện đã phải mua và lắp cho khách. Còn ở SpaceX, mỗi lần thử là một quả tên lửa thật rời khỏi bệ.",
+    "spoken": "Ở Tét sla, mỗi chiếc xe giao đi mang theo pin, thân xe, linh kiện đã phải mua và lắp cho khách. Còn ở Spây Xếch, mỗi lần thử là một quả tên lửa thật rời khỏi bệ.",
+    "readings": [
+      {
+        "start": 2,
+        "end": 7,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Ở Tesla, mỗi chiếc xe giao đi ma"
+      },
+      {
+        "start": 100,
+        "end": 106,
+        "original": "SpaceX",
+        "spoken": "Spây Xếch",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " và lắp cho khách. Còn ở SpaceX, mỗi lần thử là một quả "
+      }
+    ],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.23
+  },
+  {
+    "id": 76,
+    "group": 23,
+    "scene": "04",
+    "copy": "Nếu chuyến bay hỏng, hôm sau đội kỹ sư có thể mở lại bản thiết kế.",
+    "spoken": "Nếu chuyến bay hỏng, hôm sau đội kỹ sư có thể mở lại bản thiết kế.",
+    "readings": [],
+    "style": "thủ thỉ",
+    "tempo": 0.94,
+    "db": -1.15,
+    "gap": 0.43
+  },
+  {
+    "id": 77,
+    "group": 24,
+    "scene": "04",
+    "copy": "Vẫn còn phần nhỏ nhất, SolarCity, công ty năng lượng mặt trời do những người anh em họ của ông gây dựng. Musk đầu tư vào đó. Mười triệu đô dễ lọt thỏm trên hình khi đặt cạnh cả trăm triệu.",
+    "spoken": "Vẫn còn phần nhỏ nhất, Sô la Xi ti, công ty năng lượng mặt trời do những người anh em họ của ông gây dựng. Mấc đầu tư vào đó. Mười triệu đô dễ lọt thỏm trên hình khi đặt cạnh cả trăm triệu.",
+    "readings": [
+      {
+        "start": 23,
+        "end": 32,
+        "original": "SolarCity",
+        "spoken": "Sô la Xi ti",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Vẫn còn phần nhỏ nhất, SolarCity, công ty năng lượng mặt "
+      },
+      {
+        "start": 105,
+        "end": 109,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " em họ của ông gây dựng. Musk đầu tư vào đó. Mười triệ"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.58
+  },
+  {
+    "id": 78,
+    "group": 24,
+    "scene": "04",
+    "copy": "Nhớ lấy phần nhỏ ấy. Đến cuối câu chuyện, muốn tính gia tài của ông, ta còn phải quay lại tìm nó.",
+    "spoken": "Nhớ lấy phần nhỏ ấy. Đến cuối câu chuyện, muốn tính gia tài của ông, ta còn phải quay lại tìm nó.",
+    "readings": [],
+    "style": "tâm tình",
+    "tempo": 0.975,
+    "db": -0.5,
+    "gap": 0.38
+  },
+  {
+    "id": 79,
+    "group": 25,
+    "scene": "05",
+    "copy": "Năm 2008. Bên SpaceX vừa hỏng quả tên lửa thứ ba. Bên Tesla, kế hoạch gọi vốn cũng vừa đổ bể.",
+    "spoken": "Năm hai nghìn lẻ tám. Bên Spây Xếch vừa hỏng quả tên lửa thứ ba. Bên Tét sla, kế hoạch gọi vốn cũng vừa đổ bể.",
+    "readings": [
+      {
+        "start": 4,
+        "end": 8,
+        "original": "2008",
+        "spoken": "hai nghìn lẻ tám",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Năm 2008. Bên SpaceX vừa hỏng quả"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "original": "SpaceX",
+        "spoken": "Spây Xếch",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Năm 2008. Bên SpaceX vừa hỏng quả tên lửa thứ"
+      },
+      {
+        "start": 54,
+        "end": 59,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " quả tên lửa thứ ba. Bên Tesla, kế hoạch gọi vốn cũng v"
+      }
+    ],
+    "style": "nén",
+    "tempo": 1.035,
+    "db": -0.25,
+    "gap": 0.77
+  },
+  {
+    "id": 80,
+    "group": 25,
+    "scene": "05",
+    "copy": "Nếu một việc xảy ra sớm hơn, Musk ít ra còn có thể đợi xem kết quả ở một bên rồi mới quyết định với bên kia.",
+    "spoken": "Nếu một việc xảy ra sớm hơn, Mấc ít ra còn có thể đợi xem kết quả ở một bên rồi mới quyết định với bên kia.",
+    "readings": [
+      {
+        "start": 29,
+        "end": 33,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "một việc xảy ra sớm hơn, Musk ít ra còn có thể đợi xem"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.34
+  },
+  {
+    "id": 81,
+    "group": 25,
+    "scene": "05",
+    "copy": "Đằng này cả hai cùng cần tiền trong lúc những người mà ông định hỏi vay, hỏi góp vốn cũng đang phải lo giữ tiền của họ.",
+    "spoken": "Đằng này cả hai cùng cần tiền trong lúc những người mà ông định hỏi vay, hỏi góp vốn cũng đang phải lo giữ tiền của họ.",
+    "readings": [],
+    "style": "nén",
+    "tempo": 1.035,
+    "db": -0.25,
+    "gap": 0.23
+  },
+  {
+    "id": 82,
+    "group": 26,
+    "scene": "05",
+    "copy": "Trong một cuộc phỏng vấn, Musk kể lại cái khó của việc chia khoản vốn còn lại.",
+    "spoken": "Trong một cuộc phỏng vấn, Mấc kể lại cái khó của việc chia khoản vốn còn lại.",
+    "readings": [
+      {
+        "start": 26,
+        "end": 30,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "rong một cuộc phỏng vấn, Musk kể lại cái khó của việc "
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.4
+  },
+  {
+    "id": 83,
+    "group": 26,
+    "scene": "05",
+    "copy": "Dồn cho một bên thì cơ hội sống của bên ấy tốt hơn, nhưng bên kia lấy gì mà làm tiếp?",
+    "spoken": "Dồn cho một bên thì cơ hội sống của bên ấy tốt hơn, nhưng bên kia lấy gì mà làm tiếp?",
+    "readings": [],
+    "style": "hỏi",
+    "tempo": 0.98,
+    "db": 0.4,
+    "gap": 0.31
+  },
+  {
+    "id": 84,
+    "group": 26,
+    "scene": "05",
+    "copy": "Chia cho cả hai thì có thể mất luôn cả hai.",
+    "spoken": "Chia cho cả hai thì có thể mất luôn cả hai.",
+    "readings": [],
+    "style": "nén",
+    "tempo": 1.035,
+    "db": -0.25,
+    "gap": 0.31
+  },
+  {
+    "id": 85,
+    "group": 26,
+    "scene": "05",
+    "copy": "Nghe kể từ năm 2012, ta rất dễ chọn hộ ông: cứ giữ cả hai đi, sau này công ty nào cũng đáng tiền cả.",
+    "spoken": "Nghe kể từ năm hai nghìn mười hai, ta rất dễ chọn hộ ông: cứ giữ cả hai đi, sau này công ty nào cũng đáng tiền cả.",
+    "readings": [
+      {
+        "start": 15,
+        "end": 19,
+        "original": "2012",
+        "spoken": "hai nghìn mười hai",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Nghe kể từ năm 2012, ta rất dễ chọn hộ ông: "
+      }
+    ],
+    "style": "tâm tình",
+    "tempo": 0.975,
+    "db": -0.5,
+    "gap": 0.44
+  },
+  {
+    "id": 86,
+    "group": 26,
+    "scene": "05",
+    "copy": "Thử ngồi lại ở năm 2008 xem. Trước mặt là ba lần phóng hỏng và một hãng ô tô đang đi tìm người viết tấm séc kế tiếp.",
+    "spoken": "Thử ngồi lại ở năm hai nghìn lẻ tám xem. Trước mặt là ba lần phóng hỏng và một hãng ô tô đang đi tìm người viết tấm séc kế tiếp.",
+    "readings": [
+      {
+        "start": 19,
+        "end": 23,
+        "original": "2008",
+        "spoken": "hai nghìn lẻ tám",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Thử ngồi lại ở năm 2008 xem. Trước mặt là ba lần"
+      }
+    ],
+    "style": "nén",
+    "tempo": 1.035,
+    "db": -0.25,
+    "gap": 0.4
+  },
+  {
+    "id": 87,
+    "group": 26,
+    "scene": "05",
+    "copy": "Nếu đó là tiền của bạn, bạn sẽ ký cho bên nào trước?",
+    "spoken": "Nếu đó là tiền của bạn, bạn sẽ ký cho bên nào trước?",
+    "readings": [],
+    "style": "hỏi",
+    "tempo": 0.98,
+    "db": 0.4,
+    "gap": 0.52
+  },
+  {
+    "id": 88,
+    "group": 27,
+    "scene": "05",
+    "copy": "Trở lại hòn đảo đầu phim.",
+    "spoken": "Trở lại hòn đảo đầu phim.",
+    "readings": [],
+    "style": "thủ thỉ",
+    "tempo": 0.94,
+    "db": -1.15,
+    "gap": 0.93
+  },
+  {
+    "id": 89,
+    "group": 28,
+    "scene": "05",
+    "copy": "Ngày 28 tháng 9 theo giờ quốc tế. Trong quả Falcon 1 lần này có một khối mô phỏng tải trọng.",
+    "spoken": "Ngày hai mươi tám tháng chín theo giờ quốc tế. Trong quả Phan cơn một lần này có một khối mô phỏng tải trọng.",
+    "readings": [
+      {
+        "start": 5,
+        "end": 7,
+        "original": "28",
+        "spoken": "hai mươi tám",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Ngày 28 tháng 9 theo giờ quốc tế"
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "original": "9",
+        "spoken": "chín",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Ngày 28 tháng 9 theo giờ quốc tế. Trong "
+      },
+      {
+        "start": 44,
+        "end": 52,
+        "original": "Falcon 1",
+        "spoken": "Phan cơn một",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "o giờ quốc tế. Trong quả Falcon 1 lần này có một khối mô p"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.37
+  },
+  {
+    "id": 90,
+    "group": 28,
+    "scene": "05",
+    "copy": "Nghe hơi lạ với một chuyến bay tốn đến thế.",
+    "spoken": "Nghe hơi lạ với một chuyến bay tốn đến thế.",
+    "readings": [],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.28
+  },
+  {
+    "id": 91,
+    "group": 28,
+    "scene": "05",
+    "copy": "Nhưng lần này, thứ đội SpaceX cần mang về là câu trả lời cho một khách hàng tương lai: nếu tôi giao hàng cho các anh, các anh có đưa nó vào quỹ đạo được không?",
+    "spoken": "Nhưng lần này, thứ đội Spây Xếch cần mang về là câu trả lời cho một khách hàng tương lai: nếu tôi giao hàng cho các anh, các anh có đưa nó vào quỹ đạo được không?",
+    "readings": [
+      {
+        "start": 23,
+        "end": 29,
+        "original": "SpaceX",
+        "spoken": "Spây Xếch",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Nhưng lần này, thứ đội SpaceX cần mang về là câu trả l"
+      }
+    ],
+    "style": "hỏi",
+    "tempo": 0.98,
+    "db": 0.4,
+    "gap": 0.29
+  },
+  {
+    "id": 92,
+    "group": 29,
+    "scene": "05",
+    "copy": "Tên lửa rời bệ. Nó nhỏ dần thành một chấm sáng.",
+    "spoken": "Tên lửa rời bệ. Nó nhỏ dần thành một chấm sáng.",
+    "readings": [],
+    "style": "dồn",
+    "tempo": 1.1,
+    "db": 0.7,
+    "gap": 0.49
+  },
+  {
+    "id": 93,
+    "group": 29,
+    "scene": "05",
+    "copy": "Rồi khuất hẳn.",
+    "spoken": "Rồi khuất hẳn.",
+    "readings": [],
+    "style": "thủ thỉ",
+    "tempo": 0.94,
+    "db": -1.15,
+    "gap": 0.4
+  },
+  {
+    "id": 94,
+    "group": 29,
+    "scene": "05",
+    "copy": "Có điều, cả ba lần trước tên lửa cũng cất cánh.",
+    "spoken": "Có điều, cả ba lần trước tên lửa cũng cất cánh.",
+    "readings": [],
+    "style": "nén",
+    "tempo": 1.035,
+    "db": -0.25,
+    "gap": 0.63
+  },
+  {
+    "id": 95,
+    "group": 29,
+    "scene": "05",
+    "copy": "Dưới đất, người ta còn phải đợi tín hiệu.",
+    "spoken": "Dưới đất, người ta còn phải đợi tín hiệu.",
+    "readings": [],
+    "style": "chờ",
+    "tempo": 0.89,
+    "db": -1.35,
+    "gap": 0.39
+  },
+  {
+    "id": 96,
+    "group": 30,
+    "scene": "05",
+    "copy": "Lần này thì được. Falcon 1 đã vào quỹ đạo.",
+    "spoken": "Lần này thì được. Phan cơn một đã vào quỹ đạo.",
+    "readings": [
+      {
+        "start": 18,
+        "end": 26,
+        "original": "Falcon 1",
+        "spoken": "Phan cơn một",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Lần này thì được. Falcon 1 đã vào quỹ đạo."
+      }
+    ],
+    "style": "đáp",
+    "tempo": 0.935,
+    "db": 0.65,
+    "gap": 1.48
+  },
+  {
+    "id": 97,
+    "group": 30,
+    "scene": "05",
+    "copy": "Trong buổi phỏng vấn ở Stanford, Musk kể đây là chuyến cuối cùng mà họ còn tiền thực hiện.",
+    "spoken": "Trong buổi phỏng vấn ở Stan phợt, Mấc kể đây là chuyến cuối cùng mà họ còn tiền thực hiện.",
+    "readings": [
+      {
+        "start": 23,
+        "end": 31,
+        "original": "Stanford",
+        "spoken": "Stan phợt",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Trong buổi phỏng vấn ở Stanford, Musk kể đây là chuyến c"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ổi phỏng vấn ở Stanford, Musk kể đây là chuyến cuối cù"
+      }
+    ],
+    "style": "tâm tình",
+    "tempo": 0.975,
+    "db": -0.5,
+    "gap": 0.65
+  },
+  {
+    "id": 98,
+    "group": 30,
+    "scene": "05",
+    "copy": "Thành ra cái khối mô phỏng mà mình vừa nhìn có một công việc khá lớn: nhờ nó bay đến nơi, đội SpaceX đã có một chuyến bay thật để đưa cho người khác xem.",
+    "spoken": "Thành ra cái khối mô phỏng mà mình vừa nhìn có một công việc khá lớn: nhờ nó bay đến nơi, đội Spây Xếch đã có một chuyến bay thật để đưa cho người khác xem.",
+    "readings": [
+      {
+        "start": 94,
+        "end": 100,
+        "original": "SpaceX",
+        "spoken": "Spây Xếch",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " nhờ nó bay đến nơi, đội SpaceX đã có một chuyến bay thậ"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.32
+  },
+  {
+    "id": 99,
+    "group": 31,
+    "scene": "05",
+    "copy": "Gần ba tháng sau, NASA đặt SpaceX thực hiện 12 chuyến tiếp tế trạm vũ trụ, hợp đồng trị giá khoảng 1,6 tỷ đô.",
+    "spoken": "Gần ba tháng sau, Na sa đặt Spây Xếch thực hiện mười hai chuyến tiếp tế trạm vũ trụ, hợp đồng trị giá khoảng một phẩy sáu tỷ đô.",
+    "readings": [
+      {
+        "start": 18,
+        "end": 22,
+        "original": "NASA",
+        "spoken": "Na sa",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Gần ba tháng sau, NASA đặt SpaceX thực hiện 12 "
+      },
+      {
+        "start": 27,
+        "end": 33,
+        "original": "SpaceX",
+        "spoken": "Spây Xếch",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "n ba tháng sau, NASA đặt SpaceX thực hiện 12 chuyến tiếp"
+      },
+      {
+        "start": 44,
+        "end": 46,
+        "original": "12",
+        "spoken": "mười hai",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ASA đặt SpaceX thực hiện 12 chuyến tiếp tế trạm vũ t"
+      },
+      {
+        "start": 99,
+        "end": 102,
+        "original": "1,6",
+        "spoken": "một phẩy sáu",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " hợp đồng trị giá khoảng 1,6 tỷ đô."
+      }
+    ],
+    "style": "số",
+    "tempo": 0.94,
+    "db": 0.35,
+    "gap": 0.55
+  },
+  {
+    "id": 100,
+    "group": 31,
+    "scene": "05",
+    "copy": "Trên hợp đồng có tên SpaceX ở ô nhà cung cấp. Đi kèm con số một tỷ sáu là mười hai chuyến hàng còn phải giao.",
+    "spoken": "Trên hợp đồng có tên Spây Xếch ở ô nhà cung cấp. Đi kèm con số một tỷ sáu là mười hai chuyến hàng còn phải giao.",
+    "readings": [
+      {
+        "start": 21,
+        "end": 27,
+        "original": "SpaceX",
+        "spoken": "Spây Xếch",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Trên hợp đồng có tên SpaceX ở ô nhà cung cấp. Đi kèm"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.35
+  },
+  {
+    "id": 101,
+    "group": 31,
+    "scene": "05",
+    "copy": "SpaceX còn cả một quãng đường từ khối mô phỏng trên quỹ đạo đến ngày giao được hàng cho phi hành gia.",
+    "spoken": "Spây Xếch còn cả một quãng đường từ khối mô phỏng trên quỹ đạo đến ngày giao được hàng cho phi hành gia.",
+    "readings": [
+      {
+        "start": 0,
+        "end": 6,
+        "original": "SpaceX",
+        "spoken": "Spây Xếch",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "SpaceX còn cả một quãng đường t"
+      }
+    ],
+    "style": "tâm tình",
+    "tempo": 0.975,
+    "db": -0.5,
+    "gap": 0.31
+  },
+  {
+    "id": 102,
+    "group": 32,
+    "scene": "05",
+    "copy": "Rồi đến lượt Tesla. Theo lời Musk, vòng tài trợ cần để hãng tiếp tục hoạt động chốt được vào đêm Giáng sinh năm ấy.",
+    "spoken": "Rồi đến lượt Tét sla. Theo lời Mấc, vòng tài trợ cần để hãng tiếp tục hoạt động chốt được vào đêm Giáng sinh năm ấy.",
+    "readings": [
+      {
+        "start": 13,
+        "end": 18,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Rồi đến lượt Tesla. Theo lời Musk, vòng tài"
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "đến lượt Tesla. Theo lời Musk, vòng tài trợ cần để hãn"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.51
+  },
+  {
+    "id": 103,
+    "group": 32,
+    "scene": "05",
+    "copy": "Thế là giữa lúc nhiều người đã nghỉ lễ, đội làm xe mới biết mình có tiền để bước sang năm mới.",
+    "spoken": "Thế là giữa lúc nhiều người đã nghỉ lễ, đội làm xe mới biết mình có tiền để bước sang năm mới.",
+    "readings": [],
+    "style": "tâm tình",
+    "tempo": 0.975,
+    "db": -0.5,
+    "gap": 0.45
+  },
+  {
+    "id": 104,
+    "group": 32,
+    "scene": "05",
+    "copy": "Và giờ ta cũng hiểu chuyện Musk kể về khoản tiền thuê nhà. Ông vẫn là chủ của những phần công ty có giá trị.",
+    "spoken": "Và giờ ta cũng hiểu chuyện Mấc kể về khoản tiền thuê nhà. Ông vẫn là chủ của những phần công ty có giá trị.",
+    "readings": [
+      {
+        "start": 27,
+        "end": 31,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " giờ ta cũng hiểu chuyện Musk kể về khoản tiền thuê nh"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.4
+  },
+  {
+    "id": 105,
+    "group": 32,
+    "scene": "05",
+    "copy": "Trong tay ông lúc đó có bao nhiêu tiền sẵn để tiêu lại là một chuyện khác.",
+    "spoken": "Trong tay ông lúc đó có bao nhiêu tiền sẵn để tiêu lại là một chuyện khác.",
+    "readings": [],
+    "style": "thủ thỉ",
+    "tempo": 0.94,
+    "db": -1.15,
+    "gap": 0.37
+  },
+  {
+    "id": 106,
+    "group": 33,
+    "scene": "06",
+    "copy": "Hai năm sau, Tesla lên sàn chứng khoán. Từ đây, một người chẳng định mua ô tô cũng có thể bỏ tiền vào hãng bằng cách mua cổ phiếu.",
+    "spoken": "Hai năm sau, Tét sla lên sàn chứng khoán. Từ đây, một người chẳng định mua ô tô cũng có thể bỏ tiền vào hãng bằng cách mua cổ phiếu.",
+    "readings": [
+      {
+        "start": 13,
+        "end": 18,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Hai năm sau, Tesla lên sàn chứng khoán. Từ "
+      }
+    ],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.8
+  },
+  {
+    "id": 107,
+    "group": 33,
+    "scene": "06",
+    "copy": "Mỗi lần có người mua và người bán chốt được giá, phần sở hữu trong Tesla lại có một cái giá để người khác nhìn vào.",
+    "spoken": "Mỗi lần có người mua và người bán chốt được giá, phần sở hữu trong Tét sla lại có một cái giá để người khác nhìn vào.",
+    "readings": [
+      {
+        "start": 67,
+        "end": 72,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "c giá, phần sở hữu trong Tesla lại có một cái giá để ng"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.27
+  },
+  {
+    "id": 108,
+    "group": 34,
+    "scene": "06",
+    "copy": "Việc này quan trọng với Musk ở điểm nào? Hình dung bạn góp tiền mở một tiệm sửa xe.",
+    "spoken": "Việc này quan trọng với Mấc ở điểm nào? Hình dung bạn góp tiền mở một tiệm sửa xe.",
+    "readings": [
+      {
+        "start": 24,
+        "end": 28,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Việc này quan trọng với Musk ở điểm nào? Hình dung bạ"
+      }
+    ],
+    "style": "hỏi",
+    "tempo": 0.98,
+    "db": 0.4,
+    "gap": 0.46
+  },
+  {
+    "id": 109,
+    "group": 34,
+    "scene": "06",
+    "copy": "Sau vài năm, khách đông hơn, tiệm mua thêm đồ nghề. Có người đến hỏi mua phần của bạn với giá cao hơn lúc bạn góp.",
+    "spoken": "Sau vài năm, khách đông hơn, tiệm mua thêm đồ nghề. Có người đến hỏi mua phần của bạn với giá cao hơn lúc bạn góp.",
+    "readings": [],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.28
+  },
+  {
+    "id": 110,
+    "group": 34,
+    "scene": "06",
+    "copy": "Buổi chiều hôm đó bạn vẫn có thể về nhà với đúng số tiền trong túi như buổi sáng.",
+    "spoken": "Buổi chiều hôm đó bạn vẫn có thể về nhà với đúng số tiền trong túi như buổi sáng.",
+    "readings": [],
+    "style": "tâm tình",
+    "tempo": 0.975,
+    "db": -0.5,
+    "gap": 0.36
+  },
+  {
+    "id": 111,
+    "group": 34,
+    "scene": "06",
+    "copy": "Nhưng nếu ai ngồi tính gia tài của bạn, họ có lý do để ghi một con số mới cho phần sở hữu trong tiệm. Đem cách nghĩ đó về Tesla, ta biết phải tìm hai thứ: Musk đang giữ bao nhiêu cổ phần, và người khác sẵn lòng trả bao nhiêu cho chúng.",
+    "spoken": "Nhưng nếu ai ngồi tính gia tài của bạn, họ có lý do để ghi một con số mới cho phần sở hữu trong tiệm. Đem cách nghĩ đó về Tét sla, ta biết phải tìm hai thứ: Mấc đang giữ bao nhiêu cổ phần, và người khác sẵn lòng trả bao nhiêu cho chúng.",
+    "readings": [
+      {
+        "start": 122,
+        "end": 127,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "iệm. Đem cách nghĩ đó về Tesla, ta biết phải tìm hai th"
+      },
+      {
+        "start": 155,
+        "end": 159,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "a biết phải tìm hai thứ: Musk đang giữ bao nhiêu cổ ph"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.35
+  },
+  {
+    "id": 112,
+    "group": 35,
+    "scene": "06",
+    "copy": "Tháng 10 năm 2011, Forbes ước tính tài sản Musk khoảng 680 triệu đô. Vẫn còn cách khá xa vạch một tỷ.",
+    "spoken": "Tháng mười năm hai nghìn mười một, Phoóc ước tính tài sản Mấc khoảng sáu trăm tám mươi triệu đô. Vẫn còn cách khá xa vạch một tỷ.",
+    "readings": [
+      {
+        "start": 6,
+        "end": 8,
+        "original": "10",
+        "spoken": "mười",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Tháng 10 năm 2011, Forbes ước tín"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "original": "2011",
+        "spoken": "hai nghìn mười một",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Tháng 10 năm 2011, Forbes ước tính tài sản"
+      },
+      {
+        "start": 19,
+        "end": 25,
+        "original": "Forbes",
+        "spoken": "Phoóc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Tháng 10 năm 2011, Forbes ước tính tài sản Musk kh"
+      },
+      {
+        "start": 43,
+        "end": 47,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " Forbes ước tính tài sản Musk khoảng 680 triệu đô. Vẫn"
+      },
+      {
+        "start": 55,
+        "end": 58,
+        "original": "680",
+        "spoken": "sáu trăm tám mươi",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "tính tài sản Musk khoảng 680 triệu đô. Vẫn còn cách k"
+      }
+    ],
+    "style": "số",
+    "tempo": 0.94,
+    "db": 0.35,
+    "gap": 0.58
+  },
+  {
+    "id": 113,
+    "group": 35,
+    "scene": "06",
+    "copy": "Rồi đầu năm 2012, Tesla giới thiệu mẫu Model X. Hai cánh cửa sau mở vươn lên. Người đứng cạnh có thể bước vào hàng ghế sau.",
+    "spoken": "Rồi đầu năm hai nghìn mười hai, Tét sla giới thiệu mẫu Mô đen Ích. Hai cánh cửa sau mở vươn lên. Người đứng cạnh có thể bước vào hàng ghế sau.",
+    "readings": [
+      {
+        "start": 12,
+        "end": 16,
+        "original": "2012",
+        "spoken": "hai nghìn mười hai",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Rồi đầu năm 2012, Tesla giới thiệu mẫu Mo"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Rồi đầu năm 2012, Tesla giới thiệu mẫu Model X. "
+      },
+      {
+        "start": 39,
+        "end": 46,
+        "original": "Model X",
+        "spoken": "Mô đen Ích",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "12, Tesla giới thiệu mẫu Model X. Hai cánh cửa sau mở vươ"
+      }
+    ],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.4
+  },
+  {
+    "id": 114,
+    "group": 35,
+    "scene": "06",
+    "copy": "Còn người quan tâm đến tương lai Tesla nhìn cùng cái cửa ấy và thấy thêm một thứ: công ty từng làm được một chiếc xe thể thao đang cho họ xem một mẫu xe gia đình.",
+    "spoken": "Còn người quan tâm đến tương lai Tét sla nhìn cùng cái cửa ấy và thấy thêm một thứ: công ty từng làm được một chiếc xe thể thao đang cho họ xem một mẫu xe gia đình.",
+    "readings": [
+      {
+        "start": 33,
+        "end": 38,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "i quan tâm đến tương lai Tesla nhìn cùng cái cửa ấy và "
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.3
+  },
+  {
+    "id": 115,
+    "group": 35,
+    "scene": "06",
+    "copy": "Từ một mẫu trưng bày đến cả dây chuyền sản xuất vẫn còn xa. Người mua cổ phiếu đã có thêm thứ để cân nhắc ngay từ buổi giới thiệu.",
+    "spoken": "Từ một mẫu trưng bày đến cả dây chuyền sản xuất vẫn còn xa. Người mua cổ phiếu đã có thêm thứ để cân nhắc ngay từ buổi giới thiệu.",
+    "readings": [],
+    "style": "tâm tình",
+    "tempo": 0.975,
+    "db": -0.5,
+    "gap": 0.29
+  },
+  {
+    "id": 116,
+    "group": 36,
+    "scene": "06",
+    "copy": "Theo Forbes, giá cổ phiếu Tesla tăng sau màn giới thiệu Model X. Thời điểm họ tính lại, Musk đang nắm khoảng 29 phần trăm Tesla.",
+    "spoken": "Theo Phoóc, giá cổ phiếu Tét sla tăng sau màn giới thiệu Mô đen Ích. Thời điểm họ tính lại, Mấc đang nắm khoảng hai mươi chín phần trăm Tét sla.",
+    "readings": [
+      {
+        "start": 5,
+        "end": 11,
+        "original": "Forbes",
+        "spoken": "Phoóc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Theo Forbes, giá cổ phiếu Tesla tăng"
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "heo Forbes, giá cổ phiếu Tesla tăng sau màn giới thiệu "
+      },
+      {
+        "start": 56,
+        "end": 63,
+        "original": "Model X",
+        "spoken": "Mô đen Ích",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " tăng sau màn giới thiệu Model X. Thời điểm họ tính lại, "
+      },
+      {
+        "start": 88,
+        "end": 92,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": ". Thời điểm họ tính lại, Musk đang nắm khoảng 29 phần "
+      },
+      {
+        "start": 109,
+        "end": 111,
+        "original": "29",
+        "spoken": "hai mươi chín",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ại, Musk đang nắm khoảng 29 phần trăm Tesla."
+      },
+      {
+        "start": 122,
+        "end": 127,
+        "original": "Tesla",
+        "spoken": "Tét sla",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": " nắm khoảng 29 phần trăm Tesla."
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.53
+  },
+  {
+    "id": 117,
+    "group": 36,
+    "scene": "06",
+    "copy": "Riêng phần ấy đã trị giá hơn một tỷ đô.",
+    "spoken": "Riêng phần ấy đã trị giá hơn một tỷ đô.",
+    "readings": [],
+    "style": "số",
+    "tempo": 0.94,
+    "db": 0.35,
+    "gap": 0.45
+  },
+  {
+    "id": 118,
+    "group": 36,
+    "scene": "06",
+    "copy": "Bây giờ quay lại hai nhánh kia. Phần ông sở hữu trong SpaceX cộng với phần trong SolarCity được Forbes ước tính vào khoảng một tỷ đô nữa.",
+    "spoken": "Bây giờ quay lại hai nhánh kia. Phần ông sở hữu trong Spây Xếch cộng với phần trong Sô la Xi ti được Phoóc ước tính vào khoảng một tỷ đô nữa.",
+    "readings": [
+      {
+        "start": 54,
+        "end": 60,
+        "original": "SpaceX",
+        "spoken": "Spây Xếch",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "a. Phần ông sở hữu trong SpaceX cộng với phần trong Sola"
+      },
+      {
+        "start": 81,
+        "end": 90,
+        "original": "SolarCity",
+        "spoken": "Sô la Xi ti",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "aceX cộng với phần trong SolarCity được Forbes ước tính vào"
+      },
+      {
+        "start": 96,
+        "end": 102,
+        "original": "Forbes",
+        "spoken": "Phoóc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "hần trong SolarCity được Forbes ước tính vào khoảng một "
+      }
+    ],
+    "style": "sáng",
+    "tempo": 1.075,
+    "db": 0.3,
+    "gap": 0.44
+  },
+  {
+    "id": 119,
+    "group": 36,
+    "scene": "06",
+    "copy": "Tháng 3 năm 2012, lần đầu Elon Musk xuất hiện trong danh sách tỷ phú của tạp chí.",
+    "spoken": "Tháng ba năm hai nghìn mười hai, lần đầu I lơn Mấc xuất hiện trong danh sách tỷ phú của tạp chí.",
+    "readings": [
+      {
+        "start": 6,
+        "end": 7,
+        "original": "3",
+        "spoken": "ba",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Tháng 3 năm 2012, lần đầu Elon M"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "original": "2012",
+        "spoken": "hai nghìn mười hai",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Tháng 3 năm 2012, lần đầu Elon Musk xuất "
+      },
+      {
+        "start": 26,
+        "end": 35,
+        "original": "Elon Musk",
+        "spoken": "I lơn Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "háng 3 năm 2012, lần đầu Elon Musk xuất hiện trong danh sác"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.47
+  },
+  {
+    "id": 120,
+    "group": 36,
+    "scene": "06",
+    "copy": "Con số đặt bên tên ông là hai tỷ đô la.",
+    "spoken": "Con số đặt bên tên ông là hai tỷ đô la.",
+    "readings": [],
+    "style": "đáp",
+    "tempo": 0.935,
+    "db": 0.65,
+    "gap": 0.62
+  },
+  {
+    "id": 121,
+    "group": 37,
+    "scene": "06",
+    "copy": "Nhớ chiếc McLaren hồi đầu phim chứ? Năm 1999, muốn quay cảnh Elon Musk vừa giàu lên, người ta chỉ việc đứng đợi trước nhà.",
+    "spoken": "Nhớ chiếc Mắc La ren hồi đầu phim chứ? Năm một nghìn chín trăm chín mươi chín, muốn quay cảnh I lơn Mấc vừa giàu lên, người ta chỉ việc đứng đợi trước nhà.",
+    "readings": [
+      {
+        "start": 10,
+        "end": 17,
+        "original": "McLaren",
+        "spoken": "Mắc La ren",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Nhớ chiếc McLaren hồi đầu phim chứ? Năm 19"
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "original": "1999",
+        "spoken": "một nghìn chín trăm chín mươi chín",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "en hồi đầu phim chứ? Năm 1999, muốn quay cảnh Elon Mus"
+      },
+      {
+        "start": 61,
+        "end": 70,
+        "original": "Elon Musk",
+        "spoken": "I lơn Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Năm 1999, muốn quay cảnh Elon Musk vừa giàu lên, người ta c"
+      }
+    ],
+    "style": "tâm tình",
+    "tempo": 0.975,
+    "db": -0.5,
+    "gap": 0.82
+  },
+  {
+    "id": 122,
+    "group": 38,
+    "scene": "06",
+    "copy": "Xe tới, chìa khóa trao tay.",
+    "spoken": "Xe tới, chìa khóa trao tay.",
+    "readings": [],
+    "style": "dồn",
+    "tempo": 1.1,
+    "db": 0.7,
+    "gap": 0.31
+  },
+  {
+    "id": 123,
+    "group": 38,
+    "scene": "06",
+    "copy": "Xong phim.",
+    "spoken": "Xong phim.",
+    "readings": [],
+    "style": "tỉnh",
+    "tempo": 1.025,
+    "db": -0.9,
+    "gap": 0.21
+  },
+  {
+    "id": 124,
+    "group": 39,
+    "scene": "06",
+    "copy": "Mười ba năm sau, ống kính lại đứng trước một chiếc xe. Lần này Musk chẳng đến nhận chìa khóa.",
+    "spoken": "Mười ba năm sau, ống kính lại đứng trước một chiếc xe. Lần này Mấc chẳng đến nhận chìa khóa.",
+    "readings": [
+      {
+        "start": 63,
+        "end": 67,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "ớc một chiếc xe. Lần này Musk chẳng đến nhận chìa khóa"
+      }
+    ],
+    "style": "tâm tình",
+    "tempo": 0.975,
+    "db": -0.5,
+    "gap": 0.73
+  },
+  {
+    "id": 125,
+    "group": 39,
+    "scene": "06",
+    "copy": "Chiếc Model X đang mở cửa cho khách xem.",
+    "spoken": "Chiếc Mô đen Ích đang mở cửa cho khách xem.",
+    "readings": [
+      {
+        "start": 6,
+        "end": 13,
+        "original": "Model X",
+        "spoken": "Mô đen Ích",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "Chiếc Model X đang mở cửa cho khách xe"
+      }
+    ],
+    "style": "kể",
+    "tempo": 1.0,
+    "db": 0,
+    "gap": 0.36
+  },
+  {
+    "id": 126,
+    "group": 39,
+    "scene": "06",
+    "copy": "Còn thứ trị giá hơn một tỷ đô, là phần của Musk trong hãng đã làm ra chiếc xe ấy.",
+    "spoken": "Còn thứ trị giá hơn một tỷ đô, là phần của Mấc trong hãng đã làm ra chiếc xe ấy.",
+    "readings": [
+      {
+        "start": 43,
+        "end": 47,
+        "original": "Musk",
+        "spoken": "Mấc",
+        "reason": "Cách đọc của tập trong câu này.",
+        "context": "n một tỷ đô, là phần của Musk trong hãng đã làm ra chi"
+      }
+    ],
+    "style": "đáp",
+    "tempo": 0.935,
+    "db": 0.65,
+    "gap": 0.44
+  }
+]

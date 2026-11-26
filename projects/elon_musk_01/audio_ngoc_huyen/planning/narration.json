@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "id": "ba351a155b2d4d1b9829a6fd9cb3b227",
+  "stage": "narration",
+  "snapshot_hash": "f7ade45b60476bfcc29aa5f62d0487662a9d6c55e394aecc824273d02c1aa3e3",
+  "status": "ready",
+  "created": "2026-11-26T16:09:42.488141+00:00",
+  "proposal": "Tạo đúng bản kể đã biên tập bằng preset của studio, ghép các điểm nghỉ rồi kiểm tra file trước khi giao.",
+  "reviews": [
+    {
+      "summary": "Sáu cảnh giữ đúng thứ tự và lời đã biên tập, phân biệt trị giá hợp đồng NASA, giá mua PayPal và phần tài sản của Musk. Bỏ ghi chú dựng và nguồn khỏi lời đọc.",
+      "issues": [],
+      "proposal": [],
+      "resolutions": [],
+      "role": "content",
+      "round": 1
+    },
+    {
+      "summary": "Giọng ngoài hình, ngắt có chủ đích khi chuyển từ bệ phóng sang Zip2. Tại cao trào chừa một nhịp trước tin vào quỹ đạo.",
+      "issues": [],
+      "proposal": [],
+      "resolutions": [],
+      "role": "director",
+      "round": 1
+    },
+    {
+      "summary": "Preset Ngọc Huyền 19, tốc độ 1×. Câu châm biếm về bản kế hoạch để một nhịp trước câu cuối. Ghi bảng cách đọc cho từng tên, năm và khoản tiền.",
+      "issues": [],
+      "proposal": [],
+      "resolutions": [],
+      "role": "audio",
+      "round": 1
+    },
+    {
+      "summary": "Kiểm tra tự động sáu tiêu đề và nội dung thoại theo thứ tự. Từng WAV được đối chiếu hash và format trước ghép, MP3 được thử giải mã.",
+      "issues": [],
+      "proposal": [],
+      "resolutions": [],
+      "role": "technical",
+      "round": 1
+    },
+    {
+      "summary": "Phần tiền và các tên nước ngoài có rủi ro khó nghe. Chỉ đánh dấu thời lượng, kiểm tra phát âm và chất giọng theo những gì thực sự đã kiểm tra; còn chờ phản hồi người nghe.",
+      "issues": [],
+      "proposal": [],
+      "resolutions": [],
+      "role": "critic",
+      "round": 1
+    }
+  ],
+  "reviewed_roles": [
+    "content",
+    "director",
+    "audio",
+    "technical",
+    "critic"
+  ],
+  "issues": [],
+  "provider": "Codex tự biên tập trong cùng chat và rà diễn đọc cho bản này.",
+  "max_rounds": 2,
+  "rounds": 1,
+  "completed": "2026-11-26T16:09:42.514903+00:00"
+}

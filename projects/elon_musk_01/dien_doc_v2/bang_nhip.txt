@@ -1,0 +1,167 @@
+# Mỗi dòng bắt đầu bằng số đoạn trong kịch bản đã duyệt.
+# Trong mỗi đoạn: cách kể | khoảng thở trước câu (giây) | lời mới hoặc số thứ tự câu gốc.
+1
+nén | .08 | Ba lần phóng. Cả ba lần, đội của Elon Musk đều không đưa được tên lửa vào quỹ đạo.
+kể | .38 | Tháng 9 năm 2008, giữa Thái Bình Dương, đội SpaceX đặt quả thứ tư lên bệ.
+thủ thỉ | .40 | Nếu lần này cũng hỏng thì sao?
+đáp | .70 | Musk kể, tiền của công ty chỉ còn đủ cho chuyến này.
+2
+kể | .55 | Sáu năm trước đó, theo lời ông, riêng vụ bán PayPal đã mang về khoảng 180 triệu đô sau thuế.
+hỏi | .32 | Chừng ấy tiền đi đâu hết?
+3
+kể | .67 | Muốn lần theo số tiền ấy, phải về cái thời Elon muốn dùng máy tính còn phải đứng đợi.
+tỉnh | .28 | Đợi đến tối.
+4
+kể | .74 | 1-2
+sáng | .29 | 3-4
+hỏi | .20 | 5
+tỉnh | .36 | 6
+kể | .35 | 7-8
+5
+kể | .39 | 1
+sáng | .23 | 2-3
+6
+kể | .33 | Đến sợi dây mạng của họ cũng có một lối đi riêng. Nhà cung cấp Internet ở ngay tầng dưới. Musk kể hai anh em khoan một lỗ xuyên sàn để kéo dây lên.
+sáng | .28 | 4-5
+kể | .37 | 6-7
+tỉnh | .48 | 8
+7
+hỏi | .61 | 1-2
+đáp | .44 | 3
+sáng | .25 | 4-5
+kể | .19 | 6-7
+đáp | .34 | 8
+8
+kể | .53 | 1
+số | .24 | 2
+sáng | .39 | 3
+tâm tình | .25 | 4-5
+9
+sáng | .73 | 1-2
+kể | .25 | 3-4
+đáp | .34 | 5
+10
+kể | .48 | 1-3
+nén | .23 | 4
+sáng | .27 | 5-6
+11
+kể | .36 | 1-2
+sáng | .26 | 3-4
+hỏi | .32 | Còn anh bán máy ảnh chỉ có mỗi một câu hỏi. Tiền vào chưa, để tôi còn gửi hàng?
+kể | .32 | 6
+12
+hỏi | .50 | 1-2
+kể | .30 | 3
+sáng | .30 | 4
+tỉnh | .32 | 5
+kể | .42 | 6
+13
+kể | .71 | 1-2
+nén | .43 | Ghế giám đốc đổi chủ. Cổ phần của ông thì vẫn nằm đấy.
+thủ thỉ | .49 | 5
+14
+sáng | .51 | 1-2
+kể | .22 | 3-4
+15
+hỏi | .42 | 1
+số | .61 | 2
+16
+kể | .43 | 1
+thủ thỉ | .34 | 2-3
+kể | .48 | 4
+17
+kể | .65 | 1
+số | .23 | 2
+số | .24 | 3
+số | .32 | 4
+hỏi | .47 | 5-6
+18
+tỉnh | .55 | Riêng tiền làm tên lửa, ông nhớ mình dự trù có 50 triệu thôi.
+19
+hỏi | .57 | 1
+kể | .25 | 2-3
+sáng | .23 | 4-5
+kể | .31 | 6-7
+tâm tình | .30 | 8-9
+20
+sáng | .53 | 1-2
+kể | .19 | 3-4
+sáng | .36 | 5-6
+hỏi | .25 | 7
+kể | .34 | 8-9
+tâm tình | .51 | Musk giải thích hết chuyện này trong một bài viết. Ông đặt tên cho nó là kế hoạch bí mật của Tesla.
+21
+tỉnh | .64 | Rồi ông đăng lên mạng.
+22
+kể | .71 | 1-2
+nén | .37 | 3-4
+23
+kể | .44 | 1-2
+sáng | .23 | 3-4
+thủ thỉ | .43 | 5
+24
+kể | .58 | 1-3
+tâm tình | .38 | 4-5
+25
+nén | .77 | Năm 2008. Bên SpaceX vừa hỏng quả tên lửa thứ ba. Bên Tesla, kế hoạch gọi vốn cũng vừa đổ bể.
+kể | .34 | 4
+nén | .23 | 5
+26
+kể | .40 | 1
+hỏi | .31 | 2
+nén | .31 | 3
+tâm tình | .44 | 4
+nén | .40 | 5-6
+hỏi | .52 | 7
+27
+thủ thỉ | .93 | 1
+28
+kể | .37 | 1-2
+sáng | .28 | 3
+hỏi | .29 | 4
+29
+dồn | .49 | Tên lửa rời bệ. Nó nhỏ dần thành một chấm sáng.
+thủ thỉ | .40 | Rồi khuất hẳn.
+nén | .63 | Có điều, cả ba lần trước tên lửa cũng cất cánh.
+chờ | .39 | Dưới đất, người ta còn phải đợi tín hiệu.
+30
+đáp | 1.48 | Lần này thì được. Falcon 1 đã vào quỹ đạo.
+tâm tình | .65 | 2
+kể | .32 | 3
+31
+số | .55 | 1
+kể | .35 | 2-3
+tâm tình | .31 | 4
+32
+kể | .51 | 1-2
+tâm tình | .45 | 3
+kể | .40 | 4-5
+thủ thỉ | .37 | 6
+33
+sáng | .80 | 1-2
+kể | .27 | 3
+34
+hỏi | .46 | 1-2
+sáng | .28 | 3-4
+tâm tình | .36 | 5
+kể | .35 | 6-7
+35
+số | .58 | 1-2
+sáng | .40 | 3-5
+kể | .30 | 6
+tâm tình | .29 | 7-8
+36
+kể | .53 | 1-2
+số | .45 | 3
+sáng | .44 | 4-5
+kể | .47 | 6
+đáp | .62 | 7
+37
+tâm tình | .82 | 1-2
+38
+dồn | .31 | Xe tới, chìa khóa trao tay.
+tỉnh | .21 | Xong phim.
+39
+tâm tình | .73 | 1-2
+kể | .36 | Chiếc Model X đang mở cửa cho khách xem.
+đáp | .44 | Còn thứ trị giá hơn một tỷ đô, là phần của Musk trong hãng đã làm ra chiếc xe ấy.

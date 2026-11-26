@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "id": "414d3b01db8c4cb09b57c0f60c5acb67",
+  "stage": "narration",
+  "snapshot_hash": "32567c93491aac7d31bbc9a8e14b05f17cfd9989c804aa844b94c309ad4095bf",
+  "status": "ready",
+  "created": "2026-11-26T16:28:27.158195+00:00",
+  "proposal": "Dựng bản mới từ cụm lời riêng. Lời kể và nhịp từng cảnh nằm trong bang_nhip.txt. Nghe duyệt sau khi ráp.",
+  "reviews": [
+    {
+      "summary": "Giữ thứ tự và các mốc của sáu chương gốc. Ở mở đầu, tiền cho lần phóng cuối là tự thuật của Musk; số tiền PayPal là phần sau thuế. Đoạn mua máy ảnh là giả định. Giữ quy thuộc cho Forbes và NASA ở hai con số khác nhau.",
+      "issues": [],
+      "proposal": [],
+      "resolutions": [],
+      "role": "content",
+      "round": 1
+    },
+    {
+      "summary": "Vào đề bằng ba lần phóng thất bại. Gọi lại hòn đảo ở chương năm. Để nhịp nhìn sau câu cái lỗ trên sàn, cú bấm đăng và tín hiệu về, rồi mới chuyển ý. Giữ cảnh xe ở cuối để đáp lại cảnh nhận chìa khóa.",
+      "issues": [],
+      "proposal": [],
+      "resolutions": [],
+      "role": "director",
+      "round": 1
+    },
+    {
+      "summary": "Bản trước phát nguyên đoạn Tesla 43 giây trong cùng một lượt. Nhiều khoảng ngắt đầu tập rơi vào vùng 0,35–0,48 giây. Bản mới viết lại câu hỏi, câu đáp và câu đùa để thu riêng; mỗi cụm có điểm lấy hơi, sắc thái, mức và nhịp. Khi ráp phải trừ khoảng im ở hai đầu file.",
+      "issues": [],
+      "proposal": [],
+      "resolutions": [],
+      "role": "audio",
+      "round": 1
+    },
+    {
+      "summary": "Dùng preset 19 Ngọc Huyền gốc ở tốc độ tổng hợp 1, không dịch cao độ. Bảng nhịp giữ số và tên cùng nhau; chỉ dẫn tách khỏi lời. So độ dài và mức đỉnh tệp hoàn chỉnh, thử giải mã MP3, ghi mốc từ PCM.",
+      "issues": [],
+      "proposal": [],
+      "resolutions": [],
+      "role": "technical",
+      "round": 1
+    },
+    {
+      "summary": "Rủi ro lớn nhất là thay đều giọng bằng đều ngắt. Giữ các chuỗi giải thích liền hơi; các khoảng dài chỉ dành cho một kết quả, đổi cảnh hoặc câu cần người xem tự trả lời. Cần giao trích đoạn và bản dài để người nghe phán xét.",
+      "issues": [],
+      "proposal": [],
+      "resolutions": [],
+      "role": "critic",
+      "round": 1
+    }
+  ],
+  "reviewed_roles": [
+    "content",
+    "director",
+    "audio",
+    "technical",
+    "critic"
+  ],
+  "issues": [],
+  "provider": "Tự rà soát trong cùng phiên; một biên tập viên xem xét năm khía cạnh.",
+  "max_rounds": 2,
+  "rounds": 1,
+  "completed": "2026-11-26T16:28:27.181228+00:00"
+}

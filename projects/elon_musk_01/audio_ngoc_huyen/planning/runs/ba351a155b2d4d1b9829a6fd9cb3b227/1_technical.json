@@ -1,0 +1,8 @@
+{
+  "summary": "Kiểm tra tự động sáu tiêu đề và nội dung thoại theo thứ tự. Từng WAV được đối chiếu hash và format trước ghép, MP3 được thử giải mã.",
+  "issues": [],
+  "proposal": [],
+  "resolutions": [],
+  "role": "technical",
+  "round": 1
+}

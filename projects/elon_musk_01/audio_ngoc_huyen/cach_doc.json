@@ -1,0 +1,1332 @@
+{
+  "source": "7c34076db3a94542eac499519d984210dd5635890221721ecceef562a9807c15",
+  "units": [
+    {
+      "id": 1,
+      "edits": [
+        {
+          "start": 6,
+          "end": 7,
+          "original": "9",
+          "spoken": "chín",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Tháng 9 năm 2008. Một quả tên lử"
+        },
+        {
+          "start": 12,
+          "end": 16,
+          "original": "2008",
+          "spoken": "hai nghìn lẻ tám",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Tháng 9 năm 2008. Một quả tên lửa của Spa"
+        },
+        {
+          "start": 38,
+          "end": 44,
+          "original": "SpaceX",
+          "spoken": "Spây Xếch",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "008. Một quả tên lửa của SpaceX nằm trên bệ phóng giữa T"
+        },
+        {
+          "start": 93,
+          "end": 102,
+          "original": "Elon Musk",
+          "spoken": "I lơn Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Thái Bình Dương. Đội của Elon Musk đã thử ba lần. Cả ba lần"
+        },
+        {
+          "start": 190,
+          "end": 194,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ỹ đạo. Lần này, theo lời Musk, công ty còn vừa đủ tiền"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "edits": [
+        {
+          "start": 31,
+          "end": 37,
+          "original": "PayPal",
+          "spoken": "Pây Pal",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "m trước, riêng thương vụ PayPal đã mang về cho ông khoản"
+        },
+        {
+          "start": 64,
+          "end": 67,
+          "original": "180",
+          "spoken": "một trăm tám mươi",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ã mang về cho ông khoảng 180 triệu đô, theo lời ông k"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "edits": [
+        {
+          "start": 59,
+          "end": 69,
+          "original": "California",
+          "spoken": "Ca li phoóc ni a",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " quay về một văn phòng ở California, nơi Elon muốn dùng máy "
+        },
+        {
+          "start": 75,
+          "end": 79,
+          "original": "Elon",
+          "spoken": "I lơn",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " phòng ở California, nơi Elon muốn dùng máy tính thì p"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "edits": [
+        {
+          "start": 0,
+          "end": 10,
+          "original": "California",
+          "spoken": "Ca li phoóc ni a",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "California, năm 1995. Hai anh em El"
+        },
+        {
+          "start": 16,
+          "end": 20,
+          "original": "1995",
+          "spoken": "một nghìn chín trăm chín mươi lăm",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "California, năm 1995. Hai anh em Elon và Kimb"
+        },
+        {
+          "start": 33,
+          "end": 37,
+          "original": "Elon",
+          "spoken": "I lơn",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ia, năm 1995. Hai anh em Elon và Kimbal Musk cùng khởi"
+        },
+        {
+          "start": 41,
+          "end": 47,
+          "original": "Kimbal",
+          "spoken": "Kim bồ",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "1995. Hai anh em Elon và Kimbal Musk cùng khởi nghiệp. B"
+        },
+        {
+          "start": 48,
+          "end": 52,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ai anh em Elon và Kimbal Musk cùng khởi nghiệp. Bạn th"
+        },
+        {
+          "start": 360,
+          "end": 364,
+          "original": "Zip2",
+          "spoken": "Díp Tu",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " của họ sau này mang tên Zip2."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "edits": [
+        {
+          "start": 83,
+          "end": 86,
+          "original": "web",
+          "spoken": "uép",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Ban ngày, máy chạy trang web cho khách. Ban đêm, Elon"
+        },
+        {
+          "start": 107,
+          "end": 111,
+          "original": "Elon",
+          "spoken": "I lơn",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " web cho khách. Ban đêm, Elon lấy nó để viết chương tr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "edits": [
+        {
+          "start": 73,
+          "end": 81,
+          "original": "Internet",
+          "spoken": "In tơ nét",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "dưới là một nhà cung cấp Internet. Musk kể họ khoan một lỗ"
+        },
+        {
+          "start": 83,
+          "end": 87,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "t nhà cung cấp Internet. Musk kể họ khoan một lỗ qua s"
+        },
+        {
+          "start": 267,
+          "end": 271,
+          "original": "Zip2",
+          "spoken": "Díp Tu",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "hể thao. Khách hàng dùng Zip2 để tìm đường. Còn đường "
+        },
+        {
+          "start": 307,
+          "end": 311,
+          "original": "Zip2",
+          "spoken": "Díp Tu",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ng. Còn đường truyền của Zip2? Cứ lần theo cái lỗ trên"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "edits": [
+        {
+          "start": 317,
+          "end": 321,
+          "original": "Zip2",
+          "spoken": "Díp Tu",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "n mạng. Với phần mềm của Zip2, một tờ báo có thể mở cả"
+        },
+        {
+          "start": 471,
+          "end": 475,
+          "original": "Zip2",
+          "spoken": "Díp Tu",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "g của tờ báo địa phương. Zip2 kiếm tiền nhờ bán cho tờ"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "edits": [
+        {
+          "start": 4,
+          "end": 8,
+          "original": "1999",
+          "spoken": "một nghìn chín trăm chín mươi chín",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Năm 1999, Compaq mua Zip2. Phần c"
+        },
+        {
+          "start": 10,
+          "end": 16,
+          "original": "Compaq",
+          "spoken": "Com pắc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Năm 1999, Compaq mua Zip2. Phần của Elon "
+        },
+        {
+          "start": 21,
+          "end": 25,
+          "original": "Zip2",
+          "spoken": "Díp Tu",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Năm 1999, Compaq mua Zip2. Phần của Elon vào khoản"
+        },
+        {
+          "start": 36,
+          "end": 40,
+          "original": "Elon",
+          "spoken": "I lơn",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ompaq mua Zip2. Phần của Elon vào khoảng 22 triệu đô. "
+        },
+        {
+          "start": 52,
+          "end": 54,
+          "original": "22",
+          "spoken": "hai mươi hai",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Phần của Elon vào khoảng 22 triệu đô. Muốn biết đời "
+        },
+        {
+          "start": 140,
+          "end": 143,
+          "original": "CNN",
+          "spoken": "Xi En En",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "him còn hay hơn biểu đồ: CNN có mặt hôm một chiếc McL"
+        },
+        {
+          "start": 165,
+          "end": 175,
+          "original": "McLaren F1",
+          "spoken": "Mắc La ren ép một",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "CNN có mặt hôm một chiếc McLaren F1 được giao cho Musk. Mới "
+        },
+        {
+          "start": 190,
+          "end": 194,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "McLaren F1 được giao cho Musk. Mới mấy năm trước ông c"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "edits": [
+        {
+          "start": 6,
+          "end": 13,
+          "original": "McLaren",
+          "spoken": "Mắc La ren",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Chiếc McLaren là phần dễ chụp ảnh nhất"
+        },
+        {
+          "start": 43,
+          "end": 45,
+          "original": "22",
+          "spoken": "hai mươi hai",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "hần dễ chụp ảnh nhất của 22 triệu đô. Phần đáng theo"
+        },
+        {
+          "start": 85,
+          "end": 90,
+          "original": "X.com",
+          "spoken": "Ích chấm com",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " đáng theo dõi hơn nằm ở X.com, công ty tài chính trực "
+        },
+        {
+          "start": 121,
+          "end": 125,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " ty tài chính trực tuyến Musk lập tiếp đó. Ông muốn kh"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "edits": [
+        {
+          "start": 55,
+          "end": 59,
+          "original": "eBay",
+          "spoken": "I bây",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ột chiếc máy ảnh cũ trên eBay. Bạn và người bán chưa t"
+        },
+        {
+          "start": 202,
+          "end": 207,
+          "original": "email",
+          "spoken": "i meo",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ể gửi cho nhau bao nhiêu email tùy thích, chiếc máy ảnh"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "edits": [
+        {
+          "start": 21,
+          "end": 30,
+          "original": "Confinity",
+          "spoken": "Cơn phi ni ti",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Một công ty khác tên Confinity làm ra sản phẩm PayPal, "
+        },
+        {
+          "start": 47,
+          "end": 53,
+          "original": "PayPal",
+          "spoken": "Pây Pal",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "onfinity làm ra sản phẩm PayPal, cho phép chuyển tiền ch"
+        },
+        {
+          "start": 97,
+          "end": 102,
+          "original": "email",
+          "spoken": "i meo",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "iền cho người có địa chỉ email. X.com và Confinity sáp "
+        },
+        {
+          "start": 104,
+          "end": 109,
+          "original": "X.com",
+          "spoken": "Ích chấm com",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " người có địa chỉ email. X.com và Confinity sáp nhập và"
+        },
+        {
+          "start": 113,
+          "end": 122,
+          "original": "Confinity",
+          "spoken": "Cơn phi ni ti",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " địa chỉ email. X.com và Confinity sáp nhập vào năm 2000. M"
+        },
+        {
+          "start": 140,
+          "end": 144,
+          "original": "2000",
+          "spoken": "hai nghìn",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "nfinity sáp nhập vào năm 2000. Musk muốn làm ngân hàng"
+        },
+        {
+          "start": 146,
+          "end": 150,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "y sáp nhập vào năm 2000. Musk muốn làm ngân hàng. Đội "
+        },
+        {
+          "start": 175,
+          "end": 184,
+          "original": "Confinity",
+          "spoken": "Cơn phi ni ti",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " muốn làm ngân hàng. Đội Confinity mang đến công cụ thanh t"
+        },
+        {
+          "start": 362,
+          "end": 368,
+          "original": "PayPal",
+          "spoken": "Pây Pal",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ó lý do để quay lại dùng PayPal sau mỗi lần đấu giá."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "edits": [
+        {
+          "start": 156,
+          "end": 162,
+          "original": "PayPal",
+          "spoken": "Pây Pal",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "bạn bè họ đều chưa dùng? PayPal từng trả thưởng từ năm t"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "edits": [
+        {
+          "start": 6,
+          "end": 7,
+          "original": "9",
+          "spoken": "chín",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Tháng 9 năm 2000, Peter Thiel tr"
+        },
+        {
+          "start": 12,
+          "end": 16,
+          "original": "2000",
+          "spoken": "hai nghìn",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Tháng 9 năm 2000, Peter Thiel trở lại điề"
+        },
+        {
+          "start": 18,
+          "end": 29,
+          "original": "Peter Thiel",
+          "spoken": "Pi tơ Thiêu",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Tháng 9 năm 2000, Peter Thiel trở lại điều hành công t"
+        },
+        {
+          "start": 57,
+          "end": 61,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ở lại điều hành công ty. Musk rời ghế tổng giám đốc. C"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "edits": [
+        {
+          "start": 10,
+          "end": 14,
+          "original": "eBay",
+          "spoken": "I bây",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Rồi chính eBay mua PayPal. Tháng 10 năm"
+        },
+        {
+          "start": 19,
+          "end": 25,
+          "original": "PayPal",
+          "spoken": "Pây Pal",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Rồi chính eBay mua PayPal. Tháng 10 năm 2002, thươ"
+        },
+        {
+          "start": 33,
+          "end": 35,
+          "original": "10",
+          "spoken": "mười",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "h eBay mua PayPal. Tháng 10 năm 2002, thương vụ hoàn"
+        },
+        {
+          "start": 40,
+          "end": 44,
+          "original": "2002",
+          "spoken": "hai nghìn lẻ hai",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "mua PayPal. Tháng 10 năm 2002, thương vụ hoàn tất, trị"
+        },
+        {
+          "start": 119,
+          "end": 123,
+          "original": "eBay",
+          "spoken": "I bây",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ô la. Một tỷ rưỡi là giá eBay trả bằng cổ phiếu để mua"
+        },
+        {
+          "start": 152,
+          "end": 158,
+          "original": "PayPal",
+          "spoken": "Pây Pal",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " bằng cổ phiếu để mua cả PayPal. Trong số những người đư"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "edits": [
+        {
+          "start": 9,
+          "end": 13,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Phần của Musk là bao nhiêu? Theo ông k"
+        },
+        {
+          "start": 62,
+          "end": 65,
+          "original": "180",
+          "spoken": "một trăm tám mươi",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "kể lại, sau thuế, khoảng 180 triệu đô."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "edits": [
+        {
+          "start": 124,
+          "end": 128,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "chuyện chi tiêu của ông. Musk nói có lúc ông đã phải đ"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "edits": [
+        {
+          "start": 0,
+          "end": 4,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Musk kể lại các khoản ông đã "
+        },
+        {
+          "start": 58,
+          "end": 64,
+          "original": "SpaceX",
+          "spoken": "Spây Xếch",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "a qua nhiều năm như sau. SpaceX, khoảng 100 triệu đô. Te"
+        },
+        {
+          "start": 73,
+          "end": 76,
+          "original": "100",
+          "spoken": "một trăm",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " như sau. SpaceX, khoảng 100 triệu đô. Tesla, khoảng "
+        },
+        {
+          "start": 87,
+          "end": 92,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "eX, khoảng 100 triệu đô. Tesla, khoảng 70 triệu. SolarC"
+        },
+        {
+          "start": 101,
+          "end": 103,
+          "original": "70",
+          "spoken": "bảy mươi",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " triệu đô. Tesla, khoảng 70 triệu. SolarCity, khoảng"
+        },
+        {
+          "start": 111,
+          "end": 120,
+          "original": "SolarCity",
+          "spoken": "Sô la Xi ti",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " Tesla, khoảng 70 triệu. SolarCity, khoảng 10 triệu. Ba kho"
+        },
+        {
+          "start": 129,
+          "end": 131,
+          "original": "10",
+          "spoken": "mười",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "triệu. SolarCity, khoảng 10 triệu. Ba khoản ráp lại "
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "edits": [
+        {
+          "start": 0,
+          "end": 4,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Musk nhớ con số ông dự trù ba"
+        },
+        {
+          "start": 38,
+          "end": 40,
+          "original": "50",
+          "spoken": "năm mươi",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "số ông dự trù ban đầu là 50 triệu."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "edits": [
+        {
+          "start": 445,
+          "end": 451,
+          "original": "SpaceX",
+          "spoken": "Spây Xếch",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "n đưa đồ lên không gian. SpaceX ra đời năm 2002. Chặng đ"
+        },
+        {
+          "start": 463,
+          "end": 467,
+          "original": "2002",
+          "spoken": "hai nghìn lẻ hai",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " gian. SpaceX ra đời năm 2002. Chặng đầu của công ty l"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "edits": [
+        {
+          "start": 4,
+          "end": 9,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Còn Tesla? Musk bỏ vốn từ sớm, vào"
+        },
+        {
+          "start": 11,
+          "end": 15,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Còn Tesla? Musk bỏ vốn từ sớm, vào hội đ"
+        },
+        {
+          "start": 57,
+          "end": 61,
+          "original": "2004",
+          "spoken": "hai nghìn lẻ bốn",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ào hội đồng quản trị năm 2004, bốn năm sau mới giữ chứ"
+        },
+        {
+          "start": 148,
+          "end": 156,
+          "original": "Roadster",
+          "spoken": "Rốt stơ",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ếc xe thể thao chạy điện Roadster. Để người ta hiểu một ch"
+        },
+        {
+          "start": 324,
+          "end": 328,
+          "original": "2006",
+          "spoken": "hai nghìn lẻ sáu",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ề tương lai cả buổi. Năm 2006 có một câu hỏi mà chính "
+        },
+        {
+          "start": 353,
+          "end": 357,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " có một câu hỏi mà chính Musk phải lên tiếng giải thíc"
+        },
+        {
+          "start": 385,
+          "end": 390,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ải lên tiếng giải thích. Tesla muốn nhiều người đi xe đ"
+        },
+        {
+          "start": 750,
+          "end": 755,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "đáo: kế hoạch bí mật của Tesla."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "edits": []
+    },
+    {
+      "id": 22,
+      "edits": [
+        {
+          "start": 41,
+          "end": 46,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " những người bỏ tiền vào Tesla có thể quay lại kiểm tra"
+        },
+        {
+          "start": 92,
+          "end": 100,
+          "original": "Roadster",
+          "spoken": "Rốt stơ",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " tra. Bán được một chiếc Roadster chứng tỏ có người chịu c"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "edits": [
+        {
+          "start": 30,
+          "end": 34,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ể ý điều vừa đổi đối với Musk. Với Zip2, ông có thể ch"
+        },
+        {
+          "start": 40,
+          "end": 44,
+          "original": "Zip2",
+          "spoken": "Díp Tu",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ừa đổi đối với Musk. Với Zip2, ông có thể chờ khách dù"
+        },
+        {
+          "start": 119,
+          "end": 124,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "h cái máy ấy sửa tiếp. Ở Tesla, mỗi chiếc xe giao đi ma"
+        },
+        {
+          "start": 217,
+          "end": 223,
+          "original": "SpaceX",
+          "spoken": "Spây Xếch",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " và lắp cho khách. Còn ở SpaceX, mỗi lần thử là một quả "
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "edits": [
+        {
+          "start": 23,
+          "end": 32,
+          "original": "SolarCity",
+          "spoken": "Sô la Xi ti",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Vẫn còn phần nhỏ nhất, SolarCity, công ty năng lượng mặt "
+        },
+        {
+          "start": 105,
+          "end": 109,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " em họ của ông gây dựng. Musk đầu tư vào đó. Mười triệ"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "edits": [
+        {
+          "start": 11,
+          "end": 15,
+          "original": "2008",
+          "spoken": "hai nghìn lẻ tám",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Giờ là năm 2008. Ở SpaceX, lần phóng thứ"
+        },
+        {
+          "start": 19,
+          "end": 25,
+          "original": "SpaceX",
+          "spoken": "Spây Xếch",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Giờ là năm 2008. Ở SpaceX, lần phóng thứ ba vừa th"
+        },
+        {
+          "start": 60,
+          "end": 65,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "g thứ ba vừa thất bại. Ở Tesla, kế hoạch gọi vốn cũng đ"
+        },
+        {
+          "start": 152,
+          "end": 156,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "một việc xảy ra sớm hơn, Musk ít ra còn có thể đợi xem"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "edits": [
+        {
+          "start": 26,
+          "end": 30,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "rong một cuộc phỏng vấn, Musk kể lại cái khó của việc "
+        },
+        {
+          "start": 224,
+          "end": 228,
+          "original": "2012",
+          "spoken": "hai nghìn mười hai",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "n cả hai. Nghe kể từ năm 2012, ta rất dễ chọn hộ ông: "
+        },
+        {
+          "start": 329,
+          "end": 333,
+          "original": "2008",
+          "spoken": "hai nghìn lẻ tám",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "n cả. Thử ngồi lại ở năm 2008 xem. Trước mặt là ba lần"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "edits": []
+    },
+    {
+      "id": 28,
+      "edits": [
+        {
+          "start": 5,
+          "end": 7,
+          "original": "28",
+          "spoken": "hai mươi tám",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Ngày 28 tháng 9 theo giờ quốc tế"
+        },
+        {
+          "start": 14,
+          "end": 15,
+          "original": "9",
+          "spoken": "chín",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Ngày 28 tháng 9 theo giờ quốc tế. Trong "
+        },
+        {
+          "start": 44,
+          "end": 52,
+          "original": "Falcon 1",
+          "spoken": "Phan cơn một",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "o giờ quốc tế. Trong quả Falcon 1 lần này có một khối mô p"
+        },
+        {
+          "start": 160,
+          "end": 166,
+          "original": "SpaceX",
+          "spoken": "Spây Xếch",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": ". Nhưng lần này, thứ đội SpaceX cần mang về là câu trả l"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "edits": []
+    },
+    {
+      "id": 30,
+      "edits": [
+        {
+          "start": 9,
+          "end": 17,
+          "original": "Falcon 1",
+          "spoken": "Phan cơn một",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Lần này, Falcon 1 vào được quỹ đạo. Trong "
+        },
+        {
+          "start": 59,
+          "end": 67,
+          "original": "Stanford",
+          "spoken": "Stan phợt",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": ". Trong buổi phỏng vấn ở Stanford, Musk kể đây là chuyến c"
+        },
+        {
+          "start": 69,
+          "end": 73,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ổi phỏng vấn ở Stanford, Musk kể đây là chuyến cuối cù"
+        },
+        {
+          "start": 221,
+          "end": 227,
+          "original": "SpaceX",
+          "spoken": "Spây Xếch",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " nhờ nó bay đến nơi, đội SpaceX đã có một chuyến bay thậ"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "edits": [
+        {
+          "start": 18,
+          "end": 22,
+          "original": "NASA",
+          "spoken": "Na sa",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Gần ba tháng sau, NASA đặt SpaceX thực hiện 12 "
+        },
+        {
+          "start": 27,
+          "end": 33,
+          "original": "SpaceX",
+          "spoken": "Spây Xếch",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "n ba tháng sau, NASA đặt SpaceX thực hiện 12 chuyến tiếp"
+        },
+        {
+          "start": 44,
+          "end": 46,
+          "original": "12",
+          "spoken": "mười hai",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ASA đặt SpaceX thực hiện 12 chuyến tiếp tế trạm vũ t"
+        },
+        {
+          "start": 99,
+          "end": 102,
+          "original": "1,6",
+          "spoken": "một phẩy sáu",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " hợp đồng trị giá khoảng 1,6 tỷ đô. Trên hợp đồng có "
+        },
+        {
+          "start": 131,
+          "end": 137,
+          "original": "SpaceX",
+          "spoken": "Spây Xếch",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "đô. Trên hợp đồng có tên SpaceX ở ô nhà cung cấp. Đi kèm"
+        },
+        {
+          "start": 220,
+          "end": 226,
+          "original": "SpaceX",
+          "spoken": "Spây Xếch",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "uyến hàng còn phải giao. SpaceX còn cả một quãng đường t"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "edits": [
+        {
+          "start": 13,
+          "end": 18,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Rồi đến lượt Tesla. Theo lời Musk, vòng tài"
+        },
+        {
+          "start": 29,
+          "end": 33,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "đến lượt Tesla. Theo lời Musk, vòng tài trợ cần để hãn"
+        },
+        {
+          "start": 238,
+          "end": 242,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " giờ ta cũng hiểu chuyện Musk kể về khoản tiền thuê nh"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "edits": [
+        {
+          "start": 13,
+          "end": 18,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Hai năm sau, Tesla lên sàn chứng khoán. Từ "
+        },
+        {
+          "start": 198,
+          "end": 203,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "c giá, phần sở hữu trong Tesla lại có một cái giá để ng"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "edits": [
+        {
+          "start": 24,
+          "end": 28,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Việc này quan trọng với Musk ở điểm nào? Hình dung bạ"
+        },
+        {
+          "start": 403,
+          "end": 408,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "iệm. Đem cách nghĩ đó về Tesla, ta biết phải tìm hai th"
+        },
+        {
+          "start": 436,
+          "end": 440,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "a biết phải tìm hai thứ: Musk đang giữ bao nhiêu cổ ph"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "edits": [
+        {
+          "start": 6,
+          "end": 8,
+          "original": "10",
+          "spoken": "mười",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Tháng 10 năm 2011, Forbes ước tín"
+        },
+        {
+          "start": 13,
+          "end": 17,
+          "original": "2011",
+          "spoken": "hai nghìn mười một",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Tháng 10 năm 2011, Forbes ước tính tài sản"
+        },
+        {
+          "start": 19,
+          "end": 25,
+          "original": "Forbes",
+          "spoken": "Phoóc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Tháng 10 năm 2011, Forbes ước tính tài sản Musk kh"
+        },
+        {
+          "start": 43,
+          "end": 47,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " Forbes ước tính tài sản Musk khoảng 680 triệu đô. Vẫn"
+        },
+        {
+          "start": 55,
+          "end": 58,
+          "original": "680",
+          "spoken": "sáu trăm tám mươi",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "tính tài sản Musk khoảng 680 triệu đô. Vẫn còn cách k"
+        },
+        {
+          "start": 114,
+          "end": 118,
+          "original": "2012",
+          "spoken": "hai nghìn mười hai",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "vạch một tỷ. Rồi đầu năm 2012, Tesla giới thiệu mẫu Mo"
+        },
+        {
+          "start": 120,
+          "end": 125,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ột tỷ. Rồi đầu năm 2012, Tesla giới thiệu mẫu Model X. "
+        },
+        {
+          "start": 141,
+          "end": 148,
+          "original": "Model X",
+          "spoken": "Mô đen Ích",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "12, Tesla giới thiệu mẫu Model X. Hai cánh cửa sau mở vươ"
+        },
+        {
+          "start": 259,
+          "end": 264,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "i quan tâm đến tương lai Tesla nhìn cùng cái cửa ấy và "
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "edits": [
+        {
+          "start": 5,
+          "end": 11,
+          "original": "Forbes",
+          "spoken": "Phoóc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Theo Forbes, giá cổ phiếu Tesla tăng"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "heo Forbes, giá cổ phiếu Tesla tăng sau màn giới thiệu "
+        },
+        {
+          "start": 56,
+          "end": 63,
+          "original": "Model X",
+          "spoken": "Mô đen Ích",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " tăng sau màn giới thiệu Model X. Thời điểm họ tính lại, "
+        },
+        {
+          "start": 88,
+          "end": 92,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": ". Thời điểm họ tính lại, Musk đang nắm khoảng 29 phần "
+        },
+        {
+          "start": 109,
+          "end": 111,
+          "original": "29",
+          "spoken": "hai mươi chín",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ại, Musk đang nắm khoảng 29 phần trăm Tesla. Riêng p"
+        },
+        {
+          "start": 122,
+          "end": 127,
+          "original": "Tesla",
+          "spoken": "Tét sla",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": " nắm khoảng 29 phần trăm Tesla. Riêng phần ấy đã trị gi"
+        },
+        {
+          "start": 223,
+          "end": 229,
+          "original": "SpaceX",
+          "spoken": "Spây Xếch",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "a. Phần ông sở hữu trong SpaceX cộng với phần trong Sola"
+        },
+        {
+          "start": 250,
+          "end": 259,
+          "original": "SolarCity",
+          "spoken": "Sô la Xi ti",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "aceX cộng với phần trong SolarCity được Forbes ước tính vào"
+        },
+        {
+          "start": 265,
+          "end": 271,
+          "original": "Forbes",
+          "spoken": "Phoóc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "hần trong SolarCity được Forbes ước tính vào khoảng một "
+        },
+        {
+          "start": 313,
+          "end": 314,
+          "original": "3",
+          "spoken": "ba",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ảng một tỷ đô nữa. Tháng 3 năm 2012, lần đầu Elon M"
+        },
+        {
+          "start": 319,
+          "end": 323,
+          "original": "2012",
+          "spoken": "hai nghìn mười hai",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "t tỷ đô nữa. Tháng 3 năm 2012, lần đầu Elon Musk xuất "
+        },
+        {
+          "start": 333,
+          "end": 342,
+          "original": "Elon Musk",
+          "spoken": "I lơn Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "háng 3 năm 2012, lần đầu Elon Musk xuất hiện trong danh sác"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "edits": [
+        {
+          "start": 10,
+          "end": 17,
+          "original": "McLaren",
+          "spoken": "Mắc La ren",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Nhớ chiếc McLaren hồi đầu phim chứ? Năm 19"
+        },
+        {
+          "start": 40,
+          "end": 44,
+          "original": "1999",
+          "spoken": "một nghìn chín trăm chín mươi chín",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "en hồi đầu phim chứ? Năm 1999, muốn quay cảnh Elon Mus"
+        },
+        {
+          "start": 61,
+          "end": 70,
+          "original": "Elon Musk",
+          "spoken": "I lơn Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "Năm 1999, muốn quay cảnh Elon Musk vừa giàu lên, người ta c"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "edits": []
+    },
+    {
+      "id": 39,
+      "edits": [
+        {
+          "start": 63,
+          "end": 67,
+          "original": "Musk",
+          "spoken": "Mấc",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ớc một chiếc xe. Lần này Musk chẳng đến nhận chìa khóa"
+        },
+        {
+          "start": 100,
+          "end": 107,
+          "original": "Model X",
+          "spoken": "Mô đen Ích",
+          "reason": "Cách đọc tiếng Việt của số hoặc tên trong câu cụ thể.",
+          "context": "ến nhận chìa khóa. Chiếc Model X đang mở cửa cho khách xe"
+        }
+      ]
+    }
+  ]
+}

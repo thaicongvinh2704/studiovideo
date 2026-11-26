@@ -1,0 +1,13 @@
+{
+  "author": "Codex, tự biên tập cùng phiên",
+  "findings": {
+    "content": "Giữ thứ tự và các mốc của sáu chương gốc. Ở mở đầu, tiền cho lần phóng cuối là tự thuật của Musk; số tiền PayPal là phần sau thuế. Đoạn mua máy ảnh là giả định. Giữ quy thuộc cho Forbes và NASA ở hai con số khác nhau.",
+    "director": "Vào đề bằng ba lần phóng thất bại. Gọi lại hòn đảo ở chương năm. Để nhịp nhìn sau câu cái lỗ trên sàn, cú bấm đăng và tín hiệu về, rồi mới chuyển ý. Giữ cảnh xe ở cuối để đáp lại cảnh nhận chìa khóa.",
+    "audio": "Bản trước phát nguyên đoạn Tesla 43 giây trong cùng một lượt. Nhiều khoảng ngắt đầu tập rơi vào vùng 0,35–0,48 giây. Bản mới viết lại câu hỏi, câu đáp và câu đùa để thu riêng; mỗi cụm có điểm lấy hơi, sắc thái, mức và nhịp. Khi ráp phải trừ khoảng im ở hai đầu file.",
+    "technical": "Dùng preset 19 Ngọc Huyền gốc ở tốc độ tổng hợp 1, không dịch cao độ. Bảng nhịp giữ số và tên cùng nhau; chỉ dẫn tách khỏi lời. So độ dài và mức đỉnh tệp hoàn chỉnh, thử giải mã MP3, ghi mốc từ PCM.",
+    "critic": "Rủi ro lớn nhất là thay đều giọng bằng đều ngắt. Giữ các chuỗi giải thích liền hơi; các khoảng dài chỉ dành cho một kết quả, đổi cảnh hoặc câu cần người xem tự trả lời. Cần giao trích đoạn và bản dài để người nghe phán xét."
+  },
+  "previous_seconds": 676.0868541666666,
+  "source": "7c34076db3a94542eac499519d984210dd5635890221721ecceef562a9807c15",
+  "score": "81ef7498ab9d7a2381a6be36bba8304cce939fcfa8844917bf4d0a67ea13277a"
+}

@@ -1,0 +1,6 @@
+# Preserve exact production bytes used by SHA-256 receipts on all operating systems.
+*.md -text
+*.py -text
+*.json -text
+*.txt -text
+*.sha256 -text

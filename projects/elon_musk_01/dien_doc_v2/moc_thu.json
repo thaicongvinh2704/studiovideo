@@ -1,0 +1,1268 @@
+{
+  "seconds": 659.389,
+  "sample_rate": 48000,
+  "units": [
+    {
+      "id": 1,
+      "group": 1,
+      "scene": "01",
+      "text": "Ba lần phóng. Cả ba lần, đội của Elon Musk đều không đưa được tên lửa vào quỹ đạo.",
+      "style": "nén",
+      "start": 0.08,
+      "end": 4.224,
+      "pre_gap": 0.08
+    },
+    {
+      "id": 2,
+      "group": 1,
+      "scene": "01",
+      "text": "Tháng 9 năm 2008, giữa Thái Bình Dương, đội SpaceX đặt quả thứ tư lên bệ.",
+      "style": "kể",
+      "start": 4.604,
+      "end": 9.124,
+      "pre_gap": 0.38
+    },
+    {
+      "id": 3,
+      "group": 1,
+      "scene": "01",
+      "text": "Nếu lần này cũng hỏng thì sao?",
+      "style": "thủ thỉ",
+      "start": 9.524,
+      "end": 11.132,
+      "pre_gap": 0.4
+    },
+    {
+      "id": 4,
+      "group": 1,
+      "scene": "01",
+      "text": "Musk kể, tiền của công ty chỉ còn đủ cho chuyến này.",
+      "style": "đáp",
+      "start": 11.832,
+      "end": 14.656,
+      "pre_gap": 0.7
+    },
+    {
+      "id": 5,
+      "group": 2,
+      "scene": "01",
+      "text": "Sáu năm trước đó, theo lời ông, riêng vụ bán PayPal đã mang về khoảng 180 triệu đô sau thuế.",
+      "style": "kể",
+      "start": 15.206,
+      "end": 20.63,
+      "pre_gap": 0.55
+    },
+    {
+      "id": 6,
+      "group": 2,
+      "scene": "01",
+      "text": "Chừng ấy tiền đi đâu hết?",
+      "style": "hỏi",
+      "start": 20.95,
+      "end": 22.062,
+      "pre_gap": 0.32
+    },
+    {
+      "id": 7,
+      "group": 3,
+      "scene": "01",
+      "text": "Muốn lần theo số tiền ấy, phải về cái thời Elon muốn dùng máy tính còn phải đứng đợi.",
+      "style": "kể",
+      "start": 22.732,
+      "end": 26.956,
+      "pre_gap": 0.67
+    },
+    {
+      "id": 8,
+      "group": 3,
+      "scene": "01",
+      "text": "Đợi đến tối.",
+      "style": "tỉnh",
+      "start": 27.236,
+      "end": 27.964,
+      "pre_gap": 0.28
+    },
+    {
+      "id": 9,
+      "group": 4,
+      "scene": "02",
+      "text": "California, năm 1995. Hai anh em Elon và Kimbal Musk cùng khởi nghiệp.",
+      "style": "kể",
+      "start": 28.704,
+      "end": 34.016,
+      "pre_gap": 0.74
+    },
+    {
+      "id": 10,
+      "group": 4,
+      "scene": "02",
+      "text": "Bạn thử hình dung cần tìm một tiệm sửa xe ở thành phố mình mới chuyển tới. Cuốn danh bạ cho bạn tên tiệm, số điện thoại và địa chỉ.",
+      "style": "sáng",
+      "start": 34.306,
+      "end": 40.722,
+      "pre_gap": 0.29
+    },
+    {
+      "id": 11,
+      "group": 4,
+      "scene": "02",
+      "text": "Rồi sao nữa?",
+      "style": "hỏi",
+      "start": 40.922,
+      "end": 41.658,
+      "pre_gap": 0.2
+    },
+    {
+      "id": 12,
+      "group": 4,
+      "scene": "02",
+      "text": "Rồi bạn đi kiếm cái bản đồ.",
+      "style": "tỉnh",
+      "start": 42.018,
+      "end": 43.41,
+      "pre_gap": 0.36
+    },
+    {
+      "id": 13,
+      "group": 4,
+      "scene": "02",
+      "text": "Hai anh em thấy hai việc ấy có thể làm ở cùng một chỗ, ngay trên màn hình máy tính. Công ty của họ sau này mang tên Zip2.",
+      "style": "kể",
+      "start": 43.76,
+      "end": 50.488,
+      "pre_gap": 0.35
+    },
+    {
+      "id": 14,
+      "group": 5,
+      "scene": "02",
+      "text": "Thứ họ có trong văn phòng buổi đầu là một chiếc máy tính.",
+      "style": "kể",
+      "start": 50.878,
+      "end": 53.782,
+      "pre_gap": 0.39
+    },
+    {
+      "id": 15,
+      "group": 5,
+      "scene": "02",
+      "text": "Ban ngày, máy chạy trang web cho khách. Ban đêm, Elon lấy nó để viết chương trình.",
+      "style": "sáng",
+      "start": 54.012,
+      "end": 58.148,
+      "pre_gap": 0.23
+    },
+    {
+      "id": 16,
+      "group": 6,
+      "scene": "02",
+      "text": "Đến sợi dây mạng của họ cũng có một lối đi riêng. Nhà cung cấp Internet ở ngay tầng dưới. Musk kể hai anh em khoan một lỗ xuyên sàn để kéo dây lên.",
+      "style": "kể",
+      "start": 58.478,
+      "end": 66.39,
+      "pre_gap": 0.33
+    },
+    {
+      "id": 17,
+      "group": 6,
+      "scene": "02",
+      "text": "Còn chuyện về nhà sau giờ làm thì đơn giản hơn nữa. Ông ngủ trên chiếc ghế trong văn phòng, sáng đi tắm nhờ ở khu thể thao.",
+      "style": "sáng",
+      "start": 66.67,
+      "end": 72.374,
+      "pre_gap": 0.28
+    },
+    {
+      "id": 18,
+      "group": 6,
+      "scene": "02",
+      "text": "Khách hàng dùng Zip2 để tìm đường. Còn đường truyền của Zip2?",
+      "style": "kể",
+      "start": 72.744,
+      "end": 75.936,
+      "pre_gap": 0.37
+    },
+    {
+      "id": 19,
+      "group": 6,
+      "scene": "02",
+      "text": "Cứ lần theo cái lỗ trên sàn.",
+      "style": "tỉnh",
+      "start": 76.416,
+      "end": 77.848,
+      "pre_gap": 0.48
+    },
+    {
+      "id": 20,
+      "group": 7,
+      "scene": "02",
+      "text": "Nhưng có bản đồ chạy được mới giải xong nửa bài toán. Ai chịu trả tiền để hai anh em tiếp tục làm?",
+      "style": "hỏi",
+      "start": 78.458,
+      "end": 83.826,
+      "pre_gap": 0.61
+    },
+    {
+      "id": 21,
+      "group": 7,
+      "scene": "02",
+      "text": "Một nhóm khách hàng xuất hiện từ chỗ ít ngờ tới: các tòa soạn báo.",
+      "style": "đáp",
+      "start": 84.266,
+      "end": 88.066,
+      "pre_gap": 0.44
+    },
+    {
+      "id": 22,
+      "group": 7,
+      "scene": "02",
+      "text": "Họ đã biết nhà hàng nào mới mở, rạp nào đang chiếu phim, người dân trong vùng muốn đọc gì. Họ cần một cách đưa những thứ đó lên mạng.",
+      "style": "sáng",
+      "start": 88.316,
+      "end": 94.708,
+      "pre_gap": 0.25
+    },
+    {
+      "id": 23,
+      "group": 7,
+      "scene": "02",
+      "text": "Với phần mềm của Zip2, một tờ báo có thể mở cả cẩm nang thành phố trên trang của mình. Lần tới một độc giả cần tìm tiệm sửa xe, họ có thể ghé trang của tờ báo địa phương.",
+      "style": "kể",
+      "start": 94.898,
+      "end": 104.074,
+      "pre_gap": 0.19
+    },
+    {
+      "id": 24,
+      "group": 7,
+      "scene": "02",
+      "text": "Zip2 kiếm tiền nhờ bán cho tờ báo cái công cụ đứng phía sau lần tìm kiếm ấy.",
+      "style": "đáp",
+      "start": 104.414,
+      "end": 108.678,
+      "pre_gap": 0.34
+    },
+    {
+      "id": 25,
+      "group": 8,
+      "scene": "02",
+      "text": "Năm 1999, Compaq mua Zip2.",
+      "style": "kể",
+      "start": 109.208,
+      "end": 112.136,
+      "pre_gap": 0.53
+    },
+    {
+      "id": 26,
+      "group": 8,
+      "scene": "02",
+      "text": "Phần của Elon vào khoảng 22 triệu đô.",
+      "style": "số",
+      "start": 112.376,
+      "end": 114.536,
+      "pre_gap": 0.24
+    },
+    {
+      "id": 27,
+      "group": 8,
+      "scene": "02",
+      "text": "Muốn biết đời ông đổi khác thế nào, có một thước phim còn hay hơn biểu đồ: CNN có mặt hôm một chiếc McLaren F1 được giao cho Musk.",
+      "style": "sáng",
+      "start": 114.926,
+      "end": 121.638,
+      "pre_gap": 0.39
+    },
+    {
+      "id": 28,
+      "group": 8,
+      "scene": "02",
+      "text": "Mới mấy năm trước ông còn phải chờ hết ca của cái máy tính. Giờ có hẳn một đội truyền hình đến xem ông nhận chìa khóa xe.",
+      "style": "tâm tình",
+      "start": 121.888,
+      "end": 128.008,
+      "pre_gap": 0.25
+    },
+    {
+      "id": 29,
+      "group": 9,
+      "scene": "03",
+      "text": "Chiếc McLaren là phần dễ chụp ảnh nhất của 22 triệu đô. Phần đáng theo dõi hơn nằm ở X.com, công ty tài chính trực tuyến Musk lập tiếp đó.",
+      "style": "sáng",
+      "start": 128.738,
+      "end": 136.282,
+      "pre_gap": 0.73
+    },
+    {
+      "id": 30,
+      "group": 9,
+      "scene": "03",
+      "text": "Ông muốn khách có thể làm việc với ngân hàng qua mạng. Hồi cuối thập niên chín mươi, gửi một bức thư qua máy tính đã khá tiện.",
+      "style": "kể",
+      "start": 136.532,
+      "end": 142.764,
+      "pre_gap": 0.25
+    },
+    {
+      "id": 31,
+      "group": 9,
+      "scene": "03",
+      "text": "Gửi kèm tiền cho người ở đầu kia lại là một câu chuyện dài.",
+      "style": "đáp",
+      "start": 143.104,
+      "end": 146.0,
+      "pre_gap": 0.34
+    },
+    {
+      "id": 32,
+      "group": 10,
+      "scene": "03",
+      "text": "Giả sử bạn vừa thắng đấu giá một chiếc máy ảnh cũ trên eBay. Bạn và người bán chưa từng gặp. Hai người ở hai thành phố khác nhau.",
+      "style": "kể",
+      "start": 146.48,
+      "end": 153.128,
+      "pre_gap": 0.48
+    },
+    {
+      "id": 33,
+      "group": 10,
+      "scene": "03",
+      "text": "Chủ cũ giữ máy ảnh, bạn giữ tiền.",
+      "style": "nén",
+      "start": 153.358,
+      "end": 155.19,
+      "pre_gap": 0.23
+    },
+    {
+      "id": 34,
+      "group": 10,
+      "scene": "03",
+      "text": "Hai bên có thể gửi cho nhau bao nhiêu email tùy thích, chiếc máy ảnh vẫn nằm nguyên trên bàn nhà người ta. Thứ cả hai cần là một cách để người bán biết tiền đã tới và có thể gói hàng gửi đi.",
+      "style": "sáng",
+      "start": 155.46,
+      "end": 164.444,
+      "pre_gap": 0.27
+    },
+    {
+      "id": 35,
+      "group": 11,
+      "scene": "03",
+      "text": "Một công ty khác tên Confinity làm ra sản phẩm PayPal, cho phép chuyển tiền cho người có địa chỉ email. X.com và Confinity sáp nhập vào năm 2000.",
+      "style": "kể",
+      "start": 164.804,
+      "end": 173.964,
+      "pre_gap": 0.36
+    },
+    {
+      "id": 36,
+      "group": 11,
+      "scene": "03",
+      "text": "Musk muốn làm ngân hàng. Đội Confinity mang đến công cụ thanh toán.",
+      "style": "sáng",
+      "start": 174.224,
+      "end": 177.456,
+      "pre_gap": 0.26
+    },
+    {
+      "id": 37,
+      "group": 11,
+      "scene": "03",
+      "text": "Còn anh bán máy ảnh chỉ có mỗi một câu hỏi. Tiền vào chưa, để tôi còn gửi hàng?",
+      "style": "hỏi",
+      "start": 177.776,
+      "end": 182.248,
+      "pre_gap": 0.32
+    },
+    {
+      "id": 38,
+      "group": 11,
+      "scene": "03",
+      "text": "Những người như anh có lý do để quay lại dùng PayPal sau mỗi lần đấu giá.",
+      "style": "kể",
+      "start": 182.568,
+      "end": 186.072,
+      "pre_gap": 0.32
+    },
+    {
+      "id": 39,
+      "group": 12,
+      "scene": "03",
+      "text": "Giờ thử đứng về phía hãng thanh toán. Bạn làm ra một dịch vụ chuyển tiền, nhưng người đầu tiên mở tài khoản định chuyển cho ai nếu bạn bè họ đều chưa dùng?",
+      "style": "hỏi",
+      "start": 186.572,
+      "end": 194.164,
+      "pre_gap": 0.5
+    },
+    {
+      "id": 40,
+      "group": 12,
+      "scene": "03",
+      "text": "PayPal từng trả thưởng từ năm tới mười đô cho người mở tài khoản đủ điều kiện, rồi trả thưởng cả cho người giới thiệu.",
+      "style": "kể",
+      "start": 194.464,
+      "end": 199.824,
+      "pre_gap": 0.3
+    },
+    {
+      "id": 41,
+      "group": 12,
+      "scene": "03",
+      "text": "Mở tài khoản xong, nhìn vào đã thấy tiền.",
+      "style": "sáng",
+      "start": 200.124,
+      "end": 202.172,
+      "pre_gap": 0.3
+    },
+    {
+      "id": 42,
+      "group": 12,
+      "scene": "03",
+      "text": "Phần hướng dẫn sử dụng đến đây coi như xong được một nửa.",
+      "style": "tỉnh",
+      "start": 202.492,
+      "end": 205.244,
+      "pre_gap": 0.32
+    },
+    {
+      "id": 43,
+      "group": 12,
+      "scene": "03",
+      "text": "Đến khi cả người bán lẫn người mua đã dùng được, chính các giao dịch của họ mới là thứ khiến mạng lưới ấy có giá trị.",
+      "style": "kể",
+      "start": 205.664,
+      "end": 211.176,
+      "pre_gap": 0.42
+    },
+    {
+      "id": 44,
+      "group": 13,
+      "scene": "03",
+      "text": "Tháng 9 năm 2000, Peter Thiel trở lại điều hành công ty. Musk rời ghế tổng giám đốc.",
+      "style": "kể",
+      "start": 211.886,
+      "end": 216.47,
+      "pre_gap": 0.71
+    },
+    {
+      "id": 45,
+      "group": 13,
+      "scene": "03",
+      "text": "Ghế giám đốc đổi chủ. Cổ phần của ông thì vẫn nằm đấy.",
+      "style": "nén",
+      "start": 216.9,
+      "end": 219.668,
+      "pre_gap": 0.43
+    },
+    {
+      "id": 46,
+      "group": 13,
+      "scene": "03",
+      "text": "Hai năm sau, chi tiết đó mới đáng tiền.",
+      "style": "thủ thỉ",
+      "start": 220.158,
+      "end": 222.454,
+      "pre_gap": 0.49
+    },
+    {
+      "id": 47,
+      "group": 14,
+      "scene": "03",
+      "text": "Rồi chính eBay mua PayPal. Tháng 10 năm 2002, thương vụ hoàn tất, trị giá khoảng một tỷ rưỡi đô la.",
+      "style": "sáng",
+      "start": 222.964,
+      "end": 228.364,
+      "pre_gap": 0.51
+    },
+    {
+      "id": 48,
+      "group": 14,
+      "scene": "03",
+      "text": "Một tỷ rưỡi là giá eBay trả bằng cổ phiếu để mua cả PayPal. Trong số những người được hưởng có cả vị giám đốc đã rời ghế hai năm trước.",
+      "style": "kể",
+      "start": 228.584,
+      "end": 235.472,
+      "pre_gap": 0.22
+    },
+    {
+      "id": 49,
+      "group": 15,
+      "scene": "03",
+      "text": "Phần của Musk là bao nhiêu?",
+      "style": "hỏi",
+      "start": 235.892,
+      "end": 237.084,
+      "pre_gap": 0.42
+    },
+    {
+      "id": 50,
+      "group": 15,
+      "scene": "03",
+      "text": "Theo ông kể lại, sau thuế, khoảng 180 triệu đô.",
+      "style": "số",
+      "start": 237.694,
+      "end": 240.87,
+      "pre_gap": 0.61
+    },
+    {
+      "id": 51,
+      "group": 16,
+      "scene": "03",
+      "text": "Đến đây ông đã có thừa tiền để sống cùng chiếc xe mình thích.",
+      "style": "kể",
+      "start": 241.3,
+      "end": 244.036,
+      "pre_gap": 0.43
+    },
+    {
+      "id": 52,
+      "group": 16,
+      "scene": "03",
+      "text": "Nhưng đây mới là khoản khó tin trong chuyện chi tiêu của ông. Musk nói có lúc ông đã phải đi vay tiền trả tiền thuê nhà.",
+      "style": "thủ thỉ",
+      "start": 244.376,
+      "end": 250.656,
+      "pre_gap": 0.34
+    },
+    {
+      "id": 53,
+      "group": 16,
+      "scene": "03",
+      "text": "Muốn nối hai chuyện ấy với nhau, ta phải nhìn vào ba chỗ số tiền đã đi tới.",
+      "style": "kể",
+      "start": 251.136,
+      "end": 255.08,
+      "pre_gap": 0.48
+    },
+    {
+      "id": 54,
+      "group": 17,
+      "scene": "04",
+      "text": "Musk kể lại các khoản ông đã bỏ ra qua nhiều năm như sau.",
+      "style": "kể",
+      "start": 255.73,
+      "end": 258.474,
+      "pre_gap": 0.65
+    },
+    {
+      "id": 55,
+      "group": 17,
+      "scene": "04",
+      "text": "SpaceX, khoảng 100 triệu đô.",
+      "style": "số",
+      "start": 258.704,
+      "end": 260.792,
+      "pre_gap": 0.23
+    },
+    {
+      "id": 56,
+      "group": 17,
+      "scene": "04",
+      "text": "Tesla, khoảng 70 triệu.",
+      "style": "số",
+      "start": 261.032,
+      "end": 262.704,
+      "pre_gap": 0.24
+    },
+    {
+      "id": 57,
+      "group": 17,
+      "scene": "04",
+      "text": "SolarCity, khoảng 10 triệu.",
+      "style": "số",
+      "start": 263.024,
+      "end": 264.864,
+      "pre_gap": 0.32
+    },
+    {
+      "id": 58,
+      "group": 17,
+      "scene": "04",
+      "text": "Ba khoản ráp lại vừa khít. Hẳn ông đã tính kỹ từ đầu?",
+      "style": "hỏi",
+      "start": 265.334,
+      "end": 268.382,
+      "pre_gap": 0.47
+    },
+    {
+      "id": 59,
+      "group": 18,
+      "scene": "04",
+      "text": "Riêng tiền làm tên lửa, ông nhớ mình dự trù có 50 triệu thôi.",
+      "style": "tỉnh",
+      "start": 268.932,
+      "end": 272.1,
+      "pre_gap": 0.55
+    },
+    {
+      "id": 60,
+      "group": 19,
+      "scene": "04",
+      "text": "Vì sao một người vừa bán xong công ty thanh toán lại muốn đụng đến tên lửa?",
+      "style": "hỏi",
+      "start": 272.67,
+      "end": 276.07,
+      "pre_gap": 0.57
+    },
+    {
+      "id": 61,
+      "group": 19,
+      "scene": "04",
+      "text": "Theo lời ông kể, một trong những ý tưởng thuở đầu là gửi một nhà kính nhỏ lên sao Hỏa. Thứ ông hình dung công chúng sẽ nhìn thấy là màu xanh của cây trên một hành tinh đỏ.",
+      "style": "kể",
+      "start": 276.32,
+      "end": 284.8,
+      "pre_gap": 0.25
+    },
+    {
+      "id": 62,
+      "group": 19,
+      "scene": "04",
+      "text": "Nghe rất có hình. Đến phần tìm phương tiện chở cái nhà kính đi, bài toán đổi hẳn.",
+      "style": "sáng",
+      "start": 285.03,
+      "end": 288.846,
+      "pre_gap": 0.23
+    },
+    {
+      "id": 63,
+      "group": 19,
+      "scene": "04",
+      "text": "Sau những chuyến đi hỏi mua tên lửa, ông quay lại với ý định tự lập công ty làm phương tiện đưa đồ lên không gian. SpaceX ra đời năm 2002.",
+      "style": "kể",
+      "start": 289.156,
+      "end": 297.588,
+      "pre_gap": 0.31
+    },
+    {
+      "id": 64,
+      "group": 19,
+      "scene": "04",
+      "text": "Chặng đầu của công ty là đưa được một vật vào quỹ đạo quanh Trái Đất. Cái nhà kính còn xa lắm.",
+      "style": "tâm tình",
+      "start": 297.888,
+      "end": 302.944,
+      "pre_gap": 0.3
+    },
+    {
+      "id": 65,
+      "group": 20,
+      "scene": "04",
+      "text": "Còn Tesla? Musk bỏ vốn từ sớm, vào hội đồng quản trị năm 2004, bốn năm sau mới giữ chức tổng giám đốc.",
+      "style": "sáng",
+      "start": 303.474,
+      "end": 309.682,
+      "pre_gap": 0.53
+    },
+    {
+      "id": 66,
+      "group": 20,
+      "scene": "04",
+      "text": "Hãng bắt đầu với chiếc xe thể thao chạy điện Roadster. Để người ta hiểu một chiếc xe điện cũng có thể khiến họ muốn ngồi vào ghế lái, mang một chiếc xe thật ra trước mặt họ có lý hơn là đứng nói về tương lai cả buổi.",
+      "style": "kể",
+      "start": 309.872,
+      "end": 320.384,
+      "pre_gap": 0.19
+    },
+    {
+      "id": 67,
+      "group": 20,
+      "scene": "04",
+      "text": "Năm 2006 có một câu hỏi mà chính Musk phải lên tiếng giải thích. Tesla muốn nhiều người đi xe điện.",
+      "style": "sáng",
+      "start": 320.744,
+      "end": 326.08,
+      "pre_gap": 0.36
+    },
+    {
+      "id": 68,
+      "group": 20,
+      "scene": "04",
+      "text": "Thế sao chiếc đầu tiên lại đắt đến mức ít người mua nổi?",
+      "style": "hỏi",
+      "start": 326.33,
+      "end": 329.306,
+      "pre_gap": 0.25
+    },
+    {
+      "id": 69,
+      "group": 20,
+      "scene": "04",
+      "text": "Đại ý là ở quy mô nhỏ, mỗi chiếc làm ra còn quá tốn kém. Hãy bán cho nhóm khách đủ tiền mua xe thể thao trước, dùng số tiền và kinh nghiệm thu được để phát triển chiếc rẻ hơn, rồi mới đến chiếc rẻ hơn nữa.",
+      "style": "kể",
+      "start": 329.646,
+      "end": 340.534,
+      "pre_gap": 0.34
+    },
+    {
+      "id": 70,
+      "group": 20,
+      "scene": "04",
+      "text": "Musk giải thích hết chuyện này trong một bài viết. Ông đặt tên cho nó là kế hoạch bí mật của Tesla.",
+      "style": "tâm tình",
+      "start": 341.044,
+      "end": 346.82,
+      "pre_gap": 0.51
+    },
+    {
+      "id": 71,
+      "group": 21,
+      "scene": "04",
+      "text": "Rồi ông đăng lên mạng.",
+      "style": "tỉnh",
+      "start": 347.46,
+      "end": 348.468,
+      "pre_gap": 0.64
+    },
+    {
+      "id": 72,
+      "group": 22,
+      "scene": "04",
+      "text": "Đó là lời hẹn mà những người bỏ tiền vào Tesla có thể quay lại kiểm tra. Bán được một chiếc Roadster chứng tỏ có người chịu chi cho xe thể thao chạy điện.",
+      "style": "kể",
+      "start": 349.178,
+      "end": 357.578,
+      "pre_gap": 0.71
+    },
+    {
+      "id": 73,
+      "group": 22,
+      "scene": "04",
+      "text": "Bước khó hơn là biến số tiền đó thành chiếc xe tiếp theo và giao được xe cho khách. Hãng vừa phải xoay tiền cho những chiếc đang làm, vừa phải tìm tiền cho mẫu còn trên bản vẽ.",
+      "style": "nén",
+      "start": 357.948,
+      "end": 366.172,
+      "pre_gap": 0.37
+    },
+    {
+      "id": 74,
+      "group": 23,
+      "scene": "04",
+      "text": "Hãy để ý điều vừa đổi đối với Musk. Với Zip2, ông có thể chờ khách dùng xong rồi ngồi vào chính cái máy ấy sửa tiếp.",
+      "style": "kể",
+      "start": 366.612,
+      "end": 372.78,
+      "pre_gap": 0.44
+    },
+    {
+      "id": 75,
+      "group": 23,
+      "scene": "04",
+      "text": "Ở Tesla, mỗi chiếc xe giao đi mang theo pin, thân xe, linh kiện đã phải mua và lắp cho khách. Còn ở SpaceX, mỗi lần thử là một quả tên lửa thật rời khỏi bệ.",
+      "style": "sáng",
+      "start": 373.01,
+      "end": 381.706,
+      "pre_gap": 0.23
+    },
+    {
+      "id": 76,
+      "group": 23,
+      "scene": "04",
+      "text": "Nếu chuyến bay hỏng, hôm sau đội kỹ sư có thể mở lại bản thiết kế.",
+      "style": "thủ thỉ",
+      "start": 382.136,
+      "end": 385.816,
+      "pre_gap": 0.43
+    },
+    {
+      "id": 77,
+      "group": 24,
+      "scene": "04",
+      "text": "Vẫn còn phần nhỏ nhất, SolarCity, công ty năng lượng mặt trời do những người anh em họ của ông gây dựng. Musk đầu tư vào đó. Mười triệu đô dễ lọt thỏm trên hình khi đặt cạnh cả trăm triệu.",
+      "style": "kể",
+      "start": 386.396,
+      "end": 396.668,
+      "pre_gap": 0.58
+    },
+    {
+      "id": 78,
+      "group": 24,
+      "scene": "04",
+      "text": "Nhớ lấy phần nhỏ ấy. Đến cuối câu chuyện, muốn tính gia tài của ông, ta còn phải quay lại tìm nó.",
+      "style": "tâm tình",
+      "start": 397.048,
+      "end": 402.368,
+      "pre_gap": 0.38
+    },
+    {
+      "id": 79,
+      "group": 25,
+      "scene": "05",
+      "text": "Năm 2008. Bên SpaceX vừa hỏng quả tên lửa thứ ba. Bên Tesla, kế hoạch gọi vốn cũng vừa đổ bể.",
+      "style": "nén",
+      "start": 403.138,
+      "end": 409.626,
+      "pre_gap": 0.77
+    },
+    {
+      "id": 80,
+      "group": 25,
+      "scene": "05",
+      "text": "Nếu một việc xảy ra sớm hơn, Musk ít ra còn có thể đợi xem kết quả ở một bên rồi mới quyết định với bên kia.",
+      "style": "kể",
+      "start": 409.966,
+      "end": 415.678,
+      "pre_gap": 0.34
+    },
+    {
+      "id": 81,
+      "group": 25,
+      "scene": "05",
+      "text": "Đằng này cả hai cùng cần tiền trong lúc những người mà ông định hỏi vay, hỏi góp vốn cũng đang phải lo giữ tiền của họ.",
+      "style": "nén",
+      "start": 415.908,
+      "end": 421.356,
+      "pre_gap": 0.23
+    },
+    {
+      "id": 82,
+      "group": 26,
+      "scene": "05",
+      "text": "Trong một cuộc phỏng vấn, Musk kể lại cái khó của việc chia khoản vốn còn lại.",
+      "style": "kể",
+      "start": 421.756,
+      "end": 425.468,
+      "pre_gap": 0.4
+    },
+    {
+      "id": 83,
+      "group": 26,
+      "scene": "05",
+      "text": "Dồn cho một bên thì cơ hội sống của bên ấy tốt hơn, nhưng bên kia lấy gì mà làm tiếp?",
+      "style": "hỏi",
+      "start": 425.778,
+      "end": 430.242,
+      "pre_gap": 0.31
+    },
+    {
+      "id": 84,
+      "group": 26,
+      "scene": "05",
+      "text": "Chia cho cả hai thì có thể mất luôn cả hai.",
+      "style": "nén",
+      "start": 430.552,
+      "end": 432.712,
+      "pre_gap": 0.31
+    },
+    {
+      "id": 85,
+      "group": 26,
+      "scene": "05",
+      "text": "Nghe kể từ năm 2012, ta rất dễ chọn hộ ông: cứ giữ cả hai đi, sau này công ty nào cũng đáng tiền cả.",
+      "style": "tâm tình",
+      "start": 433.152,
+      "end": 439.224,
+      "pre_gap": 0.44
+    },
+    {
+      "id": 86,
+      "group": 26,
+      "scene": "05",
+      "text": "Thử ngồi lại ở năm 2008 xem. Trước mặt là ba lần phóng hỏng và một hãng ô tô đang đi tìm người viết tấm séc kế tiếp.",
+      "style": "nén",
+      "start": 439.624,
+      "end": 445.824,
+      "pre_gap": 0.4
+    },
+    {
+      "id": 87,
+      "group": 26,
+      "scene": "05",
+      "text": "Nếu đó là tiền của bạn, bạn sẽ ký cho bên nào trước?",
+      "style": "hỏi",
+      "start": 446.344,
+      "end": 449.256,
+      "pre_gap": 0.52
+    },
+    {
+      "id": 88,
+      "group": 27,
+      "scene": "05",
+      "text": "Trở lại hòn đảo đầu phim.",
+      "style": "thủ thỉ",
+      "start": 450.186,
+      "end": 451.49,
+      "pre_gap": 0.93
+    },
+    {
+      "id": 89,
+      "group": 28,
+      "scene": "05",
+      "text": "Ngày 28 tháng 9 theo giờ quốc tế. Trong quả Falcon 1 lần này có một khối mô phỏng tải trọng.",
+      "style": "kể",
+      "start": 451.86,
+      "end": 457.044,
+      "pre_gap": 0.37
+    },
+    {
+      "id": 90,
+      "group": 28,
+      "scene": "05",
+      "text": "Nghe hơi lạ với một chuyến bay tốn đến thế.",
+      "style": "sáng",
+      "start": 457.324,
+      "end": 459.212,
+      "pre_gap": 0.28
+    },
+    {
+      "id": 91,
+      "group": 28,
+      "scene": "05",
+      "text": "Nhưng lần này, thứ đội SpaceX cần mang về là câu trả lời cho một khách hàng tương lai: nếu tôi giao hàng cho các anh, các anh có đưa nó vào quỹ đạo được không?",
+      "style": "hỏi",
+      "start": 459.502,
+      "end": 468.294,
+      "pre_gap": 0.29
+    },
+    {
+      "id": 92,
+      "group": 29,
+      "scene": "05",
+      "text": "Tên lửa rời bệ. Nó nhỏ dần thành một chấm sáng.",
+      "style": "dồn",
+      "start": 468.784,
+      "end": 471.128,
+      "pre_gap": 0.49
+    },
+    {
+      "id": 93,
+      "group": 29,
+      "scene": "05",
+      "text": "Rồi khuất hẳn.",
+      "style": "thủ thỉ",
+      "start": 471.528,
+      "end": 472.264,
+      "pre_gap": 0.4
+    },
+    {
+      "id": 94,
+      "group": 29,
+      "scene": "05",
+      "text": "Có điều, cả ba lần trước tên lửa cũng cất cánh.",
+      "style": "nén",
+      "start": 472.894,
+      "end": 475.278,
+      "pre_gap": 0.63
+    },
+    {
+      "id": 95,
+      "group": 29,
+      "scene": "05",
+      "text": "Dưới đất, người ta còn phải đợi tín hiệu.",
+      "style": "chờ",
+      "start": 475.668,
+      "end": 477.924,
+      "pre_gap": 0.39
+    },
+    {
+      "id": 96,
+      "group": 30,
+      "scene": "05",
+      "text": "Lần này thì được. Falcon 1 đã vào quỹ đạo.",
+      "style": "đáp",
+      "start": 479.404,
+      "end": 482.1,
+      "pre_gap": 1.48
+    },
+    {
+      "id": 97,
+      "group": 30,
+      "scene": "05",
+      "text": "Trong buổi phỏng vấn ở Stanford, Musk kể đây là chuyến cuối cùng mà họ còn tiền thực hiện.",
+      "style": "tâm tình",
+      "start": 482.75,
+      "end": 487.126,
+      "pre_gap": 0.65
+    },
+    {
+      "id": 98,
+      "group": 30,
+      "scene": "05",
+      "text": "Thành ra cái khối mô phỏng mà mình vừa nhìn có một công việc khá lớn: nhờ nó bay đến nơi, đội SpaceX đã có một chuyến bay thật để đưa cho người khác xem.",
+      "style": "kể",
+      "start": 487.446,
+      "end": 495.166,
+      "pre_gap": 0.32
+    },
+    {
+      "id": 99,
+      "group": 31,
+      "scene": "05",
+      "text": "Gần ba tháng sau, NASA đặt SpaceX thực hiện 12 chuyến tiếp tế trạm vũ trụ, hợp đồng trị giá khoảng 1,6 tỷ đô.",
+      "style": "số",
+      "start": 495.716,
+      "end": 502.892,
+      "pre_gap": 0.55
+    },
+    {
+      "id": 100,
+      "group": 31,
+      "scene": "05",
+      "text": "Trên hợp đồng có tên SpaceX ở ô nhà cung cấp. Đi kèm con số một tỷ sáu là mười hai chuyến hàng còn phải giao.",
+      "style": "kể",
+      "start": 503.242,
+      "end": 509.33,
+      "pre_gap": 0.35
+    },
+    {
+      "id": 101,
+      "group": 31,
+      "scene": "05",
+      "text": "SpaceX còn cả một quãng đường từ khối mô phỏng trên quỹ đạo đến ngày giao được hàng cho phi hành gia.",
+      "style": "tâm tình",
+      "start": 509.64,
+      "end": 514.512,
+      "pre_gap": 0.31
+    },
+    {
+      "id": 102,
+      "group": 32,
+      "scene": "05",
+      "text": "Rồi đến lượt Tesla. Theo lời Musk, vòng tài trợ cần để hãng tiếp tục hoạt động chốt được vào đêm Giáng sinh năm ấy.",
+      "style": "kể",
+      "start": 515.022,
+      "end": 521.238,
+      "pre_gap": 0.51
+    },
+    {
+      "id": 103,
+      "group": 32,
+      "scene": "05",
+      "text": "Thế là giữa lúc nhiều người đã nghỉ lễ, đội làm xe mới biết mình có tiền để bước sang năm mới.",
+      "style": "tâm tình",
+      "start": 521.688,
+      "end": 526.488,
+      "pre_gap": 0.45
+    },
+    {
+      "id": 104,
+      "group": 32,
+      "scene": "05",
+      "text": "Và giờ ta cũng hiểu chuyện Musk kể về khoản tiền thuê nhà. Ông vẫn là chủ của những phần công ty có giá trị.",
+      "style": "kể",
+      "start": 526.888,
+      "end": 532.312,
+      "pre_gap": 0.4
+    },
+    {
+      "id": 105,
+      "group": 32,
+      "scene": "05",
+      "text": "Trong tay ông lúc đó có bao nhiêu tiền sẵn để tiêu lại là một chuyện khác.",
+      "style": "thủ thỉ",
+      "start": 532.682,
+      "end": 536.09,
+      "pre_gap": 0.37
+    },
+    {
+      "id": 106,
+      "group": 33,
+      "scene": "06",
+      "text": "Hai năm sau, Tesla lên sàn chứng khoán. Từ đây, một người chẳng định mua ô tô cũng có thể bỏ tiền vào hãng bằng cách mua cổ phiếu.",
+      "style": "sáng",
+      "start": 536.89,
+      "end": 543.49,
+      "pre_gap": 0.8
+    },
+    {
+      "id": 107,
+      "group": 33,
+      "scene": "06",
+      "text": "Mỗi lần có người mua và người bán chốt được giá, phần sở hữu trong Tesla lại có một cái giá để người khác nhìn vào.",
+      "style": "kể",
+      "start": 543.76,
+      "end": 549.88,
+      "pre_gap": 0.27
+    },
+    {
+      "id": 108,
+      "group": 34,
+      "scene": "06",
+      "text": "Việc này quan trọng với Musk ở điểm nào? Hình dung bạn góp tiền mở một tiệm sửa xe.",
+      "style": "hỏi",
+      "start": 550.34,
+      "end": 554.86,
+      "pre_gap": 0.46
+    },
+    {
+      "id": 109,
+      "group": 34,
+      "scene": "06",
+      "text": "Sau vài năm, khách đông hơn, tiệm mua thêm đồ nghề. Có người đến hỏi mua phần của bạn với giá cao hơn lúc bạn góp.",
+      "style": "sáng",
+      "start": 555.14,
+      "end": 560.74,
+      "pre_gap": 0.28
+    },
+    {
+      "id": 110,
+      "group": 34,
+      "scene": "06",
+      "text": "Buổi chiều hôm đó bạn vẫn có thể về nhà với đúng số tiền trong túi như buổi sáng.",
+      "style": "tâm tình",
+      "start": 561.1,
+      "end": 565.044,
+      "pre_gap": 0.36
+    },
+    {
+      "id": 111,
+      "group": 34,
+      "scene": "06",
+      "text": "Nhưng nếu ai ngồi tính gia tài của bạn, họ có lý do để ghi một con số mới cho phần sở hữu trong tiệm. Đem cách nghĩ đó về Tesla, ta biết phải tìm hai thứ: Musk đang giữ bao nhiêu cổ phần, và người khác sẵn lòng trả bao nhiêu cho chúng.",
+      "style": "kể",
+      "start": 565.394,
+      "end": 578.498,
+      "pre_gap": 0.35
+    },
+    {
+      "id": 112,
+      "group": 35,
+      "scene": "06",
+      "text": "Tháng 10 năm 2011, Forbes ước tính tài sản Musk khoảng 680 triệu đô. Vẫn còn cách khá xa vạch một tỷ.",
+      "style": "số",
+      "start": 579.078,
+      "end": 585.694,
+      "pre_gap": 0.58
+    },
+    {
+      "id": 113,
+      "group": 35,
+      "scene": "06",
+      "text": "Rồi đầu năm 2012, Tesla giới thiệu mẫu Model X. Hai cánh cửa sau mở vươn lên. Người đứng cạnh có thể bước vào hàng ghế sau.",
+      "style": "sáng",
+      "start": 586.094,
+      "end": 592.942,
+      "pre_gap": 0.4
+    },
+    {
+      "id": 114,
+      "group": 35,
+      "scene": "06",
+      "text": "Còn người quan tâm đến tương lai Tesla nhìn cùng cái cửa ấy và thấy thêm một thứ: công ty từng làm được một chiếc xe thể thao đang cho họ xem một mẫu xe gia đình.",
+      "style": "kể",
+      "start": 593.242,
+      "end": 601.578,
+      "pre_gap": 0.3
+    },
+    {
+      "id": 115,
+      "group": 35,
+      "scene": "06",
+      "text": "Từ một mẫu trưng bày đến cả dây chuyền sản xuất vẫn còn xa. Người mua cổ phiếu đã có thêm thứ để cân nhắc ngay từ buổi giới thiệu.",
+      "style": "tâm tình",
+      "start": 601.868,
+      "end": 608.708,
+      "pre_gap": 0.29
+    },
+    {
+      "id": 116,
+      "group": 36,
+      "scene": "06",
+      "text": "Theo Forbes, giá cổ phiếu Tesla tăng sau màn giới thiệu Model X. Thời điểm họ tính lại, Musk đang nắm khoảng 29 phần trăm Tesla.",
+      "style": "kể",
+      "start": 609.238,
+      "end": 617.43,
+      "pre_gap": 0.53
+    },
+    {
+      "id": 117,
+      "group": 36,
+      "scene": "06",
+      "text": "Riêng phần ấy đã trị giá hơn một tỷ đô.",
+      "style": "số",
+      "start": 617.88,
+      "end": 619.984,
+      "pre_gap": 0.45
+    },
+    {
+      "id": 118,
+      "group": 36,
+      "scene": "06",
+      "text": "Bây giờ quay lại hai nhánh kia. Phần ông sở hữu trong SpaceX cộng với phần trong SolarCity được Forbes ước tính vào khoảng một tỷ đô nữa.",
+      "style": "sáng",
+      "start": 620.424,
+      "end": 626.864,
+      "pre_gap": 0.44
+    },
+    {
+      "id": 119,
+      "group": 36,
+      "scene": "06",
+      "text": "Tháng 3 năm 2012, lần đầu Elon Musk xuất hiện trong danh sách tỷ phú của tạp chí.",
+      "style": "kể",
+      "start": 627.334,
+      "end": 632.054,
+      "pre_gap": 0.47
+    },
+    {
+      "id": 120,
+      "group": 36,
+      "scene": "06",
+      "text": "Con số đặt bên tên ông là hai tỷ đô la.",
+      "style": "đáp",
+      "start": 632.674,
+      "end": 634.946,
+      "pre_gap": 0.62
+    },
+    {
+      "id": 121,
+      "group": 37,
+      "scene": "06",
+      "text": "Nhớ chiếc McLaren hồi đầu phim chứ? Năm 1999, muốn quay cảnh Elon Musk vừa giàu lên, người ta chỉ việc đứng đợi trước nhà.",
+      "style": "tâm tình",
+      "start": 635.766,
+      "end": 643.622,
+      "pre_gap": 0.82
+    },
+    {
+      "id": 122,
+      "group": 38,
+      "scene": "06",
+      "text": "Xe tới, chìa khóa trao tay.",
+      "style": "dồn",
+      "start": 643.932,
+      "end": 645.444,
+      "pre_gap": 0.31
+    },
+    {
+      "id": 123,
+      "group": 38,
+      "scene": "06",
+      "text": "Xong phim.",
+      "style": "tỉnh",
+      "start": 645.654,
+      "end": 646.182,
+      "pre_gap": 0.21
+    },
+    {
+      "id": 124,
+      "group": 39,
+      "scene": "06",
+      "text": "Mười ba năm sau, ống kính lại đứng trước một chiếc xe. Lần này Musk chẳng đến nhận chìa khóa.",
+      "style": "tâm tình",
+      "start": 646.912,
+      "end": 651.776,
+      "pre_gap": 0.73
+    },
+    {
+      "id": 125,
+      "group": 39,
+      "scene": "06",
+      "text": "Chiếc Model X đang mở cửa cho khách xem.",
+      "style": "kể",
+      "start": 652.136,
+      "end": 654.136,
+      "pre_gap": 0.36
+    },
+    {
+      "id": 126,
+      "group": 39,
+      "scene": "06",
+      "text": "Còn thứ trị giá hơn một tỷ đô, là phần của Musk trong hãng đã làm ra chiếc xe ấy.",
+      "style": "đáp",
+      "start": 654.576,
+      "end": 658.984,
+      "pre_gap": 0.44
+    }
+  ],
+  "max_pcm": 27249,
+  "mp3_sha256": "4687e67c2a52ef462aeb465b67b5b09a36f695a69ce226bab3380c814da2bbae"
+}

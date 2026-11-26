@@ -1,0 +1,12 @@
+{
+  "source": "direct-user-chat",
+  "author": "human",
+  "messages": [
+    {
+      "role": "user",
+      "text": "RỒI BẠN CÓ THỂ TẠO GIỌNG ĐỌC CHO TÔI NGHE RỒI ĐÓ"
+    }
+  ],
+  "scope": "Lời đọc toàn bộ KICH_BAN.md",
+  "source_sha256": "7c34076db3a94542eac499519d984210dd5635890221721ecceef562a9807c15"
+}
